@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2006-07-06
+Version Consolidée au 2006-10-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-1)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -32,54 +32,55 @@ Version Consolidée au 2006-07-06
           - [Section 2 : Obligation d'honorabilité (art. L212-9 à L212-10)](#29)
           - [Section 3 : Obligation de déclaration d'activité (art. L212-11 à L212-12)](#30)
           - [Section 4 : Police des activités d'enseignement (art. L212-13 à L212-14)](#31)
-      - [TITRE II : SPORTIFS (art. L221-1 à L222-11)](#32)
+      - [TITRE II : SPORTIFS (art. L221-1 à L223-3)](#32)
         - [Chapitre Ier : Sport de haut niveau (art. L221-1 à L221-13)](#33)
         - [Chapitre II : Sport professionnel (art. L222-1 à L222-11)](#34)
-      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. L230-1 à L232-31)](#35)
-        - [Chapitre préliminaire (art. L230-1)](#36)
-        - [Chapitre Ier : Suivi médical des sportifs (art. L231-1 à L231-8)](#37)
-          - [Section 1 : Certificat médical (art. L231-2 à L231-4)](#38)
-          - [Section 2 : Rôle des fédérations sportives (art. L231-5 à L231-8)](#39)
-        - [Chapitre II : Lutte contre le dopage (art. L232-1 à L232-31)](#40)
-          - [Section 1 : Prévention (art. L232-1 à L232-4)](#41)
-          - [Section 2 : Agence française de lutte contre le dopage (art. L232-5 à L232-8)](#42)
-          - [Section 3 : Agissements interdits et contrôles (art. L232-9 à L232-20)](#43)
-          - [Section 4 : Sanctions administratives (art. L232-21 à L232-24)](#44)
-          - [Section 5 : Dispositions pénales (art. L232-25 à L232-31)](#45)
-      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. L241-1 à L241-9)](#46)
-        - [Chapitre unique (art. L241-1 à L241-9)](#47)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. L311-1 à L333-9)](#48)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. L311-1 à L312-17)](#49)
-        - [Chapitre Ier : Sports de nature (art. L311-1 à L311-6)](#50)
-        - [Chapitre II : Equipements sportifs (art. L312-1 à L312-17)](#51)
-          - [Section 1 : Dispositions communes (art. L312-1 à L312-4)](#52)
-          - [Section 2 : Installations fixes (art. L312-5 à L312-11)](#53)
-          - [Section 3 : Installations provisoires (art. L312-12 à L312-13)](#54)
-          - [Section 4 : Dispositions pénales (art. L312-14 à L312-17)](#55)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. L321-1 à L322-9)](#56)
-        - [Chapitre Ier : Obligation d'assurance (art. L321-1 à L321-9)](#57)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. L322-1 à L322-9)](#58)
-          - [Section 1 : Dispositions générales (art. L322-1 à L322-6)](#59)
-          - [Section 2 : Dispositions relatives aux baignades et piscines ouvertes au public (art. L322-7 à L322-9)](#60)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. L331-1 à L333-9)](#61)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. L331-1 à L331-12)](#62)
-          - [Section 1 : Rôle des fédérations (art. L331-1 à L331-4-1)](#63)
-          - [Section 2 : Autorisations préalables (art. L331-5 à L331-8)](#64)
-          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. L331-9 à L331-12)](#65)
-        - [Chapitre II : Sécurité des manifestations sportives (art. L332-1 à L332-21)](#66)
-        - [Chapitre III : Retransmission des manifestations sportives (art. L333-1 à L333-9)](#67)
-          - [Section 1 : Droit d'exploitation (art. L333-1 à L333-5)](#68)
-          - [Section 2 : Liberté de diffusion (art. L333-6 à L333-9)](#69)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. L411-1 à L425-1)](#70)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. L411-1 à L411-2)](#71)
-        - [Chapitre unique (art. L411-1 à L411-2)](#72)
-          - [Section unique : Financements affectés à l'établissement public chargé du développement du sport (art. L411-1 à L411-2)](#73)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. L421-1 à L425-1)](#74)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. L421-1 à L421-3)](#75)
-        - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon (art. L422-1 à L422-3)](#76)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. L423-1)](#77)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. L424-1)](#78)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie. (art. L425-1)](#79)
+        - [Chapitre III : Autres dispositions applicables aux sportifs (art. L223-1 à L223-3)](#35)
+      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. L230-1 à L232-31)](#36)
+        - [Chapitre préliminaire (art. L230-1)](#37)
+        - [Chapitre Ier : Suivi médical des sportifs (art. L231-1 à L231-8)](#38)
+          - [Section 1 : Certificat médical (art. L231-2 à L231-4)](#39)
+          - [Section 2 : Rôle des fédérations sportives (art. L231-5 à L231-8)](#40)
+        - [Chapitre II : Lutte contre le dopage (art. L232-1 à L232-31)](#41)
+          - [Section 1 : Prévention (art. L232-1 à L232-4)](#42)
+          - [Section 2 : Agence française de lutte contre le dopage (art. L232-5 à L232-8)](#43)
+          - [Section 3 : Agissements interdits et contrôles (art. L232-9 à L232-20)](#44)
+          - [Section 4 : Sanctions administratives (art. L232-21 à L232-24)](#45)
+          - [Section 5 : Dispositions pénales (art. L232-25 à L232-31)](#46)
+      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. L241-1 à L241-9)](#47)
+        - [Chapitre unique (art. L241-1 à L241-9)](#48)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. L311-1 à L333-9)](#49)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. L311-1 à L312-17)](#50)
+        - [Chapitre Ier : Sports de nature (art. L311-1 à L311-6)](#51)
+        - [Chapitre II : Equipements sportifs (art. L312-1 à L312-17)](#52)
+          - [Section 1 : Dispositions communes (art. L312-1 à L312-4)](#53)
+          - [Section 2 : Installations fixes (art. L312-5 à L312-11)](#54)
+          - [Section 3 : Installations provisoires (art. L312-12 à L312-13)](#55)
+          - [Section 4 : Dispositions pénales (art. L312-14 à L312-17)](#56)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. L321-1 à L322-9)](#57)
+        - [Chapitre Ier : Obligation d'assurance (art. L321-1 à L321-9)](#58)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. L322-1 à L322-9)](#59)
+          - [Section 1 : Dispositions générales (art. L322-1 à L322-6)](#60)
+          - [Section 2 : Dispositions relatives aux baignades et piscines ouvertes au public (art. L322-7 à L322-9)](#61)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. L331-1 à L333-9)](#62)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. L331-1 à L331-12)](#63)
+          - [Section 1 : Rôle des fédérations (art. L331-1 à L331-4-1)](#64)
+          - [Section 2 : Autorisations préalables (art. L331-5 à L331-8)](#65)
+          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. L331-9 à L331-12)](#66)
+        - [Chapitre II : Sécurité des manifestations sportives (art. L332-1 à L332-21)](#67)
+        - [Chapitre III : Retransmission des manifestations sportives (art. L333-1 à L333-9)](#68)
+          - [Section 1 : Droit d'exploitation (art. L333-1 à L333-5)](#69)
+          - [Section 2 : Liberté de diffusion (art. L333-6 à L333-9)](#70)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. L411-1 à L425-1)](#71)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. L411-1 à L411-2)](#72)
+        - [Chapitre unique (art. L411-1 à L411-2)](#73)
+          - [Section unique : Financements affectés à l'établissement public chargé du développement du sport (art. L411-1 à L411-2)](#74)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. L421-1 à L425-1)](#75)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. L421-1 à L421-3)](#76)
+        - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon (art. L422-1 à L422-3)](#77)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. L423-1)](#78)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. L424-1)](#79)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie. (art. L425-1)](#80)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -3973,9 +3974,81 @@ _Cite_:
   - Code du sport. - art. L222-7 (V)
 
 
-### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=35></a>
+#### Chapitre III : Autres dispositions applicables aux sportifs<a id=35></a>
 
-#### Chapitre préliminaire<a id=36></a>
+###### Article L223-1
+
+Les arbitres et juges exercent leur mission arbitrale en toute indépendance et impartialité, dans le respect des règlements
+édictés par la fédération sportive mentionnée à l'article L. 131-14, compétente pour la discipline et auprès de laquelle ils
+sont licenciés. Cette fédération assure le contrôle de l'exercice de cette mission selon les règles et procédures
+préalablement définies conformément à ses statuts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Créé par_:
+
+  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L311-3 (VD)
+  - Code général des impôts, CGI. - art. 92 (V)
+
+_Cite_:
+
+  - Code du sport. - art. L131-14 (V)
+
+
+###### Article L223-2
+
+Les arbitres et juges sont considérés comme chargés d'une mission de service public au sens des articles 221-4, 222-3, 222-8,
+222-10, 222-12, 222-13 et 433-3 du code pénal et les atteintes dont ils peuvent être les victimes dans l'exercice ou à
+l'occasion de l'exercice de leur mission sont réprimées par les peines aggravées prévues par ces articles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Créé par_:
+
+  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+_Cite_:
+
+  - Code pénal - art. 221-4 (V)
+  - Code pénal - art. 222-3 (V)
+  - Code pénal - art. 433-3 (V)
+
+
+###### Article L223-3
+
+Les arbitres et juges ne peuvent être regardés, dans l'accomplissement de leur mission, comme liés à la fédération par un
+lien de subordination caractéristique du contrat de travail au sens de l'article L. 121-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Créé par_:
+
+  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+_Cite_:
+
+  - Code du travail - art. L121-1 (Ab)
+
+
+### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=36></a>
+
+#### Chapitre préliminaire<a id=37></a>
 
 ###### Article L230-1
 
@@ -4009,7 +4082,7 @@ _Anciens textes_:
   - Code de la santé publique - art. L3611-1 (M)
 
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=37></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=38></a>
 
 ###### Article L231-1
 
@@ -4040,7 +4113,7 @@ _Cité par_:
   - Code de l'éducation - art. L632-1-1 (Ab)
 
 
-##### Section 1 : Certificat médical<a id=38></a>
+##### Section 1 : Certificat médical<a id=39></a>
 
 ###### Article L231-2
 
@@ -4154,7 +4227,7 @@ _Cite_:
   - Code de la défense. - art. L2336-3 (V)
 
 
-##### Section 2 : Rôle des fédérations sportives<a id=39></a>
+##### Section 2 : Rôle des fédérations sportives<a id=40></a>
 
 ###### Article L231-5
 
@@ -4321,9 +4394,9 @@ _Cite_:
   - Code du sport. - art. L232-21 (V)
 
 
-#### Chapitre II : Lutte contre le dopage<a id=40></a>
+#### Chapitre II : Lutte contre le dopage<a id=41></a>
 
-##### Section 1 : Prévention<a id=41></a>
+##### Section 1 : Prévention<a id=42></a>
 
 ###### Article L232-1
 
@@ -4501,7 +4574,7 @@ _Cite_:
   - Code du sport. - art. L232-3 (V)
 
 
-##### Section 2 : Agence française de lutte contre le dopage<a id=42></a>
+##### Section 2 : Agence française de lutte contre le dopage<a id=43></a>
 
 ###### Article L232-5
 
@@ -4759,7 +4832,7 @@ _Cité par_:
   - Code du sport. - art. R232-32 (M)
 
 
-##### Section 3 : Agissements interdits et contrôles<a id=43></a>
+##### Section 3 : Agissements interdits et contrôles<a id=44></a>
 
 ###### Article L232-9
 
@@ -5315,7 +5388,7 @@ _Anciens textes_:
   - Code de la santé publique - art. L3632-6 (Ab)
 
 
-##### Section 4 : Sanctions administratives<a id=44></a>
+##### Section 4 : Sanctions administratives<a id=45></a>
 
 ###### Article L232-21
 
@@ -5546,7 +5619,7 @@ _Cite_:
   - Code du sport. - art. L232-22 (V)
 
 
-##### Section 5 : Dispositions pénales<a id=45></a>
+##### Section 5 : Dispositions pénales<a id=46></a>
 
 ###### Article L232-25
 
@@ -5814,9 +5887,9 @@ _Cite_:
   - Code du sport. - art. L231-6 (V)
 
 
-### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=46></a>
+### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=47></a>
 
-#### Chapitre unique<a id=47></a>
+#### Chapitre unique<a id=48></a>
 
 ###### Article L241-1
 
@@ -6166,11 +6239,11 @@ _Cité par_:
   - Code du sport. - art. L241-4 (VD)
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=48></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=49></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=49></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=50></a>
 
-#### Chapitre Ier : Sports de nature<a id=50></a>
+#### Chapitre Ier : Sports de nature<a id=51></a>
 
 ###### Article L311-1
 
@@ -6346,9 +6419,9 @@ _Cité par_:
   - Code du sport. - art. L421-1 (VD)
 
 
-#### Chapitre II : Equipements sportifs<a id=51></a>
+#### Chapitre II : Equipements sportifs<a id=52></a>
 
-##### Section 1 : Dispositions communes<a id=52></a>
+##### Section 1 : Dispositions communes<a id=53></a>
 
 ###### Article L312-1
 
@@ -6454,7 +6527,7 @@ _Codifié par_:
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
-##### Section 2 : Installations fixes<a id=53></a>
+##### Section 2 : Installations fixes<a id=54></a>
 
 ###### Article L312-5
 
@@ -6603,7 +6676,7 @@ _Cite_:
   - Code de l'urbanisme - art. L445-1 (V)
 
 
-##### Section 3 : Installations provisoires<a id=54></a>
+##### Section 3 : Installations provisoires<a id=55></a>
 
 ###### Article L312-12
 
@@ -6666,7 +6739,7 @@ _Cite_:
   - Code du sport. - art. L312-12 (V)
 
 
-##### Section 4 : Dispositions pénales<a id=55></a>
+##### Section 4 : Dispositions pénales<a id=56></a>
 
 ###### Article L312-14
 
@@ -6763,9 +6836,9 @@ _Cite_:
   - Code du sport. - art. L312-14 (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=56></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=57></a>
 
-#### Chapitre Ier : Obligation d'assurance<a id=57></a>
+#### Chapitre Ier : Obligation d'assurance<a id=58></a>
 
 ###### Article L321-1
 
@@ -7004,9 +7077,9 @@ _Codifié par_:
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=58></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=59></a>
 
-##### Section 1 : Dispositions générales<a id=59></a>
+##### Section 1 : Dispositions générales<a id=60></a>
 
 ###### Article L322-1
 
@@ -7197,7 +7270,7 @@ _Cite_:
   - Code de la santé publique - art. L3335-4 (M)
 
 
-##### Section 2 : Dispositions relatives aux baignades et piscines ouvertes au public<a id=60></a>
+##### Section 2 : Dispositions relatives aux baignades et piscines ouvertes au public<a id=61></a>
 
 ###### Article L322-7
 
@@ -7266,11 +7339,11 @@ _Cite_:
   - Code de la santé publique - art. L1337-1 (V)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=61></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=62></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=62></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=63></a>
 
-##### Section 1 : Rôle des fédérations<a id=63></a>
+##### Section 1 : Rôle des fédérations<a id=64></a>
 
 ###### Article L331-1
 
@@ -7402,7 +7475,7 @@ _Créé par_:
   - Loi n°2006-784 du 5 juillet 2006 - art. 1 () JORF 6 juillet 2006
 
 
-##### Section 2 : Autorisations préalables<a id=64></a>
+##### Section 2 : Autorisations préalables<a id=65></a>
 
 ###### Article L331-5
 
@@ -7513,7 +7586,7 @@ _Cite_:
   - Code de la route. - art. L411-7 (V)
 
 
-##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=65></a>
+##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=66></a>
 
 ###### Article L331-9
 
@@ -7618,7 +7691,7 @@ _Cite_:
   - Code du sport. - art. L331-9 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=66></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=67></a>
 
 ###### Article L332-1
 
@@ -8262,9 +8335,9 @@ _Cite_:
   - Code du sport. - art. L332-19 (V)
 
 
-#### Chapitre III : Retransmission des manifestations sportives<a id=67></a>
+#### Chapitre III : Retransmission des manifestations sportives<a id=68></a>
 
-##### Section 1 : Droit d'exploitation<a id=68></a>
+##### Section 1 : Droit d'exploitation<a id=69></a>
 
 ###### Article L333-1
 
@@ -8401,7 +8474,7 @@ _Cité par_:
   - Code du sport. - art. L422-1 (V)
 
 
-##### Section 2 : Liberté de diffusion<a id=69></a>
+##### Section 2 : Liberté de diffusion<a id=70></a>
 
 ###### Article L333-6
 
@@ -8527,13 +8600,13 @@ _Cité par_:
   - Code du sport. - art. L425-1 (V)
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=70></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=71></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=71></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=72></a>
 
-#### Chapitre unique<a id=72></a>
+#### Chapitre unique<a id=73></a>
 
-##### Section unique : Financements affectés à l'établissement public chargé du développement du sport<a id=73></a>
+##### Section unique : Financements affectés à l'établissement public chargé du développement du sport<a id=74></a>
 
 ###### Article L411-1
 
@@ -8578,9 +8651,9 @@ _Codifié par_:
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=74></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=75></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=75></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=76></a>
 
 ###### Article L421-1
 
@@ -8627,7 +8700,7 @@ _Codifié par_:
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
-#### Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=76></a>
+#### Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=77></a>
 
 ###### Article L422-1
 
@@ -8667,7 +8740,7 @@ _Codifié par_:
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=77></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=78></a>
 
 ###### Article L423-1
 
@@ -8685,7 +8758,7 @@ _Cite_:
   - Code du sport. - art. L333-9 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=78></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=79></a>
 
 ###### Article L424-1
 
@@ -8702,7 +8775,7 @@ _Cite_:
   - Code du sport. - art. L333-9 (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie.<a id=79></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie.<a id=80></a>
 
 ###### Article L425-1
 
