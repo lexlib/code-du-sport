@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2006-10-24
+Version Consolidée au 2006-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-1)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -854,7 +854,8 @@ _Cite_:
 
 ###### Article L122-5
 
-Le capital de la société anonyme à objet sportif est composé d'actions nominatives.
+Le capital de la société anonyme à objet sportif est composé d'actions nominatives. Toutefois, il peut être composé d'actions
+au porteur lorsque la société fait appel public à l'épargne.
 
 Les membres élus des organes de direction de cette société ne peuvent recevoir aucune rémunération au titre de leurs
 fonctions. Le remboursement des frais est autorisé, sur justification.
@@ -871,15 +872,20 @@ _Codifié par_:
 
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+
 
 ###### Article L122-6
 
 L'association sportive doit détenir au moins un tiers du capital social et des droits de vote à l'assemblée générale de la
 société anonyme à objet sportif qu'elle a créée.
 
-Sauf en cas de succession ou de liquidation de communauté de biens entre époux, l'autorité administrative peut s'opposer à
-toute cession de titres conférant un droit de vote ou donnant accès au capital d'une société anonyme à objet sportif dont les
-conditions ou les effets seraient contraires aux dispositions de la présente section.
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou lorsque la société intéressée fait appel
+public à l'épargne, l'autorité administrative peut s'opposer à toute cession de titres conférant un droit de vote ou donnant
+accès au capital d'une société anonyme à objet sportif dont les conditions ou les effets seraient contraires aux dispositions
+de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -892,6 +898,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
 
 
 ###### Article L122-7
@@ -918,7 +928,11 @@ _Cite_:
 
 ###### Article L122-8
 
-Les sociétés anonymes mentionnées à l'article L. 122-2 ne peuvent pas faire appel publiquement à l'épargne.
+En vue de l'émission ou de la cession dans le public d'instruments financiers donnant accès au capital ou aux droits de vote,
+les sociétés anonymes mentionnées à l'article L. 122-2 sont tenues d'insérer dans le document prévu par l'article L. 412-1 du
+code monétaire et financier les informations relatives à leur projet de développement d'activités sportives et d'acquisition
+d'actifs destinés à renforcer leur stabilité et leur pérennité, tels que la détention d'un droit réel sur les équipements
+sportifs utilisés pour l'organisation des manifestations ou compétitions sportives auxquelles elles participent.
 
 **Liens relatifs à cet article**
 
@@ -932,9 +946,14 @@ _Codifié par_:
 
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+
 _Cite_:
 
   - Code du sport. - art. L122-2 (V)
+  - Code monétaire et financier - art. L412-1 (V)
 
 
 ###### Article L122-9
@@ -967,7 +986,10 @@ _Codifié par_:
 
 Le bénéfice, au sens de l'article L. 232-11 du code de commerce, de l'entreprise unipersonnelle sportive à responsabilité
 limitée et de la société anonyme à objet sportif est affecté à la constitution de réserves qui ne peuvent donner lieu à
-aucune distribution.
+aucune distribution. 
+
+Par exception aux dispositions du premier alinéa, les sociétés anonymes à objet sportif qui font appel public à l'épargne
+peuvent distribuer leurs bénéfices.
 
 **Liens relatifs à cet article**
 
@@ -981,9 +1003,13 @@ _Codifié par_:
 
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
+_Modifié par_:
+
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+
 _Cite_:
 
-  - Code de commerce. - art. L232-11 (M)
+  - Code de commerce. - art. L232-11 (V)
 
 
 ###### Article L122-11
