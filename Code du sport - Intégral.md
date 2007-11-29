@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2007-09-28
+Version Consolidée au 2007-11-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-11)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -30126,13 +30126,13 @@ intéressés.
 
 L'avis d'appel à candidatures contient des informations relatives au contenu et à l'échéance des contrats en cours portant
 sur les autres droits d'exploitation audiovisuelle. Il précise également le calendrier de la procédure d'attribution et les
-modalités d'ouverture des offres des différents candidats.
+modalités d'ouverture des offres des différents candidats. 
 
 Les droits sont offerts en plusieurs lots distincts dont le nombre et la constitution doivent tenir compte des
-caractéristiques objectives des marchés sur lesquels ils sont proposés à l'achat.
+caractéristiques objectives des marchés sur lesquels ils sont proposés à l'achat. 
 
 Chaque lot est attribué au candidat dont la proposition est jugée la meilleure au regard de critères préalablement définis
-dans l'avis d'appel à candidatures. Les contrats sont conclus pour une durée qui ne peut excéder trois ans.
+dans l'avis d'appel à candidatures. Les contrats sont conclus pour une durée qui ne peut excéder quatre ans. 
 
 La ligue doit rejeter les propositions d'offres globales ou couplées ainsi que celles qui sont assorties d'un complément de
 prix.
@@ -30141,12 +30141,11 @@ prix.
 
 _Anciens textes_:
 
-  - Art. 3 du décret n°2004-699 du 15 juillet 2004 pris pour l'application de l'article 18-1 de la loi n°84-610 du 16 juillet 1984 et relatif à la commercialisation par les ligues professionnelles des droits d'exploitation audiovisuelle des compétition
   - Décret n°2004-699 du 15 juillet 2004 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1676 du 28 novembre 2007 - art. 1
 
 _Cite_:
 
