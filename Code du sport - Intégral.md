@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-04-30
+Version Consolidée au 2008-05-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-11)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -34,7 +34,7 @@ Version Consolidée au 2008-04-30
           - [Section 4 : Police des activités d'enseignement (art. L212-13 à L212-14)](#31)
       - [TITRE II : SPORTIFS (art. L221-1 à L223-3)](#32)
         - [Chapitre Ier : Sport de haut niveau (art. L221-1 à L221-13)](#33)
-        - [Chapitre II : Sport professionnel (art. L222-1 à L222-11)](#34)
+        - [Chapitre II : Sport professionnel (art. L222-1 à L222-12)](#34)
         - [Chapitre III : Autres dispositions applicables aux sportifs (art. L223-1 à L223-3)](#35)
       - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. L230-1 à L232-31)](#36)
         - [Chapitre préliminaire (art. L230-1)](#37)
@@ -996,8 +996,8 @@ _Cite_:
 
 Les dirigeants d'une association sportive, titulaires d'une licence délivrée par une fédération agréée, qui, à titre
 bénévole, remplissent des fonctions de gestion et d'encadrement au sein de leur fédération ou d'une association qui lui est
-affiliée peuvent bénéficier de congés, dans les conditions fixées à l'article L. 931-1 du code du travail, afin de suivre la
-formation liée à leur fonction de bénévoles.
+affiliée peuvent bénéficier de congés, dans les conditions fixées aux articles L. 6322-1 à L. 6322-3 du code du travail, afin
+de suivre la formation liée à leur fonction de bénévoles.
 
 **Liens relatifs à cet article**
 
@@ -1005,13 +1005,14 @@ _Anciens textes_:
 
   - Loi n°84-610 du 16 juillet 1984 - art. 45-1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L931-1 (Ab)
+  - Code du travail - art. L6322-1 (V)
+  - Code du travail - art. L6322-3 (V)
 
 
 ##### Section 2 : Associations sportives sur le lieu de travail<a id=11></a>
@@ -1040,21 +1041,20 @@ _Codifié par_:
 
 ###### Article L121-7
 
-Dans les établissements mentionnés à l'article L. 431-1 du code du travail et dans le cadre des activités sociales et
-culturelles prévues à l'article L. 432-8 du même code, le comité d'entreprise assure ou contrôle la gestion des activités
-physiques ou sportives.A ce titre, il peut décider de contribuer au financement de ces activités pour favoriser leur
-développement.
+Dans les établissements mentionnés à l'article L. 2321-1 et L. 2322-1 à L. 2322-4 du code du travail et dans le cadre des
+activités sociales et culturelles prévues à l'article L. 2323-83 et L. 2323-87 du même code, le comité d'entreprise assure ou
+contrôle la gestion des activités physiques ou sportives.A ce titre, il peut décider de contribuer au financement de ces
+activités pour favoriser leur développement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-610 1984-07-16 art. 20, alinéas 1 et 6
   - Loi n°84-610 du 16 juillet 1984 - art. 20 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cité par_:
 
@@ -1062,8 +1062,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L431-1 (Ab)
-  - Code du travail - art. L432-8 (Ab)
+  - Code du travail - art. L2321-1 (V)
+  - Code du travail - art. L2322-1 (V)
+  - Code du travail - art. L2322-4 (V)
+  - Code du travail - art. L2323-83 (V)
+  - Code du travail - art. L2323-87 (V)
 
 
 ###### Article L121-8
@@ -1099,22 +1102,25 @@ _Cité par_:
 ###### Article L121-9
 
 En l'absence de comité d'entreprise, les missions mentionnées aux articles L. 121-7 et L. 121-8 sont assurées par les
-délégués du personnel conjointement avec le chef d'entreprise, en application de l'article L. 422-5 du code du travail.
+délégués du personnel conjointement avec le chef d'entreprise, en application des articles L. 2313-15 et L. 2313-16 du code
+du travail.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-610 1984-07-16 art. 20, alinéas 2 et 7
   - Loi n°84-610 du 16 juillet 1984 - art. 20 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L422-5 (Ab)
+  - Code du sport. - art. L121-7 (V)
+  - Code du sport. - art. L121-8 (V)
+  - Code du travail - art. L2313-15 (V)
+  - Code du travail - art. L2313-16 (V)
 
 
 #### Chapitre II : Sociétés sportives<a id=12></a>
@@ -2814,8 +2820,8 @@ La convention détermine la durée, le niveau et les modalités de la formation.
 
 Elle prévoit qu'à l'issue de la formation, s'il entend exercer à titre professionnel la discipline sportive à laquelle il a
 été formé, le bénéficiaire de la formation peut être dans l'obligation de conclure, avec l'association ou la société dont
-relève le centre, un contrat de travail défini au 3° de l'article L. 122-1-1 du code du travail, dont la durée ne peut
-excéder trois ans. 
+relève le centre, un contrat de travail défini au 3° de l'article L. 1242-2 du code du travail, dont la durée ne peut excéder
+trois ans. 
 
 Si l'association ou la société sportive ne lui propose pas de contrat de travail, elle est tenue d'apporter à l'intéressé une
 aide à l'insertion scolaire ou professionnelle, dans les conditions prévues par la convention. 
@@ -2827,7 +2833,6 @@ Conseil d'Etat, conformément à des stipulations types.
 
 _Anciens textes_:
 
-  - Loi n°84-610 1984-07-16 art. 15-4, alinéas 2 à 5
   - Loi n°84-610 du 16 juillet 1984 - art. 15-4 (Ab)
 
 _Cité par_:
@@ -2846,14 +2851,14 @@ _Cité par_:
   - Code du sport. - art. R211-100 (V)
   - Code du sport. - art. R211-91 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
   - Code du sport. - art. L211-4 (V)
-  - Code du travail - art. L122-1-1 (Ab)
+  - Code du travail - art. L1242-2 (V)
 
 
 ###### Article L211-6
@@ -4062,24 +4067,24 @@ _Anciens textes_:
 
 ###### Article L222-3
 
-Les dispositions de l'article L. 125-3 du code du travail ne sont pas applicables à l'opération mentionnée à cet article
-lorsqu'elle concerne le salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2 et L. 122-12 du
-présent code mis à disposition de la fédération sportive délégataire intéressée en qualité de membre d'une équipe de France,
-dans des conditions définies par la convention conclue entre ladite fédération et la ligue professionnelle qu'elle a
-constituée, et alors qu'il conserve pendant la période de mise à disposition sa qualité de salarié de l'association ou de la
-société sportive ainsi que les droits attachés à cette qualité.
+Les dispositions des articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée à
+cet article lorsqu'elle concerne le salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2 et
+L. 122-12 du présent code mis à disposition de la fédération sportive délégataire intéressée en qualité de membre d'une
+équipe de France, dans des conditions définies par la convention conclue entre ladite fédération et la ligue professionnelle
+qu'elle a constituée, et alors qu'il conserve pendant la période de mise à disposition sa qualité de salarié de l'association
+ou de la société sportive ainsi que les droits attachés à cette qualité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
   - Code du sport. - art. L122-12 (V)
   - Code du sport. - art. L122-2 (V)
-  - Code du travail - art. L125-3 (Ab)
+  - Code du travail - art. L8241-2 (V)
 
 _Cité par_:
 
@@ -4089,19 +4094,18 @@ _Cité par_:
 _Anciens textes_:
 
   - Code du travail - art. L785-2 (Ab)
-  - rt.
 
 
 ###### Article L222-4
 
-Le versement prévu à l'article L. 931-20 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu, en
-application du 3° de l'article L. 122-1-1 du code du travail, dans le secteur d'activité du sport professionnel.
+Le versement prévu à l'article L. 6322-37 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu, en
+application du 3° de l'article L. 1242-2 du code du travail, dans le secteur d'activité du sport professionnel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Anciens textes_:
 
@@ -4109,26 +4113,33 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du travail - art. L122-1-1 (Ab)
-  - Code du travail - art. L931-20 (Ab)
+  - Code du travail - art. L1242-2 (V)
+  - Code du travail - art. L6322-37 (V)
 
 
 ###### Article L222-5
 
+Les dispositions des articles L. 7124-9 à L. 7124-12 du code du travail s'appliquent aux rémunérations de toute nature
+perçues pour l'exercice d'une activité sportive par des enfants de seize ans et moins soumis à l'obligation scolaire. 
+
 La conclusion d'un contrat relatif à l'exercice d'une activité sportive par un mineur ne donne lieu à aucune rémunération ou
-indemnité ni à l'octroi de quelque avantage que ce soit au bénéfice :
+indemnité ni à l'octroi de quelque avantage que ce soit au bénéfice : 
 
 1° D'une personne exerçant l'activité définie au premier alinéa de l'article L. 222-6 ;
 
-2° D'une association sportive ou d'une société sportive ;
+2° D'une association sportive ou d'une société sportive ; 
 
-3° Ou de toute personne agissant au nom et pour le compte du mineur.
+3° Ou de toute personne agissant au nom et pour le compte du mineur. 
 
 Toute convention contraire aux dispositions du présent article est nulle.
 
 **Nota:**
 
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
 
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -4154,6 +4165,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance 2007-329 2007-03-12 art. 10 1° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code du travail - art. L7124-9 (V)
 
 
 ###### Article L222-6
@@ -4385,6 +4404,41 @@ _Cite_:
   - Code du sport. - art. L222-7 (V)
 
 
+###### Article L222-12
+
+Les infractions aux règles de rémunération mentionnées au premier alinéa de l'article L. 222-5 sont punies des peines prévues
+par les articles L. 7124-27 et L. 7124-34 du code du travail.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+_Créé par_:
+
+  - Ordonnance 2007-329 2007-03-12 art. 10 2° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code du sport. - art. L222-5 (V)
+  - Code du travail - art. L7124-27 (V)
+
+_Cité par_:
+
+  - Code du sport. - art. R222-10 (V)
+  - Code du sport. - art. R222-39 (V)
+  - Code du sport. - art. R222-40 (V)
+
+
 #### Chapitre III : Autres dispositions applicables aux sportifs<a id=35></a>
 
 ###### Article L223-1
@@ -4440,21 +4494,18 @@ _Cite_:
 ###### Article L223-3
 
 Les arbitres et juges ne peuvent être regardés, dans l'accomplissement de leur mission, comme liés à la fédération par un
-lien de subordination caractéristique du contrat de travail au sens de l'article L. 121-1 du code du travail.
+lien de subordination caractéristique du contrat de travail au sens des articles L. 1221-1 et L. 1221-3 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-_Créé par_:
-
-  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L121-1 (Ab)
+  - Code du travail - art. L1221-1 (V)
+  - Code du travail - art. L1221-3 (V)
 
 
 ### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=36></a>
@@ -4686,14 +4737,8 @@ assurés dans le cadre de cette surveillance.
 Les résultats de ces examens sont mentionnés dans le livret prévu à l'article L. 231-7 du présent code. 
 
 Cette surveillance médicale ne dispense pas les employeurs des sportifs professionnels titulaires d'un contrat de travail au
-titre du 3° de l'article L. 122-1-1 du code du travail de satisfaire aux obligations qui leur incombent en application du
+titre du 3° de l'article L. 1242-2 du code du travail de satisfaire aux obligations qui leur incombent en application du
 titre IV du livre II du même code.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
 
 **Liens relatifs à cet article**
 
@@ -4710,14 +4755,13 @@ _Cité par_:
   - Code du sport. - art. Annexe II-2 (art R232-86) (M)
   - Code du sport. - art. D221-20 (V)
   - Code du sport. - art. L231-3 (V)
-  - Code du sport. - art. L231-7 (V)
   - Code du sport. - art. L232-31 (V)
   - Code du sport. - art. R221-20 (V)
   - Code du sport. - art. R231-3 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Anciens textes_:
 
@@ -4726,7 +4770,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code du sport. - art. L221-2 (V)
-  - Code du travail - art. L122-1-1 (Ab)
+  - Code du sport. - art. L231-7 (V)
+  - Code du travail - art. L1242-2 (V)
 
 
 ###### Article L231-7
