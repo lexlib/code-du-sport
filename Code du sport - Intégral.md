@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-08-20
+Version Consolidée au 2008-11-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -456,32 +456,31 @@ Version Consolidée au 2008-08-20
               - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#453)
               - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#454)
             - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#455)
-            - [Sous-section 4  Disposition particulières pour les manifestations  de véhicules terrestres à moteur (art.  à A331-21)](#456)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#457)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#458)
-            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#459)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#460)
-          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#461)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#462)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#463)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A425-5)](#464)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#465)
-        - [Chapitre unique (art. A411-1 à A411-7)](#466)
-          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#467)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A425-5)](#468)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#469)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#470)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#471)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#472)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#473)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-25)](#474)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-9 aux articles R322-32 et R322-35)](#475)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#476)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#477)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-9 aux articles R322-32 et R322-35)](#478)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-25)](#479)
-      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#480)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-25)](#481)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#456)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#457)
+            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#458)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#459)
+          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#460)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#461)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#462)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A425-5)](#463)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#464)
+        - [Chapitre unique (art. A411-1 à A411-7)](#465)
+          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#466)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A425-5)](#467)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#468)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#469)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#470)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#471)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#472)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-25)](#473)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-9 aux articles R322-32 et R322-35)](#474)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#475)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#476)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-9 aux articles R322-32 et R322-35)](#477)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-25)](#478)
+      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#479)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-25)](#480)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -31920,8 +31919,6 @@ Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua. 
 
-Fédération française de football : Foot. 
-
 Fédération française de giraviation : Le Colibri. 
 
 Fédération française de gymnastique : l'Officiel du gymnaste. 
@@ -31993,13 +31990,13 @@ Fédération française de vol libre : Vol passion.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 29 octobre 2008 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. R131-36 (V)
+  - Code du sport. - art. R131-36
 
 
 ###### Article A131-2
@@ -46913,9 +46910,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4  Disposition particulières pour les manifestations  de véhicules terrestres à moteur<a id=456></a>
-
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=457></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=456></a>
 
 ###### Article A331-22
 
@@ -46969,9 +46964,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=458></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=457></a>
 
-##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=459></a>
+##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=458></a>
 
 ###### Article A331-24
 
@@ -47013,7 +47008,7 @@ _Cite_:
   - Code du sport. - art. R331-10
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=460></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=459></a>
 
 ###### Article A331-32
 
@@ -47036,7 +47031,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe<a id=461></a>
+##### Section 4 : Organisation de manifestations publiques de boxe<a id=460></a>
 
 ###### Article A331-33
 
@@ -47143,9 +47138,9 @@ _Cité par_:
   - Code du sport. - art. A331-34 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=462></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=461></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=463></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=462></a>
 
 ###### Article A331-37
 
@@ -47240,13 +47235,13 @@ _Créé par_:
   - Arrêté du 4 août 2008 - art. 5
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=464></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=463></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=465></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=464></a>
 
-#### Chapitre unique<a id=466></a>
+#### Chapitre unique<a id=465></a>
 
-##### Section 2 : Organisation et fonctionnement<a id=467></a>
+##### Section 2 : Organisation et fonctionnement<a id=466></a>
 
 ###### Article A411-1
 
@@ -47401,9 +47396,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=468></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=467></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=469></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=468></a>
 
 ###### Article A421-1
 
@@ -47522,7 +47517,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=470></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=469></a>
 
 ###### Article A422-1
 
@@ -47555,7 +47550,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=471></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=470></a>
 
 ###### Article A423-1
 
@@ -47670,7 +47665,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=472></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=471></a>
 
 ###### Article A424-1
 
@@ -47771,7 +47766,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=473></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=472></a>
 
 ###### Article A425-1
 
@@ -47896,11 +47891,11 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-# ANNEXES<a id=474></a>
+# ANNEXES<a id=473></a>
 
-## Annexes partie réglementaire - Décrets<a id=475></a>
+## Annexes partie réglementaire - Décrets<a id=474></a>
 
-### Annexes I<a id=476></a>
+### Annexes I<a id=475></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -49228,7 +49223,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=477></a>
+### Annexes II<a id=476></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -50436,7 +50431,7 @@ _Cite_:
   - Code du sport. - art. R241-14
 
 
-### Annexes III<a id=478></a>
+### Annexes III<a id=477></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -51056,9 +51051,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VT)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=479></a>
+## Annexes partie réglementaire - Arrêtés<a id=478></a>
 
-### Annexes II<a id=480></a>
+### Annexes II<a id=479></a>
 
 ###### Article Annexe II-1 (art. A212-1)
 
@@ -59076,7 +59071,7 @@ _Cité par_:
   - Code du sport. - art. A222-14 (Ab)
 
 
-### Annexes III<a id=481></a>
+### Annexes III<a id=480></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
