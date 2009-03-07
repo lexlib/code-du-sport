@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-01-14
+Version Consolidée au 2009-03-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -9079,30 +9079,29 @@ _Cite_:
 
 La cession du droit d'exploitation d'une manifestation ou d'une compétition sportive à un service de communication au public
 par voie électronique ne peut faire obstacle à l'information du public par les autres services de communication au public par
-voie électronique.
+voie électronique. 
 
 Le vendeur ou l'acquéreur de ce droit ne peut s'opposer à la diffusion, par d'autres services de communication au public par
 voie électronique, de brefs extraits prélevés à titre gratuit parmi les images du ou des services cessionnaires et librement
-choisis par le service non cessionnaire du droit d'exploitation qui les diffuse.
+choisis par le service non cessionnaire du droit d'exploitation qui les diffuse. 
 
-Ces extraits sont diffusés gratuitement au cours des émissions d'information.
+Ces extraits sont diffusés gratuitement au cours des émissions d'information. 
 
 Leur diffusion s'accompagne dans tous les cas d'une identification suffisante du service de communication au public par voie
-électronique cessionnaire du droit d'exploitation de la manifestation ou de la compétition.
+électronique cessionnaire du droit d'exploitation de la manifestation ou de la compétition. 
 
 La cession du droit d'exploitation d'une manifestation ou d'une compétition sportive à un service de communication au public
 par voie électronique ne fait pas obstacle à la réalisation et à la diffusion gratuite par tout service de radiodiffusion
 sonore, sur tout ou partie du territoire, en direct ou en différé, du commentaire oral de cette manifestation ou de cette
-compétition.
+compétition. 
 
-Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel fixe, en tant que de besoin, les
-conditions d'application du présent article.
+Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel fixe       les conditions d'application du
+présent article.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-610 du 16 juillet 1984 - art. 18-2 (M)
   - Loi n°84-610 du 16 juillet 1984 - art. 18-2 (Ab)
 
 _Cité par_:
@@ -9110,9 +9109,9 @@ _Cité par_:
   - Loi n°86-1067 du 30 septembre 1986 - art. 20-4 (V)
   - Code du sport. - art. R333-4 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Loi n°2009-258 du 5 mars 2009 - art. 45
 
 
 ###### Article L333-8
