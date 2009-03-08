@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-03-08
+Version Consolidée au 2009-03-09
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -139,7 +139,7 @@ Version Consolidée au 2009-03-08
             - [Sous-section 4 : Fonctionnement. (art. R142-14 à R142-19)](#136)
             - [Sous-section 5 : Procédure d'élaboration des règlements relatifs aux équipements sportifs. (art. R142-20 à R142-25)](#137)
           - [Section 2 : Le Conseil supérieur des sports de montagne (art. D142-26 à D142-31)](#138)
-          - [Section 3 : La Commission consultative des arts martiaux. (art. D142-32)](#139)
+          - [Section 3 : La commission consultative des arts martiaux et des sports de combat (art. D142-32)](#139)
     - [LIVRE II : ACTEURS DU SPORT (art. D211-1 à R241-26)](#140)
       - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. D211-1 à D212-95)](#141)
         - [Chapitre Ier : Formation aux professions du sport (art. D211-1 à R211-100)](#142)
@@ -14884,25 +14884,30 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 3 : La Commission consultative des arts martiaux.<a id=139></a>
+##### Section 3 : La commission consultative des arts martiaux et des sports de combat<a id=139></a>
 
 ###### Article D142-32
 
-La Commission consultative des arts martiaux comprend des représentants des fédérations sportives intéressées et de l'Etat,
-dont la composition est arrêtée par le ministre chargé des sports. Cette commission est compétente pour donner son avis au
-ministre chargé des sports sur toutes les questions techniques, déontologiques, administratives et de sécurité se rapportant
-aux disciplines considérées et assimilées.
+La commission consultative des arts martiaux et des sports de combat comprend des représentants de l'Etat, des fédérations
+sportives agréées intéressées ainsi que des personnalités qualifiées. Sa composition est définie par un arrêté du ministre
+chargé des sports. 
+
+Cette commission est compétente pour donner son avis sur toutes les questions techniques, déontologiques, administratives et
+de sécurité se rapportant aux disciplines concernées ou assimilées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 4 de l'article 17-2 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des validités physiques et sportives
   - Loi n°84-610 du 16 juillet 1984 - art. 17-2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-265 du 6 mars 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-420 du 23 mai 2013 - art. 60 (V)
 
 
 ## LIVRE II : ACTEURS DU SPORT<a id=140></a>
