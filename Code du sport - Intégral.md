@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-08-16
+Version Consolidée au 2009-08-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -153,8 +153,8 @@ Version Consolidée au 2009-08-16
               - [Paragraphe 2 : Fonctionnement (art. D211-38 à D211-46)](#150)
               - [Paragraphe 3 : Régime comptable et financier (art. D211-47 à R211-48)](#151)
               - [Paragraphe 4 : Personnel (art. D211-52)](#152)
-            - [Sous-section 4 : L'Ecole nationale de ski et d'alpinisme (art. D211-53 à D211-68)](#153)
-              - [Paragraphe 1 : Missions (art. D211-53)](#154)
+            - [Sous-section 4 : L'Ecole nationale de ski et d'alpinisme (art. D211-52-1 à D211-68)](#153)
+              - [Paragraphe 1 : Missions (art. D211-52-1 à D211-53)](#154)
               - [Paragraphe 2 : Fonctionnement (art. D211-54 à D211-62)](#155)
               - [Paragraphe 3 : Régime comptable et financier (art. D211-63 à R211-64)](#156)
               - [Paragraphe 4 : Personnel (art. D211-68)](#157)
@@ -15447,6 +15447,22 @@ _Codifié par_:
 ##### Sous-section 4 : L'Ecole nationale de ski et d'alpinisme<a id=153></a>
 
 ##### Paragraphe 1 : Missions<a id=154></a>
+
+###### Article D211-52-1
+
+L'Ecole nationale de ski et d'alpinisme a son siège à Chamonix (Haute-Savoie). Elle comprend également le Centre national de
+ski nordique, installé à Prémanon (Jura).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1070 du 28 août 2009 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+
 
 ###### Article D211-53
 
