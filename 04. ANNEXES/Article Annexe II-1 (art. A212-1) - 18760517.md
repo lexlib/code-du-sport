@@ -11,17 +11,19 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+<font size="1">INTITULÉ DU DIPLÔME 
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE</font>
 
 </th>
     </tr>
@@ -303,19 +305,22 @@ C.-Diplômes délivrés par le ministère chargé des sports
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+<font size="1">INTITULÉ DU DIPLÔME 
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <td align="center" colspan="3">
@@ -2243,7 +2248,7 @@ Mentions plurivalentes de la spécialité " activités nautiques "
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe A 
 
@@ -2414,7 +2419,7 @@ Pour tout public et sur tout lieu de pratique de l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E 
 
@@ -2438,7 +2443,7 @@ Activités du ski nautique (bi ski, wakeboard), pour tout public et sur tout lie
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F 
 
@@ -2524,7 +2529,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités nautiques " 
 
@@ -2766,7 +2771,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité " activités nautiques " 
 
@@ -2932,7 +2937,7 @@ Encadrement, animation et initiation d'activités de pêche sportive en eau douc
       <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " pêche de loisir " 
 
@@ -2961,9 +2966,9 @@ BP JEPS, spécialité "sport automobile".
       </td><td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
-Mentions de la spécialité  " sport automobile " 
+Mentions de la spécialité " sport automobile " 
 
 </td>
     </tr>
@@ -3201,7 +3206,7 @@ Conduite de cycles d'apprentissage en skateboard.
       <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité " activités physiques pour tous " 
 
@@ -3363,7 +3368,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".
       </td><td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité " activités gymniques de la forme et de la force " 
 
@@ -3423,7 +3428,7 @@ plateau.
       <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités gymniques de la forme et de la force " 
 
@@ -3781,7 +3786,7 @@ BP JEPS, spécialité "vol libre".
       </td><td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité " vol libre " 
 
@@ -3828,7 +3833,7 @@ auprès de tous publics et d'activités aquagym. Surveillance des baignades et d
       <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités aquatique " du BP JEPS 
 
@@ -3979,72 +3984,77 @@ Enseignement, animation, encadrement de l'activité visée par la mention consid
 (*) Normes de classement des sites itinéraires d'escalade (Fédération française de la montagne et de l'escalade / FFME) en
 vigueur au 17 juillet 2007.
 
-D.-Titres délivrés par le ministère chargé de la défense 
+D. - Titres à finalité professionnelle
+
+D-1. Titres à finalité professionnelle délivrés par le ministère chargé de la défense
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+<font size="1">INTITULÉ DU TITRE
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <td align="center">
 
-Aide-moniteur d'entraînement physique, militaire et sportif. 
+Aide-moniteur d'entraînement physique, militaire et sportif.
 
 </td>
       <td align="center">
 
-Participation à l'animation des activités physiques ou sportives. 
+Participation à l'animation des activités physiques ou sportives.
 
 </td>
       <td align="center">
 
-Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. 
+Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Moniteur d'entraînement physique, militaire et sportif. 
+Moniteur d'entraînement physique, militaire et sportif.
 
 </td>
       <td align="center">
 
 Animation auprès de tous publics des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de
-développement et de maintien des capacités physiques individuelles. 
+développement et de maintien des capacités physiques individuelles.
 
 </td>
       <td align="center">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
-handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. 
+handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Moniteur-chef d'entraînement physique, militaire et sportif. 
+Moniteur-chef d'entraînement physique, militaire et sportif.
 
 </td>
       <td align="center">
 
-Encadrement et coordination auprès de tous publics des activités physiques ou sportives. 
+Encadrement et coordination auprès de tous publics des activités physiques ou sportives.
 
 </td>
       <td align="center">
@@ -4057,28 +4067,88 @@ handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psy
   </tbody>
 </table>
 
-E.-Certificats de qualification délivrés par les branches professionnelles 
-
-E-1. Certificats de qualification délivrés par la Commission paritaire nationale 
-
-de l'emploi des entreprises équestres (CPNE-EE) 
+D-2. Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+<font size="1">INTITULÉ DU TITRE
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE
+
+</font>
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Animateur poney.
+
+</td>
+      <td align="center">
+
+Initiation au poney dans tout établissement.
+
+</td>
+      <td align="center">
+
+Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option  équitation-activités équestres , ou
+du brevet d'Etat d'éducateur sportif du 2e degré, option  équitation , ou du brevet professionnel de la jeunesse, de
+l'éducation populaire et du sport, spécialité  activités équestres  toutes mentions.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Accompagnateur de tourisme équestre.
+
+</td>
+      <td align="center">
+
+Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours
+identifiés.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+E.-Certificats de qualification délivrés par les branches professionnelles 
+
+E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-
+EE) 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+<font size="1">INTITULÉ DU DIPLÔME 
+
+</font>
+      </th>
+      <th>
+
+<font size="1">CONDITIONS D'EXERCICE 
+
+</font>
+      </th>
+      <th>
+
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE</font>
 
 </th>
     </tr>
@@ -4107,28 +4177,29 @@ mention " tourisme équestre " ou du brevet de guide de tourisme équestre.
   </tbody>
 </table>
 
-E-2. Certificats de qualification délivrés par la Commission paritaire nationale 
-
-emploi-formation du sport (CPNEF du sport) 
+E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport) 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-INTITULÉ DU CERTIFICAT 
+<font size="1">INTITULÉ DU CERTIFICAT 
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <td align="center">
@@ -4410,19 +4481,22 @@ F.-Diplômes délivrés par le ministère chargé de la santé
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+<font size="1">INTITULÉ DU DIPLÔME 
 
-</th>
+</font>
+      </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+<font size="1">CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE 
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <td align="center">
@@ -4454,9 +4528,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 26 juin 2009 - art. 2
-  - Arrêté du 26 juin 2009 - art. 3
-  - Arrêté du 26 juin 2009 - art. 4
+  - Arrêté du 14 décembre 2009 - art. 1
 
 _Cite_:
 
