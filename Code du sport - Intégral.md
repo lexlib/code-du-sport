@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-03-04
+Version Consolidée au 2010-03-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -42531,7 +42531,7 @@ d) Un représentant du ministre chargé de la défense :
 
 e) Un représentant du ministre chargé de la santé : 
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ; 
+― le           directeur général de l'offre de soins  ou son représentant ; 
 
 2° Quatre membres nommés par arrêté du ministre chargé des sports ; 
 
@@ -42545,13 +42545,13 @@ sportifs.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2010-271 du 15 mars 2010 - art. 2 (V)
 
 _Cite_:
 
-  - Code du sport. - art. R312-22 (V)
+  - Code du sport. - art. R312-22
 
 
 ###### Article A312-11
