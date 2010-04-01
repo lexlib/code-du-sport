@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-03-17
+Version Consolidée au 2010-04-02
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -15101,59 +15101,69 @@ _Cité par_:
 
 ###### Article D211-39
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Sept représentants de l'Etat :
+1° Sept représentants de l'Etat : 
 
-a) Le directeur des sports et deux autres représentants du ministre chargé des sports ;
+a) Le directeur des sports et deux autres représentants du ministre chargé des sports ; 
 
-b) Un représentant du ministre chargé de la mer ;
+b) Un représentant du ministre chargé de la mer ; 
 
-c) Un représentant du ministre chargé de l'enseignement supérieur ;
+c) Un représentant du ministre chargé de l'enseignement supérieur ; 
 
-d) Un représentant du ministre chargé de l'environnement ;
+d) Un représentant du ministre chargé de l'environnement ; 
 
-e) Le directeur régional de la jeunesse, des sports et de la vie associative de Bretagne ;
+e) Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  de Bretagne ; 
 
 2° Quatre personnalités qualifiées : 
 
 a) Le président du Conseil supérieur de la navigation de plaisance et des sports nautiques ; 
 
-b) Trois personnalités choisies par le ministre chargé des sports.
+b) Trois personnalités choisies par le ministre chargé des sports. 
 
-3° Trois représentants de la voile et des activités nautiques :
+3° Trois représentants de la voile et des activités nautiques : 
 
-a) Le président de la Fédération française de voile ou son représentant ;
+a) Le président de la Fédération française de voile ou son représentant ; 
 
-b) Le directeur technique national de voile ou son représentant ;
+b) Le directeur technique national de voile ou son représentant ; 
 
 c) Un représentant des fédérations des autres sports nautiques désigné par le ministre chargé des sports sur proposition du
-président du Comité national olympique et sportif français ;
+président du Comité national olympique et sportif français ; 
 
-4° Trois représentants des collectivités territoriales :
+4° Trois représentants des collectivités territoriales : 
 
-a) Le président du conseil régional de Bretagne ou son représentant ;
+a) Le président du conseil régional de Bretagne ou son représentant ; 
 
-b) Le président du conseil général du Morbihan ou son représentant ;
+b) Le président du conseil général du Morbihan ou son représentant ; 
 
-c) Le maire de Saint-Pierre-Quiberon ou son représentant ;
+c) Le maire de Saint-Pierre-Quiberon ou son représentant ; 
 
-4° Trois représentants des personnels élus selon les modalités fixées par arrêté du ministre chargé des sports.
+4° Trois représentants des personnels élus selon les modalités fixées par arrêté du ministre chargé des sports. 
 
 Les représentants de l'Etat sont désignés par le ministre qu'ils représentent. Ils peuvent être représentés par un suppléant
-désigné dans les mêmes conditions.
+désigné dans les mêmes conditions. 
 
-Chaque membre élu peut être représenté par un suppléant élu dans les mêmes conditions que le titulaire.
+Chaque membre élu peut être représenté par un suppléant élu dans les mêmes conditions que le titulaire. 
 
-Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires.
+Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires. 
 
 Un arrêté du ministre chargé des sports fixe la composition nominative du conseil d'administration de l'établissement.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-680 du 11 juin 2009 - art. 1
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
 _Cité par_:
 
@@ -17004,21 +17014,30 @@ _Cite_:
 
 ###### Article R212-6
 
-Le directeur régional de la jeunesse, des sports et de la vie associative peut, par arrêté motivé et après avoir mis
-l'intéressé en mesure de présenter des observations écrites en défense, interdire à toute personne ayant commis une fraude au
-cours d'un examen visant à l'obtention d'un diplôme mentionné à l'article R. 212-2 délivré par l'Etat de se présenter,
-temporairement ou définitivement, aux examens organisés en application du présent code.
+Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  peut, par arrêté motivé et après avoir
+mis l'intéressé en mesure de présenter des observations écrites en défense, interdire à toute personne ayant commis une
+fraude au cours d'un examen visant à l'obtention d'un diplôme mentionné à l'article R. 212-2 délivré par l'Etat de se
+présenter, temporairement ou définitivement, aux examens organisés en application du présent code.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 15 du décret n°89-685 du 21 septembre 1989 relatif à l'enseignement contre rémunération et à la sécurité des activités physiques et sportives
   - Décret n°89-685 du 21 septembre 1989 - art. 15 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 _Cité par_:
 
@@ -17026,7 +17045,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R212-2 (V)
+  - Code du sport. - art. R212-2
 
 
 ##### Paragraphe 2 : Activités physiques et sportives s'exerçant dans un environnement spécifique<a id=165></a>
@@ -17350,23 +17369,32 @@ _Cite_:
 
 ###### Article D212-17
 
-Le directeur régional de la jeunesse, des sports et de la vie associative désigne les jurys, les préside ou en délègue la
-présidence, et délivre les diplômes dans les conditions prévues par arrêté conformément à l'article D. 212-19.
+Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  désigne les jurys, les préside ou en
+délègue la présidence, et délivre les diplômes dans les conditions prévues par arrêté conformément à l'article D. 212-19.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
   - Décret n°93-53 du 12 janvier 1993 - art. 7 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 _Cite_:
 
-  - Code du sport. - art. D212-19 (V)
+  - Code du sport. - art. D212-19
 
 
 ###### Article D212-18
@@ -17870,12 +17898,14 @@ _Cite_:
 ###### Article R212-29
 
 Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
-fonctionnaire de catégorie A. Il est composé à parts égales :
+fonctionnaire de catégorie A. Il est composé :
 
 - de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ;
 
 - de professionnels du secteur d'activité comprenant, de façon paritaire, des employeurs et salariés désignés sur proposition
-des organisations représentatives, sauf dispositions particulières prévues par l'arrêté de création de la spécialité.
+des organisations représentatives, sauf dispositions particulières prévues par l'arrêté de création de la spécialité. 
+
+Ces professionnels représentent au moins un quart et au plus la moitié des membres du jury.
 
 **Nota:**
 
@@ -17883,6 +17913,9 @@ Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions 
 missions sanitaires et médico-sociales à une agence régionale de santé. 
 
 (date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
@@ -17906,47 +17939,74 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+  - Décret n°2012-164 du 1er février 2012 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 
 ###### Article R212-30
 
 Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le directeur régional de la jeunesse, des
-sports et de la vie associative sur proposition du jury. La validité d'une unité capitalisable est de cinq ans. Cette durée
+sports et de la cohésion sociale sur proposition du jury. La validité d'une unité capitalisable est de cinq ans. Cette durée
 peut, sur demande motivée, être prolongée d'un an, non renouvelable, par le directeur régional de la jeunesse, des sports et
-de la vie associative.
+de la cohésion sociale.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 11 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
   - Décret n°2001-792 du 31 août 2001 - art. 11 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2017-1269 du 9 août 2017 - art. 8
 
 
 ###### Article R212-31
 
-Le diplôme du brevet professionnel est délivré par le directeur régional de la jeunesse, des sports et de la vie
-associative :
+Le diplôme du brevet professionnel est délivré par le            directeur régional de la jeunesse, des sports et de la
+cohésion sociale  :
 
 - seul, lorsqu'il s'agit d'une spécialité créée par les ministres chargés de la jeunesse et des sports ;
 
 - conjointement avec les autorités compétentes des ministères intéressés dans le cas d'une création commune de la spécialité.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 12 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
   - Décret n°2001-792 du 31 août 2001 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 _Cité par_:
 
@@ -17955,11 +18015,16 @@ _Cité par_:
 
 ###### Article R212-32
 
-Les organismes de formation préparant au brevet professionnel par la voie des unités capitalisables pour une spécialité
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
-la jeunesse, des sports et de la cohésion sociale  du lieu de formation. Les conditions de délivrance de l'habilitation sont
-fixées par arrêté des ministres chargés de la jeunesse et des sports après avis de la Commission professionnelle consultative
-des métiers du sport et de l'animation.
+Les organismes de formation préparant au brevet professionnel pour une spécialité et, le cas échéant, une mention doivent
+avoir obtenu, préalablement à la mise en place de la formation, une habilitation du directeur régional de la jeunesse, des
+sports et de la cohésion sociale du lieu de formation. 
+
+Ces organismes de formation peuvent, au cours de la période pendant laquelle ils sont habilités, demander une habilitation
+spécifique pour une session ou des sessions de formation à une unité capitalisable complémentaire ou à un certificat de
+spécialisation. 
+
+Les conditions de délivrance de l'habilitation sont fixées par arrêté des ministres chargés de la jeunesse et des sports
+après avis de la commission professionnelle consultative des métiers du sport et de l'animation.
 
 **Nota:**
 
@@ -17967,6 +18032,9 @@ Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions 
 missions sanitaires et médico-sociales à une agence régionale de santé. 
 
 (date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
@@ -17976,7 +18044,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+  - Décret n°2012-164 du 1er février 2012 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 _Cité par_:
 
@@ -18340,7 +18413,7 @@ _Cité par_:
 
 ###### Article R212-45
 
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la vie associative. Il est présidé par un
+Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
 fonctionnaire de catégorie A. Outre son président, il est composé, à parts égales :
 
 - de formateurs et de cadres techniques, dont la moitié au moins sont des agents du ministère chargé de la jeunesse et des
@@ -18349,15 +18422,25 @@ sports ;
 - de professionnels du secteur d'activité, à parité employeurs et salariés, choisis sur proposition des organisations
 représentatives.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Art. 11 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 _Cité par_:
 
@@ -18367,38 +18450,59 @@ _Cité par_:
 
 ###### Article R212-46
 
-Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le directeur régional de la jeunesse, des
-sports et de la vie associative sur proposition du jury. La validité d'une unité capitalisable est de cinq ans.
+Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le            directeur régional de la
+jeunesse, des sports et de la cohésion sociale  sur proposition du jury. La validité d'une unité capitalisable est de cinq
+ans.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Art. 12 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2017-1269 du 9 août 2017 - art. 8
 
 
 ###### Article R212-47
 
-Le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est délivré par le directeur régional de la jeunesse,
-des sports et de la vie associative :
+Le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est délivré par le            directeur régional de la
+jeunesse, des sports et de la cohésion sociale  :
 
 - seul, quand il s'agit d'une mention créée par les ministres chargés de la jeunesse et des sports ;
 
 - ou conjointement par les autorités compétentes des ministères intéressés, dans le cas d'une création commune de la mention.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Art. 13 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2017-1269 du 9 août 2017 - art. 8
 
 _Cité par_:
 
@@ -18408,20 +18512,30 @@ _Cité par_:
 ###### Article R212-48
 
 Les organismes de formation préparant à ce diplôme par la voie des unités capitalisables pour une ou plusieurs mentions
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du directeur régional de la
-jeunesse, des sports et de la vie associative du lieu de formation.
+doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
+la jeunesse, des sports et de la cohésion sociale  du lieu de formation. 
 
 Les conditions de délivrance de l'habilitation sont fixées par l'arrêté organisant la spécialité.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Art. 14 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 _Cité par_:
 
@@ -18770,7 +18884,7 @@ _Codifié par_:
 
 ###### Article R212-61
 
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la vie associative. Il est présidé par un
+Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
 fonctionnaire de catégorie A. Outre son président, il est composé à parts égales :
 
 - de formateurs et de cadres techniques, dont la moitié au moins sont des agents du ministère chargé de la jeunesse et des
@@ -18779,16 +18893,29 @@ sports ;
 - de professionnels du secteur d'activité, à parité employeurs et salariés, choisis sur proposition des organisations
 représentatives.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 11 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1419 du 20 novembre 2006 - art. 11 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 _Cité par_:
 
@@ -18798,40 +18925,67 @@ _Cité par_:
 
 ###### Article R212-62
 
-Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le directeur régional de la jeunesse, des
-sports et de la vie associative sur proposition du jury. La validité d'une unité capitalisable est de cinq ans.
+Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le            directeur régional de la
+jeunesse, des sports et de la cohésion sociale  sur proposition du jury. La validité d'une unité capitalisable est de cinq
+ans.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 12 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1419 du 20 novembre 2006 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2017-1269 du 9 août 2017 - art. 8
 
 
 ###### Article R212-63
 
-Le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport est délivré par le directeur régional de la
-jeunesse, des sports et de la vie associative :
+Le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport est délivré par le            directeur
+régional de la jeunesse, des sports et de la cohésion sociale  :
 
 - seul, quand il s'agit d'une mention créée par les ministres chargés de la jeunesse et des sports ;
 
 - ou conjointement par les autorités compétentes des ministères intéressés, dans le cas d'une création commune de la mention.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 13 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1419 du 20 novembre 2006 - art. 13 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2017-1269 du 9 août 2017 - art. 8
 
 _Cité par_:
 
@@ -18841,21 +18995,34 @@ _Cité par_:
 ###### Article R212-64
 
 Les organismes de formation préparant à ce diplôme par la voie des unités capitalisables pour une ou plusieurs mentions
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du directeur régional de la
-jeunesse, des sports et de la vie associative du lieu de formation.
+doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
+la jeunesse, des sports et de la cohésion sociale  du lieu de formation. 
 
 Les conditions de délivrance de l'habilitation sont fixées par l'arrêté organisant la spécialité.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 14 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1419 du 20 novembre 2006 - art. 14 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
 
 _Cité par_:
 
@@ -19131,20 +19298,26 @@ ans sur la liste mentionnée à l'article L. 221-2, et inscrits dans une formati
 4° Après admission à suivre une formation en unités de compétences capitalisables ; 
 
 5° Après validation d'un stage de pré-qualification pour les candidats inscrits dans tout cycle de formation ayant fait
-l'objet d'une convention avec le directeur régional de la jeunesse, des sports et de la vie associative. 
+l'objet d'une convention avec le directeur régional de la jeunesse, des sports et de la cohésion sociale. 
 
 La durée de validité de ce certificat est de trois ans. Cette durée peut, sur demande motivée, être prolongée d'un an, à deux
-reprises au maximum, par le directeur régional de la jeunesse, des sports et de la vie associative.
+reprises au maximum, par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Art. 8 du décret n°91-260 du 7 mars 1991 relatif à l'organisation et aux conditions de préparation et de délivrance du brevet d'Etat d'éducateur sportif
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 _Cité par_:
 
@@ -19152,8 +19325,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
-  - Code du sport. - art. L221-2 (V)
+  - Code du sport. - art. L212-1
+  - Code du sport. - art. L221-2
 
 
 ##### Sous-paragraphe 3 : Certificat de qualification complémentaire<a id=175></a>
@@ -19240,7 +19413,7 @@ _Cite_:
 
 ###### Article R212-79
 
-Le directeur régional de la jeunesse, des sports et de la vie associative : 
+Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  : 
 
 1° Désigne les jurys qualifiés conformément aux dispositions générales fixées par arrêté du ministre chargé des sports pour
 les brevets d'Etat du premier et du deuxième degré ; 
@@ -19255,16 +19428,25 @@ l'organisation et à la mise en oeuvre de formations en unités de compétences 
 5° Agrée et contrôle les formations en unités de compétences capitalisables assurées par des organismes de formation autres
 que ceux cités au 4°.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 13 du décret n°91-260 du 7 mars 1991 relatif à l'organisation et aux conditions de préparation et de délivrance du brevet d'Etat d'éducateur sportif
   - Décret n°91-260 du 7 mars 1991 - art. 13 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
 _Cité par_:
 
@@ -19273,7 +19455,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. D212-73 (V)
+  - Code du sport. - art. D212-73
 
 
 ###### Article R212-80
@@ -19304,27 +19486,36 @@ professionnelle ou sportive d'une durée équivalente à celles mentionnées à 
 professionnels ou sportifs particuliers. 
 
 Les candidats qui ne remplissent pas les conditions d'ancienneté de diplôme précitées sont autorisés par le directeur
-régional de la jeunesse, des sports et de la vie associative, dans les mêmes conditions, à s'inscrire au brevet d'Etat du
+régional de la jeunesse, des sports et de la cohésion sociale, dans les mêmes conditions, à s'inscrire au brevet d'Etat du
 second degré.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 15 du décret n°91-260 du 7 mars 1991 relatif à l'organisation et aux conditions de préparation et de délivrance du brevet d'Etat d'éducateur sportif
   - Décret n°91-260 du 7 mars 1991 - art. 15 (Ab)
 
 _Cité par_:
 
   - Décret n°97-1208 du 19 décembre 1997 - art. ANNEXE (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
 _Cite_:
 
-  - Code du sport. - art. D212-74 (V)
+  - Code du sport. - art. D212-74
 
 
 ###### Article R212-82
@@ -22062,42 +22253,56 @@ _Codifié par_:
 ###### Article D232-4
 
 En vue de l'obtention de l'agrément, l'établissement public de santé où est implantée l'antenne médicale de prévention du
-dopage adresse aux directeurs de l'agence régionale de l'hospitalisation et de la direction régionale de la jeunesse et des
-sports dont elle dépend territorialement un dossier comportant :
+dopage adresse aux directeurs de l'agence régionale de l'hospitalisation et de la direction régionale de la jeunesse, des
+sports et de la cohésion sociale dont elle dépend territorialement un dossier comportant :
 
 1° Un projet d'organisation et de fonctionnement de l'antenne qui décline l'organisation des missions et l'objectif ;
 
 2° Un projet de convention, comportant le projet de budget de fonctionnement, préparé avec la direction régionale de la
-jeunesse et des sports ;
+jeunesse, des sports et de la cohésion sociale ;
 
 3° Les noms et qualités du responsable de l'antenne et de ses collaborateurs ;
 
 4° Le ressort géographique d'intervention de l'antenne.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 5 du décret n°2006-1830 du 23 décembre 2006 relatif aux conditions d'agrément et de fonctionnement des antennes médicales de prévention du dopage
   - Décret n°2006-1830 du 23 décembre 2006 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
 
 ###### Article D232-5
 
 Les antennes médicales de prévention du dopage sont agréées pour cinq ans par arrêté des ministres chargés de la santé et des
-sports, après avis du directeur de l'agence régionale d'hospitalisation et du directeur régional de la jeunesse et des sports
-et de la vie associative. L'agrément précise l'établissement d'implantation, le nom et la qualité du médecin responsable.
+sports, après avis du directeur de l'agence régionale d'hospitalisation et du directeur régional de la jeunesse, des sports
+et de la cohésion sociale. L'agrément précise l'établissement d'implantation, le nom et la qualité du médecin responsable.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 6 du décret n°2006-1830 du 23 décembre 2006 relatif aux conditions d'agrément et de fonctionnement des antennes médicales de prévention du dopage
-  - Décret n°2006-1830 du 23 décembre 2006 - art. 6 (Ab)
 
 _Cité par_:
 
@@ -22105,9 +22310,13 @@ _Cité par_:
   - Code du sport. - art. D232-4 (VD)
   - Code du sport. - art. D232-7 (VT)
 
-_Codifié par_:
+_Anciens textes_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2006-1830 du 23 décembre 2006 - art. 6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 
 ###### Article D232-6
@@ -22158,20 +22367,33 @@ _Cite_:
 Les antennes médicales de prévention du dopage sont tenues de rendre compte annuellement de leur activité aux signataires de
 la convention.
 
-Elles doivent signaler dans les meilleurs délais à la direction régionale de la jeunesse et des sports tout changement de
-leurs règles de fonctionnement, notamment le nom et la qualification du médecin responsable, le lieu d'implantation et les
-coordonnées de l'antenne.
+Elles doivent signaler dans les meilleurs délais à la direction régionale de la jeunesse, des sports et de la cohésion
+sociale tout changement de leurs règles de fonctionnement, notamment le nom et la qualification du médecin responsable, le
+lieu d'implantation et les coordonnées de l'antenne.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 9 du décret n°2006-1830 du 23 décembre 2006 relatif aux conditions d'agrément et de fonctionnement des antennes médicales de prévention du dopage
   - Décret n°2006-1830 du 23 décembre 2006 - art. 9 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2017-723 du 2 mai 2017 - art. 1
 
 
 ###### Article D232-9
@@ -24896,33 +25118,42 @@ _Cite_:
 ###### Article R241-3
 
 Les opérations de contrôle sont diligentées par le directeur du département des contrôles de l'Agence française de lutte
-contre le dopage. Celui-ci peut donner délégation au directeur régional de la jeunesse et des sports aux fins de mettre en
-place les contrôles et de signer les ordres de mission à cet effet. La signature des ordres de mission peut être déléguée par
-le directeur régional à un ou plusieurs agents de ses services.
+contre le dopage. Celui-ci peut donner délégation au       directeur régional de la jeunesse, des sports et de la cohésion
+sociale  aux fins de mettre en place les contrôles et de signer les ordres de mission à cet effet. La signature des ordres de
+mission peut être déléguée par le directeur régional à un ou plusieurs agents de ses services. 
 
 Dans les ordres de mission, le directeur du département des contrôles désigne le vétérinaire agréé chargé du contrôle ainsi
 que les modalités de désignation des animaux contrôlés telles que le tirage au sort, le classement ou l'établissement d'un
-nouveau record.
+nouveau record. 
 
 En cas de tirage au sort, celui-ci doit porter sur l'ensemble des participants à la compétition, la manifestation ou
-l'entraînement. Le nombre d'animaux à désigner par tirage au sort est déterminé par le vétérinaire chargé du contrôle.
+l'entraînement. Le nombre d'animaux à désigner par tirage au sort est déterminé par le vétérinaire chargé du contrôle. 
 
 Indépendamment des cas prévus ci-dessus, des animaux peuvent en outre être désignés à la seule discrétion du vétérinaire
-agréé chargé du contrôle.
+agréé chargé du contrôle. 
 
 Un animal peut être désigné plusieurs fois au cours d'une manifestation comprenant plusieurs épreuves auxquelles il
 participe.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
+Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
+date au 2 avril 2010.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 3 du décret n°2006-1629 du 18 décembre 2006 relatif à la lutte contre le dopage des animaux participant à des compétitions organisées ou autorisées par les fédérations sportives
   - Décret n°2006-1629 du 18 décembre 2006 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
 
 
 ###### Article R241-4
