@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-04-29
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -7157,13 +7157,13 @@ Le présent titre s'applique aux épreuves organisées en vue de la sélection e
 six ans et moins. 
 
 Toutefois, à l'occasion de ces épreuves, les compétences confiées aux fédérations sportives en vertu du présent titre sont
-exercées par les organismes agréés en application de l'article L. 653-3 du code rural.
+exercées par les organismes agréés en application de l'article L. 653-3 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-650 du 3 juillet 2008 - art. 20
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -15477,17 +15477,17 @@ _Cité par_:
 
 ###### Article R211-19
 
-L'Institut français du cheval et de l'équitation, régi par les articles R. 653-13 à R. 653-29 du code rural, gère une école
-située à Saumur dont les professeurs d'équitation sont les écuyers du Cadre noir. 
+L'Institut français du cheval et de l'équitation, régi par les articles R. 653-13 à R. 653-29 du code rural et de la pêche
+maritime, gère une école située à Saumur dont les professeurs d'équitation sont les écuyers du Cadre noir. 
 
 Cette école exerce notamment les missions dévolues à l'Institut français du cheval et de l'équitation par les 6°, 7°, 8°, 9°,
-10° et 11° du II de l'article R. 653-14 du code rural.
+10° et 11° du II de l'article R. 653-14 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-90 du 22 janvier 2010 - art. 2
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -15504,7 +15504,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code rural - art. R*653-13
+  - Code rural - art. R653-13 (V)
 
 
 ##### Sous-section 3 : L'Ecole nationale de voile et des sports nautiques<a id=148></a>
