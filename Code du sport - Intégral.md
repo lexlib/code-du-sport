@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-06-11
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -426,8 +426,8 @@ Version Consolidée au 2010-06-11
           - [Section 1 : Dispositions communes (art. A312-1)](#423)
           - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#424)
           - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#425)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-175)](#426)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-175)](#427)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#426)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#427)
           - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#428)
             - [Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-3)](#429)
           - [Section 2 : Etablissements de natation  et d'activités aquatiques (art. A322-4 à A322-70)](#430)
@@ -467,40 +467,41 @@ Version Consolidée au 2010-06-11
               - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#464)
               - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#465)
               - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#466)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#467)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#468)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#469)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#470)
-            - [Sous-section 2 : Epreuves et compétitions sur la voie publique (art. A331-5 à A331-15)](#471)
-              - [Paragraphe 1 : Dispositions générales (art. A331-2 à A331-7)](#472)
-              - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#473)
-              - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#474)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#475)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#476)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#477)
-            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#478)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#479)
-          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#480)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#481)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#482)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A425-5)](#483)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#484)
-        - [Chapitre unique (art. A411-1 à A411-7)](#485)
-          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#486)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A425-5)](#487)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#488)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#489)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#490)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#491)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#492)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-25)](#493)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-9 aux articles R322-32 et R322-35)](#494)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#495)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#496)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-9 aux articles R322-32 et R322-35)](#497)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-25)](#498)
-      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#499)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-25)](#500)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#467)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#468)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#469)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#470)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#471)
+            - [Sous-section 2 : Epreuves et compétitions sur la voie publique (art. A331-5 à A331-15)](#472)
+              - [Paragraphe 1 : Dispositions générales (art. A331-2 à A331-7)](#473)
+              - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#474)
+              - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#475)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#476)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#477)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#478)
+            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#479)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#480)
+          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#481)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#482)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#483)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A425-5)](#484)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#485)
+        - [Chapitre unique (art. A411-1 à A411-7)](#486)
+          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#487)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A425-5)](#488)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#489)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#490)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#491)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#492)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#493)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#494)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#495)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#496)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#497)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#498)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-27)](#499)
+      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#500)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#501)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -28285,19 +28286,28 @@ _Cite_:
 ###### Article R322-27
 
 Les dispositions de la présente section, prises en application de l'article L. 221-3 du code de la consommation, s'appliquent
-aux équipements de protection individuelle pour la pratique sportive ou de loisirs dont la liste est établie à l'annexe
-III-3.
+aux équipements de protection individuelle destinés à être utilisés dans le cadre de l'exercice d'une activité sportive ou de
+loisirs, ou de l'encadrement d'une telle activité (ci-après dénommés " EPI-SL "). La liste des EPI-SL figure en annexe III-3
+et est précisée pour chaque type d'articles par arrêté du ministre chargé de l'industrie et du ministre chargé du travail. 
+
+Ces dispositions ne s'appliquent pas : 
+
+1° Aux équipements de protection individuelle mentionnés à l'annexe III-4 ; 
+
+2° Aux équipements de protection respiratoire utilisés pour la plongée, équipements destinés à protéger contre les chutes de
+hauteur, casques et bombes de cavaliers, brassières et gilets de sécurité contre la noyade, vêtements et brassards de
+signalisation visuelle qui relèvent des dispositions règlementaires prises en application de l'article L. 4311-1 du code du
+travail.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 1er du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -28308,53 +28318,81 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L221-3 (V)
-  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
+  - Code de la consommation - art. L221-3
+  - Code du sport. - art. Annexe III-3 (art. R322-27)
+  - Code du sport. - art. Annexe III-4 art R322-28 à R322-31
+  - Code du travail - art. L4311-1
 
 
 ###### Article R322-28
 
-Ne peuvent être fabriqués, importés, détenus en vue de la vente, mis en vente, vendus, loués ou distribués à titre gratuit
-que les équipements de protection individuelle qui respectent les exigences essentielles de santé et de sécurité définies à
-l'annexe III-4, et qui sont munis du marquage " CE " défini à l'article R. 322-30. 
+On entend par EPI-SL tout dispositif ou tout moyen défini à l'article R. 322-27 destiné à être porté ou tenu par une personne
+en vue de la protéger contre un ou plusieurs risques susceptibles de menacer sa santé ainsi que sa sécurité. 
 
-Les équipements de protection individuelle fabriqués conformément aux normes les concernant, transposant les normes
-européennes harmonisées dont les références sont publiées au Journal officiel de la République française, sont réputés
-satisfaire aux exigences essentielles de santé et de sécurité.
+Sont également considérés comme des EPI-SL, au sens de la présente section : 
+
+1° L'ensemble constitué par plusieurs dispositifs ou moyens associés de façon solidaire par le fabricant en vue de protéger
+une personne contre un ou plusieurs risques susceptibles d'être encourus simultanément lors d'une pratique sportive ou de
+loisirs ; 
+
+2° Un dispositif ou moyen protecteur solidaire, de façon dissociable ou non, d'un équipement individuel non protecteur, porté
+ou tenu par une personne en vue de déployer une activité sportive ou de loisirs ; 
+
+3° Des composants interchangeables d'un EPI-SL indispensables à son bon fonctionnement et utilisés exclusivement pour cet
+EPI-SL. 
+
+Est considéré comme partie intégrante d'un EPI-SL tout système de liaison mis sur le marché avec l'EPI-SL pour raccorder
+celui-ci à un autre dispositif extérieur, complémentaire, même lorsque ce système de liaison n'est pas destiné à être porté
+ou tenu en permanence par l'utilisateur pendant la durée d'exposition aux risques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 2 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-4 art R322-28 à R322-31 (VT)
-  - Code du sport. - art. R322-30 (VT)
+  - Code du sport. - art. R322-27 (VD)
 
 
 ###### Article R322-29
 
-Les équipements de protection individuelle exposés lors des foires et salons peuvent ne pas respecter les dispositions de la
-présente section, sous réserve que soient indiquées leur non-conformité à ces dispositions ainsi que l'interdiction de les
-acquérir ou d'en faire usage avant leur mise en conformité.
+Peuvent seuls être importés, fabriqués en vue de la mise sur le marché communautaire, détenus en vue de la vente ou de la
+distribution à titre gratuit, mis en vente, vendus ou distribués à titre gratuit, mis à disposition à titre gratuit ou
+onéreux les EPI-SL qui : 
+
+1° Sont conformes aux exigences essentielles de santé et de sécurité les concernant ; 
+
+2° Respectent les procédures d'évaluation de la conformité qui leur sont applicables ; 
+
+3° Sont revêtus du marquage " CE " défini à l'article R. 322-34. 
+
+Les EPI-SL fabriqués conformément aux normes les concernant, dont les références sont publiées au Journal officiel de l'Union
+européenne, bénéficient d'une présomption de conformité aux exigences essentielles de santé et de sécurité énoncées à
+l'annexe III-5. 
+
+Les références des normes nationales transposant les normes susvisées sont publiées au Journal officiel de la République
+française.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 3 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-5 (art. R322-30)
+  - Code du sport. - art. R322-34
 
 _Cité par_:
 
@@ -28363,33 +28401,19 @@ _Cité par_:
 
 ###### Article R322-30
 
-Le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne ou, à défaut,
-tout responsable de la première mise sur le marché appose le marquage " CE ", conformément aux dispositions de l'annexe
-III-5, après avoir rempli les obligations définies, en fonction de la catégorie d'équipements de protection individuelle, aux
-articles R. 322-31, R. 322-32 ou R. 322-33. 
-
-Le marquage doit être apposé sur l'équipement de protection individuelle de façon visible, lisible et indélébile pendant la
-durée prévisible de l'équipement ou, dans le cas d'une impossibilité liée aux caractéristiques du produit, sur son
-emballage. 
-
-Il est interdit d'apposer sur les équipements de protection individuelle ou sur leur emballage des inscriptions susceptibles
-de créer une confusion avec le marquage " CE ".
+Les EPI-SL exposés lors de foires et salons peuvent ne pas respecter les dispositions de la présente section, sous réserve
+qu'un panneau, placé à proximité des EPI-SL concernés, indique clairement leur non-conformité ainsi que l'interdiction de les
+acquérir ou d'en faire usage avant leur mise en conformité.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 4 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 4 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-5 (art. R322-30) (VT)
-  - Code du sport. - art. R322-31 (VT)
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -28399,52 +28423,87 @@ _Cité par_:
 
 ###### Article R322-31
 
-Pour les équipements de protection individuelle contre les agressions mécaniques, physiques ou chimiques superficielles, les
-petits chocs ou vibrations n'affectant pas des parties vitales du corps et non susceptibles de provoquer des lésions
-irréversibles et contre le rayonnement solaire, dont la liste est précisée au 1 de l'annexe III-3, le fabricant, son
-mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou, à défaut, tout responsable de la
-première mise sur le marché tient à la disposition des agents chargés du contrôle : 
+Les EPI-SL sont classés en deux catégories dont les obligations sont définies ci-dessous. 
 
-1° La déclaration de conformité " CE " définie à l'annexe III-6 ; 
+1° Constituent des EPI-SL de catégorie 1 les équipements de conception simple, lorsque le concepteur présume que
+l'utilisateur peut juger par lui-même de l'efficacité contre des risques minimes dont les effets, lorsqu'ils sont graduels,
+peuvent être perçus en temps opportun et sans danger par l'utilisateur. 
 
-2° La documentation technique mentionnée à l'annexe III-7 ; 
+Entrent exclusivement dans cette catégorie les EPI-SL qui ont pour but de protéger l'utilisateur contre : 
 
-3° La notice d'information mentionnée à l'annexe III-4.
+a) Les agressions mécaniques dont les effets sont superficiels ; 
+
+b) Les petits chocs et vibrations n'affectant pas des parties vitales du corps et qui ne peuvent pas provoquer de lésions
+irréversibles ; 
+
+c) Le rayonnement solaire en dehors du cas spécifique des éclipses du soleil. 
+
+2° Les autres EPI-SL appartiennent à la catégorie 2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 5 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
-  - Code du sport. - art. Annexe III-4 art R322-28 à R322-31 (VT)
-  - Code du sport. - art. Annexe III-6 (art. R322-31) (VT)
-  - Code du sport. - art. Annexe III-7 (art. R322-31) (VT)
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
+  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
   - Code du sport. - art. R322-30 (VT)
   - Code du sport. - art. R322-38 (VT)
 
 
 ###### Article R322-32
 
-Pour les équipements de protection individuelle contre les agressions mécaniques, physiques ou chimiques graves et les chocs
-affectant des parties vitales du corps et susceptibles de provoquer des lésions irréversibles, dont la liste est précisée au
-2 de l'annexe III-3, le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne
-ou, à défaut, tout responsable de la première mise sur le marché tient à la disposition des agents chargés du contrôle : 
+Les EPI-SL de catégorie 1 relèvent de la procédure du contrôle interne de la fabrication par laquelle le fabricant, son
+mandataire établi sur le territoire de la Communauté européenne ou, à défaut, tout responsable de la mise sur le marché
+s'assure et déclare, sous sa responsabilité, que l'EPI-SL est conforme aux exigences essentielles de santé et de sécurité qui
+lui sont applicables. 
 
-1° La déclaration de conformité " CE " définie à l'annexe III-8 ; 
+Pour ces équipements, le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de la Communauté
+européenne ou, à défaut, tout responsable de la mise sur le marché tient à la disposition des agents chargés du contrôle : 
 
-2° La documentation technique mentionnée à l'annexe III-9 ; 
+1° La déclaration de conformité " CE " définie à l'annexe III-7 ; 
+
+2° La documentation technique visée à l'annexe III-8.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°94-689 du 5 août 1994 - art. 6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
+  - Code du sport. - art. Annexe III-8 (VD)
+  - Code du sport. - art. R322-33 (VT)
+  - Code du sport. - art. R322-38 (V)
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-7 (art. R322-31)
+
+
+###### Article R322-33
+
+Les EPI-SL de catégorie 2 relèvent de la procédure de l'examen CE de type définie à l'article R. 322-35. 
+
+Pour ces équipements, le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de la Communauté
+européenne ou, à défaut, tout responsable de la mise sur le marché tient à la disposition des agents chargés du contrôle
+mentionnés à l'article L. 215-1 du code de la consommation : 
+
+1° La déclaration de conformité " CE " définie à l'annexe III-7 ; 
+
+2° La documentation technique visée à l'annexe III-8 ; 
 
 3° L'attestation d'examen " CE " de type effectué conformément aux dispositions de l'article R. 322-35.
 
@@ -28452,58 +28511,21 @@ ou, à défaut, tout responsable de la première mise sur le marché tient à la
 
 _Anciens textes_:
 
-  - Art. 6 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
-  - Décret n°94-689 du 5 août 1994 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
-  - Code du sport. - art. Annexe III-9 aux articles R322-32 et R322-35 (VT)
-  - Code du sport. - art. R322-35 (VT)
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe III-8 (VD)
-  - Code du sport. - art. R322-33 (VT)
-  - Code du sport. - art. R322-38 (V)
-
-
-###### Article R322-33
-
-Pour les équipements de protection individuelle destinés à protéger contre des dangers mortels, dont la liste est précisée au
-3 de l'annexe III-3, le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne
-ou, à défaut, tout responsable de la première mise sur le marché tient à la disposition des agents chargés du contrôle :
-
-- les documents mentionnés à l'article R. 322-32 ;
-
-- le rapport de l'organisme chargé soit du contrôle du " système de garantie de qualité " CE " " défini à l'article R.
-322-36, soit du contrôle du " système d'assurance qualité " CE " de la production avec surveillance " défini à l'article R.
-322-37.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 7 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 7 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
-  - Code du sport. - art. R322-32 (VT)
-  - Code du sport. - art. R322-36 (VT)
-  - Code du sport. - art. R322-37 (VT)
+  - Code de la consommation - art. L215-1
+  - Code du sport. - art. Annexe III-7 (art. R322-31)
+  - Code du sport. - art. R322-35
 
 _Cité par_:
 
+  - Code du sport. - art. Annexe III-3 (art. R322-27) (VT)
   - Code du sport. - art. Annexe III-8 (VD)
   - Code du sport. - art. R322-34 (V)
   - Code du sport. - art. R322-38 (V)
@@ -28511,59 +28533,63 @@ _Cité par_:
 
 ###### Article R322-34
 
-Les organismes habilités, chargés des contrôles définis aux articles R. 322-35, R. 322-36 ou R. 322-37, sont choisis sur une
-liste publiée au Journal officiel de l'Union européenne. 
+Après avoir rempli les obligations définies aux articles R. 322-33 et R. 322-34, le fabricant, son mandataire établi sur le
+territoire de l'un des Etats membres de la Communauté européenne ou, à défaut, tout responsable de la mise sur le marché
+appose le marquage " CE ", conformément aux dispositions de l'annexe III-6. 
 
-Les organismes français sont habilités par un arrêté du ministre chargé de l'industrie.
+Le marquage " CE " est apposé sur l'EPI-SL de façon visible, lisible et indélébile pendant la durée prévisible de vie de
+l'équipement ou, dans le cas d'une impossibilité liée aux caractéristiques du produit, sur son emballage. 
+
+Il est interdit d'apposer, sur les EPI-SL ou sur leur emballage des inscriptions susceptibles de créer une confusion avec le
+marquage " CE ".
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 8 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 8 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-6 (art. R322-31)
+  - Code du sport. - art. R322-33
 
 _Cité par_:
 
   - Code du sport. - art. R322-29 (VD)
   - Code du sport. - art. R322-34 (VD)
 
-_Cite_:
-
-  - Code du sport. - art. R322-35 (VT)
-
 
 ###### Article R322-35
 
-L'examen " CE " de type est la procédure par laquelle un organisme habilité constate et atteste qu'un modèle d'équipement de
-protection individuelle satisfait aux exigences essentielles de santé et de sécurité qui lui sont applicables. 
+L'examen " CE " de type est la procédure par laquelle un organisme habilité par le ministre chargé de l'industrie constate et
+atteste que le modèle d'EPI-SL concerné satisfait aux exigences essentielles de santé et de sécurité qui lui sont
+applicables. 
 
-La demande d'examen " CE " de type ne peut être introduite par le fabricant ou son mandataire qu'auprès d'un seul organisme
-habilité pour un modèle donné d'équipement de protection individuelle. 
+La demande d'examen " CE " de type ne peut être introduite par le fabricant, son mandataire ou, à défaut, par tout
+responsable de la mise sur le marché, qu'auprès d'un seul organisme habilité pour un modèle donné d'équipement de protection
+individuelle. Elle comporte : 
 
-La demande d'examen " CE " de type doit comporter :
+1° Le nom et l'adresse du fabricant, de son mandataire ou, à défaut, du responsable de la mise sur le marché établi sur le
+territoire de l'un des Etats membres de la Communauté européenne, ainsi que le lieu de fabrication de l'EPI-SL concerné ; 
 
-- le nom et l'adresse du fabricant ou de son mandataire établi sur le territoire de l'un des Etats membres de l'Union
-européenne, ainsi que le lieu de fabrication ;
+2° La documentation technique définie à l'annexe III-8. 
 
-- la documentation technique définie à l'annexe III-9. 
-
-La demande d'examen doit être accompagnée du nombre d'exemplaires des modèles nécessaires à l'examen.
+La demande d'examen " CE " de type est accompagnée du nombre d'exemplaires des modèles nécessaires à l'examen.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 9 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 9 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -28575,61 +28601,60 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-9 aux articles R322-32 et R322-35 (VT)
+  - Code du sport. - art. Annexe III-8 (art. R322-32)
 
 
 ###### Article R322-36
 
-Le " système de garantie de qualité "CE" " est la procédure par laquelle un organisme habilité atteste que le fabricant a
-pris toutes mesures nécessaires pour que le procédé de fabrication, y compris l'inspection finale et les essais des
-équipements de protection individuelle, assure l'homogénéité de sa production et la conformité de chaque exemplaire
-d'équipement de protection individuelle soumis à cette procédure avec le modèle ayant fait l'objet de l'attestation d'examen
-" CE " de type.
+Les organismes mentionnés à l'article R. 322-35 remplissent notamment les obligations suivantes : possession de la
+personnalité juridique, indépendance et impartialité, compétence technique, existence de moyens techniques et humains
+adaptés, intégrité et compétence du personnel, en particulier, respect du secret professionnel, qualité de l'organisation. 
 
-Pour chaque modèle d'équipement de protection individuelle fabriqué, l'organisme habilité prélève un échantillonnage adéquat
-de l'équipement de protection individuelle à des intervalles aléatoires, au moins une fois par an, et réalise sur cet
-échantillonnage les essais appropriés ou nécessaires pour s'assurer de la conformité des échantillons d'équipement de
-protection individuelle avec les exigences essentielles de santé et de sécurité qui leur sont applicables.
+Sont présumés satisfaire aux obligations susmentionnées les organismes accrédités par le Comité français d'accréditation
+(COFRAC) selon la norme relative à la compétence des laboratoires d'essai et d'étalonnage dont la référence est publiée au
+Journal officiel de la République française. 
+
+La liste des organismes habilités dans le cadre du présent article est publiée au Journal officiel de la République
+française.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 10 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 10 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. R322-33 (VT)
 
+_Cite_:
+
+  - Code du sport. - art. R322-35
+
 
 ###### Article R322-37
 
-Le " système d'assurance qualité "CE" de la production avec surveillance " est la procédure par laquelle un fabricant fait
-approuver un système d'assurance qualité par un organisme habilité et confie à cet organisme le soin de contrôler, par
-surveillance, qu'il remplit correctement les obligations qui résultent du système d'assurance qualité approuvé.
+Le responsable de la location ou de la mise à disposition réitérée d'un EPI-SL d'occasion s'assure que cet EPI-SL répond aux
+conditions précisées par le fabricant dans la notice visée au point 1. 4 de l'annexe III-5 de la partie réglementaire du code
+du sport. 
 
-L'organisme habilité évalue le système d'assurance qualité pour déterminer si ce système est de nature à assurer la
-conformité de la production avec les exigences de santé et de sécurité.
-
-L'organisme habilité procède à cette fin à toutes les évaluations nécessaires des éléments du système d'assurance qualité. Il
-s'assure notamment que le système garantit la conformité de chaque exemplaire d'équipement de protection individuelle avec le
-modèle ayant fait l'objet d'une attestation d'examen " CE " de type.
+Un arrêté des ministres chargés respectivement de l'industrie et du travail précise les éléments dont ce responsable dispose
+afin d'établir le maintien de l'EPI-SL en conformité. Ce responsable communique lesdits éléments, à leur demande, à
+l'utilisateur de l'EPI-SL ou aux agents chargés du contrôle.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 11 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 11 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -28637,37 +28662,57 @@ _Cité par_:
   - Code du sport. - art. R322-33 (VT)
   - Code du sport. - art. R322-38 (V)
 
+_Cite_:
+
+  - Code du sport. - art. Annexe III-5 (art. R322-30)
+
 
 ###### Article R322-38
 
-Sans préjudice, en cas de méconnaissance des exigences essentielles de santé et de sécurité, de l'application des sanctions
-pénales et des mesures administratives prévues au livre II du code de la consommation, seront punis de l'amende prévue pour
-les contraventions de la cinquième classe le fait : 
+I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait : 
 
-1° D'exposer lors des foires et salons un équipement de protection individuelle sans respecter les dispositions de l'article
-R. 322-29 ; 
+1° De fabriquer en vue de la mise sur le marché communautaire, importer, détenir en vue de la vente ou de la distribution à
+titre gratuit, mettre en vente, vendre, mettre à disposition à titre gratuit ou onéreux un EPI-SL ne respectant pas les
+obligations prévues à l'article R. 322-29 ; 
 
-2° De mettre sur le marché un équipement de protection individuelle non muni du marquage " CE " ; 
+2° De mettre à disposition un EPI-SL d'occasion ne respectant pas l'article R. 322-37 ; 
 
-3° Pour les personnes mentionnées à l'article R. 322-30, de ne pas être en mesure de présenter les documents justifiant
-qu'elles ont rempli les obligations définies, en fonction de la catégorie d'équipement de protection individuelle, aux
-articles R. 322-31, R. 322-32, R. 322-33.
+3° Pour tout fabricant, mandataire ou responsable de la mise sur le marché ou de la mise à disposition, de ne pas être en
+mesure de présenter, aux services de contrôle mentionnés à l'article L. 215-1 du code de la consommation, les documents
+prévus aux articles R. 322-32 et R. 322-33 ; 
+
+4° Pour tout responsable de la mise à disposition d'un EPI-SL d'occasion, de ne pas être en mesure de présenter aux agents
+chargés du contrôle les justificatifs de la mise en œuvre de l'article R. 332-37. 
+
+II.-La récidive des contraventions prévues au I est réprimée conformément aux articles 132-11 et 132-15 du code pénal. 
+
+III.-Est puni des peines d'amende prévues pour les contraventions de la troisième classe le fait : 
+
+1° D'apposer sur un EPI-SL, sur son emballage ou sur les documents, notices d'information du fabricant qui l'accompagnent des
+inscriptions de nature à créer des confusions avec le marquage " CE " ou à en compromettre la visibilité ou la lisibilité ; 
+
+2° D'exposer, lors de foires et salons, des EPI-SL sans respecter les dispositions de l'article R. 322-30.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 12 du décret n°94-689 du 5 août 1994 relatif à la prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
   - Décret n°94-689 du 5 août 1994 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. R322-29 (VT)
-  - Code du sport. - art. R322-31 (VT)
+  - Code de la consommation - art. L215-1
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
+  - Code du sport. - art. R322-29
+  - Code du sport. - art. R322-30
+  - Code du sport. - art. R322-32
+  - Code du sport. - art. R322-33
+  - Code du sport. - art. R322-37
 
 
 ### TITRE III : MANIFESTATIONS SPORTIVES<a id=247></a>
@@ -46861,13 +46906,54 @@ _Cite_:
   - Code du sport. - art. L212-1
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=467></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=467></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=468></a>
+###### Article A322-176
 
-##### Section 2 : Autorisation et déclaration préalable<a id=469></a>
+En application de l'article R. 322-27 du code du sport, les équipements de protection individuelle soumis aux dispositions du
+code du sport, par type d'articles définis à l'annexe III-3 (partie décrets) du code du sport, figurent en annexe III-26
+(partie arrêtés).
 
-##### Sous-section 1 : Dispositions générales<a id=470></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 février 2010 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-26 (V)
+  - Code du sport. - art. Annexe III-3 (art. A312-8) (V)
+  - Code du sport. - art. R322-27 (VD)
+
+
+###### Article A322-177
+
+En application de l'article R. 322-37 du code du sport, le responsable de la location ou de la mise à disposition réitérée
+d'un équipement de protection individuelle d'occasion établit pour chaque matériel une fiche de gestion dont le contenu est
+défini en annexe III-27 (partie arrêtés), afin d'établir le maintien en conformité de l'équipement concerné. 
+
+Cette fiche est conservée pendant les trois ans suivant la mise au rebut de l'équipement ou sa sortie du stock.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 février 2010 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-27 (V)
+  - Code du sport. - art. R322-37 (VD)
+
+
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=468></a>
+
+#### Chapitre Ier : Organisation des manifestations sportives<a id=469></a>
+
+##### Section 2 : Autorisation et déclaration préalable<a id=470></a>
+
+##### Sous-section 1 : Dispositions générales<a id=471></a>
 
 ###### Article A331-1
 
@@ -46886,7 +46972,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Epreuves et compétitions sur la voie publique<a id=471></a>
+##### Sous-section 2 : Epreuves et compétitions sur la voie publique<a id=472></a>
 
 ###### Article A331-5
 
@@ -46908,7 +46994,7 @@ _Abrogé par_:
   - Arrêté du 3 mai 2012 - art. 2
 
 
-##### Paragraphe 1 : Dispositions générales<a id=472></a>
+##### Paragraphe 1 : Dispositions générales<a id=473></a>
 
 ###### Article A331-2
 
@@ -47051,7 +47137,7 @@ _Cité par_:
   - Code du sport. - art. A331-12 (VT)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger<a id=473></a>
+##### Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger<a id=474></a>
 
 ###### Article A331-8
 
@@ -47168,7 +47254,7 @@ _Cite_:
   - Code du sport. - art. A331-7
 
 
-##### Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13<a id=474></a>
+##### Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13<a id=475></a>
 
 ###### Article A331-13
 
@@ -47239,7 +47325,7 @@ _Abrogé par_:
   - Arrêté du 3 mai 2012 - art. 2
 
 
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=475></a>
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=476></a>
 
 ###### Article A331-16
 
@@ -47442,7 +47528,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=476></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=477></a>
 
 ###### Article A331-22
 
@@ -47496,9 +47582,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=477></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=478></a>
 
-##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=478></a>
+##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=479></a>
 
 ###### Article A331-24
 
@@ -47540,7 +47626,7 @@ _Cite_:
   - Code du sport. - art. R331-10
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=479></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=480></a>
 
 ###### Article A331-32
 
@@ -47563,7 +47649,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe<a id=480></a>
+##### Section 4 : Organisation de manifestations publiques de boxe<a id=481></a>
 
 ###### Article A331-33
 
@@ -47670,9 +47756,9 @@ _Cité par_:
   - Code du sport. - art. A331-34 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=481></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=482></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=482></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=483></a>
 
 ###### Article A331-37
 
@@ -47767,13 +47853,13 @@ _Créé par_:
   - Arrêté du 4 août 2008 - art. 5
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=483></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=484></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=484></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=485></a>
 
-#### Chapitre unique<a id=485></a>
+#### Chapitre unique<a id=486></a>
 
-##### Section 2 : Organisation et fonctionnement<a id=486></a>
+##### Section 2 : Organisation et fonctionnement<a id=487></a>
 
 ###### Article A411-1
 
@@ -47928,9 +48014,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=487></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=488></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=488></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=489></a>
 
 ###### Article A421-1
 
@@ -48049,7 +48135,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=489></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=490></a>
 
 ###### Article A422-1
 
@@ -48082,7 +48168,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=490></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=491></a>
 
 ###### Article A423-1
 
@@ -48197,7 +48283,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=491></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=492></a>
 
 ###### Article A424-1
 
@@ -48298,7 +48384,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=492></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=493></a>
 
 ###### Article A425-1
 
@@ -48423,11 +48509,11 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-# ANNEXES<a id=493></a>
+# ANNEXES<a id=494></a>
 
-## Annexes partie réglementaire - Décrets<a id=494></a>
+## Annexes partie réglementaire - Décrets<a id=495></a>
 
-### Annexes I<a id=495></a>
+### Annexes I<a id=496></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -49755,7 +49841,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=496></a>
+### Annexes II<a id=497></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -50959,7 +51045,7 @@ _Cite_:
   - Code du sport. - art. R241-14 (V)
 
 
-### Annexes III<a id=497></a>
+### Annexes III<a id=498></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -51040,373 +51126,77 @@ _Cite_:
 
 ###### Article Annexe III-3 (art. R322-27)
 
-Les équipements de protection individuelle soumis aux dispositions du code du sport sont les suivants : 
+LISTE DES EPI-SL SOUMIS AUX DISPOSITIONS DU CODE DU SPORT 
 
-1. Les articles de protection des membres inférieurs et supérieurs : 
+1. Articles de protection de la tête tels que les casques, couvre-chefs légers. 
 
-Les chaussures comportant une partie spécifique assurant une protection ; 
+2. Articles de protection de tout ou partie de la face tels que les protège-dents, masques grilles et visières. 
 
-Les gants de protection, à l'exception des gants de ski ; 
+3. Articles de protection de l'œil tels que les lunettes et masques de natation et de plongée, lunettes et masques de
+protection contre le rayonnement solaire, y compris les lunettes d'éclipse solaire. 
 
-Les articles de protection des oreilles, à l'exception des articles de protection contre les conditions atmosphériques ; 
+4. Articles de protection de l'oreille tels que les coques et bandeaux de protection. 
 
-Les articles de protection contre le rayonnement solaire (lunettes, masques). 
+5. Articles de protection du tronc tels que les tours de cou, plastrons, carapaces dorsales, protège-coccyx, coquilles,
+sellettes et vêtements comportant des parties assurant une protection locale. 
 
-Ces équipements relèvent des dispositions de l'article R. 322-31 du code du sport. 
+6. Articles de protection des membres supérieurs tels que les épaulières, coudières, protège-poignets, gants, mitaines,
+vêtements comportant des parties assurant une protection. 
 
-2. Les masques et visières de protection de la face : 
+7. Articles de protection des membres inférieurs tels que les protège-genoux, protège-tibias, protège-chevilles, chaussures
+et vêtements comportant des parties renforcées assurant une protection. 
 
-Les protège-dents ; 
+8. Articles de protection contre les glissades tels que les crampons. 
 
-Les casques et bombes, à l'exception des casques destinés aux usagers de motocycles, cyclomoteurs et vélomoteurs pour
-utilisation sur la voie publique, et des casques et bombes pour cavaliers ; 
+9. Articles de prévention des noyades tels que les bouées destinées à la navigation de plaisance. 
 
-Les plastrons de protection ; 
+10. Articles d'aide à la flottabilité tels que les maillots de bain avec flotteurs intégrés, brassards. 
 
-Les coquilles de protection ; 
-
-Les bouées et brassières de natation ; 
-
-Les gilets de sécurité contre la noyade spécialement destinés à la navigation de plaisance. 
-
-Ces équipements relèvent des dispositions de l'article R. 322-32 du code du sport. 
-
-3. Les parachutes de secours pour parapente : 
-
-Ces équipements relèvent des dispositions de l'article R. 322-33 du code du sport.
+11. Accessoires de signalisation visuelle.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
 
 _Cité par_:
 
   - Code du sport. - art. R322-27 (VD)
-  - Code du sport. - art. R322-32 (VT)
-
-_Cite_:
-
   - Code du sport. - art. R322-31 (VT)
+  - Code du sport. - art. R322-32 (VT)
   - Code du sport. - art. R322-33 (VT)
 
 
-###### Article Annexe III-4 art R322-28 à R322-31
+###### Article Annexe III-4 (art. R322-27)
 
-**EXIGENCES ESSENTIELLES DE SANTÉ ET DE SÉCURITÉ.**
+LISTE EXHAUSTIVE DES GENRES D'ÉQUIPEMENTS DE PROTECTION INDIVIDUELLE
 
-I. - Exigences de portée générale applicables à tous les équipements de protection individuelle (EPI)
+(CI-APRÈS DÉNOMMÉS "EPI") N'ENTRANT PAS DANS LE CHAMP DU CODE DU SPORT
 
-Les EPI doivent assurer une protection adéquate contre les risques encourus.
+1. EPI conçus et fabriqués spécifiquement pour les forces armées ou de maintien de l'ordre tels que casques, boucliers. 
 
-1.1. Principe de conception.
+2. EPI d'autodéfense contre les agressions tels que générateurs aérosols, armes individuelles de dissuasion. 
 
-1.1.1. Ergonomie.
+3. EPI destinés à la protection ou au sauvetage des personnes embarquées à bord des navires ou aéronefs, et qui ne sont pas
+portés en permanence. 
 
-Les EPI doivent être conçus et fabriqués de façon telle que, dans les conditions d'emploi prévisibles auxquelles ils sont
-destinés, l'utilisateur puisse déployer normalement l'activité l'exposant à des risques, tout en disposant d'une protection
-de type approprié et d'un niveau aussi élevé que possible.
+4. Casques et visières destinés aux usagers de véhicules à moteur à deux ou trois roues. 
 
-1.1.2. Niveaux et classes de protection.
+5. Protections conçues et fabriquées pour un usage privé contre : 
 
-1.1.2.1. Niveaux de protection aussi élevés que possible.
+- les conditions atmosphériques (gants, notamment de ski, couvre-chefs, coupe-vent, vêtements de saison, chaussures et
+bottes, parapluies) ; 
 
-Le niveau de protection optimal à prendre en compte lors de la conception est celui au-delà duquel les contraintes résultant
-du port de l'EPI s'opposeraient à son utilisation effective pendant la durée d'exposition au risque, ou au déploiement normal
-de l'activité.
+- l'humidité, l'eau (gants de vaisselle) ; 
 
-1.1.2.2. Classes de protection appropriées à différents niveaux d'un risque.
-
-Lorsque diverses conditions d'emploi prévisibles conduisent à distinguer plusieurs niveaux d'un même risque, des classes de
-protection appropriées doivent être prises en compte lors de la conception de l'EPI.
-
-1.2. Innocuité des EPI.
-
-1.2.1. Absence de risques et autres facteurs de nuisance " autogènes ".
-
-Les EPI doivent être conçus et fabriqués de façon à ne pas engendrer de risques et autres facteurs de nuisance dans les
-conditions prévisibles d'emploi.
-
-1.2.2. Matériaux constitutifs appropriés.
-
-Les matériaux constitutifs des EPI et leurs éventuels produits de dégradation ne doivent pas avoir d'effets nocifs sur
-l'hygiène ou la santé de l'utilisateur.
-
-1.2.3. Etat de surface adéquat de toute partie d'un EPI en contact avec l'utilisateur.
-
-Toute partie d'un EPI en contact ou susceptible d'entrer en contact avec l'utilisateur pendant la durée du port doit être
-dépourvue d'aspérités, arêtes vives, pointes saillantes, etc., susceptibles de provoquer une irritation excessive ou des
-blessures.
-
-1.2.4. Entraves maximales admissibles pour l'utilisateur.
-
-Les EPI doivent s'opposer le moins possible aux gestes à accomplir, aux postures à prendre et à la perception des sens. En
-outre, ils ne doivent pas être à l'origine de gestes qui mettent l'utilisateur en danger.
-
-1.3. Facteurs de confort et d'efficacité.
-
-1.3.1. Adaptation des EPI à la morphologie de l'utilisateur.
-
-Les EPI doivent être conçus et fabriqués de façon telle qu'ils puissent être placés aussi aisément que possible sur
-l'utilisateur dans la position appropriée et s'y maintenir pendant la durée nécessaire prévisible du port, compte tenu des
-facteurs d'ambiance, des gestes à accomplir et des postures à prendre. Pour ce faire, les casques doivent pouvoir s'adapter
-au mieux à la morphologie de l'utilisateur, par tout moyen approprié, tel que les systèmes de réglage et de fixation
-adéquats, ou une variété suffisante de tailles et pointures.
-
-1.3.2. Légèreté et solidité de construction.
-
-Les EPI doivent être aussi légers que possible sans préjudice de leur solidité de construction ni de leur efficacité.
-
-Outre les exigences supplémentaires spécifiques, visées au point 3, auxquelles les EPI doivent satisfaire en vue d'assurer
-une protection efficace contre les risques à prévenir, ils doivent posséder une résistance suffisante contre les effets
-d'ambiance inhérents aux conditions prévisibles d'emploi.
-
-1.3.3. Compatibilité nécessaire entre les EPI destinés à être portés simultanément par l'utilisateur.
-
-Lorsque plusieurs modèles d'EPI de genres ou types différents sont mis sur le marché par un même fabricant en vue d'assurer
-simultanément la protection de parties voisines du corps, ils doivent être compatibles.
-
-1.4. Notice d'information du fabricant.
-
-La notice d'information établie et délivrée obligatoirement par le fabricant avec les EPI sur le marché doit contenir, outre
-les nom et adresse du fabricant et/ou de son mandataire établi dans un Etat de l'Union européenne, toute donnée utile
-concernant :
-
-a) Les instructions de stockage, d'emploi, de nettoyage, d'entretien, de révision et de désinfection. Les produits de
-nettoyage, d'entretien ou de désinfection préconisés par le fabricant ne doivent avoir, dans le cadre de leur mode d'emploi,
-aucun effet nocif sur les EPI ni sur l'utilisateur ;
-
-b) Les performances réalisées lors d'examens techniques visant à vérifier les niveaux ou classes de protection des EPI ;
-
-c) Les accessoires utilisables avec les EPI, ainsi que les caractéristiques de pièces de rechange appropriées ;
-
-d) Les classes de protection appropriées à différents niveaux de risques et les limites d'utilisation correspondantes ;
-
-e) La date ou le délai de péremption des EPI ou de certains de leurs composants ;
-
-f) Le genre d'emballage approprié au transport des EPI ;
-
-g) La signification du marquage, lorsqu'il en existe un.
-
-La notice d'information doit être rédigée de façon précise, compréhensible, et au moins dans la ou les langues officielles de
-l'Etat destinataire.
-
-II. - Exigences supplémentaires communes à plusieurs genres ou types d'EPI
-
-2.1. EPI comportant des systèmes de réglage.
-
-Lorsque des EPI comportent des systèmes de réglage, ceux-ci doivent être conçus et fabriqués de façon telle qu'après avoir
-été ajustés ils ne puissent se dérégler indépendamment de la volonté de l'utilisateur dans les conditions prévisibles
-d'emploi.
-
-2.2. EPI " enveloppant " les parties du corps à protéger.
-
-Les EPI " enveloppant " les parties du corps à protéger doivent être suffisamment aérés, dans la mesure du possible, pour
-limiter la transpiration résultant du port ; à défaut, ils doivent être dotés si possible de dispositifs permettant
-d'absorber la sueur.
-
-2.3. EPI du visage, des yeux ou des voies respiratoires.
-
-Les EPI du visage, des yeux ou des voies respiratoires doivent restreindre le moins possible le champ visuel et la vue de
-l'utilisateur.
-
-Les systèmes oculaires de ces genres d'EPI doivent posséder un degré de neutralité optique compatible avec la nature des
-activités plus ou moins minutieuses et/ou prolongées de l'utilisateur.
-
-Si besoin est, ils doivent être traités ou dotés de dispositifs permettant d'éviter la formation de buée.
-
-Les modèles d'EPI destinés aux utilisateurs faisant l'objet d'une correction oculaire doivent être compatibles avec le port
-de lunettes ou lentilles de contact correctrices.
-
-2.4. EPI sujet à un vieillissement.
-
-Lorsque les performances visées par le concepteur pour les EPI à l'état neuf sont reconnues comme susceptibles d'être
-affectées de façon sensible par un phénomène de vieillissement, la date de fabrication et/ou, si possible, la date de
-péremption doivent être marquées, de façon indélébile et sans risques de mauvaise interprétation, sur chaque spécimen ou
-composant interchangeable d'EPI mis sur le marché, ainsi que sur l'emballage.
-
-A défaut de pouvoir s'engager sur la " durée de vie " d'un EPI, le fabricant doit mentionner dans sa notice d'information
-toute donnée utile permettant à l'acquéreur ou à l'utilisateur de déterminer un délai de péremption raisonnablement
-praticable, compte tenu du niveau de qualité du modèle et des conditions effectives de stockage, d'emploi, de nettoyage, de
-révision et d'entretien.
-
-Dans le cas où une altération rapide et sensible des performances des EPI est censée résulter du vieillissement imputable à
-la mise en oeuvre périodique d'un procédé de nettoyage préconisé par le fabricant, ce dernier doit apposer, si possible sur
-chaque spécimen d'EPI mis sur le marché, un marquage indiquant le nombre maximal de nettoyages au-delà duquel il y a lieu de
-réviser ou de réformer l'équipement ; à défaut, le fabricant doit mentionner cette donnée dans sa note d'information.
-
-2.5. EPI susceptibles d'être happés au cours de leur utilisation.
-
-Lorsque les conditions d'emploi prévisibles incluent en particulier un risque de happement de l'EPI par un objet en mouvement
-susceptible d'engendrer de ce fait un danger pour l'utilisateur, l'EPI doit posséder un seuil de résistance approprié au-delà
-duquel la rupture de ses éléments constitutifs permet d'éliminer le danger.
-
-2.6. EPI destinés à des interventions rapides ou devant être mis en place et/ou ôtés rapidement.
-
-Ces genres d'EPI doivent être conçus et fabriqués de façon à pouvoir être mis en place et/ou ôtés dans un laps de temps aussi
-bref que possible.
-
-Lorsqu'ils comportent des systèmes de fixation et d'extraction permettant de les maintenir en position appropriée sur
-l'utilisateur ou de les ôter, ceux-ci doivent pouvoir être manoeuvrés aisément et rapidement.
-
-2.7. EPI comportant des composants réglables ou amovibles par l'utilisateur.
-
-Lorsque des EPI comportent des composants réglables ou amovibles par l'utilisateur à des fins de rechange, ceux-ci doivent
-être conçus et fabriqués de manière à pouvoir être réglés, montés et démontés aisément sans outil.
-
-2.8. EPI raccordables à un autre dispositif complémentaire, extérieur à l'EPI.
-
-Lorsque des EPI sont dotés d'un système de liaison raccordable à un autre dispositif complémentaire, leur organe de
-raccordement doit être conçu et fabriqué de manière à ne pouvoir être monté que sur un dispositif de type approprié.
-
-2.9. EPI comportant un système à circulation de fluide.
-
-Lorsque des EPI comportent un système à circulation de fluide, celui-ci doit être choisi, ou conçu, et agencé de manière à
-assurer un renouvellement approprié du fluide au voisinage de l'ensemble de la partie du corps à protéger, quels que soient
-les gestes, postures ou mouvements de l'utilisateur dans les conditions prévisibles d'emploi.
-
-2.10. EPI portant une ou plusieurs marques de repérage ou de signalisation concernant directement ou indirectement la santé
-et la sécurité.
-
-Les marques de repérage ou de signalisation concernant directement ou indirectement la santé et la sécurité, portées par ces
-genres ou types d'EPI, doivent être de préférence des pictogrammes ou idéogrammes harmonisés parfaitement lisibles et le
-demeurer pendant la " durée de vie " prévisible de ces EPI. Ces marques doivent être en outre complètes, précises et
-compréhensibles, afin d'éviter toute mauvaise interprétation ; en particulier, lorsque de telles marques comportent des mots
-ou des phrases, ceux-ci doivent être rédigés dans la ou les langues officielles de l'Etat d'utilisation.
-
-Lorsque les dimensions restreintes d'un EPI (ou composant d'EPI) ne permettent pas d'y apposer tout ou partie du marquage
-nécessaire, celui-ci doit être mentionné sur l'emballage et dans la notice d'information du fabricant.
-
-2.11. EPI vestimentaires appropriés à la signalisation visuelle de l'utilisateur.
-
-Les EPI vestimentaires destinés à des conditions prévisibles d'emploi dans lesquelles il est nécessaire de signaler
-individuellement et visuellement la présence de l'utilisateur doivent comporter un ou plusieurs dispositifs ou moyens
-judicieusement placés, émetteurs d'un rayonnement visible direct ou réfléchi ayant une intensité lumineuse et des propriétés
-photométriques et colorimétriques appropriées.
-
-2.12. EPI " multirisques ".
-
-Tout EPI destiné à protéger l'utilisateur contre plusieurs risques susceptibles d'être encourus simultanément doit être conçu
-et fabriqué de manière à satisfaire en particulier aux exigences essentielles spécifiques à chacun de ces risques (voir le
-point 3).
-
-III. - Exigences supplémentaires spécifiques aux risques à prévenir
-
-3.1. Protection contre les chocs mécaniques.
-
-3.1.1. Chocs résultant de chutes ou projections d'objets et impacts d'une partie du corps contre un obstacle.
-
-Les EPI appropriés à ce genre de risques doivent pouvoir amortir les effets d'un choc en évitant toute lésion, en particulier
-par écrasement ou pénétration de la partie protégée, tout au moins jusqu'à un niveau d'énergie du choc au-delà duquel les
-dimensions ou la masse excessives du dispositif amortisseur s'opposeraient à l'utilisation effective des EPI pendant la durée
-nécessaire prévisible du port.
-
-3.1.2. Prévention des chutes par glissade.
-
-Les semelles d'usure des articles chaussants appropriés à la prévention des glissades doivent être conçues, fabriquées ou
-dotées de dispositifs rapportés appropriés de façon à assurer une bonne adhérence, par engrènement ou par frottement en
-fonction de la nature ou de l'état du sol.
-
-3.1.3. Prévention des chutes de hauteurs.
-
-Les EPI destinés à prévenir les chutes de hauteurs ou leurs effets doivent comporter un dispositif de préhension du corps et
-un système de liaison raccordable à un point d'ancrage sûr. Ils doivent être conçus et fabriqués de façon telle que,
-lorsqu'ils sont utilisés dans les conditions prévisibles d'emploi, la dénivellation du corps soit aussi faible que possible
-pour éviter tout impact contre un obstacle, sans que la force de freinage n'atteigne pour autant le seuil d'occurrence de
-lésions corporelles, ni celui d'ouverture ou de rupture d'un composant de ces EPI d'où pourrait résulter la chute de
-l'utilisateur.
-
-Ils doivent en outre assurer, à l'issue du freinage, une position de l'utilisateur lui permettant, le cas échéant, d'attendre
-des secours.
-
-Le fabricant doit préciser en particulier dans sa notice d'information toute donnée utile concernant :
-
-- les caractéristiques requises pour le point d'ancrage sûr, ainsi que le " tirant d'air " minimal nécessaire en dessous de
-l'utilisateur ;
-
-- la façon adéquate d'endosser le dispositif de préhension du corps et de raccorder son système de liaison au point d'ancrage
-sûr.
-
-3.1.4. Vibrations mécaniques.
-
-Les EPI destinés à la prévention des effets des vibrations mécaniques doivent pouvoir en atténuer de façon appropriée les
-composantes vibratoires nocives pour la partie du corps à protéger.
-
-La valeur efficace des accélérations transmises par ces vibrations à l'utilisateur ne doit en aucun cas excéder les valeurs
-limites recommandées en fonction de la durée d'exposition quotidienne maximale prévisible de la partie du corps à protéger.
-
-3.2. Protection contre la compression (statique) d'une partie du corps.
-
-Les EPI destinés à protéger une partie du corps contre les contraintes de compression (statique) doivent pouvoir en atténuer
-les effets de façon à prévenir les lésions aiguës ou des affections chroniques.
-
-3.3. Protection contre les agressions physiques (frottement, piqûres, coupures, morsures).
-
-Les matériaux constitutifs et autres composants des EPI destinés à la protection de tout ou partie du corps contre des
-agressions mécaniques superficielles telles que des frottements, piqûres, coupures ou morsures doivent être choisis ou conçus
-et agencés de façon telle que ces genres d'EPI possèdent une résistance à l'abrasion, à la perforation et à la coupure par
-tranchage (voir aussi le point 3.1) approprié aux conditions prévisibles d'emploi.
-
-3.4. Prévention des noyades.
-
-Les EPI destinés à la prévention des noyades doivent pouvoir faire remonter aussi vite que possible à la surface, sans porter
-atteinte à sa santé, l'utilisateur éventuellement épuisé ou sans connaissance plongé dans un milieu liquide et le faire
-flotter dans une position lui permettant de respirer dans l'attente des secours.
-
-Les EPI peuvent présenter une flottabilité intrinsèque totale ou partielle ou encore obtenue par gonflage soit au moyen d'un
-gaz libéré automatiquement ou manuellement, soit à la bouche.
-
-Dans les conditions prévisibles d'emploi :
-
-- les EPI doivent pouvoir résister, sans préjudice à leur bon fonctionnement, aux effets de l'impact avec le milieu liquide
-ainsi qu'aux facteurs d'ambiance inhérents à ce milieu ;
-
-- les EPI gonflables doivent pouvoir se gonfler rapidement et complètement.
-
-Lorsque des conditions prévisibles d'emploi particulières l'exigent, certains types d'EPI doivent satisfaire en outre à une
-ou plusieurs des exigences complémentaires suivantes :
-
-- comporter l'ensemble des dispositifs de gonflage visés au deuxième alinéa et/ou un dispositif de signalisation lumineuse ou
-sonore ;
-
-- comporter un dispositif d'accrochage et de préhension du corps permettant d'extraire l'utilisateur du milieu liquide ;
-
-- être appropriés à un emploi prolongé pendant toute une durée de l'activité exposant l'utilisateur éventuellement habillé à
-un risque de chute ou nécessitant sa plongée dans le milieu liquide.
-
-3.5. Protection contre le froid.
-
-Les EPI destinés à préserver tout ou partie du corps contre les effets du froid doivent posséder un pouvoir d'isolation
-thermique et une résistance mécanique appropriés aux conditions prévisibles d'emploi pour lesquelles ils sont mis sur le
-marché.
-
-3.6. Protection contre le rayonnement solaire.
-
-Les EPI destinés à l'atténuation ou à la prévention contre les effets nocifs de la lumière du jour dans la vie courante
-doivent pouvoir absorber ou réfléchir la majeure partie de l'énergie rayonnée notamment dans le domaine de longueurs d'ondes
-UVB ou UVC du spectre solaire. Cela ne doit pas pour autant altérer de façon excessive la perception des contrastes et la
-distinction des couleurs lorsque les conditions d'emploi prévisibles l'exigent.
-
-A cet effet, les filtres et lunettes solaires doivent être conçus et fabriqués de manière à disposer pour chaque longueur
-d'onde nocive (UVB et UVC) d'un facteur spectral de transmission tel que la densité d'éclairement énergétique du rayonnement
-de la lumière du jour susceptible d'atteindre l'oeil de l'utilisateur à travers le filtre ou lunette solaire n'excède en
-aucun cas la valeur limite d'exposition maximale admissible.
-
-En outre, les oculaires ne doivent pas se détériorer ni perdre leurs propriétés sous l'effet du rayonnement solaire rencontré
-dans les conditions d'emploi prévisibles et chaque spécimen mis sur le marché doit être caractérisé par la classe de
-protection à laquelle correspond la courbe de distribution et de son facteur de transmission.
-
-Les filtres et lunettes contre la lumière du jour doivent être classés suivant l'usage et le degré d'atténuation définis par
-la courbe de transmission.
-
-La classe de protection de chaque spécimen de lunette contre la lumière du jour doit être indiquée par le fabricant.
+- la chaleur (gants).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
 
 _Cité par_:
 
@@ -51415,24 +51205,310 @@ _Cité par_:
   - Code du sport. - art. R322-31 (VT)
 
 
-###### Article Annexe III-5 (art. R322-30)
+###### Article Annexe III-5 (art. R322-29)
 
-**MARQUAGE " CE ". **
+EXIGENCES ESSENTIELLES DE SANTÉ ET DE SÉCURITÉ 
 
-Le marquage de conformité " CE " est constitué par le symbole suivant : 
+I. - Exigences de portée générale applicables à tous les EPI-SL
 
-+ n° distinctif de l'organisme (1) 
+Les EPI-SL assurent une protection adéquate contre les risques encourus. 
 
-Les différents éléments de ce marquage doivent avoir sensiblement la même dimension verticale, laquelle ne peut être
-inférieure à 5 mm. Il peut être dérogé à cette dimension pour les équipements de petite taille. 
+1.1. Principe de conception 
 
-(1) Si intervention d'un organisme au titre des procédures définies aux articles R. 322-35 et R. 322-36 du code du sport.
+1.1.1. Ergonomie 
+
+Les EPI-SL sont conçus et fabriqués de façon telle que, dans les conditions d'emploi prévisibles auxquelles ils sont
+destinés, l'utilisateur puisse déployer normalement l'activité l'exposant à des risques, tout en disposant d'une protection
+appropriée et d'un niveau aussi élevé que possible. 
+
+1.1.2. Niveaux et classes de protection 
+
+1.1.2.1. Niveaux de protection aussi élevés que possible 
+
+Le niveau de protection optimal à prendre en compte lors de la conception est celui au-delà duquel les contraintes résultant
+du port de l'EPI-SL s'opposeraient à son utilisation effective pendant la durée d'exposition au risque, ou au déploiement
+normal de l'activité. 
+
+1.1.2.2. Classes de protection appropriées à différents niveaux d'un risque 
+
+Lorsque diverses conditions d'emploi prévisibles conduisent à distinguer plusieurs niveaux d'un même risque, des classes de
+protection appropriées sont prises en compte lors de la conception de l'EPI-SL. 
+
+1.2. Innocuité des EPI-SL 
+
+1.2.1. Absence de risques et autres facteurs de nuisance "autogènes" 
+
+Les EPI-SL sont conçus et fabriqués de façon à ne pas engendrer de risques et autres facteurs de nuisance dans les conditions
+prévisibles d'emploi. 
+
+1.2.1.1. Matériaux constitutifs appropriés 
+
+Les matériaux constitutifs des EPI-SL et leurs éventuels produits de dégradation n'ont pas d'effets nocifs sur l'hygiène ou
+la santé de l'utilisateur. 
+
+1.2.1.2. Etat de surface adéquat de toute partie d'un EPI-SL en contact avec l'utilisateur 
+
+Toute partie d'un EPI-SL en contact ou susceptible d'entrer en contact avec l'utilisateur pendant la durée du port est
+dépourvue d'aspérités, arêtes vives, pointes saillantes, etc., susceptibles de provoquer une irritation excessive ou des
+blessures. 
+
+1.2.1.3. Entraves maximales admissibles pour l'utilisateur 
+
+Les EPI-SL s'opposent le moins possible aux gestes à accomplir, aux postures à prendre et à la perception des sens. En outre,
+ils ne sont pas à l'origine de gestes qui mettent l'utilisateur ou d'autres personnes en danger. 
+
+1.3. Facteurs de confort et d'efficacité 
+
+1.3.1. Adaptation des EPI-SL à la morphologie de l'utilisateur 
+
+Les EPI-SL sont conçus et fabriqués de façon telle qu'ils puissent être placés aussi aisément que possible sur l'utilisateur
+dans la position appropriée et s'y maintenir pendant la durée nécessaire prévisible du port, compte tenu des facteurs
+d'ambiance, des gestes à accomplir et des postures à prendre. 
+
+Pour ce faire, les EPI-SL doivent pouvoir s'adapter au mieux à la morphologie de l'utilisateur, par tout moyen approprié, tel
+que les systèmes de réglage et de fixation adéquats, ou une variété suffisante de tailles et pointures. 
+
+1.3.2. Légèreté et solidité de construction 
+
+Les EPI-SL sont aussi légers que possible sans préjudice de leur solidité de construction ni de leur efficacité. 
+
+Outre les exigences supplémentaires spécifiques, visées au point 3, auxquelles les EPI-SL satisfont en vue d'assurer une
+protection efficace contre les risques à prévenir, ils possèdent une résistance suffisante contre les effets d'ambiance
+inhérents aux conditions prévisibles d'emploi. 
+
+1.3.3. Compatibilité nécessaire entre les EPI-SL destinés à être portés simultanément par l'utilisateur 
+
+Lorsque plusieurs modèles d'EPI-SL de genres ou types différents sont mis sur le marché par un même fabricant en vue
+d'assurer simultanément la protection de parties voisines du corps, ils sont compatibles. 
+
+1.4. Notice d'information du fabricant 
+
+La notice d'information établie et délivrée obligatoirement par le fabricant avec les EPI-SL mis sur le marché contient,
+outre les nom et adresse du fabricant ou de son mandataire établi dans la Communauté européenne, toute donnée utile
+concernant : 
+
+a) Les instructions de stockage, d'emploi, de nettoyage, d'entretien, de révision et de désinfection. Les produits de
+nettoyage, d'entretien ou de désinfection préconisés par le fabricant n'ont, dans le cadre de leur mode d'emploi, aucun effet
+nocif sur les EPI-SL ni sur l'utilisateur ; 
+
+b) Les performances réalisées lors d'examens techniques visant à vérifier les niveaux ou classes de protection des EPI-SL ; 
+
+c) Les accessoires utilisables avec les EPI-SL, ainsi que les caractéristiques de pièces de rechange appropriées ; 
+
+d) Les classes de protection appropriées à différents niveaux de risques et les limites d'utilisation correspondantes ; 
+
+e) La date ou le délai de péremption des EPI-SL ou de certains de leurs composants ; 
+
+f) Le genre d'emballage approprié au transport des EPI-SL ; 
+
+g) La signification du marquage, lorsqu'il en existe un ; 
+
+h) Le cas échéant, les références des directives européennes appliquées prévoyant l'apposition du marquage "CE" ; 
+
+i) Les nom et adresse ainsi que le numéro d'identification de l'organisme ayant délivré l'attestation "CE" de type. 
+
+La notice d'information est rédigée en langue française, de façon précise et compréhensible. 
+
+II. - Exigences supplémentaires communes à plusieurs genres d'EPI-SL 
+
+2.1. EPI-SL comportant des systèmes de réglage 
+
+Lorsque des EPI-SL comportent des systèmes de réglage, ceux-ci sont conçus et fabriqués de façon telle qu'après avoir été
+ajustés ils ne puissent se dérégler indépendamment de la volonté de l'utilisateur dans les conditions prévisibles d'emploi. 
+
+2.2. EPI-SL "enveloppant" les parties du corps à protéger 
+
+Les EPI-SL "enveloppant" les parties du corps à protéger sont suffisamment aérés, dans la mesure du possible, pour limiter la
+transpiration résultant du port ; à défaut, ils sont dotés si possible de dispositifs permettant d'absorber la sueur. 
+
+2.3. EPI-SL du visage ou des yeux 
+
+Les EPI-SL du visage ou des yeux restreignent le moins possible le champ visuel et la vue de l'utilisateur. 
+
+Les systèmes oculaires de ces genres d'EPI-SL possèdent un degré de neutralité optique compatible avec la nature des
+activités plus ou moins minutieuses ou prolongées de l'utilisateur. 
+
+Si besoin est, ils sont traités ou dotés de dispositifs permettant d'éviter la formation de buée. 
+
+Les modèles d'EPI-SL destinés aux utilisateurs faisant l'objet d'une correction oculaire sont compatibles avec le port de
+lunettes ou lentilles de contact correctrices. 
+
+2.4. EPI-SL sujets à un vieillissement 
+
+Lorsque les performances visées par le concepteur pour les EPI-SL à l'état neuf sont reconnues comme susceptibles d'être
+affectées de façon sensible par un phénomène de vieillissement, la date de fabrication ou, si possible, la date de péremption
+sont marquées, de façon indélébile et sans risques de mauvaise interprétation, sur chaque spécimen ou composant
+interchangeable d'EPI-SL mis sur le marché, ainsi que sur l'emballage.
+
+A défaut de pouvoir s'engager sur la durée de vie d'un EPI-SL, le fabricant mentionne dans sa notice d'information toute
+donnée utile permettant à l'acquéreur ou à l'utilisateur de déterminer un délai de péremption raisonnablement praticable,
+compte tenu du niveau de qualité du modèle et des conditions effectives de stockage, d'emploi, de nettoyage, de révision et
+d'entretien. 
+
+Dans le cas où une altération rapide et sensible des performances des EPI-SL est censée résulter du vieillissement imputable
+à la mise en œuvre périodique d'un procédé de nettoyage préconisé par le fabricant, ce dernier appose, si possible sur chaque
+spécimen d'EPI-SL mis sur le marché, un marquage indiquant le nombre maximal de nettoyages au-delà duquel il y a lieu de
+réviser ou de réformer l'équipement ; à défaut, le fabricant mentionne cette donnée dans sa notice d'information. 
+
+2.5. EPI-SL susceptibles d'être happés au cours de leur utilisation 
+
+Lorsque les conditions d'emploi prévisibles incluent en particulier un risque de happement de l'EPI-SL par un objet en
+mouvement susceptible d'engendrer de ce fait un danger pour l'utilisateur, l'EPI-SL possède un seuil de résistance approprié
+au-delà duquel la rupture de l'un de ses éléments constitutifs permet d'éliminer le danger. 
+
+2.6. EPI-SL destinés à des interventions rapides ou devant être mis en place et /ou enlevés rapidement 
+
+Ces genres d'EPI-SL sont conçus et fabriqués de façon à pouvoir être mis en place ou enlevés dans un laps de temps aussi bref
+que possible. 
+
+Lorsqu'ils comportent des systèmes de fixation et d'extraction permettant de les maintenir en position appropriée sur
+l'utilisateur ou de les enlever, ceux-ci doivent pouvoir être manœuvrés aisément et rapidement. 
+
+2.7. EPI-SL comportant des composants réglables ou amovibles par l'utilisateur 
+
+Lorsque des EPI-SL comportent des composants réglables ou amovibles par l'utilisateur à des fins de rechange, ceux-ci sont
+conçus et fabriqués de manière à pouvoir être réglés, montés et démontés aisément sans outil. 
+
+2.8. EPI-SL raccordables à un autre dispositif complémentaire, extérieur à l'EPI-SL 
+
+Lorsque des EPI-SL sont dotés d'un système de liaison raccordable à un autre dispositif complémentaire, leur organe de
+raccordement est conçu et fabriqué de manière à ne pouvoir être monté que sur un dispositif de type approprié. 
+
+2.9. EPI-SL comportant un système à circulation de fluide 
+
+Lorsque des EPI-SL comportent un système à circulation de fluide, celui-ci est choisi, ou conçu, et agencé de manière à
+assurer un renouvellement approprié du fluide au voisinage de l'ensemble de la partie du corps à protéger, quels que soient
+les gestes, postures ou mouvements de l'utilisateur dans les conditions prévisibles d'emploi. 
+
+2.10. EPI-SL portant une ou plusieurs marques de repérage ou de signalisation concernant directement ou indirectement la
+santé et la sécurité 
+
+Les marques de repérage ou de signalisation concernant directement ou indirectement la santé et la sécurité, portées par ces
+genres d'EPI-SL, sont de préférence des pictogrammes ou idéogrammes harmonisés parfaitement lisibles et le demeurent pendant
+la durée de vie prévisible de ces EPI-SL. 
+
+Ces marques sont en outre complètes, précises et compréhensibles, afin d'éviter toute mauvaise interprétation. En
+particulier, lorsque de telles marques comportent des mots ou des phrases, ceux-ci sont rédigés dans la ou les langues
+officielles de l'Etat membre d'utilisation. 
+
+Lorsque les dimensions restreintes d'un EPI-SL (ou composant d'EPI-SL) ne permettent pas d'y apposer tout ou partie du
+marquage nécessaire, celui-ci est mentionné sur l'emballage et dans la notice d'information du fabricant. 
+
+2.11. EPI-SL vestimentaires et accessoires appropriés à la signalisation visuelle 
+
+Les EPI-SL vestimentaires ainsi que les accessoires destinés, dans des conditions prévisibles d'emploi, à signaler
+individuellement et visuellement la présence de l'utilisateur comportent un ou plusieurs dispositifs ou moyens judicieusement
+placés, émetteurs d'un rayonnement visible direct ou réfléchi, ayant une intensité lumineuse et des propriétés photométriques
+et colorimétriques appropriées. 
+
+2.12. EPI-SL "multirisques " 
+
+Tout EPI-SL destiné à protéger l'utilisateur contre plusieurs risques susceptibles d'être encourus simultanément est conçu et
+fabriqué de manière à satisfaire en particulier aux exigences essentielles spécifiques à chacun de ces risques (voir le point
+III). 
+
+III. - Exigences supplémentaires spécifiques aux risques à prévenir 
+
+3.1. Protection contre les chocs mécaniques 
+
+3.1.1. Chocs résultant de chutes ou projections d'objets et impacts d'une partie du corps contre un obstacle 
+
+Les EPI-SL appropriés à ce genre de risques doivent pouvoir amortir les effets d'un choc en évitant toute lésion, en
+particulier par écrasement ou pénétration de la partie protégée, tout au moins jusqu'à un niveau d'énergie du choc au-delà
+duquel les dimensions ou la masse excessives du dispositif amortisseur s'opposeraient à l'utilisation effective des EPI-SL
+pendant la durée nécessaire prévisible du port. 
+
+3.1.2. Chutes des personnes 
+
+3.1.2.1. Prévention des chutes par glissade 
+
+Les semelles d'usure des articles chaussants appropriés à la prévention des glissades sont conçues, fabriquées ou dotées de
+dispositifs rapportés appropriés, de façon à assurer une bonne adhérence, par engrènement ou par frottement en fonction de la
+nature ou de l'état du sol. 
+
+3.1.3. Vibrations mécaniques 
+
+Les EPI-SL destinés à la prévention des effets des vibrations mécaniques doivent pouvoir en atténuer de façon appropriée les
+composantes vibratoires nocives pour la partie du corps à protéger. 
+
+La valeur efficace des accélérations transmises par ces vibrations à l'utilisateur n'excède en aucun cas les valeurs limites
+recommandées en fonction de la durée d'exposition quotidienne maximale prévisible de la partie du corps à protéger. 
+
+3.2. Protection contre la compression (statique) d'une partie du corps 
+
+Les EPI-SL destinés à protéger une partie du corps contre les contraintes de compression (statique) doivent pouvoir en
+atténuer les effets de façon à prévenir les lésions aiguës ou des affections chroniques. 
+
+3.3. Protection contre les agressions physiques (frottement, piqûres, coupures, morsures) 
+
+Les matériaux constitutifs et autres composants des EPI-SL destinés à la protection de tout ou partie du corps contre des
+agressions mécaniques superficielles telles que des frottements, piqûres, coupures ou morsures sont choisis ou conçus et
+agencés de façon telle que ces genres d'EPI-SL possèdent une résistance à l'abrasion, à la perforation et à la coupure par
+tranchage (voir aussi le point 3.1) approprié aux conditions prévisibles d'emploi. 
+
+3.4. Prévention des noyades et aides à la flottabilité 
+
+3.4.1. Prévention des noyades 
+
+Les EPI-SL destinés à la prévention des noyades doivent pouvoir faire remonter aussi vite que possible à la surface, sans
+porter atteinte à sa santé, l'utilisateur éventuellement épuisé ou sans connaissance plongé dans un milieu liquide et le
+faire flotter dans une position lui permettant de respirer dans l'attente des secours. Les EPI-SL doivent pouvoir présenter
+une flottabilité intrinsèque totale ou partielle ou encore obtenue par gonflage soit au moyen d'un gaz libéré automatiquement
+ou manuellement, soit à la bouche. 
+
+Dans les conditions prévisibles d'emploi : 
+
+- les EPI-SL doivent pouvoir résister, sans préjudice à leur bon fonctionnement, aux effets de l'impact avec le milieu
+liquide ainsi qu'aux facteurs d'ambiance inhérents à ce milieu ; 
+
+- les EPI-SL gonflables doivent pouvoir se gonfler rapidement et complètement. 
+
+Lorsque des conditions prévisibles d'emploi particulières l'exigent, certains genres d'EPI-SL satisfont en outre à une ou
+plusieurs des exigences complémentaires suivantes : 
+
+- comporter l'ensemble des dispositifs de gonflage visés au deuxième alinéa ou un dispositif de signalisation lumineuse ou
+sonore ; 
+
+- comporter un dispositif d'accrochage et de préhension du corps permettant d'extraire l'utilisateur du milieu liquide ; 
+
+- être appropriés à un emploi prolongé pendant toute une durée de l'activité exposant l'utilisateur éventuellement habillé à
+un risque de chute ou nécessitant sa plongée dans le milieu liquide. 
+
+3.4.2. Aides à la flottabilité 
+
+Il s'agit d'un vêtement assurant un degré de flottabilité efficace en fonction de son utilisation prévisible, d'un port sûr
+et apportant un soutien positif dans l'eau. Dans les conditions prévisibles d'emploi, cet EPI-SL n'entrave pas la liberté des
+mouvements de l'utilisateur en lui permettant notamment de nager ou d'agir pour échapper à un danger ou secourir d'autres
+personnes. 
+
+3.5. Protection contre le rayonnement solaire 
+
+Les EPI-SL destinés à la prévention des effets aigus ou chroniques des sources de rayonnements non ionisants sur l'œil
+doivent pouvoir absorber ou réfléchir la majeure partie de l'énergie rayonnée dans les longueurs d'ondes nocives, sans
+altérer pour autant de façon excessive la transmission de la partie non nocive du spectre visible, la perception des
+contrastes et la distinction des couleurs lorsque les conditions d'emploi prévisibles l'exigent.
+
+A cet effet, les oculaires protecteurs sont conçus et fabriqués de manière à disposer notamment, pour chaque onde nocive,
+d'un facteur spectral de transmission tel que la densité d'éclairement énergétique du rayonnement susceptible d'atteindre
+l'œil de l'utilisateur à travers le filtre soit aussi faible que possible et n'excède en aucun cas la valeur limite
+d'exposition maximale admissible. 
+
+En outre, les oculaires ne se détériorent pas et ne perdent pas leurs propriétés sous l'effet du rayonnement solaire dans les
+conditions d'emploi prévisibles, et chaque spécimen mis sur le marché est caractérisé par le numéro d'échelon de protection
+auquel correspond la courbe de la distribution spectrale de son facteur de transmission. 
+
+Les oculaires appropriés à des sources de rayonnement du même genre sont classés dans l'ordre croissant de leurs numéros
+d'échelon de protection, et le fabricant présente, en particulier dans sa notice d'information, les courbes de transmission
+permettant de choisir l'EPI-SL le plus approprié, compte tenu de facteurs inhérents aux conditions d'emploi effectives, tels
+que la distance par rapport à la source et la distribution spectrale de l'énergie rayonnée à cette distance. 
+
+Le numéro d'échelon de protection de chaque spécimen d'oculaire filtrant est marqué par le fabricant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
 
 _Cité par_:
 
@@ -51441,41 +51517,26 @@ _Cité par_:
   - Code du sport. - art. R322-30 (VT)
   - Code du sport. - art. R322-37 (VD)
 
-_Cite_:
 
-  - Code du sport. - art. R322-35 (VT)
+###### Article Annexe III-6 (art R322-29)
 
+Le marquage "CE" de conformité est constitué des initiales "CE" selon le graphisme suivant : 
 
-###### Article Annexe III-6 (art. R322-31)
+Vous pouvez consulter le cliché dans le JO 
 
-**DÉCLARATION DE CONFORMITÉ " CE ".**
+n° 169 du 24/07/2009 texte numéro 11 
 
-Raison sociale et adresse (1),
+En cas de réduction ou d'agrandissement du marquage "CE", les proportions telles qu'elles ressortent du graphisme figurant
+ci-dessus sont respectées. 
 
-déclare que le modèle d'équipement de protection individuelle décrit ci-après (2)
-
-est conforme aux dispositions du décret n° 
-
-est conforme à la norme (3).
-
-Fait à , le 
-
-Signature (4) 
-
-(1) En cas de mandataire ou de responsable de la première mise sur le marché, indiquer également la raison sociale et
-l'adresse du fabricant.
-
-(2) Description (marque, type, numéro de série, etc.).
-
-(3) Si réalisation d'un essai de conformité aux normes.
-
-(4) Nom et fonction du signataire.
+Les différents éléments de ce marquage ont sensiblement la même dimension verticale, laquelle ne peut être inférieure à 5 mm.
+Il peut être dérogé à cette dimension pour les équipements de petite taille.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
 
 _Cité par_:
 
@@ -51483,22 +51544,40 @@ _Cité par_:
   - Code du sport. - art. R322-34 (V)
 
 
-###### Article Annexe III-7 (art. R322-31)
+###### Article Annexe III-7
 
-DOCUMENTATION TECHNIQUE
+(Articles R. 322-32 et R. 322-33) 
 
-La documentation technique doit comporter :
+DÉCLARATION DE CONFORMITÉ "CE" 
 
-- la description des moyens mis en oeuvre en vue d'obtenir la conformité de l'équipement de protection individuelle avec les
-exigences essentielles de santé et de sécurité le concernant ;
+Le fabricant, son mandataire ou, à défaut, tout responsable de la mise sur le marché établi dans la Communauté européenne
+(raison sociale, adresse complète ; en cas de mandataire, indiquer également la raison sociale et l'adresse du fabricant) 
 
-- la description des moyens de contrôle et d'essais mis en oeuvre dans l'unité de production du fabricant.
+déclare que le modèle d'EPI-SL neuf, décrit ci-après (genre, marque, type, numéro de série, etc.) 
+
+(pour tous les EPI-SL) 
+
+est conforme aux dispositions de la section 4 du chapitre II du titre II du livre III de la partie réglementaire du code du
+sport et, le cas échéant, à la norme nationale transposant la norme européenne harmonisée (référence et date de la norme) 
+
+(en plus, pour les EPI-SL de catégorie 2) 
+
+est identique à l'EPI-SL ayant fait l'objet de l'attestation d'examen "CE" de type n° 
+
+délivrée par (nom et adresse de l'organisme notifié ayant réalisé l'examen "CE" de type). 
+
+Fait à, le 
+
+Signature 
+
+(nom et fonction du signataire ayant reçu pouvoir pour engager le fabricant, son mandataire ou, à défaut, le responsable de
+la mise sur le marché)
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
 
 _Cité par_:
 
@@ -51507,37 +51586,38 @@ _Cité par_:
   - Code du sport. - art. R322-33 (VD)
 
 
-###### Article Annexe III-8 (art. R322-32)
+###### Article Annexe III-8
 
-**DÉCLARATION DE CONFORMITÉ " CE ".**
+(Articles R. 322-32 et R. 322-33) 
 
-Raison sociale et adresse (1),
+DOCUMENTATION TECHNIQUE 
 
-déclare que le modèle d'équipement de protection individuelle décrit ci-après (2)
+La documentation technique visée aux articles R. 322-32 et R. 322-33 comporte toute donnée utile sur les moyens mis en œuvre
+par le fabricant en vue d'obtenir la conformité d'un EPI-SL avec les exigences essentielles le concernant. 
 
-est conforme aux dispositions du décret n° ...
+Dans le cas des EPI-SL visés à l'article R. 322-33 du présent code, la documentation technique comporte en particulier : 
 
-est identique au modèle d'équipement de protection individuelle ayant fait l'objet de l'attestation " CE " de type
-n° ........ délivrée par (3).
+1. Un dossier technique de fabrication constitué par : 
 
-Fait à, le
+a) Les plans d'ensemble et de détail de l'EPI-SL, accompagnés, le cas échéant, de notes de calculs et des résultats d'essais
+des prototypes, dans la limite de ce qui est nécessaire à la vérification du respect des exigences essentielles ; 
 
-Signature (4) 
+b) La liste exhaustive des exigences essentielles de sécurité et de santé, et des normes harmonisées ou autres spécifications
+techniques prises en considération lors de la conception du modèle. 
 
-(1) En cas de mandataire ou de responsable de la première mise sur le marché, indiquer également la raison sociale et
-l'adresse du fabricant.
+2. La description des moyens de contrôle et d'essais mis en œuvre dans l'unité de production du fabricant. 
 
-(2) Description (marque, type, numéro de série, etc.).
-
-(3) Nom et adresse de l'organisme habilité.
-
-(4) Nom et fonction du signataire.
+3. Un exemplaire de la notice d'information visée au point 1. 4 de l'annexe III-5.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2009-890 du 22 juillet 2009 - art.
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-5 (art. R322-30)
 
 _Cité par_:
 
@@ -51546,42 +51626,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-###### Article Annexe III-9 aux articles R322-32 et R322-35
+## Annexes partie réglementaire - Arrêtés<a id=499></a>
 
-**DOCUMENTATION TECHNIQUE.**
-
-La documentation technique doit comporter :
-
-- la description des moyens mis en oeuvre en vue d'obtenir la conformité de l'équipement de protection individuelle avec les
-exigences essentielles de santé et de sécurité le concernant ;
-
-- la description des moyens de contrôle et d'essais mis en oeuvre dans l'unité de production du fabricant ;
-
-- les plans de l'équipement de protection individuelle, accompagnés, le cas échéant, de notes de calculs et des résultats
-d'essais des prototypes, dans la limite de ce qui est nécessaire à la vérification du respect des exigences essentielles ;
-
-- la liste exhaustive des exigences essentielles de sécurité et de santé et des normes ou autres spécifications techniques
-prises en considération lors de la conception du modèle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2009-890 du 22 juillet 2009 - annexe.
-
-_Cité par_:
-
-  - Code du sport. - art. R322-32 (VT)
-  - Code du sport. - art. R322-35 (VT)
-
-
-## Annexes partie réglementaire - Arrêtés<a id=498></a>
-
-### Annexes II<a id=499></a>
+### Annexes II<a id=500></a>
 
 ###### Article Annexe II-1 (art. A212-1)
 
@@ -60579,7 +60626,7 @@ _Cité par_:
   - Code du sport. - art. A222-14 (Ab)
 
 
-### Annexes III<a id=500></a>
+### Annexes III<a id=501></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
@@ -63965,5 +64012,160 @@ _Créé par_:
 _Cité par_:
 
   - Code du sport. - art. A331-23 (V)
+
+
+###### Article Annexe III-26
+
+ÉQUIPEMENTS DE PROTECTION INDIVIDUELLE SOUMIS AUX DISPOSITIONS DU CODE DU SPORT 
+
+1. Articles de protection de la tête : 
+
+- casques destinés à un usage sportif avec, le cas échéant, leurs mentonnières, à l'exception des casques destinés aux
+usagers de véhicules à moteur à deux ou trois roues pour utilisation sur la voie publique, et de ceux destinés à
+l'équitation ; 
+
+- couvre-chefs légers pour la protection du cuir chevelu. 
+
+2. Articles de protection de tout ou partie de la face : 
+
+- protège-dents ; 
+
+- écrans faciaux ; 
+
+- masques-grilles ; 
+
+- visières, à l'exception des visières de casques destinés aux usagers de véhicules à moteur à deux ou trois roues pour
+utilisation sur la voie publique. 
+
+3. Articles de protection de l'œil : 
+
+- articles de protection de l'œil contre le rayonnement solaire, y compris ceux servant à observer les éclipses solaires ; 
+
+- articles de protection de l'œil utilisés dans les solariums ; 
+
+- articles de protection de l'œil contre les chocs et les projections destinés à un usage sportif ou de loisirs ; 
+
+- lunettes et masques de natation et de plongée. 
+
+4. Articles de protection de l'oreille : 
+
+- coques ; 
+
+- bandeaux intégrant une protection contre les chocs mécaniques et les agressions physiques. 
+
+5. Articles de protection du tronc : 
+
+- tours de cou et autres équipements de protection des vertèbres cervicales ; 
+
+- plastrons ; 
+
+- carapaces dorsales ; 
+
+- protège-coccyx ; 
+
+- coquilles ; 
+
+- sellettes comportant des parties fixes ou amovibles assurant une protection contre les chocs mécaniques et les agressions
+physiques ; 
+
+- vêtements assurant une protection contre les chocs mécaniques et les agressions physiques, comportant éventuellement des
+parties amovibles ; 
+
+- équipements de prévention des abrasions superficielles et des échauffements. 
+
+6. Articles de protection des membres supérieurs : 
+
+- épaulières ; 
+
+- coudières ; 
+
+- protège-poignets ; 
+
+- protège-avant-bras ; 
+
+- protège-paumes ; 
+
+- gants et vêtements assurant une protection contre les chocs mécaniques et les agressions physiques, comportant
+éventuellement des parties amovibles ; 
+
+- équipements de prévention des abrasions superficielles et des échauffements. 
+
+7. Articles de protection des membres inférieurs : 
+
+- protège-genoux ; 
+
+- protège-tibias ; 
+
+- protège-chevilles ; 
+
+- chaussures et vêtements assurant une protection contre les chocs mécaniques et les agressions physiques, comportant
+éventuellement des parties amovibles ; 
+
+- équipements de prévention des abrasions superficielles et des échauffements. 
+
+8. Articles de protection contre les glissades : 
+
+- crampons à neige ou à glace. 
+
+9. Articles de prévention des noyades : 
+
+- bouées destinées à la navigation de plaisance. 
+
+10. Articles d'aide à la flottabilité : 
+
+- maillots de bain avec flotteurs intégrés ; 
+
+- brassards destinés à l'apprentissage de la natation ; 
+
+- brassières et gilets destinés à l'apprentissage de la natation. 
+
+11. Accessoires de signalisation visuelle : 
+
+- bracelets rétro-réfléchissants, fluorescents ou lumineux ; 
+
+- pendentifs rétro-réfléchissants, fluorescents ou lumineux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 février 2010 - art.
+
+_Cité par_:
+
+  - Code du sport. - art. A322-176 (V)
+
+
+###### Article Annexe III-27
+
+CONTENU DE LA FICHE DE GESTION DES ÉQUIPEMENTS DE PROTECTION
+
+INDIVIDUELLE D'OCCASION SOUMIS AUX DISPOSITIONS DU CODE DU SPORT 
+
+La fiche de gestion visée à l'article A. 322-177 comporte les informations suivantes : 
+
+- identification et caractéristiques de l'équipement : la référence précise de l'équipement, la notice d'instructions du
+fabricant (ou une copie de celle-ci), la date d'achat ou, à défaut, de mise en service, la date prévue de mise au rebut pour
+les équipements de protection individuelle sujets à vieillissement ; 
+
+- maintien en état de conformité : la description de l'organisation mise en place pour assurer le maintien en état de
+conformité de l'équipement en fonction des instructions figurant sur la notice du fabricant, la nature des réparations
+réalisées, la nature et la date des incidents survenus sur l'équipement, l'indication datée du remplacement d'éléments
+interchangeables ; 
+
+- mesures d'hygiène et de désinfection : nature et suivi des mesures en fonction du rythme des locations ou des mises à
+disposition ; 
+
+- la date effective de mise au rebut ou de sortie du matériel du stock.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 février 2010 - art.
+
+_Cité par_:
+
+  - Code du sport. - art. A322-177 (V)
 
 
