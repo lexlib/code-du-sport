@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -52504,7 +52504,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
       </th>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Brevet d'Etat d'éducateur sportif (BEES) 
 
@@ -54170,7 +54170,7 @@ fixant les modalités de certification conjointe avec le BAPAAT, support techniq
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS) 
 
@@ -54472,7 +54472,7 @@ Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B 
 
@@ -54600,7 +54600,7 @@ Pour tout public et sur tout lieu de pratique de l'activité.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe E 
 
@@ -54624,7 +54624,7 @@ Activités du ski nautique (bi ski, wakeboard), pour tout public et sur tout lie
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F 
 
@@ -54684,7 +54684,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G 
 
@@ -54710,7 +54710,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités nautiques " 
 
@@ -54952,7 +54952,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité " activités nautiques " 
 
@@ -55147,7 +55147,7 @@ BP JEPS, spécialité "sport automobile".
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité " sport automobile " 
 
@@ -55224,7 +55224,7 @@ compétition en tout-terrain.
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " sport automobile " 
 
@@ -55609,7 +55609,7 @@ plateau.
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités gymniques de la forme et de la force " 
 
@@ -55761,7 +55761,7 @@ Découverte, initiation, animation et perfectionnement jusqu'au premier niveau d
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité " activités gymniques de la forme et de la force " 
 
@@ -55827,7 +55827,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité " activités sports collectifs " 
 
@@ -55967,7 +55967,7 @@ BP JEPS, spécialité "vol libre".
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité " vol libre " 
 
@@ -56014,7 +56014,7 @@ auprès de tous publics et d'activités aquagym. Surveillance des baignades et d
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité " activités aquatique " du BP JEPS 
 
@@ -56080,7 +56080,7 @@ Conduite de cycles d'animation en escrime.
       <td align="center"> </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité " animation culturelle " du BP JEPS 
 
@@ -56285,9 +56285,9 @@ Initiation au poney dans tout établissement.
 </td>
       <td align="center">
 
-Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option  équitation-activités équestres , ou
-du brevet d'Etat d'éducateur sportif du 2e degré, option  équitation , ou du brevet professionnel de la jeunesse, de
-l'éducation populaire et du sport, spécialité  activités équestres  toutes mentions.
+Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres , ou
+du brevet d'Etat d'éducateur sportif du 2e degré, option équitation , ou du brevet professionnel de la jeunesse, de
+l'éducation populaire et du sport, spécialité activités équestres toutes mentions.
 
 </td>
     </tr>
@@ -56661,7 +56661,7 @@ char tracté).
 
 </td>
       <td>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre
-de titulaires du CQP assistant moniteur char à voile placés sous cette autorité ne pouvant être supérieur à 3.
+de titulaires du CQP assistant moniteur char à voile placés sous cette autorité ne pouvant être supérieur à 3. 
 
 Dans la limite de 8 chars.
 
@@ -56680,7 +56680,7 @@ martiaux chinois internes, arts martiaux chinois externes, arts énergétiques c
 associées, kendo et disciplines associées, taekwondo et disciplines associées).
 
 </td>
-      <td>Les mercredis et les samedis pendant l'année scolaire dans les structures de plus de deux cents adhérents.
+      <td>Les mercredis et les samedis pendant l'année scolaire dans les structures de plus de deux cents adhérents. 
 
 A raison de quatre séquences maximum par semaine pendant l'année scolaire dans les structures de moins de deux cents
 adhérents.
@@ -56691,6 +56691,39 @@ A l'exclusion du secteur du tourisme.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en
 cours de validité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CQP  assistant moniteur motonautique.
+
+</td>
+      <td>
+
+Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à
+moteur (VNM).
+
+</td>
+      <td>
+
+Sous l'autorité d'un référent, le titulaire du CQP encadre : 
+
+- 2 VNM maximum ; 
+
+- ou 4 VNM maximum à vue du référent. 
+
+Le référent est titulaire : 
+
+- d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ; 
+
+- ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007. 
+
+Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être supérieur à deux ou à un, dans le cas où il
+encadre 4 VNM à vue.
+
+A l'exclusion du temps scolaire contraint pour le public scolaire.
 
 </td>
     </tr>
@@ -56751,7 +56784,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 17 mai 2010 - art. 1
+  - Arrêté du 12 juillet 2010 - art. 1
 
 _Cite_:
 
