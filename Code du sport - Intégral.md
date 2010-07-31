@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-07-30
+Version Consolidée au 2010-08-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -27873,25 +27873,24 @@ _Cite_:
 
 La surveillance des établissements mentionnés à l'article D. 322-12 est garantie, pendant les heures d'ouverture au public,
 par des personnels titulaires d'un des diplômes dont les modalités de délivrance sont définies par arrêté du ministre chargé
-des sports. Ces personnels portent le titre de maître nageur sauveteur.
+des sports. Ces personnels portent le titre de maître nageur sauveteur. 
 
 Ces personnels peuvent être assistés de personnes titulaires d'un des diplômes figurant sur une liste arrêtée par les
-ministres chargés de la sécurité civile et des sports.
+ministres chargés de la sécurité civile et des sports. 
 
-Toute personne désirant assurer la surveillance d'un tel établissement doit en faire la déclaration au préfet de son
-domicile. Le contenu de cette déclaration est fixé par arrêté conjoint des ministres chargés de la sécurité civile et des
-sports.
+Toute personne désirant assurer la surveillance d'un tel établissement doit en faire la déclaration au préfet du lieu de sa
+principale activité. Le contenu de cette déclaration est fixé par arrêté conjoint des ministres chargés de la sécurité civile
+et des sports.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 4 du décret n°77-1177 du 20 octobre 1977 relatif à la surveillance et à l'enseignement des activités de natation
   - Décret n°77-1177 du 20 octobre 1977 - art. 4 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2010-630 du 8 juin 2010 - art. 1
 
 _Cité par_:
 
@@ -27901,7 +27900,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. D322-12 (V)
+  - Code du sport. - art. D322-12
 
 
 ###### Article D322-14
