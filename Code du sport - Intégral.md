@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-08-01
+Version Consolidée au 2010-08-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -45037,7 +45037,7 @@ _Cite_:
 
 ###### Article A322-72
 
-Les annexes III-14 a à III-16 b au présent code déterminent :
+Les         annexes III-14 a à III-17 au présent code déterminent :
 
 - les aptitudes des pratiquants (annexe III-14 a) ;
 
@@ -45060,7 +45060,7 @@ aptitudes de l'annexe III-14 a (annexe III-14 b) ;
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 3
+  - Arrêté du 29 juillet 2010 - art. 1
 
 _Cité par_:
 
@@ -62194,79 +62194,6 @@ _Cité par_:
   - Code du sport. - art. A322-62 (VT)
 
 
-###### Article Annexe III-14
-
-**NIVEAUX DE PRATIQUE DES PLONGEURS ET ÉQUIVALENCES DE PRÉROGATIVES**
-
-(art. A322-72 et A322-81).
-
-Cette annexe concerne les niveaux de pratique des plongeurs et équivalences de prérogatives entre les différents brevets de
-plongeur délivrés par la FFESSM (Fédération française d'études et de sports sous-marins) et la FSGT (Fédération sportive et
-gymnique du travail), les attestations de niveaux délivrés par l'ANMP (Association nationale des moniteurs de plongée) et le
-SNMP (Syndicat national des moniteurs de plongée) et les brevets CMAS (Confédération mondiale des activités subaquatiques).
-
-Les attestations de niveaux et brevets doivent comporter des mentions permettant de démontrer que leurs titulaires ont un
-niveau technique au moins équivalent à celui des brevets de même niveau de la FFESSM (Fédération française d'études et de
-sports sous-marins) et qu'ils ont été obtenus dans des conditions similaires de certification et de jury.
-
-Les moniteurs titulaires du niveau 3 d'encadrement référencé au tableau figurant à l'annexe III-15 du code du sport peuvent
-établir un certificat de compétence à l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect du
-présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques à celles référencées dans
-le tableau figurant à la présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
-
-Ce certificat reste la propriété du moniteur, il n'est pas remis au plongeur et n'est valable que dans le cadre de
-l'établissement qui l'a délivré.
-
-<pre>
-┏━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ NIVEAU de    ┃ BREVETS                                                            ┃ ATTESTATION DE NIVEAU                 ┃
-┃ prérogative  ┃                                                                    ┃                                       ┃
-┃ des plon-    ┃                                                                    ┃                                       ┃
-┃ geurs        ┃                                                                    ┃                                       ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃              ┃ FFESSM (Fédération fran-   ┃ CMAS (Confédération ┃ FSGT (Fédéra-   ┃ ANMP (Associa-   ┃ SNMP (Syndicat na- ┃
-┃              ┃ çaise d'études et de       ┃ mondiale des acti-  ┃ tion sportive   ┃ tion nationale   ┃ tional des moni-   ┃
-┃              ┃ sports sous-marins)        ┃ vités subaqua-      ┃ et gymnique du  ┃ des moniteurs de ┃ teurs de plongée)  ┃
-┃              ┃                            ┃ tiques)             ┃ travail)        ┃ plongée)         ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 1 (P  ┃ Plongeur N1                ┃ Plongeur 1 étoile   ┃ Plongeur N1     ┃ Plongeur         ┃ Plongeur           ┃
-┃ 1)           ┃                            ┃                     ┃                 ┃                  ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 2 (P  ┃ Plongeur N2                ┃ Plongeur 2 étoiles  ┃ Plongeur N2     ┃ Equipier         ┃ Plongeur confirmé  ┃
-┃ 2)           ┃                            ┃                     ┃                 ┃                  ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 3 (P  ┃ Plongeur N3                ┃ Plongeur 3 étoiles  ┃ Plongeur N3     ┃ Autonome         ┃ Plongeur autonome  ┃
-┃ 3)           ┃                            ┃                     ┃                 ┃                  ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 4 (P  ┃ Plongeur N4 capacitaire    ┃ Plongeur 3 étoiles  ┃ Guide de palan- ┃ Guide de palan-  ┃ Guide de palanquée ┃
-┃ 4)           ┃                            ┃ (*)                 ┃ quée            ┃ quée             ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 5 (P  ┃ Qualification de directeur ┃                     ┃ Qualification   ┃                  ┃ Directeur de plon- ┃
-┃ 5)           ┃ de plongée (**)            ┃                     ┃ de directeur de ┃                  ┃ gée (**)           ┃
-┃              ┃                            ┃                     ┃ plongée (**)    ┃                  ┃                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ (*) Certifié à l'étranger. (**) La qualification Directeur de plongée (niveau 5) ne pourra être exercée                   ┃
-┃ qu'à titre bénévole.                                                                                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 23 juillet 2009 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 29 juillet 2010 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. A322-72 (V)
-  - Code du sport. - art. A322-77 (V)
-
-
 ###### Article Annexe III-14 a
 
 APTITUDES DES PRATIQUANTS 
@@ -62642,65 +62569,6 @@ _Cité par_:
   - Code du sport. - art. A322-84 (V)
   - Code du sport. - art. A322-86 (V)
   - Code du sport. - art. Annexe III-14 a (art. A322-77) (VD)
-
-
-###### Article Annexe III-15 (art. A322-77)
-
-(Art.A. 322-77 du code du sport) 
-
-<pre>
-┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ NIVEAU de   ┃ ENSEIGNEMENT BÉNÉVOLE                                                             ┃ ENSEIGNEMENT RÉMUNÉRÉ   ┃
-┃ l'encadre-  ┃                                                                                   ┃                         ┃
-┃ ment        ┃                                                                                   ┃                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃             ┃ FFESSM (Fédération française   ┃ CMAS (Confédération mon-  ┃ FSGT (Fédération     ┃ Brevets d'Etat          ┃
-┃             ┃ d'études et de sports sous-ma- ┃ diale des activités sub-  ┃ sportive et gymnique ┃                         ┃
-┃             ┃ rins)                          ┃ aquatiques)               ┃ du travail)          ┃                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 1    ┃ Initiateur                     ┃                           ┃ Initiateur           ┃                         ┃
-┃ (E1)        ┃                                ┃                           ┃                      ┃                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 2    ┃ Initiateur + P4 ou P4 sta-     ┃ Moniteur 1 étoile         ┃ Aspirant fédéral     ┃ Stagiaire pédagogique   ┃
-┃ (E2)        ┃ giaire pédagogique (*)         ┃                           ┃                      ┃ (**).                   ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 3    ┃ Fédéral 1er degré              ┃ Moniteur 2 étoiles        ┃ Fédéral 1er degré    ┃ Brevet d'Etat d'éduca-  ┃
-┃ (E3)        ┃                                ┃                           ┃                      ┃ teur sportif du 1er de- ┃
-┃             ┃                                ┃                           ┃                      ┃ gré (BEES 1).           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 4    ┃ Fédéral 2e degré               ┃ Moniteur 3 étoiles        ┃ Fédéral 2e degré     ┃ Brevet d'Etat d'éduca-  ┃
-┃ (E4)        ┃                                ┃                           ┃                      ┃ teur sportif du 2e de-  ┃
-┃             ┃                                ┃                           ┃                      ┃ gré (BEES 2).           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Niveau 5    ┃                                ┃                           ┃                      ┃ Brevet d'Etat d'éduca-  ┃
-┃ (E5)        ┃                                ┃                           ┃                      ┃ teur sportif du 3e de-  ┃
-┃             ┃                                ┃                           ┃                      ┃ gré (BEES 3).           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ (*) Pour obtenir les prérogatives attachées au niveau 2 d'encadrement (E2), le P4 en formation pédagogique                ┃
-┃ est assujetti à la présence sur le site de plongée d'un cadre formateur E3 minimum. (**) Stagiaire pédago-                ┃
-┃ gique dans le cadre d'une formation reconnue par le ministère de la jeunesse et des sports conduisant au BEES             ┃
-┃ 1 de plongée subaquatique.                                                                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 18 juillet 2008 - art. 8
-
-_Abrogé par_:
-
-  - Arrêté du 29 juillet 2010 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. A322-72 (V)
-
-_Cite_:
-
-  - Code du sport. - art. A322-77
 
 
 ###### Article Annexe III-15 a
