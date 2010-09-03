@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-08-22
+Version Consolidée au 2010-09-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -145,7 +145,7 @@ Version Consolidée au 2010-08-22
           - [Section 1 : Etablissements publics de formation (art. R211-1 à R211-82)](#142)
             - [Sous-section 1 : L'Institut national du sport, de l'expertise et de la performance (art. R211-1 à R211-18-6)](#143)
               - [Paragraphe 1 : Objet et missions (art. R211-1 à R211-2-1)](#144)
-              - [Paragraphe 2 : Organisation et fonctionnement (art. R*211-7 à R211-17)](#145)
+              - [Paragraphe 2 : Organisation et fonctionnement (art. R211-3 à R211-17)](#145)
               - [Paragraphe 3 : Régime financier et comptable (art. R211-18 à R211-18-6)](#146)
             - [Sous-section 2 : L'Institut français du cheval et de l'équitation (art. R211-19)](#147)
             - [Sous-section 3 : L'Ecole nationale de voile et des sports nautiques (art. D211-36 à D211-52)](#148)
@@ -15100,48 +15100,6 @@ _Créé par_:
 
 ##### Paragraphe 2 : Organisation et fonctionnement<a id=145></a>
 
-###### Article R*211-7
-
-Le président du conseil d'administration est élu au sein du conseil, parmi les personnalités mentionnées au 5° de l'article
-R. 211-4, pour une durée de quatre ans renouvelable une fois. 
-
-En cas d'empêchement temporaire, le président du conseil d'administration est remplacé dans les conditions prévues par le
-règlement intérieur. 
-
-En cas d'empêchement définitif, il est procédé, dans un délai de trois mois, à l'élection d'un nouveau président selon les
-modalités prévues au premier alinéa.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. R211-4 (V)
-
-
-###### Article R*211-8
-
-Le directeur général de l'établissement est nommé par arrêté du ministre chargé des sports pour une durée de quatre ans
-renouvelable une fois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
-
-
 ###### Article R211-3
 
 L'Institut national du sport, de l'expertise et de la performance est administré par un conseil d'administration. Il comporte
@@ -15350,6 +15308,48 @@ _Cité par_:
   - Code du sport. - art. R211-10 (V)
   - Code du sport. - art. R211-16 (V)
   - Code du sport. - art. R211-9 (V)
+
+
+###### Article R211-7
+
+Le président du conseil d'administration est élu au sein du conseil, parmi les personnalités mentionnées au 5° de l'article
+R. 211-4, pour une durée de quatre ans renouvelable une fois. 
+
+En cas d'empêchement temporaire, le président du conseil d'administration est remplacé dans les conditions prévues par le
+règlement intérieur. 
+
+En cas d'empêchement définitif, il est procédé, dans un délai de trois mois, à l'élection d'un nouveau président selon les
+modalités prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+_Cite_:
+
+  - Code du sport. - art. D211-4
+
+
+###### Article R211-8
+
+Le directeur général de l'établissement est nommé par arrêté du ministre chargé des sports pour une durée de quatre ans
+renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
 
 
 ###### Article R211-9
