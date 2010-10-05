@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-09-04
+Version Consolidée au 2010-10-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -31849,11 +31849,9 @@ Fédération française d'aéromodélisme : Aéromodèles.
 
 Fédération nationale d'aéronautique : Info pilote. 
 
-Fédération française d'aérostation : L'Aéronote.
+Fédération française d'aérostation : L'Aéronote. 
 
-Fédération française des sociétés d'aviron : Aviron magazine. 
-
-Fédération française de badminton : Badminton magazine. 
+Fédération française des sociétés d'aviron : Aviron magazine.
 
 Fédération française de ball-trap et de tir à balle : Ball-trap magazine. 
 
@@ -31948,7 +31946,7 @@ Fédération française de vol libre : Vol passion.
 
 _Modifié par_:
 
-  - Arrêté du 4 mai 2010 - art. 1
+  - Arrêté du 9 septembre 2010 - art. 1
 
 _Cite_:
 
