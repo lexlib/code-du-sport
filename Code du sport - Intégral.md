@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-11-19
+Version Consolidée au 2010-12-09
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -32518,15 +32518,13 @@ Fédération française de tir à l'arc : Le tir à l'arc.
 
 Fédération française de twirling-bâton : Twirling magazine. 
 
-Fédération française de voile : Lettre de grand voile. 
-
 Fédération française de vol libre : Vol passion.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 9 septembre 2010 - art. 1
+  - Arrêté du 29 novembre 2010 - art. 1
 
 _Cite_:
 
