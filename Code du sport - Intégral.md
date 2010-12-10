@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2010-12-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -32622,7 +32622,7 @@ Fédération nationale d'aéronautique : Info pilote.
 
 Fédération française d'aérostation : L'Aéronote. 
 
-Fédération française des sociétés d'aviron : Aviron magazine.
+Fédération française des sociétés d'aviron : Aviron magazine. 
 
 Fédération française de ball-trap et de tir à balle : Ball-trap magazine. 
 
@@ -32644,9 +32644,7 @@ Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua. 
 
-Fédération française de giraviation : Le Colibri. 
-
-Fédération française de gymnastique : l'Officiel du gymnaste. 
+Fédération française de giraviation : Le Colibri.
 
 Fédération française de handball : Handinfos. 
 
@@ -32675,7 +32673,7 @@ lancer.
 
 Fédération française de pêche au coup : Pêche de compétition. 
 
-Fédération française des pêcheurs en mer : Info / FFPM. 
+Fédération française des pêcheurs en mer : Info/ FFPM. 
 
 Fédération française de pelote basque : Pilota. 
 
