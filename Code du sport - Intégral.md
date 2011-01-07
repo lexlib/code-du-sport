@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -32457,7 +32457,7 @@ Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua. 
 
-Fédération française de giraviation : Le Colibri.
+Fédération française de giraviation : Le Colibri. 
 
 Fédération française de handball : Handinfos. 
 
@@ -32471,9 +32471,7 @@ Fédération française de judo, jujitsu, kendo et disciplines associées : Judo
 
 Fédération française de karaté et arts martiaux affinitaires : Officiel karaté magazine. 
 
-Fédération française de longue paume : Longue paume infos. 
-
-Fédération française de motocyclisme : France moto magazine. 
+Fédération française de longue paume : Longue paume infos.
 
 Fédération française motonautique : La lettre motonautique. 
 
@@ -32526,7 +32524,7 @@ Fédération française de vol libre : Vol passion.
 
 _Modifié par_:
 
-  - Arrêté du 29 novembre 2010 - art. 1
+  - Arrêté du 16 décembre 2010 - art. 1
 
 _Cite_:
 
