@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-03-17
+Version Consolidée au 2011-03-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -4672,6 +4672,25 @@ _Cité par_:
   - Code du sport. - art. R222-1 (V)
   - Code du sport. - art. R222-41 (V)
   - Code du sport. - art. R222-42 (V)
+
+
+###### Article L222-19-1
+
+Lorsque la fédération délégataire compétente constate qu'un avocat, agissant en qualité de mandataire de l'une des parties
+intéressées à la conclusion d'un des contrats mentionnés au premier alinéa de l'article L. 222-7, a méconnu les obligations
+relatives au contenu et à la communication de ces contrats ainsi que du mandat qu'il a reçu, elle en informe le bâtonnier du
+barreau auquel l'avocat est inscrit qui apprécie la nécessité d'engager des poursuites disciplinaires dans les conditions
+prévues par les textes qui régissent la profession d'avocat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-331 du 28 mars 2011 - art. 4
+
+_Cite_:
+
+  - Code du sport. - art. L222-7
 
 
 ###### Article L222-20
