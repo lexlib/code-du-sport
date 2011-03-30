@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-03-30
+Version Consolidée au 2011-03-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -48961,8 +48961,8 @@ _Créé par_:
 
 ###### Article A425-2
 
-I. ― La commission territoriale du Centre national pour le développement du sport comprend de façon paritaire, outre son
-président, qui est le délégué territorial de l'établissement, membre de droit, ou son représentant :
+I. ― La commission territoriale du Centre national pour le développement du sport comprend de façon paritaire, outre le
+délégué territorial de l'établissement, membre de droit, ou son représentant :
 
 1° D'une part :
 
@@ -48979,6 +48979,9 @@ a) Le président du comité territorial olympique et sportif de la Nouvelle-Cal�
 b) Deux représentants du mouvement sportif désignés par le président du comité territorial olympique et sportif. L'un de ces
 représentants est issu d'une discipline olympique.
 
+La commission territoriale est coprésidée par le délégué territorial de l'établissement ou son représentant et par le
+président du comité territorial olympique et sportif de la Nouvelle-Calédonie ou son représentant. 
+
 II. - Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de
 l'établissement. Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions.
 
@@ -48989,9 +48992,9 @@ commission territoriale afin de tenir compte du calendrier des Jeux du Pacifique
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 21 mars 2011 - art. 2
 
 
 ###### Article A425-3
