@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-07-28
+Version Consolidée au 2011-08-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -299,7 +299,7 @@ Version Consolidée au 2011-07-28
         - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#296)
         - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#297)
         - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#298)
-  - [Partie réglementaire - Arrêtés (art. A121-1 à A425-5)](#299)
+  - [Partie réglementaire - Arrêtés (art. A121-1 à A427-1)](#299)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A121-1 à A142-49)](#300)
       - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#301)
         - [Chapitre Ier : Associations sportives (art. A121-1)](#302)
@@ -492,24 +492,26 @@ Version Consolidée au 2011-07-28
           - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#489)
         - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#490)
           - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#491)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A425-5)](#492)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#492)
       - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#493)
         - [Chapitre unique (art. A411-1 à A411-7)](#494)
           - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#495)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A425-5)](#496)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#496)
         - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#497)
         - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#498)
         - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#499)
         - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#500)
         - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#501)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#502)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#503)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#504)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#505)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#506)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-27)](#507)
-      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#508)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#509)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#502)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#503)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#504)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#505)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#506)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#507)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#508)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe II-1 (art. A212-1) à Annexe III-27)](#509)
+      - [Annexes II (art. Annexe II-1 (art. A212-1) à Annexe II-19 (art. A222-14))](#510)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#511)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -50487,11 +50489,55 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-# ANNEXES<a id=502></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=502></a>
 
-## Annexes partie réglementaire - Décrets<a id=503></a>
+###### Article A426-1
 
-### Annexes I<a id=504></a>
+La commission mentionnée au 2° de l'article R. 426-1 est la commission territoriale de Guadeloupe du Centre national pour le
+développement du sport, à laquelle sont invités, avec voix consultative, un représentant du mouvement sportif issu
+d'associations sportives agréées ayant leur siège et leur activité à Saint-Barthélemy, désigné par le représentant de l'Etat,
+ainsi que le président du conseil territorial ou son représentant. Cette commission est compétente pour émettre un avis sur
+l'attribution des subventions destinées aux associations sportives locales, en cohérence avec les directives de
+l'établissement concernant la répartition des subventions à attribuer au niveau local.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 29 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R426-1
+
+
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=503></a>
+
+###### Article A427-1
+
+La commission mentionnée au 2° de l'article R. 427-1 est la commission territoriale de Guadeloupe du Centre national pour le
+développement du sport, à laquelle sont invités, avec voix consultative, un représentant du mouvement sportif issu
+d'associations sportives agréées ayant leur siège et leur activité à Saint-Martin, désigné par le représentant de l'Etat,
+ainsi que le président du conseil territorial ou son représentant. Cette commission est compétente pour émettre un avis sur
+l'attribution des subventions destinées aux associations sportives locales, en cohérence avec les directives de
+l'établissement concernant la répartition des subventions à attribuer au niveau local.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 29 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R427-1
+
+
+# ANNEXES<a id=504></a>
+
+## Annexes partie réglementaire - Décrets<a id=505></a>
+
+### Annexes I<a id=506></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -51819,7 +51865,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=505></a>
+### Annexes II<a id=507></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -53076,7 +53122,7 @@ _Cite_:
   - Code du sport. - art. R241-14
 
 
-### Annexes III<a id=506></a>
+### Annexes III<a id=508></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -53657,9 +53703,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=507></a>
+## Annexes partie réglementaire - Arrêtés<a id=509></a>
 
-### Annexes II<a id=508></a>
+### Annexes II<a id=510></a>
 
 ###### Article Annexe II-1 (art. A212-1)
 
@@ -63061,7 +63107,7 @@ _Cité par_:
   - Code du sport. - art. A222-14 (Ab)
 
 
-### Annexes III<a id=509></a>
+### Annexes III<a id=511></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
