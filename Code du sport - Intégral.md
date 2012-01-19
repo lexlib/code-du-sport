@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-01-16
+Version Consolidée au 2012-01-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -62647,27 +62647,20 @@ _Cité par_:
 Le test technique de sécurité vise à vérifier la capacité du candidat à prévenir le risque et à gérer la situation en cas
 d'accident. Ce test comporte trois épreuves qui se déroulent dans l'ordre suivant, chacune étant éliminatoire.
 
-1.1. Epreuve de gestion d'une situation d'urgence
+1.1. Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre. Cette épreuve permet de
+vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. Elle consiste, pour le candidat
+équipé de palmes, masque et tuba : 
 
-d'un plongeur en difficulté en plongée libre
+- à réaliser, sur un parcours balisé, une nage de deux cents mètres ; 
 
-Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur équipé de
-palmes, masque et tuba.
+- à descendre à une profondeur comprise entre quatre et six mètres ; 
 
-Elle consiste, pour le candidat équipé de palmes, masque et tuba :
+- à remonter un mannequin normalisé, puis à le remorquer en sécurité, les voies respiratoires hors de l'eau, sur une distance
+de cent mètres. 
 
-― à réaliser, sur un parcours balisé, une nage de deux cents mètres ;
-
-― à descendre à une profondeur comprise entre quatre et six mètres ;
-
-― à remonter un plongeur simulant l'inconscience équipé de palmes, masque et tuba, puis à le remorquer en sécurité, les voies
-respiratoires hors de l'eau, sur une distance de cent mètres.
-
-Le port du vêtement isothermique, complété au choix du candidat, d'une ceinture de lest, est obligatoire lorsque la
-température de l'eau est inférieure à 20 °C. Lorsque cette température est égale ou supérieure à 20 °C, le port du vêtement
-isothermique est laissé au choix du candidat.
-
-La durée maximale de cette épreuve est de dix minutes.
+Le port du vêtement isothermique, complété, au choix du candidat, d'une ceinture de lest, est obligatoire lorsque la
+température de l'eau est inférieure à 20° C. Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
+isothermique est laissé au choix du candidat. La durée maximale de cette épreuve est de dix minutes. 
 
 1.2. Epreuve de gestion d'une situation d'urgence
 
@@ -62725,9 +62718,9 @@ des conditions liées à l'environnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 2
+  - Arrêté du 9 décembre 2011 - art. 1
 
 _Cité par_:
 
