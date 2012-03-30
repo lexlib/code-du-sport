@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-03-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -19401,16 +19401,18 @@ _Cite_:
 ###### Article D212-21
 
 Le diplôme du brevet professionnel est délivré au titre d'une spécialité, disciplinaire, pluridisciplinaire ou liée à un
-champ particulier.
+champ particulier. Dans le cas d'une spécialité pluridisciplinaire, il peut être délivré au titre d'une mention. 
 
-Chaque spécialité est créée :
+Chaque spécialité est créée après avis de la commission professionnelle consultative des métiers du sport et de
+l'animation : 
 
-- soit par un arrêté des ministres chargés de la jeunesse et des sports ;
+- soit par un arrêté du ministre chargé des sports ; 
 
-- soit dans le cas de création commune d'une spécialité, par un arrêté des ministres intéressés, après avis de la Commission
-professionnelle consultative des métiers du sport et de l'animation.
+- soit par un arrêté des ministres chargés de la jeunesse et des sports ; 
 
-Cet arrêté définit le référentiel professionnel et le référentiel de certification.
+- soit dans le cas de création commune d'une spécialité, par un arrêté des ministres intéressés. 
+
+Ces arrêtés définissent le référentiel professionnel et le référentiel de certification.
 
 **Liens relatifs à cet article**
 
@@ -19421,7 +19423,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2012-165 du 1er février 2012 - art. 1
 
 _Cité par_:
 
@@ -19653,10 +19659,27 @@ _Cité par_:
 
 ###### Article D212-25
 
-Le diplôme du brevet professionnel, précédé le cas échéant d'une période de pré-qualification, est obtenu par capitalisation
-de dix unités, dont quatre sont transversales, cinq sont spécifiques à la spécialité et une d'adaptation.
+Le diplôme du brevet professionnel est obtenu par capitalisation de dix unités, dont : 
+
+- quatre sont transversales ; 
+
+- cinq sont spécifiques à la spécialité, dont trois au maximum à une éventuelle mention ; 
+
+- et une d'adaptation.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2001-792 du 31 août 2001 - art. 6 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2012-165 du 1er février 2012 - art. 3
 
 _Cité par_:
 
@@ -19664,15 +19687,6 @@ _Cité par_:
   - Code du sport. - art. A212-30 (M)
   - Code du sport. - art. A212-47 (VD)
   - Code du sport. - art. D212-28 (VD)
-
-_Anciens textes_:
-
-  - Art. 6 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
-  - Décret n°2001-792 du 31 août 2001 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
 ###### Article D212-26
@@ -19705,12 +19719,9 @@ Le brevet professionnel est préparé :
 
 2° Soit par la voie de l'apprentissage ; 
 
-3° Soit par la voie de la formation continue. 
+3° Soit par la voie de la formation continue.
 
-Lorsque le brevet professionnel est préparé par la voie initiale, l'arrêté prévu à l'article D. 212-21 indique le volume
-horaire minimal de la formation. 
-
-Dans tous les cas, le parcours individualisé de formation doit être précédé d'un positionnement de l'apprenant permettant
+Dans tous les cas, le parcours individualisé de formation doit être précédé d'un positionnement du stagiaire permettant
 d'identifier les compétences déjà acquises à l'entrée en formation.
 
 **Liens relatifs à cet article**
@@ -19722,17 +19733,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2012-165 du 1er février 2012 - art. 2
+  - Décret n°2012-165 du 1er février 2012 - art. 4
 
 _Cité par_:
 
   - Code du sport. - art. A212-27 (Ab)
   - Code du sport. - art. D212-28 (VT)
   - Code du sport. - art. R212-10-17 (V)
-
-_Cite_:
-
-  - Code du sport. - art. D212-21 (V)
 
 
 ###### Article D212-28
@@ -19796,7 +19808,7 @@ _Cite_:
 
 Le cursus de formation mis en oeuvre par un organisme habilité respecte le principe de l'alternance prévoyant les séquences
 de formation en centre et en entreprise, sous tutorat pédagogique. La séquence en entreprise est une situation de formation
-professionnelle qui n'ouvre pas de prérogatives professionnelles particulières pour l'apprenant. Elle est construite dans le
+professionnelle qui n'ouvre pas de prérogatives professionnelles particulières pour le stagiaire. Elle est construite dans le
 respect du plan de formation mis en oeuvre par l'organisme habilité et respecte une évolution liée à l'acquisition
 progressive et à la validation de compétences.
 
@@ -19804,12 +19816,19 @@ progressive et à la validation de compétences.
 
 _Anciens textes_:
 
-  - Art. 14 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
   - Décret n°2001-792 du 31 août 2001 - art. 14 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2012-165 du 1er février 2012 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-527 du 27 avril 2016 - art. 7
 
 _Cité par_:
 
