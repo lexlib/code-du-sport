@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-03-31
+Version Consolidée au 2012-04-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -428,9 +428,9 @@ Version Consolidée au 2012-03-31
                 - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#425)
                 - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#426)
                 - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#427)
-      - [TITRE II : SPORTIFS (art. A222-1)](#428)
-        - [Chapitre II : Sport professionnel (art. A222-1)](#429)
-          - [Section unique  Agents sportifs (art. A222-1)](#430)
+      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#428)
+        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#429)
+          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#430)
       - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-8)](#431)
         - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-8)](#432)
           - [Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives (art. A231-1 à A231-2)](#433)
@@ -458,67 +458,72 @@ Version Consolidée au 2012-03-31
               - [Paragraphe 3 : Pratique avec des embarcations gonflables (art. A322-53 à A322-57)](#455)
               - [Paragraphe 4 : Pratique en mer (art. A322-58 à A322-63)](#456)
             - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#457)
-          - [Section 3 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique. (art. A322-71 à A322-115)](#458)
-            - [Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique à l'air. (art. A322-71 à A322-87)](#459)
-            - [Sous-section 2 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome aux mélanges autres que l'air. (art. A322-88 à A322-115)](#460)
-          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#461)
-            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#462)
-            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#463)
-            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#464)
-            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#465)
-            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#466)
-          - [Section 5 : Salles où sont pratiqués les arts martiaux. (art. A322-141)](#467)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#468)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme (art. A322-147 à A322-175)](#469)
-            - [Paragraphe 1 : Généralités (art. A322-147 à A322-148)](#470)
-            - [Paragraphe 2 : Les séances de saut (art. A322-149 à A322-154)](#471)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#472)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-159)](#473)
-            - [Paragraphe 5 : L'encadrement (art. A322-160 à A322-162)](#474)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-163 à A322-165)](#475)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-166)](#476)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-167 à A322-175)](#477)
-              - [Sous-paragraphe 1 : Les séances de vol (art. A322-167 à A322-170)](#478)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#479)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#480)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#481)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#482)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#483)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#484)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#485)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#486)
-            - [Sous-section 2 : Epreuves et compétitions sur la voie publique (art. A331-5 à A331-15)](#487)
-              - [Paragraphe 1 : Dispositions générales (art. A331-2 à A331-7)](#488)
-              - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#489)
-              - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#490)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#491)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#492)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#493)
-            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#494)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#495)
-          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#496)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#497)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#498)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#499)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#500)
-        - [Chapitre unique (art. A411-1 à A411-7)](#501)
-          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#502)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#503)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#504)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#505)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#506)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#507)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#508)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#509)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#510)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#511)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#512)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#513)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#514)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#515)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#516)
-      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-19 (art. A222-14))](#517)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#518)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#458)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#459)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#460)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#461)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#462)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#463)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#464)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#465)
+          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#466)
+            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#467)
+            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#468)
+            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#469)
+            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#470)
+            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#471)
+          - [Section 5 : Salles où sont pratiqués les arts martiaux. (art. A322-141)](#472)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#473)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme (art. A322-147 à A322-175)](#474)
+            - [Paragraphe 1 : Généralités (art. A322-147 à A322-148)](#475)
+            - [Paragraphe 2 : Les séances de saut (art. A322-149 à A322-154)](#476)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#477)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-159)](#478)
+            - [Paragraphe 5 : L'encadrement (art. A322-160 à A322-162)](#479)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-163 à A322-165)](#480)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-166)](#481)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-167 à A322-175)](#482)
+              - [Sous-paragraphe 1 : Les séances de vol (art. A322-167 à A322-170)](#483)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#484)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#485)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#486)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#487)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#488)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#489)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#490)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#491)
+            - [Sous-section 2 : Epreuves et compétitions sur la voie publique (art. A331-5 à A331-15)](#492)
+              - [Paragraphe 1 : Dispositions générales (art. A331-2 à A331-7)](#493)
+              - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#494)
+              - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#495)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#496)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#497)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#498)
+            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#499)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#500)
+          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#501)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#502)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#503)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#504)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#505)
+        - [Chapitre unique (art. A411-1 à A411-7)](#506)
+          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#507)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#508)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#509)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#510)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#511)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#512)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#513)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#514)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#515)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#516)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#517)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#518)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#519)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#520)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#521)
+      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-19 (art. A222-14))](#522)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#523)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -44497,6 +44502,121 @@ _Cite_:
   - Code du sport. - art. R222-1 (V)
 
 
+###### Article A222-2
+
+Lorsqu'un agent sportif met en rapport les parties intéressées à la conclusion d'un contrat de travail relatif à l'exercice
+rémunéré d'une activité sportive ou d'entraînement, sa rémunération est calculée en pourcentage de la rémunération brute
+telle que définie à l'article A. 222-5.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A222-3 (V)
+  - Code du sport. - art. A222-4 (V)
+  - Code du sport. - art. A222-5 (V)
+
+
+###### Article A222-3
+
+Lorsqu'un agent sportif met en rapport les parties intéressées à la conclusion d'un contrat relatif à l'exercice rémunéré
+d'une activité sportive ou d'entraînement, à l'exception de celui visé à l'article A. 222-2, sa rémunération est calculée en
+pourcentage du montant hors taxe de ce contrat tel que défini à l'article A. 222-5.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A222-2
+
+_Cité par_:
+
+  - Code du sport. - art. A222-4 (V)
+  - Code du sport. - art. A222-5 (V)
+
+
+###### Article A222-4
+
+Lorsqu'un agent sportif met en rapport les parties intéressées à la conclusion d'un contrat qui prévoit la conclusion d'un
+des contrats mentionnés aux articles A. 222-2 et A. 222-3, sa rémunération est calculée en pourcentage du montant hors taxe
+de ce contrat tel que défini à l'article A. 222-5.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A222-2 (Ab)
+
+_Cite_:
+
+  - Code du sport. - art. A222-3
+  - Code du sport. - art. A222-5
+
+
+###### Article A222-5
+
+La rémunération brute mentionnée à l'article A. 222-2 est celle prévue au contrat de travail et soumise aux cotisations
+sociales au sens de l'article L. 242-1 du code de la sécurité sociale. 
+
+Le montant hors taxe mentionné aux articles A. 222-3 et A. 222-4 est celui qui sert d'assiette au calcul de la taxe sur la
+valeur ajoutée telle que définie aux articles 266 à 268 ter du code général de impôts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 266 (V)
+  - Code de la sécurité sociale. - art. L242-1
+
+_Cité par_:
+
+  - Code du sport. - art. A222-2 (V)
+  - Code du sport. - art. A222-3 (V)
+  - Code du sport. - art. A222-4 (V)
+
+
+###### Article A222-6
+
+Lorsqu'un avenant à un contrat de travail relatif à l'exercice rémunéré d'une activité sportive ou d'entraînement ayant pour
+objet une augmentation de la rémunération brute d'un sportif ou d'un entraîneur est conclu, la rémunération de l'agent
+sportif ayant mis en rapport les parties à cet avenant ne peut excéder 10 % de la différence entre la rémunération brute
+prévue par l'avenant au contrat de travail et la rémunération brute qui devait être versée en application du contrat dans sa
+rédaction antérieure à l'entrée en vigueur de l'avenant sur la durée du contrat restant à exécuter. 
+
+Lorsque la fédération fait application des dispositions du sixième alinéa de l'article L. 222-17, la rémunération de l'agent
+ne peut excéder le pourcentage ainsi fixé.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 26 novembre 2009 - art. 5 (Ab)
+
+_Modifié par_:
+
+  - Arrêté du 15 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L222-17
+
+
 ### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=431></a>
 
 #### Chapitre Ier : Suivi médical des sportifs<a id=432></a>
@@ -46878,20 +46998,21 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique.<a id=458></a>
-
-##### Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique à l'air.<a id=459></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=458></a>
 
 ###### Article A322-71
 
-Les établissements mentionnés à l'article L. 322-2 qui organisent la pratique ou dispensent l'enseignement de la plongée
-subaquatique à l'air sont soumis aux règles de technique et de sécurité définies par la présente sous-section.
+Les dispositions de la présente section s'appliquent aux établissements mentionnés à l'article L. 322-2 qui organisent la
+pratique de la plongée subaquatique. 
+
+Elles ne sont pas applicables à la plongée archéologique, à la plongée souterraine ainsi qu'aux parcours balisés
+d'entraînement et de compétition d'orientation subaquatique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 2
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -46905,32 +47026,32 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=459></a>
+
 ###### Article A322-72
 
-Les         annexes III-14 a à III-17 au présent code déterminent :
+Sur le site de l'activité subaquatique, la pratique de la plongée est placée sous la responsabilité d'un directeur de plongée
+présent sur le lieu de mise à l'eau ou d'immersion de la palanquée. 
 
-- les aptitudes des pratiquants (annexe III-14 a) ;
+Il est responsable techniquement de l'organisation, des dispositions à prendre pour assurer la sécurité des plongeurs et du
+déclenchement des secours. 
 
-- les brevets de pratiquants délivrés par la Fédération française d'études et de sports sous-marins, la Fédération sportive
-et gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Association nationale des moniteurs de
-plongée, le Syndicat national des moniteurs de plongée et la Confédération mondiale des activités subaquatiques attestant des
-aptitudes de l'annexe III-14 a (annexe III-14 b) ;
+Il s'assure de l'application des règles et procédures en vigueur. 
 
-- les niveaux de guide de palanquée et directeur de plongée en plongée à l'air (annexe III-15 a) ;
+Il fixe les caractéristiques de la plongée et établit une fiche de sécurité comprenant notamment les noms, les prénoms, les
+aptitudes des plongeurs et leur fonction dans la palanquée ainsi que les différents paramètres prévus et réalisés relatifs à
+la plongée. Cette fiche est conservée une année par tout moyen par l'établissement. 
 
-- les niveaux d'enseignement en plongée à l'air (annexe III-15 b) ;
+Le directeur de plongée est titulaire d'une qualification mentionnée à l'annexe III-15 a. 
 
-- les conditions d'évolution en enseignement en plongée à l'air (annexe III-16 a) ;
-
-- les conditions d'évolution en exploration en plongée à l'air en milieu naturel (annexe III-16 b) ;
-
-- le contenu de la trousse de secours (annexe III-17).
+Lors d'une plongée aux mélanges, le directeur de plongée justifie également des aptitudes PN-C ou PTH-120 correspondant aux
+mélanges utilisés conformément aux annexes III-17 a et III-18 a.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 29 juillet 2010 - art. 1
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -46939,173 +47060,67 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-14 a
-  - Code du sport. - art. Annexe III-15 a
-  - Code du sport. - art. Annexe III-16 a
+  - Code du sport. - art. Annexe III-15 a (art. A322-72) (V)
   - Code du sport. - art. Annexe III-17
 
 
 ###### Article A322-73
 
-La pratique de la plongée est placée sous la responsabilité d'un directeur de plongée présent sur le site qui fixe les
-caractéristiques de la plongée et organise l'activité. Il s'assure de l'application des règles définies par la présente sous-
-section.
+Plusieurs plongeurs qui effectuent ensemble une plongée présentant les mêmes caractéristiques de durée, de profondeur et de
+trajet, y compris s'ils respirent des mélanges différents, constituent une palanquée. 
+
+Lorsque la palanquée est composée de plongeurs justifiant d'aptitudes différentes ou respirant des mélanges différents, elle
+ne doit pas dépasser les conditions maximales d'évolution accessibles au plongeur justifiant des aptitudes les plus
+restrictives ou du mélange le plus contraignant. 
+
+Les plongeurs mineurs ne sont pas autorisés à évoluer en autonomie.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-74
 
-Le directeur de plongée en milieu naturel est titulaire d'une qualification mentionnée à l'annexe III-15 a.
+Lorsqu'en milieu naturel la palanquée en immersion est dirigée par une personne l'encadrant, celle-ci est titulaire d'une
+qualification mentionnée à l'annexe III-15 b. Cette personne est responsable du déroulement de la plongée et s'assure que ses
+caractéristiques sont adaptées aux circonstances et aux aptitudes des plongeurs. 
+
+Lorsqu'au moins un des plongeurs encadrés ou la personne encadrant la palanquée utilise un mélange autre que l'air, cette
+dernière justifie également des aptitudes correspondant aux mélanges utilisés conformément aux annexes III-17 b, III-17 c,
+III-18 b et III-18 c.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 4
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-15 a
+  - Code du sport. - art. Annexe III-15 b
+  - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
+  - Code du sport. - art. Annexe III-18 b (art. A322-91) (V)
 
 
 ###### Article A322-75
 
-Lorsque la plongée se déroule en piscine ou fosse de plongée dont la profondeur n'excède pas 6 mètres, le directeur de
-plongée est titulaire au minimum du niveau 1 d'encadrement. Le directeur de plongée autorise les plongeurs justifiant des
-aptitudes PE-1 ou PA-1 à plonger en autonomie et les guides de palanquée à effectuer les baptêmes.
-
-La plongée dans une piscine ou fosse de plongée dont la profondeur excède six mètres est soumise aux dispositions relatives à
-la plongée en milieu naturel.
+Au sens de la présente section, la plongée en exploration correspond à la pratique de la plongée en dehors de toute action
+d'enseignement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 5
+  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-76
 
-Plusieurs plongeurs qui effectuent ensemble une plongée présentant les mêmes caractéristiques de durée, de profondeur et de
-trajet constituent une palanquée.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 18 juin 2010 - art. 17
-
-
-###### Article A322-77
-
-Le guide de palanquée dirige la palanquée en immersion. Il est responsable du déroulement de la plongée et s'assure que les
-caractéristiques de celle-ci sont adaptées aux circonstances et aux aptitudes des participants.
-
-L'encadrement de la palanquée est assuré par un guide de palanquée mentionné en annexe III-15 a ou un enseignant mentionné à
-l'annexe III-15 b selon les conditions d'évolution définies en annexes III-16 a et III-16 b.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 18 juin 2010 - art. 6
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe III-15 (art. A322-77) (Ab)
-  - Code du sport. - art. Annexe III-16 a (art. A322-82) (V)
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-15 a
-
-
-###### Article A322-78
-
-Les pratiquants ont à leur disposition sur les lieux de plongée le matériel de secours suivant : 
-
-― un moyen de communication permettant de prévenir les secours ; 
-
-― une trousse de secours dont le contenu minimum est fixé en annexe III-17 du présent code ; 
-
-― de l'eau douce potable non gazeuse ; 
-
-― un ballon autoremplisseur à valve unidirectionnelle (BAVU) avec sac de réserve d'oxygène ; 
-
-― une bouteille d'oxygène gonflée d'une capacité suffisante pour permettre, en cas d'accident, un traitement adapté à la
-plongée, avec manodétendeur et tuyau de raccordement au BAVU ; 
-
-― une bouteille d'air de secours équipée de son détendeur ; 
-
-― une couverture isothermique ; 
-
-― un moyen de rappeler un plongeur en immersion depuis la surface, lorsque la plongée se déroule en milieu naturel, au départ
-d'une embarcation, ainsi que, éventuellement, un aspirateur de mucosités. 
-
-Ils ont en outre le matériel d'assistance suivant : 
-
-― une tablette de notation ; 
-
-― un jeu de tables permettant de vérifier ou de recalculer les procédures de remontées des plongées réalisées au-delà    de
-la profondeur de 6 mètres. 
-
-Les matériels et équipements nautiques des plongeurs sont conformes à la réglementation en vigueur et correctement
-entretenus.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 18 juin 2010 - art. 7
-
-_Cité par_:
-
-  - Code du sport. - art. A322-101 (V)
-  - Code du sport. - art. A322-97 (V)
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-17
-
-
-###### Article A322-79
-
-L'activité de plongée est matérialisée selon la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-
-###### Article A322-80
-
-Sauf dans les piscines ou fosses de plongée dont la profondeur n'excède pas 6 mètres, les plongeurs évoluant en autonomie et
-les guides de palanquée sont équipés chacun d'un système gonflable au moyen de gaz comprimé leur permettant de regagner la
-surface et de s'y maintenir, ainsi que des moyens de contrôler personnellement les caractéristiques de la plongée et de la
-remontée de leur palanquée.
-
-En milieu naturel, le guide de palanquée est équipé d'un équipement de plongée muni de deux sorties indépendantes et de deux
-détendeurs complets. Les plongeurs en autonomie sont munis d'un équipement de plongée permettant d'alimenter en gaz
-respirable un équipier sans partage d'embout.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-
-###### Article A322-81
-
-Les plongeurs justifiant des aptitudes mentionnées à l'annexe III-14 a accèdent respectivement aux espaces d'évolution
-suivants : 
+En fonction des gaz utilisés, du niveau de qualification de l'encadrement et des aptitudes des plongeurs, les espaces
+d'évolution sont définis comme suit : 
 
 Espace de 0 à 6 mètres ; 
 
@@ -47115,20 +47130,177 @@ Espace de 0 à 20 mètres ;
 
 Espace de 0 à 40 mètres ; 
 
-Espace de 0 à 60 mètres. 
+Espace de 0 à 60 mètres ; 
+
+Espace de 0 à 80 mètres ; 
+
+Espace au-delà de 80 mètres. 
 
 La plongée subaquatique à l'air est limitée à 60 mètres. 
 
-En cas de réimmersion, tout plongeur en difficulté est accompagné d'un plongeur chargé de l'assister. 
+La pratique de la plongée subaquatique au nitrox est limitée à 60 mètres. 
 
-Les annexes III-16 a et III-16 b fixent les conditions d'évolution des plongeurs en fonction de leurs aptitudes telles que
-définies en annexe III-14 a.
+L'encadrement de la plongée subaquatique aux mélanges trimix ou héliox est limité à 80 mètres. 
+
+La pratique de la plongée subaquatique en autonomie aux mélanges trimix ou héliox est limitée à 120 mètres.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 8
+  - Arrêté du 5 janvier 2012 - art. 1
+
+
+###### Article A322-77
+
+Le plongeur justifie, auprès du directeur de plongée, des aptitudes mentionnées aux annexes III-14 a, III-17 a ou III-18 a,
+notamment par la présentation d'un brevet ou diplôme et, le cas échéant, d'un carnet de plongée permettant d'évaluer son
+expérience. 
+
+En l'absence de cette justification, le directeur de plongée organise l'évaluation des aptitudes de l'intéressé à l'issue
+d'une ou plusieurs plongées. 
+
+Le plongeur titulaire d'un brevet mentionné à l'annexe III-14 b justifie des aptitudes correspondantes. 
+
+Au sens de la présente section, les aptitudes sont définies comme suit : 
+
+- les aptitudes à plonger encadré à l'air : PE ; 
+
+- les aptitudes à plonger en autonomie à l'air : PA ; 
+
+- les aptitudes à plonger en utilisant un mélange au nitrox : PN ; 
+
+- les aptitudes à plonger en utilisant un mélange au trimix ou à l'héliox : PTH. 
+
+Les personnes en situation de handicap peuvent bénéficier, dans l'espace de 0 à 40 mètres, d'une assistance adaptée en
+encadrement ou en matériel pour évoluer en palanquée encadrée en justifiant des aptitudes PE-12 à PE-40 et, le cas échéant,
+des aptitudes à plonger au nitrox.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. Annexe III-15 (art. A322-77) (Ab)
+  - Code du sport. - art. Annexe III-16 a (art. A322-82) (V)
+
+
+###### Article A322-78
+
+I.-Les pratiquants ont à leur disposition sur le lieu de mise à l'eau ou d'immersion un plan de secours ainsi que le matériel
+de secours suivant :
+
+- un moyen de communication permettant de prévenir les secours. Une VHF est nécessaire lorsque la plongée se déroule en mer
+au départ d'une embarcation support de plongée ;
+
+- de l'eau douce potable ;
+
+- un ballon auto-remplisseur à valve unidirectionnelle avec sac de réserve d'oxygène et trois masques (grand, moyen, petit) ;
+
+- un masque à haute concentration ;
+
+- un ensemble d'oxygénothérapie médicale normobare d'une capacité suffisante pour permettre, en cas d'accident, une prise en
+charge adaptée à la situation jusqu'à l'arrivée des secours médicaux, avec manodétendeur, débit-litre et tuyau de
+raccordement au ballon auto-remplisseur à valve unidirectionnelle ou au masque à haute concentration ;
+
+- une couverture isothermique ;
+
+- des fiches d'évacuation selon un modèle type en annexe III-19. 
+
+Le plan de secours est un document écrit, adapté au lieu et à la plongée pratiquée, régulièrement mis à jour et porté à la
+connaissance du directeur de plongée, des personnes encadrant les palanquées et des plongeurs autonomes. Il précise notamment
+les modalités d'alerte en cas d'accident, les coordonnées des services de secours et les procédures d'urgence à appliquer en
+surface à la victime. 
+
+II.-Ils ont en outre le matériel d'assistance suivant :
+
+- une bouteille d'air de secours équipée de son détendeur et, en cas de plongée effectuée avec un mélange respiratoire autre
+que l'air, une ou plusieurs bouteilles de secours équipées de détendeurs, dont le contenu prévu par le plan de secours est
+adapté à la plongée organisée ;
+
+- un moyen de rappeler un plongeur en immersion depuis la surface, lorsque la plongée se déroule en milieu naturel, au départ
+d'une embarcation ;
+
+- une tablette de notation immergeable ;
+
+- en milieu naturel, au-delà de la profondeur de 6 mètres, un jeu de tables de décompression. 
+
+III.-Le matériel de secours est régulièrement vérifié et correctement entretenu.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A322-101 (V)
+  - Code du sport. - art. A322-97 (V)
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
+
+
+###### Article A322-79
+
+L'activité de plongée est matérialisée selon la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
+
+
+###### Article A322-80
+
+Chaque bouteille ou ensemble de bouteilles d'un même gaz respirable est muni d'un manomètre ou d'un système équivalent
+permettant d'indiquer la pression au cours de la plongée. 
+
+En milieu naturel, chaque plongeur équipé d'un appareil à circuit ouvert est muni d'un système gonflable au moyen de gaz
+comprimé lui permettant de regagner la surface et de s'y maintenir. 
+
+En milieu naturel, chaque plongeur encadré au-delà de 20 mètres et chaque plongeur en autonomie est muni : 
+
+- d'un équipement de plongée permettant d'alimenter en gaz respirable un équipier sans partage d'embout ; 
+
+- d'équipements permettant de contrôler les caractéristiques personnelles de sa plongée et de sa remontée. 
+
+En milieu naturel, la personne encadrant la palanquée est munie : 
+
+- d'un équipement de plongée avec deux sorties indépendantes et deux détendeurs complets ; 
+
+- d'un système gonflable au moyen de gaz comprimé lui permettant de regagner la surface et de s'y maintenir ; 
+
+- d'équipements permettant de contrôler les caractéristiques de la plongée et de la remontée de sa palanquée. 
+
+En milieu naturel, chaque palanquée dispose d'un parachute de palier.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
+
+
+###### Article A322-81
+
+Les matériels subaquatiques et équipements nautiques utilisés par les plongeurs sont régulièrement vérifiés et correctement
+entretenus. 
+
+Les tubas et les détendeurs mis à disposition des plongeurs par les établissements sont désinfectés avant chaque plongée en
+cas de changement d'utilisateur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -47140,211 +47312,136 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-###### Article A322-81-1
-
-Le plongeur justifie, auprès du directeur de plongée, des aptitudes mentionnées à l'annexe III-14 a, notamment par la
-présentation d'un brevet, carnet de plongée ou diplôme. 
-
-En l'absence de cette justification, le directeur de plongée évalue les aptitudes de l'intéressé à l'issue d'une ou plusieurs
-plongées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 18 juin 2010 - art. 9
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-14 a
-
-
-###### Article A322-81-2
-
-Il faut entendre par exploration la pratique de la plongée en dehors de toute action d'enseignement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 18 juin 2010 - art. 10
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe III-15 a (V)
-
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=460></a>
 
 ###### Article A322-82
 
-Une palanquée constituée de débutants ne peut évoluer que dans l'espace de 0 à 6 mètres. 
-
-Une palanquée constituée de plongeurs justifiant des aptitudes PE-1 ne peut évoluer que dans l'espace de 0 à 12 mètres. 
-
-En cours de formation technique conduisant aux aptitudes PE-2, la palanquée peut évoluer dans l'espace de 0 à 20 mètres, sous
-la responsabilité d'un enseignant de niveau 2 (E2) mentionné à l'annexe III-15 b.
+Les conditions de pratique de la plongée à l'air sont précisées par les annexes III-16 a et III-16 b.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 11
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-15 b
+  - Code du sport. - art. Annexe III-16 a (art. A322-82) (V)
 
 
 ###### Article A322-83
 
-Une palanquée constituée de plongeurs justifiant des aptitudes PE-2 peut évoluer dans l'espace de 0 à 20 mètres, sous la
-responsabilité d'un guide de palanquée. En cours de formation technique conduisant aux aptitudes PE-3, la palanquée peut
-évoluer dans l'espace de 0 à 40 mètres, sous la responsabilité d'un enseignant de niveau 3 (E3) mentionné à l'annexe III-15
-b.
+Une palanquée constituée de débutants peut évoluer dans l'espace de 0 à 6 mètres. 
+
+En cours de formation technique conduisant aux aptitudes PE-12 ou PE-20, la palanquée peut évoluer respectivement dans
+l'espace de 0 à 12 mètres ou dans l'espace de 0 à 20 mètres, sous la responsabilité d'un enseignant de niveau 2 (E2)
+mentionné à l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 12
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-15 b
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
 
 
 ###### Article A322-84
 
-Une palanquée constituée de plongeurs justifiant des aptitudes PE-3 peut évoluer dans l'espace de 0 à 40 mètres, sous la
-responsabilité d'un guide de palanquée. En cours de formation technique conduisant à un brevet justifiant des aptitudes PE-4
-mentionné à l'annexe III-14 b, la palanquée peut évoluer dans l'espace de 0 à 60 mètres, sous la responsabilité d'un
-enseignant de niveau 4 (E4) mentionné à l'annexe III-15 b.
+Une palanquée constituée de plongeurs justifiant des aptitudes PE-12 peut évoluer dans l'espace de 0 à 12 mètres sous la
+responsabilité de la personne encadrant la palanquée. 
+
+Une palanquée constituée de plongeurs en cours de formation technique conduisant aux aptitudes PE-20 peut évoluer dans
+l'espace de 0 à 20 mètres, sous la responsabilité d'un enseignant de niveau 2 (E2) mentionné à l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 12 novembre 2010 - art. 1
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-14 b
-  - Code du sport. - art. Annexe III-15 b
-
-
-###### Article A322-84-1
-
-Une palanquée constituée de plongeurs justifiant des aptitudes PE-4 peut évoluer dans l'espace de 0 à 60 mètres, sous la
-responsabilité d'un enseignant de niveau 4 mentionné à l'annexe III-15 b.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 12 novembre 2010 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-84-2
-
-Si la palanquée est constituée de plongeurs justifiant des aptitudes différentes allant de PE-1 à PE-4, celle-ci n'est
-autorisée à évoluer que dans l'espace d'évolution du plongeur justifiant des aptitudes les plus faibles.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 12 novembre 2010 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
 
 
 ###### Article A322-85
 
-Les plongeurs majeurs justifiant des aptitudes PA-1 sont, sur décision du directeur de plongée, autorisés à plonger en
-autonomie dans l'espace de 0 à 12 mètres.
-
-Les plongeurs majeurs justifiant des aptitudes PA-2 sont, sur décision du directeur de plongée, autorisés à plonger en
-autonomie dans l'espace de 0 à 20 mètres.
-
-Les plongeurs majeurs justifiant des aptitudes PA-3 sont, sur décision du directeur de plongée, autorisés à plonger en
-autonomie dans l'espace de 0 à 40 mètres.
-
-Si la palanquée est constituée de plongeurs majeurs justifiant d'aptitudes PA-1 à PA-4 différentes, celle-ci n'est autorisée
-à évoluer que dans l'espace d'évolution du plongeur justifiant des aptitudes les plus faibles.
+Une palanquée constituée de plongeurs justifiant des aptitudes PE-20 peut évoluer dans l'espace de 0 à 20 mètres sous la
+responsabilité de la personne encadrant la palanquée. En cours de formation technique conduisant aux aptitudes PE-40, la
+palanquée peut évoluer dans l'espace de 0 à 40 mètres, sous la responsabilité d'un enseignant de niveau 3 (E3) mentionné à
+l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 14
+  - Arrêté du 5 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
 
 
 ###### Article A322-86
 
-Les plongeurs majeurs titulaires d'un brevet justifiant des aptitudes PA-4 mentionné à l'annexe III-14 b sont, sur décision
-du directeur de plongée, autorisés à plonger en autonomie dans l'espace de 0 à 60 mètres. 
+Une palanquée constituée de plongeurs justifiant des aptitudes PE-40 peut évoluer dans l'espace de 0 à 40 mètres sous la
+responsabilité de la personne encadrant la palanquée. 
 
-En l'absence du directeur de plongée, ils peuvent plonger en autonomie et choisir le lieu, l'organisation et les paramètres
-de leur plongée. 
-
-Le guide de palanquée mentionné à l'annexe III-15 a justifie des aptitudes PA-4.
+En cours de formation technique conduisant à un brevet délivré par la Fédération française d'études et de sports sous-marins,
+la Fédération sportive et gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Association nationale
+des moniteurs de plongée, le Syndicat national des moniteurs de plongée ou la Confédération mondiale des activités
+subaquatiques justifiant des aptitudes PE-60, la palanquée peut évoluer dans l'espace de 0 à 60 mètres sous la responsabilité
+d'un enseignant de niveau 4 (E4) mentionné à l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 15
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-14 b
-  - Code du sport. - art. Annexe III-15 a
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
 
 
 ###### Article A322-87
 
-Les dispositions de la présente sous-section ne sont pas applicables à l'apnée, à la plongée archéologique, souterraine ainsi
-qu'aux parcours balisés d'entraînement et de compétition d'orientation subaquatique.
+Une palanquée constituée de plongeurs titulaires d'un brevet délivré par la Fédération française d'études et de sports sous-
+marins, la Fédération sportive et gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Association
+nationale des moniteurs de plongée, le Syndicat national des moniteurs de plongée ou la Confédération mondiale des activités
+subaquatiques justifiant des aptitudes PE-60 peut évoluer dans l'espace de 0 à 60 mètres sous la responsabilité de la
+personne encadrant la palanquée enseignant de niveau 4 (E4) mentionné à l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-
-##### Sous-section 2 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome aux mélanges autres que l'air.<a id=460></a>
-
-###### Article A322-88
-
-Les établissements mentionnés à l'article L. 322-2 qui, quel que soit l'équipement utilisé, y compris les recycleurs,
-organisent la pratique ou dispensent l'enseignement de la plongée subaquatique aux mélanges respiratoires énoncés à l'article
-A. 322-89, ou qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique conjointement à l'air et
-avec ces mélanges respiratoires sont soumis aux règles de technique et de sécurité définies par la présente section.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A322-89
-  - Code du sport. - art. L322-2
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
+
+
+###### Article A322-88
+
+Les plongeurs majeurs justifiant des aptitudes PA-12 sont, sur décision du directeur de plongée, autorisés à plonger en
+autonomie dans l'espace de 0 à 12 mètres. 
+
+Les plongeurs majeurs justifiant des aptitudes PA-20 sont, sur décision du directeur de plongée, autorisés à plonger en
+autonomie dans l'espace de 0 à 20 mètres. 
+
+Les plongeurs majeurs justifiant des aptitudes PA-40 sont, sur décision du directeur de plongée, autorisés à plonger en
+autonomie dans l'espace de 0 à 40 mètres.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -47353,18 +47450,17 @@ _Cité par_:
 
 ###### Article A322-89
 
-Les mélanges respiratoires visés par la présente section sont les suivants :
-
-1° Mélanges binaires : Nitrox, mélange respiratoire composé d'oxygène et d'azote dans des proportions différentes de celle de
-l'air ; Héliox, mélange respiratoire composé d'oxygène et d'hélium.
-
-2° Mélanges ternaires : Trimix, mélange respiratoire composé d'oxygène, d'azote et d'hélium.
+Les plongeurs majeurs titulaires d'un brevet délivré par la Fédération française d'études et de sports sous-marins, la
+Fédération sportive et gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Association nationale des
+moniteurs de plongée, le Syndicat national des moniteurs de plongée ou la Confédération mondiale des activités subaquatiques
+justifiant des aptitudes PA-60 sont, sur décision du directeur de plongée, autorisés à plonger en autonomie dans l'espace de
+0 à 60 mètres.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -47372,162 +47468,201 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=461></a>
+
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=462></a>
+
 ###### Article A322-90
 
-Les qualifications et conditions de pratique de la plongée, telles que définies aux articles A. 322-88 et A. 322-89, sont
-précisées par les annexes III-18 à III-20 a et III-20 b au présent code.
+Les gaz et mélanges respiratoires sont les suivants : 
+
+1° Mélanges binaires : 
+
+- le nitrox est un mélange respiratoire composé d'oxygène et d'azote dans des proportions différentes de celle de l'air ; 
+
+- l'héliox est un mélange respiratoire composé d'oxygène et d'hélium ; 
+
+2° Mélanges ternaires : le trimix, mélange respiratoire composé d'oxygène, d'azote et d'hélium ; 
+
+3° L'oxygène pur, utilisable dans les recycleurs et en décompression.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Cite_:
-
-  - Code du sport. - art. A322-88
-  - Code du sport. - art. Annexe III-20 B (art. A322-101)
+  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-91
 
-La valeur de la pression partielle minimale d'oxygène inspiré par le plongeur est limitée à 160 hPa (0,16 bar). La valeur de
-la pression partielle maximale d'oxygène inspiré par le plongeur en immersion est limitée à 1 600 hPa (1,6 bar). La
-profondeur maximale d'utilisation du mélange est calculée en fonction de la pression partielle d'oxygène maximale admissible
-définie ci-dessus.
+Les conditions de pratique de la plongée à l'oxygène et aux mélanges autres que l'air sont précisées par les annexes III-17
+a, III-17 b, III-17 c, III-18 a, III-18 b et III-18 c.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. A322-98 (VD)
 
+_Cite_:
+
+  - Code du sport. - art. Annexe III-17 a (art. A322-91) (V)
+
 
 ###### Article A322-92
 
-Sans préjudice des autres dispositions réglementaires applicables en la matière, lorsque la fabrication des mélanges entraîne
-une circulation de gaz comprimés avec des taux supérieurs à 40 % d'oxygène, les bouteilles de plongée et les robinetteries
-doivent être compatibles pour une utilisation en oxygène pur.
+La valeur de la pression partielle minimale d'oxygène inspiré par le plongeur est limitée à 160 hectopascals (0,16 bar). La
+valeur de la pression partielle maximale d'oxygène inspiré par le plongeur en immersion est limitée à 1 600 hectopascals (1,6
+bar).
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-93
 
-Sans préjudice des autres dispositions réglementaires applicables en la matière, la personne fabriquant un mélange
-respiratoire autre que l'air doit porter sur le fût de chaque bouteille distribuée contenant ce mélange les informations
-suivantes :
+Les bouteilles sont identifiées selon les gaz contenus. 
 
-― le résultat de l'analyse d'oxygène réalisée ;
+Le fabricant ou le distributeur d'un mélange respiratoire autre que l'air mentionne sur la fiche d'identification de chaque
+bouteille et sur le registre de l'établissement les informations suivantes : 
 
-― la date de l'analyse ;
+- le pourcentage d'oxygène analysé et la composition théorique du mélange gazeux ; 
 
-― son nom de fabricant.
+- la date de l'analyse ; 
 
-L'utilisateur final complète ces informations par :
+- le nom du fabricant ou du distributeur. 
 
-― le résultat de l'analyse d'oxygène réalisée par ses soins avant la plongée ;
+Avant la plongée, l'utilisateur final complète la fiche d'identification de chaque bouteille par les informations
+suivantes : 
 
-― la profondeur maximale d'utilisation du mélange ;
+- la pression du mélange gazeux de la bouteille ; 
 
-― la date de l'analyse ;
+- le pourcentage d'oxygène analysé et la composition du mélange ; 
 
-― son nom ou ses initiales.
+- la profondeur maximale d'utilisation du mélange ; 
+
+- la date de l'analyse ; 
+
+- son nom ou ses initiales.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-94
 
-La personne fabriquant un mélange respiratoire autre que l'air ou la personne qui le distribue est tenue par ailleurs de
-consigner sur un registre l'identification de chaque bouteille distribuée, sa pression, le résultat de l'analyse de
-l'oxygène, son nom, la date de l'analyse et sa signature.
+Lorsque la plongée est réalisée avec des recycleurs, ceux-ci font l'objet d'une certification selon les normes en vigueur. 
 
-Si le distributeur n'est pas le fabricant, le distributeur indique sur le fût de chaque bouteille distribuée son nom de
-distributeur, en complément du nom du fabricant.
+Après avoir suivi une formation qualifiante, adaptée au recycleur considéré, de la Fédération française d'études et de sports
+sous-marins, de la Fédération sportive et gymnique du travail, de l'Union nationale des centres sportifs de plein air, de
+l'Association nationale des moniteurs de plongée ou du Syndicat national des moniteurs de plongée ou reconnue par le
+fabricant du recycleur, l'utilisateur d'un recycleur peut accéder aux prérogatives définies par la présente section s'il
+justifie des aptitudes correspondant à l'espace d'évolution et aux mélanges gazeux utilisés. 
+
+Lors d'une plongée avec un recycleur organisée au-delà de 6 mètres, les plongeurs doivent avoir accès à un système
+respiratoire de secours en circuit ouvert délivrant un ou plusieurs mélanges respirables autorisant le retour en surface. 
+
+En milieu naturel, lorsque la personne encadrant la palanquée utilise un recycleur, le système respiratoire de secours doit
+être indépendant du recycleur.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
+
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=463></a>
 
 ###### Article A322-95
 
-Les bouteilles contenant des mélanges respiratoires différents ne doivent pas pouvoir être mises en communication de façon
-accidentelle.
+La pratique de la plongée aux mélanges nitrox est soumise à la justification d'aptitudes nitrox pour les plongeurs et la
+personne encadrant la palanquée conformément au tableau figurant à l'annexe III-17 a. 
 
-Chaque bouteille de mélange respirable ou ensemble de bouteilles reliées entre elles devra être muni d'un manomètre
-permettant d'en mesurer la pression au cours de la plongée.
+Les conditions de pratique de la plongée aux mélanges nitrox sont précisées par les annexes III-17 b et III-17 c.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
+_Cite_:
+
+  - Code du sport. - art. Annexe III-17 a (art. A322-91) (V)
+  - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
+
+
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=464></a>
 
 ###### Article A322-96
 
-Les embouts de détendeurs montés sur les bouteilles contenant des mélanges différents doivent pouvoir être identifiés
-facilement en immersion et munis de systèmes détrompeurs destinés à prévenir le risque de confusion de mélange.
+La pratique de la plongée aux mélanges trimix ou héliox est soumise à la justification des aptitudes par les plongeurs et la
+personne encadrant la palanquée conformément au tableau figurant à l'annexe III-18 a. 
+
+Les conditions de pratique de la plongée aux mélanges trimix ou héliox sont précisées par les annexes III-18 b et III-18 c.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-18 a (art. A322-96) (V)
+  - Code du sport. - art. Annexe III-18 b (art. A322-91) (V)
 
 
 ###### Article A322-97
 
-Le directeur de plongée adapte les paramètres de la plongée en fonction des résultats des vérifications des mélanges des
-plongeurs concernés.
+En complément du matériel énoncé à l'article A. 322-78, l'organisation d'une plongée au mélange trimix ou héliox impose la
+présence sur le lieu de mise à l'eau ou d'immersion des équipements suivants :
+
+- une ligne lestée de descente et de remontée pouvant également être utilisée pour la décompression ;
+
+- une copie de la ou des planifications de plongées prévues ;
+
+- un support logistique ou une embarcation support de pratique avec une personne en surface habilitée pour la manœuvrer.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
+_Cite_:
+
+  - Code du sport. - art. A322-78 (V)
+
+
+##### Sous-section 4 : Dispositions diverses<a id=465></a>
 
 ###### Article A322-98
 
-Lorsque la plongée est réalisée avec des recycleurs, ceux-ci font l'objet d'une certification aux normes en vigueur. Outre
-les dispositions relatives au matériel, définies au paragraphe 2, le recycleur est muni d'un dispositif permettant de
-renseigner le plongeur lorsque la pression partielle d'oxygène inspiré n'est pas comprise entre les valeurs minimales et
-maximales définies à l'article A. 322-91. 
+La plongée dans une piscine ou fosse de plongée dont la profondeur excède 6 mètres est soumise aux dispositions relatives à
+la plongée en milieu naturel. 
 
-Les recycleurs fonctionnant exclusivement à l'oxygène pur ne sont pas soumis à cette obligation. 
-
-Lors des plongées organisées au-delà de l'espace proche, le recycleur doit être muni d'une sortie de secours en circuit
-ouvert, la composition de son mélange devant être respirable dans la zone d'évolution. 
-
-En milieu naturel, le guide de palanquée qui utilise un recycleur doit disposer d'un équipement de plongée muni en complément
-d'une source de mélange de secours indépendante et dotée d'au moins un détendeur en circuit ouvert. 
-
-Un plongeur peut utiliser un recycleur commercialisé avant 1990 dans le respect de la réglementation en vigueur à sa date de
-commercialisation sous réserve qu'il n'ait pas été modifié et d'être accompagné par un équipier utilisant un matériel
-respectant les conditions de la présente section.
+Par dérogation aux dispositions des sous-sections 1 et 2, lorsque la plongée se déroule en piscine ou fosse de plongée dont
+la profondeur n'excède pas 6 mètres, le directeur de plongée est titulaire au minimum du niveau d'enseignement 1 (E1)
+mentionné à l'annexe III-15 b. Le directeur de plongée autorise les plongeurs justifiant des aptitudes PE-12 à plonger en
+autonomie et les guides de palanquée (GP) ou les plongeurs niveau 4 (P4) à effectuer les baptêmes.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+  - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
@@ -47536,402 +47671,80 @@ _Cite_:
 
 ###### Article A322-99
 
-La décompression d'une plongée aux mélanges peut être conduite soit à l'aide de tables spécifiques, soit à l'aide d'un
-ordinateur conçu pour la plongée aux mélanges.
+Sur décision de l'exploitant de l'établissement d'activités physiques ou sportives, une palanquée constituée de plongeurs
+titulaires d'un brevet délivré par la Fédération française d'études et de sports sous-marins, la Fédération sportive et
+gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Association nationale des moniteurs de plongée,
+le Syndicat national des moniteurs de plongée ou la Confédération mondiale des activités subaquatiques justifiant des
+aptitudes PA-60 peut évoluer dans l'espace de 0 à 40 mètres en l'absence de directeur de plongée. 
 
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-
-###### Article A322-100
-
-Plusieurs plongeurs qui effectuent ensemble une plongée présentant les mêmes caractéristiques de durée, de profondeur et de
-trajet et dont l'un d'entre eux au moins respire un mélange différent de l'air, au fond ou durant la décompression,
-constituent une palanquée au sens de la présente section. Une équipe est une palanquée réduite à deux plongeurs.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-
-###### Article A322-101
-
-Les plongeurs accèdent, en fonction de leur niveau de plongeur à l'air et de leurs qualifications de plongeurs aux mélanges,
-à différents espaces d'évolution définis aux annexes III-19 a et III-19 b et III-20 a et III-20 b au présent code : 
-
-― espace proche : de 0 mètre à 6 mètres ; 
-
-― espace médian : de 6 mètres à 20 mètres ; 
-
-― espace lointain : de 20 mètres à 40 mètres ; 
-
-― au-delà de l'espace lointain : plus de 40 mètres. 
-
-Les plongeurs sont titulaires au minimum du niveau 1, 2, 3 ou 4 de plongeur à l'air correspondant à leur zone d'évolution
-conformément aux dispositions de la sous-section 4 de la section 2 du présent chapitre, relative aux établissements qui
-organisent la pratique ou dispensent l'enseignement de la plongée autonome à l'air. Dans des conditions matérielles et
-techniques favorables, l'espace médian et l'espace lointain peuvent être étendus dans la limite de 5 mètres.L'enseignement de
-la plongée subaquatique autonome au mélange trimix ou héliox est limité à 80 mètres. Un dépassement accidentel de cette
-profondeur est toléré dans la limite de 5 mètres.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-19 A (art. A322-101)
-
-
-###### Article A322-102
-
-En cas de réimmersion, tout plongeur en difficulté doit être accompagné d'un plongeur chargé de l'assister.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-103
-
-Les qualifications "qualification nitrox" et "qualification nitrox confirmé" sont délivrées pour l'usage du nitrox. 
-
-La "qualification nitrox" ne peut être délivrée qu'à partir du niveau 1 de plongeur. 
-
-La "qualification nitrox confirmé" ne peut être délivrée qu'à partir du niveau 2 de plongeur. 
-
-Les plongeurs majeurs de niveau égal ou supérieur au niveau 2 de plongeur, titulaires de la "qualification nitrox" ou de la
-"qualification nitrox confirmé", sont, sur autorisation du directeur de plongée, autorisés à plonger en autonomie dans
-l'espace médian. 
-
-En l'absence du directeur de plongée, les plongeurs titulaires du niveau 3 ou supérieur de plongeur ainsi que d'une
-"qualification nitrox" ou "qualification nitrox confirmé" peuvent plonger en autonomie entre eux et choisir le lieu,
-l'organisation et les paramètres de leur plongée, dans les conditions prévues aux annexes III-19 a et III-19 b du présent
-code.
+L'exploitant détermine notamment le site de l'activité subaquatique ainsi que l'organisation mise en œuvre pour assurer la
+sécurité des plongeurs et le déclenchement des secours. Il s'assure que la fiche de sécurité mentionnée à l'article A. 322-72
+est établie par les plongeurs.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 juillet 2008 - art. 5
+  - Arrêté du 5 janvier 2012 - art. 1
 
-**Liens**:
 
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+###### Article A322-100
 
-_Abrogé par_:
+Exerce la fonction de conseiller à la prévention hyperbare pour les plongées dans l'espace de 0 à 40 mètres, en application
+des dispositions de l'article R. 322-41, le titulaire de l'un des diplômes suivants :
+
+- brevet d'Etat d'éducateur sportif 1er degré, option plongée subaquatique ;
+
+- diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif, mention plongée
+subaquatique ;
+
+- diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité performance sportive, mention
+plongée subaquatique. 
+
+Exerce la fonction de conseiller à la prévention hyperbare pour les plongées au-delà de 40 mètres, dans les limites prévues
+par la présente section et en application des dispositions de l'article R. 322-41, le titulaire de l'un des diplômes
+suivants :
+
+- brevet d'Etat d'éducateur sportif 2e degré, option plongée subaquatique ;
+
+- diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif, mention plongée
+subaquatique ;
+
+- diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité performance sportive, mention
+plongée subaquatique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
 
   - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-19 A (art. A322-101)
+  - Code du sport. - art. R322-41
 
 
-###### Article A322-104
+###### Article A322-101
 
-Les qualifications « qualification trimix élémentaire » et « qualification trimix » sont délivrées pour l'usage du trimix.
+Pour l'application de la présente section, la pratique de l'apnée est soumise aux dispositions de l'article A. 322-81 et du I
+de l'article A. 322-78. 
 
-La « qualification trimix » donne compétences pour plonger à l'héliox dans les mêmes limites de profondeur que le trimix.
-
-Les « qualification trimix élémentaire » et « qualification trimix » ne peuvent être délivrées qu'à partir du niveau 3 de
-plongeur.
-
-En l'absence du directeur de plongée, les plongeurs titulaires du niveau 3 ou supérieur de plongeur ainsi que d'une
-« qualification trimix élémentaire » ou « qualification trimix », peuvent plonger en autonomie entre eux et choisir le lieu,
-l'organisation et les paramètres de leur plongée, dans les conditions prévues aux annexes III-19 a et III-19 b et III-20 a et
-III-20 b au présent code.
+Toutefois, dans l'espace de 0 à 6 mètres, la mise à la disposition des pratiquants de l'ensemble d'oxygénothérapie avec ses
+accessoires n'est pas obligatoire.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-105
-
-Après avoir suivi une formation adaptée, les utilisateurs de recycleurs peuvent accéder aux prérogatives définies par la
-présente section, en fonction de leur niveau et du mélange utilisé. Ils doivent être titulaires au moins du niveau 1 de
-plongeur s'il s'agit d'un appareil semi-fermé au nitrox, du niveau 3 de plongeur dans tous les autres cas, et des
-qualifications correspondant aux mélanges respirés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-106
-
-La pratique de la plongée est placée sous la responsabilité d'un directeur de plongée présent sur le site qui fixe les
-caractéristiques de la plongée et organise l'activité. Il s'assure de l'application des règles définies par la présente
-section.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-107
-
-Le directeur de plongée en milieu naturel et artificiel est titulaire au minimum : 
-
-1° Du niveau 3 d'encadrement pour l'enseignement et l'exploration en plongée avec les mélanges respiratoires visés à
-l'article A. 322-89 dans les espaces de 0 à 40 mètres, sous réserve qu'il dispose de la qualification afférente au mélange
-respiratoire utilisé ; 
-
-2° Du niveau 3 d'encadrement pour l'exploration en plongée avec ces mélanges respiratoires dans la zone de 40 à 70 mètres,
-sous réserve qu'il dispose de la qualification afférente au mélange respiratoire utilisé ; 
-
-3° Du niveau 4 d'encadrement pour l'exploration en plongée avec ces mélanges respiratoires au-delà de 70 mètres, sous réserve
-qu'il dispose de la qualification afférente au mélange respiratoire utilisé ; 
-
-4° Du niveau 4 d'encadrement pour l'enseignement en plongée avec ces mélanges respiratoires au-delà de 40 mètres, sous
-réserve qu'il dispose de la qualification afférente au mélange respiratoire utilisé.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
+_Modifié par_:
 
   - Arrêté du 5 janvier 2012 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A322-89
+  - Code du sport. - art. A322-78
+  - Code du sport. - art. A322-81
 
 
-###### Article A322-108
-
-Le guide de palanquée dirige la palanquée en immersion. Il est responsable du déroulement de la plongée et s'assure que les
-caractéristiques de celles-ci sont adaptées aux circonstances et aux compétences des participants.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-109
-
-Le guide de palanquée est titulaire au minimum d'un niveau 4 de plongeur et des qualifications afférentes aux mélanges
-respirés par les membres de sa palanquée. 
-
-Ces qualifications sont délivrées dans les conditions définies en annexe III-18. 
-
-Les qualifications minimales requises pour l'enseignement et l'exploration sont définies dans les annexes III-19 a et III-19
-b et III-20 a et III-20 b du présent code. 
-
-En milieu naturel, le guide de palanquée utilise un équipement de plongée muni de deux sorties indépendantes et de deux
-détendeurs complets.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe III-18 (art. A322-109) (VT)
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-19 A (art. A322-101)
-
-
-###### Article A322-110
-
-Le guide d'une palanquée composée de plongeurs respirant de l'air est autorisé à respirer un mélange nitrox, sous réserve
-qu'il ait la qualification nécessaire, et que les conditions de la plongée planifiée sous sa responsabilité lui permettent de
-plonger au nitrox et d'intervenir à tout moment en toute sécurité, que ce soit en situation d'enseignement ou d'exploration. 
-
-Les dispositions relatives aux espaces d'évolution, niveau de pratique des plongeurs, compétence minimum du guide de
-palanquée et effectif de la palanquée prévues pour la plongée autonome à l'air dans les annexes III-16 a et III-16 b
-s'appliquent à cette palanquée en immersion.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. Annexe III-16 a
-
-
-###### Article A322-111
-
-Sauf dans les piscines ou fosses de plongée dont la profondeur n'excède pas 6 mètres, les plongeurs évoluant en autonomie et
-les guides de palanquée sont équipés chacun d'un système gonflable au moyen de gaz comprimé leur permettant de regagner la
-surface et de s'y maintenir, ainsi que des moyens de contrôler personnellement les caractéristiques de la plongée et de la
-remontée de leur palanquée. En plongée, avec des appareils à circuit ouvert, les plongeurs en autonomie doivent être munis
-d'un équipement de plongée permettant d'alimenter un équipier sans partage d'embout.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-112
-
-Les pratiquants ont à leur disposition sur les lieux de plongée le matériel de secours suivant :
-
-― un moyen de communication permettant de prévenir les secours ;
-
-― une trousse de premiers secours dont le contenu minimum est identique à celui fixé pour la plongée à l'air ;
-
-― de l'eau douce potable non gazeuse ;
-
-― un ballon autoremplisseur à valve unidirectionnelle (BAVU) avec sac de réserve d'oxygène et masque d'inhalation ;
-
-― une bouteille d'oxygène gonflée, d'une capacité suffisante pour permettre, en cas d'accident, un traitement adapté à la
-plongée, avec mano-détendeur et tuyau de raccordement au BAVU ;
-
-― une bouteille de secours équipée de son détendeur et contenant un mélange adapté à la plongée organisée ;
-
-― une couverture isothermique ;
-
-― un moyen de rappeler un plongeur en immersion depuis la surface, lorsque la plongée se déroule en milieu naturel, au départ
-d'une embarcation, ainsi que, éventuellement, un aspirateur de mucosités.
-
-Ils ont en outre le matériel d'assistance suivant :
-
-― une tablette de notation ;
-
-― un jeu de tables permettant de vérifier ou recalculer les procédures de remontée des plongées réalisées au-delà de l'espace
-proche.
-
-Les matériels et équipements nautiques des plongeurs sont conformes à la réglementation en vigueur et correctement
-entretenus.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-113
-
-En complément du matériel énoncé à l'article A. 322-112, l'organisation d'une plongée au mélange trimix ou héliox impose la
-présence sur les lieux de plongée des équipements suivants : 
-
-― une ligne lestée de descente et de remontée en l'absence d'autre ligne de repère ; 
-
-― une ou plusieurs bouteilles de secours équipées de détendeurs et contenant un mélange adapté à la plongée organisée ; 
-
-― une ligne de décompression adaptée à la plongée organisée, déployée ou prête à être déployée à partir d'une embarcation ou
-d'un point fixe ; 
-
-― une copie de la ou des planifications de plongées prévues ; 
-
-― un support logistique ou une embarcation support de pratique avec une personne en surface habilitée pour la manœuvrer.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. A322-12
-
-
-###### Article A322-114
-
-L'activité de plongée est matérialisée selon la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-###### Article A322-115
-
-Les dispositions de la présente section sont applicables à la plongée souterraine uniquement en ce qui concerne les
-qualifications requises pour l'utilisation de mélanges en plongée. Les dispositions de la présente section ne sont pas
-applicables à la plongée archéologique, qui dispose d'une réglementation spécifique.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 1
-
-
-##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=461></a>
+##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=466></a>
 
 ###### Article A322-116
 
@@ -47950,7 +47763,7 @@ _Cité par_:
   - Code du sport. - art. A322-123 (VT)
 
 
-##### Paragraphe 1 : Déclaration<a id=462></a>
+##### Paragraphe 1 : Déclaration<a id=467></a>
 
 ###### Article A322-117
 
@@ -48058,7 +47871,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Conditions à respecter<a id=463></a>
+##### Paragraphe 2 : Conditions à respecter<a id=468></a>
 
 ###### Article A322-123
 
@@ -48090,7 +47903,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 3 : Mesures de sécurité générale<a id=464></a>
+##### Paragraphe 3 : Mesures de sécurité générale<a id=469></a>
 
 ###### Article A322-125
 
@@ -48199,7 +48012,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Mesures d'hygiène générale<a id=465></a>
+##### Paragraphe 4 : Mesures d'hygiène générale<a id=470></a>
 
 ###### Article A322-131
 
@@ -48270,7 +48083,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=466></a>
+##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=471></a>
 
 ###### Article A322-135
 
@@ -48380,7 +48193,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 5 : Salles où sont pratiqués les arts martiaux.<a id=467></a>
+##### Section 5 : Salles où sont pratiqués les arts martiaux.<a id=472></a>
 
 ###### Article A322-141
 
@@ -48422,7 +48235,7 @@ _Abrogé par_:
   - Arrêté du 1er juin 2015 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=468></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=473></a>
 
 ###### Article A322-142
 
@@ -48525,9 +48338,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme<a id=469></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme<a id=474></a>
 
-##### Paragraphe 1 : Généralités<a id=470></a>
+##### Paragraphe 1 : Généralités<a id=475></a>
 
 ###### Article A322-147
 
@@ -48571,7 +48384,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Les séances de saut<a id=471></a>
+##### Paragraphe 2 : Les séances de saut<a id=476></a>
 
 ###### Article A322-149
 
@@ -48743,7 +48556,7 @@ _Cite_:
   - Code du sport. - art. A322-153 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=472></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=477></a>
 
 ###### Article A322-155
 
@@ -48789,7 +48602,7 @@ _Cite_:
   - Code du sport. - art. A322-151 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=473></a>
+##### Paragraphe 4 : Les équipements<a id=478></a>
 
 ###### Article A322-157
 
@@ -48852,7 +48665,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=474></a>
+##### Paragraphe 5 : L'encadrement<a id=479></a>
 
 ###### Article A322-160
 
@@ -48908,7 +48721,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=475></a>
+##### Paragraphe 6 : Les moyens matériels<a id=480></a>
 
 ###### Article A322-163
 
@@ -48967,7 +48780,7 @@ _Cite_:
   - Code du sport. - art. R322-1 (V)
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=476></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=481></a>
 
 ###### Article A322-166
 
@@ -48990,9 +48803,9 @@ _Cité par_:
   - Code du sport. - art. A322-171 (VD)
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=477></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=482></a>
 
-##### Sous-paragraphe 1 : Les séances de vol<a id=478></a>
+##### Sous-paragraphe 1 : Les séances de vol<a id=483></a>
 
 ###### Article A322-167
 
@@ -49066,7 +48879,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=479></a>
+##### Sous-paragraphe 2 :  Les machines<a id=484></a>
 
 ###### Article A322-171
 
@@ -49111,7 +48924,7 @@ _Abrogé par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=480></a>
+##### Sous-paragraphe 3 : Les équipements<a id=485></a>
 
 ###### Article A322-174
 
@@ -49132,7 +48945,7 @@ _Abrogé par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=481></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=486></a>
 
 ###### Article A322-175
 
@@ -49170,7 +48983,7 @@ _Cite_:
   - Code du sport. - art. L212-1
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=482></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=487></a>
 
 ###### Article A322-176
 
@@ -49211,13 +49024,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=483></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=488></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=484></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=489></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=485></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=490></a>
 
-##### Sous-section 1 : Dispositions générales<a id=486></a>
+##### Sous-section 1 : Dispositions générales<a id=491></a>
 
 ###### Article A331-1
 
@@ -49236,7 +49049,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Epreuves et compétitions sur la voie publique<a id=487></a>
+##### Sous-section 2 : Epreuves et compétitions sur la voie publique<a id=492></a>
 
 ###### Article A331-5
 
@@ -49258,7 +49071,7 @@ _Abrogé par_:
   - Arrêté du 3 mai 2012 - art. 2
 
 
-##### Paragraphe 1 : Dispositions générales<a id=488></a>
+##### Paragraphe 1 : Dispositions générales<a id=493></a>
 
 ###### Article A331-2
 
@@ -49401,7 +49214,7 @@ _Cité par_:
   - Code du sport. - art. A331-12 (VT)
 
 
-##### Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger<a id=489></a>
+##### Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger<a id=494></a>
 
 ###### Article A331-8
 
@@ -49518,7 +49331,7 @@ _Cite_:
   - Code du sport. - art. A331-7
 
 
-##### Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13<a id=490></a>
+##### Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13<a id=495></a>
 
 ###### Article A331-13
 
@@ -49589,7 +49402,7 @@ _Abrogé par_:
   - Arrêté du 3 mai 2012 - art. 2
 
 
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=491></a>
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=496></a>
 
 ###### Article A331-16
 
@@ -49792,7 +49605,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=492></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=497></a>
 
 ###### Article A331-22
 
@@ -49846,9 +49659,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=493></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=498></a>
 
-##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=494></a>
+##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=499></a>
 
 ###### Article A331-24
 
@@ -49890,7 +49703,7 @@ _Cite_:
   - Code du sport. - art. R331-10
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=495></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=500></a>
 
 ###### Article A331-32
 
@@ -49913,7 +49726,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe<a id=496></a>
+##### Section 4 : Organisation de manifestations publiques de boxe<a id=501></a>
 
 ###### Article A331-33
 
@@ -50020,9 +49833,9 @@ _Cité par_:
   - Code du sport. - art. A331-34 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=497></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=502></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=498></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=503></a>
 
 ###### Article A331-37
 
@@ -50117,13 +49930,13 @@ _Créé par_:
   - Arrêté du 4 août 2008 - art. 5
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=499></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=504></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=500></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=505></a>
 
-#### Chapitre unique<a id=501></a>
+#### Chapitre unique<a id=506></a>
 
-##### Section 2 : Organisation et fonctionnement<a id=502></a>
+##### Section 2 : Organisation et fonctionnement<a id=507></a>
 
 ###### Article A411-1
 
@@ -50278,9 +50091,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=503></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=508></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=504></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=509></a>
 
 ###### Article A421-1
 
@@ -50399,7 +50212,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=505></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=510></a>
 
 ###### Article A422-1
 
@@ -50432,7 +50245,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=506></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=511></a>
 
 ###### Article A423-1
 
@@ -50547,7 +50360,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=507></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=512></a>
 
 ###### Article A424-1
 
@@ -50648,7 +50461,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=508></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=513></a>
 
 ###### Article A425-1
 
@@ -50776,7 +50589,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=509></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=514></a>
 
 ###### Article A426-1
 
@@ -50798,7 +50611,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=510></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=515></a>
 
 ###### Article A427-1
 
@@ -50820,11 +50633,11 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-# ANNEXES<a id=511></a>
+# ANNEXES<a id=516></a>
 
-## Annexes partie réglementaire - Décrets<a id=512></a>
+## Annexes partie réglementaire - Décrets<a id=517></a>
 
-### Annexes I<a id=513></a>
+### Annexes I<a id=518></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -52152,7 +51965,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=514></a>
+### Annexes II<a id=519></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -53409,7 +53222,7 @@ _Cite_:
   - Code du sport. - art. R241-14
 
 
-### Annexes III<a id=515></a>
+### Annexes III<a id=520></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -53990,9 +53803,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=516></a>
+## Annexes partie réglementaire - Arrêtés<a id=521></a>
 
-### Annexes II<a id=517></a>
+### Annexes II<a id=522></a>
 
 ###### Article Annexe I-1 (art. A142-0)
 
@@ -63786,7 +63599,7 @@ _Cité par_:
   - Code du sport. - art. A222-14 (Ab)
 
 
-### Annexes III<a id=518></a>
+### Annexes III<a id=523></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
@@ -65292,55 +65105,67 @@ _Cité par_:
   - Code du sport. - art. A322-62 (VT)
 
 
-###### Article Annexe III-14 a
+###### Article Annexe III-14 a (art. A322-77)
 
-APTITUDES DES PRATIQUANTS 
+Aptitudes des pratiquants à utiliser de l'air
 
-<table align="center" width="750" border="1">
+<table width="750" cellpadding="0" align="center" border="1">
   <tbody>
     <tr>
       <td>
 
-APTITUDES À PLONGER
+APTITUDES
 
-encadré par un guide
+à plonger
 
-de palanquée
+en palanquée
 
-</td>
-      <td>
-
-LE PRATIQUANT DOIT JUSTIFIER
-
-des aptitudes suivantes auprès du directeur de plongée
-
-</td>
-      <td>
-
-APTITUDES À PLONGER
-
-en autonomie (sans guide de palanquée)
+encadrée
 
 </td>
       <td>
 
 LE PRATIQUANT DOIT JUSTIFIER
 
-des aptitudes suivantes auprès du directeur de plongée
+des aptitudes suivantes
+
+auprès du directeur de plongée
+
+</td>
+      <td>
+
+APTITUDES À PLONGER
+
+en autonomie
+
+(sans personne
+
+encadrant la palanquée)
+
+</td>
+      <td>
+
+LE PRATIQUANT DOIT JUSTIFIER
+
+des aptitudes suivantes auprès
+
+du directeur de plongée
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top">
 
-PE-1 
+PE-12
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 12 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+12 mètres
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-Maîtrise de l'utilisation de son équipement personnel, notamment le scaphandre autonome avec gilet stabilisateur 
+Maîtrise de l'utilisation de son équipement personnel, notamment le scaphandre avec gilet stabilisateur
 
 Maîtrise de la mise à l'eau, de l'immersion et du retour en surface à vitesse contrôlée
 
@@ -65353,16 +65178,18 @@ Intégration à une palanquée guidée
 Respect de l'environnement et des règles de sécurité 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-PA-1 
+PA-12
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 12 mètres 
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+12 mètres 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-Maîtrise des aptitudes PE-1 
+Maîtrise des aptitudes PE-12
 
 Maîtrise de l'orientation et des moyens de contrôle de sa profondeur, de son temps de plongée et de son autonomie en air
 
@@ -65377,36 +65204,42 @@ Planification de la plongée et adaptation aux conditions subaquatiques
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top">
 
-PE-2 
+PE-20
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+20 mètres
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top">
 
-Maîtrise des aptitudes PE-1 
+Maîtrise des aptitudes PE-12
 
 Maîtrise de sa propulsion et de sa stabilisation
 
 Maîtrise de sa vitesse de remontée et maintien d'un palier
 
-Connaissance des signes et des réponses adaptées, maîtrise de la communication avec ses coéquipiers
+Connaissance des signes et des réponses adaptées
+
+maîtrise de la communication avec ses coéquipiers
 
 Intégration à une palanquée guidée avec surveillance réciproque
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-PA-2 
+PA-20
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+20 mètres
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-Maîtrise des aptitudes PA-1 et PE-2 
+Maîtrise des aptitudes PA-12 et PE-20
 
 Maîtrise de l'utilisation de l'équipement de ses coéquipiers
 
@@ -65418,16 +65251,18 @@ Maîtrise d'intervention sur un plongeur en difficulté depuis le fond
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top">
 
-PE-3 
+PE-40
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 40 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+40 mètres
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-Maîtrise des aptitudes PE-2 
+Maîtrise des aptitudes PE-20
 
 Maîtrise de la vitesse de descente lors de l'immersion
 
@@ -65437,53 +65272,63 @@ Connaissance des signes spécifiques à cette profondeur et maîtrise de la rapi
 
 Maîtrise d'une remontée en sécurité en cas de perte de palanquée
 
-</td>
-      <td valign="top" align="left">
-
-PA-3 
-
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 40 mètres
+Intégration à une palanquée guidée à une profondeur de 20 à 40 mètres
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top">
 
-Maîtrise des aptitudes PA-2 et PE-3 
+PA-40
+
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+40 mètres
+
+</td>
+      <td valign="top">
+
+Maîtrise des aptitudes PA-20 et PE-40
 
 Maîtrise des procédures de décompression
 
 Maîtrise de la décompression de ses coéquipiers et vigilance sur la cohésion de la palanquée
 
-Adaptation des procédures d'intervention sur un plongeur en difficulté à une profondeur de 20 à 40 mètres
+Adaptation des procédures d'intervention sur un plongeur en difficulté à une profondeur de 20 à
+
+40 mètres
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top">
 
-PE-4 (*) 
+PE-60 (*)
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 60 mètres 
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+60 mètres 
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top">
 
-Maîtrise des aptitudes PE-3 
+Maîtrise des aptitudes PE-40
 
 Adaptation aux conditions d'évolution subaquatique à une profondeur de 40 à 60 mètres
 
 Intégration à une palanquée guidée à une profondeur de 40 à 60 mètres
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top">
 
-PA-4 (*) 
+PA-60 (*)
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 60 mètres 
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+60 mètres 
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top">
 
-Maîtrise des aptitudes PA-3 et PE-4 
+Maîtrise des aptitudes PA-40 et PE-60
 
 Maîtrise de la gestion de plongée à une profondeur de 40 à 60 mètres
 
@@ -65496,7 +65341,8 @@ Maîtrise de l'organisation de sa propre immersion dans toute zone d'évolution
     <tr>
       <td colspan="4">
 
-(*) Cet espace d'évolution est réservé aux plongeurs titulaires d'un brevet mentionné à l'annexe III-14 b.
+(*) Cet espace d'évolution est réservé aux plongeurs titulaires d'un brevet délivré par la FFESSM, la FSGT, l'UCPA, l'ANMP,
+le SNMP ou la CMAS permettant la pratique dans l'espace de 0 à 60 mètres.
 
 </td>
     </tr>
@@ -65505,13 +65351,9 @@ Maîtrise de l'organisation de sa propre immersion dans toute zone d'évolution
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 16
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 18 juin 2010 -  Annexe, v. init.
+  - Arrêté du 5 janvier 2012 - art. 2
 
 _Cité par_:
 
@@ -65522,134 +65364,132 @@ _Cité par_:
   - Code du sport. - art. Annexe III-14 b (art. A322-77) (V)
 
 
-###### Article Annexe III-14 b
+###### Article Annexe III-14 b (art. A322-77)
 
-BREVETS DE PRATIQUANTS DÉLIVRÉS PAR LA FÉDÉRATION FRANÇAISE D'ÉTUDES ET DE SPORTS SOUS-MARINS (FFESSM), LA FÉDÉRATION
-SPORTIVE ET GYMNIQUE DU TRAVAIL (FSGT), L'UNION NATIONALE DES CENTRES SPORTIFS DE PLEIN AIR (UCPA), L'ASSOCIATION NATIONALE
-DES MONITEURS DE PLONGÉE (ANMP), LE SYNDICAT NATIONAL DES MONITEURS DE PLONGÉE (SNMP) ET LA CONFÉDÉRATION MONDIALE DES
-ACTIVITÉS SUBAQUATIQUES (CMAS) ATTESTANT DES APTITUDES DE L'ANNEXE III-14 a
+Brevets de pratiquants délivrés par la Fédération française d'études et de sports sous-marins (FFESSM), la Fédération
+sportive et gymnique du travail (FSGT), l'Union nationale des centres sportifs de plein air (UCPA), l'Association nationale
+des moniteurs de plongée (ANMP), le Syndicat national des moniteurs de plongée (SNMP) et la Confédération mondiale des
+activités subaquatiques (CMAS) attestant des aptitudes de l'annexe III-14 a
 
-<table align="center" width="750" border="1">
+<table align="center" border="1" cellpadding="0" width="750">
   <tbody>
     <tr>
       <td>
 
-BREVETS DÉLIVRÉS PAR LA FFESSM,
+BREVETS DÉLIVRÉS
 
-la FSGT, l'UCPA, l'ANMP et le SNMP 
+par la FFESSM, la FSGT, l'UCPA,
+
+l'ANMP et le SNMP
 
 </td>
       <td>
 
 BREVETS DÉLIVRÉS
 
-par la CMAS 
+par la CMAS
+
+</td>
+      <td>
+
+APTITUDES À PLONGER ENCADRÉ
+
+par un guide de palanquée
 
 </td>
       <td>
 
 APTITUDES À PLONGER
 
-encadré par un guide
+en autonomie
 
-de palanquée 
+(sans personne
+
+encadrant la palanquée)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Plongeur niveau 1 - P1
 
 </td>
       <td>
 
-APTITUDES À PLONGER
+Plongeur 1 étoile
 
-en autonomie (sans guide
+</td>
+      <td>
 
-de palanquée) 
+PE-20
+
+</td>
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Plongeur niveau 1-P1 (*) 
-
-</td>
-      <td align="center">
-
-Plongeur 1 étoile 
+Plongeur niveau 1 - P1 incluant l'autonomie
 
 </td>
-      <td align="center">
-
-PE-2 
+      <td>
 
 </td>
-      <td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      <td>
 
-Plongeur niveau 1-P1 (*) incluant l'autonomie 
+PE-20
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td>
 
-PE-2 
-
-</td>
-      <td align="center">
-
-PA-1 
+PA-12
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Plongeur niveau 2-P2 (*) 
-
-</td>
-      <td align="center">
-
-Plongeur 2 étoiles 
+Plongeur niveau 2 - P2
 
 </td>
-      <td align="center">
+      <td>
 
-PE-3 
-
-</td>
-      <td align="center">
-
-PA-2 
+Plongeur 2 étoiles
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td>
 
-Plongeur niveau 3-P3 (*) 
+PE-40
 
 </td>
-      <td align="center">
+      <td>
 
-Plongeur 3 étoiles 
-
-</td>
-      <td align="center">
-
-PE-4 
-
-</td>
-      <td align="center">
-
-PA-4 
+PA-20
 
 </td>
     </tr>
     <tr>
-      <td colspan="4">
+      <td>
 
-(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des
-brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+Plongeur niveau 3 - P3 
+
+</td>
+      <td>
+
+Plongeur 3 étoiles
+
+</td>
+      <td>
+
+PE-60
+
+</td>
+      <td>
+
+PA-60
 
 </td>
     </tr>
@@ -65658,9 +65498,9 @@ brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils o
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 16
+  - Arrêté du 5 janvier 2012 - art. 2
 
 _Cité par_:
 
@@ -65669,25 +65509,25 @@ _Cité par_:
   - Code du sport. - art. Annexe III-14 a (art. A322-77) (VD)
 
 
-###### Article Annexe III-15 a
+###### Article Annexe III-15 a (art. A322-72)
 
-NIVEAUX DE GUIDE DE PALANQUÉE ET DIRECTEUR DE PLONGÉE
+Qualification minimale du directeur de plongée
 
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
-
-<table align="center" border="1" width="750">
+<table border="1" width="750" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
 
-COMPÉTENCES D'ENCADRANT
+FONCTIONS
 
 </td>
       <td>
 
-BREVETS DÉLIVRÉS PAR LA FFESSM,
+BREVETS DÉLIVRÉS
 
-la FSGT, l'UCPA, l'ANMP et le SNMP
+par la FFESSM, la FSGT, l'UCPA,
+
+l'ANMP et le SNMP
 
 </td>
       <td>
@@ -65704,81 +65544,87 @@ DIPLÔMES D'ÉTAT
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="4">
 
-Guide de palanquée (GP)
-
-</td>
-      <td align="center">
-
-Plongeur niveau 4 - P4 (*)
-
-</td>
-      <td align="center">
-
-Moniteur 2 étoiles
-
-</td>
-      <td align="center">
-
-Stagiaire BEES 1 plongée
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-.
-
-<table width="750" border="1" align="center">
-  <tbody>
-    <tr>
-      <td>
-
-COMPÉTENCES D'ENCADRANT
-
-</td>
-      <td>
-
-BREVETS DÉLIVRÉS
-
-par la FFESSM et la FSGT
-
-</td>
-      <td>
-
-BREVETS DÉLIVRÉS
-
-par la CMAS
-
-</td>
-      <td>
-
-DIPLÔMES D'ÉTAT
+Plongées à l'air ou au nitrox en exploration
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top">
 
-Directeur de plongée (DP)
+Directeur de plongée en milieu naturel 
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-Plongeur niveau 5 - P5 (*) (**)
+Directeur de plongée en exploration - DPE (*)
+
+Plongeur de niveau 5 (P5) (*)
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+    </td></tr>
+    <tr>
+      <td colspan="4">
+
+Plongées à l'air ou au nitrox en enseignement ou en exploration
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Directeur de plongée en milieu naturel 
+
+</td>
+      <td valign="top">
 
 MF1 (*) FFESSM ou FSGT
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 Moniteur 2 étoiles
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-BEES 1 plongée 
+BEES 1 plongée
+
+DEJEPS plongée
+
+DESJEPS plongée
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Plongées au trimix en enseignement ou en exploration
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Directeur de plongée
+
+</td>
+      <td valign="top">
+
+MF2 (*) FFESSM ou FSGT
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+
+BEES 2 plongée
+
+DEJEPS plongée
+
+DESJEPS plongée
 
 </td>
     </tr>
@@ -65786,10 +65632,10 @@ BEES 1 plongée
       <td colspan="4">
 
 (*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des
-brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires. 
+brevets de même niveau de la Fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
 
-(**) Les plongeurs P5 ne peuvent exercer les missions de directeur de plongée que dans le cadre de plongées d'exploration au
-sens de l'article A. 322-81-2.
+Pour la plongée aux mélanges, le directeur de plongée doit également justifier des aptitudes PN-C ou PTH-120 correspondant
+aux mélanges utilisés conformément aux annexes III-17 a et III-18 a.
 
 </td>
     </tr>
@@ -65798,13 +65644,9 @@ sens de l'article A. 322-81-2.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 16
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 18 juin 2010 -  Annexe, v. init.
+  - Arrêté du 5 janvier 2012 - art. 2
 
 _Cité par_:
 
@@ -65813,144 +65655,181 @@ _Cité par_:
   - Code du sport. - art. A322-77 (V)
   - Code du sport. - art. A322-86 (V)
 
-_Cite_:
 
-  - Code du sport. - art. A322-81-2
+###### Article Annexe III-15 b (art. A322-74)
 
+Qualification minimale de la personne encadrant la palanquée
 
-###### Article Annexe III-15 b
-
-NIVEAUX D'ENSEIGNEMENT EN PLONGÉE À L'AIR
-
-<table border="1" align="center" width="750">
+<table cellpadding="0" border="1" width="680">
   <tbody>
     <tr>
       <td>
 
-COMPÉTENCES D'ENSEIGNANT
+FONCTIONS
 
 </td>
       <td>
 
-NIVEAU MINIMUM
+BREVETS DÉLIVRÉS
 
-du brevet fédéral
+par la FFESSM, la FSGT, l'UCPA,
 
-</td>
-      <td colspan="2">
-
-NIVEAU MINIMUM
-
-du diplôme d'Etat
+l'ANMP et le SNMP
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
+      <td>
 
-E-1 
+BREVETS DÉLIVRÉS
 
-(Enseignant niveau 1)
+par la CMAS
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-- Initiateur FFESSM 
-
-- Initiateur FSGT
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-E-2 
-
-(Enseignant niveau 2)
-
-</td>
-      <td valign="top" align="left">
-
-- Initiateur FFESSM + guide de palanquée 
-
-- Stagiaire pédagogique MF1 FFESSM (*)
-
-- Aspirant fédéral FSGT
-
-- Moniteur 1 étoile CMAS
-
-</td>
-      <td align="left" valign="top">
-
-Stagiaire BEES 1 plongée
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-E-3 
-
-(Enseignant niveau 3)
-
-</td>
-      <td align="left" valign="top">
-
-- MF1 FFESSM 
-
-- MF1 FSGT
-
-- Moniteur 2 étoiles CMAS
-
-</td>
-      <td align="left" valign="top">
-
-BEES 1 plongée
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-E-4 
-
-(Enseignant niveau 4)
-
-</td>
-      <td align="left" valign="top">
-
-- MF2 FFESSM 
-
-- MF2 FSGT
-
-</td>
-      <td align="left" valign="top">
-
-BEES 2 plongée
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-E-5 
-
-(Enseignant niveau 5)
-
-</td>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-BEES 3 plongée 
+DIPLÔMES D'ÉTAT
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-(*) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2), le guide de palanquée en formation pédagogique de
-MF1 est assujetti à la présence sur le site de plongée d'un cadre formateur E4 minimum.
+Plongées à l'air en exploration
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Personne encadrant une palanquée en exploration.
+
+</td>
+      <td>
+
+Guide de palanquée (GP) (*).
+
+Plongeur de niveau 4 (P4) (*).
+
+</td>
+      <td>
+      </td><td>
+
+BPJEPS plongée.
+
+Stagiaire BPJEPS plongée.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Plongée à l'air en enseignement et en exploration
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 1 (E-1).
+
+</td>
+      <td valign="top">
+
+Initiateur (*) FFESSM ou FSGT.
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+
+BPJEPS plongée.
+
+Stagiaire BPJEPS plongée.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 2 (E-2).
+
+</td>
+      <td valign="top">
+
+Initiateur (*) FFESSM et Guide de palanquée (GP) (*).
+
+Stagiaire pédagogique MF1
+
+FFESSM (*) (**).
+
+Aspirant fédéral FSGT.
+
+</td>
+      <td valign="top">
+
+Moniteur 1 étoile.
+
+</td>
+      <td valign="top">
+
+Stagiaire BEES 1 plongée.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 3 (E-3).
+
+</td>
+      <td valign="top">
+
+MF1 (*) FFESSM ou FSGT.
+
+</td>
+      <td valign="top">
+
+Moniteur 2 étoiles.
+
+</td>
+      <td valign="top">
+
+BEES 1 plongée.
+
+Stagiaire DEJEPS plongée.
+
+Stagiaire DESJEPS plongée.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 4 (E-4).
+
+</td>
+      <td valign="top">
+
+MF2 (*) FFESSM ou FSGT.
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+
+BEES 2 plongée.
+
+DEJEPS plongée.
+
+DESJEPS plongée.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+*(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des
+brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+
+(**) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2) en milieu naturel, le stagiaire pédagogique MF1
+de la FFESSM est assujetti à la présence sur le site de plongée d'un cadre formateur E3 minimum.
 
 </td>
     </tr>
@@ -65959,9 +65838,13 @@ MF1 est assujetti à la présence sur le site de plongée d'un cadre formateur E
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 16
+  - Arrêté du 5 janvier 2012 - art. 2
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
 
 _Cité par_:
 
@@ -65975,13 +65858,11 @@ _Cité par_:
   - Code du sport. - art. A322-98 (V)
 
 
-###### Article Annexe III-16 a (art. A322-77)
+###### Article Annexe III-16 a (art. A322-82)
 
-CONDITIONS D'ÉVOLUTION EN ENSEIGNEMENT
+Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
-
-<table align="center" width="680" border="1">
+<table cellpadding="0" border="1" width="680">
   <tbody>
     <tr>
       <td>
@@ -65998,9 +65879,9 @@ APTITUDES MINIMALES DES PLONGEURS
 </td>
       <td>
 
-COMPÉTENCE MINIMALE
+COMPÉTENCE
 
-de l'enseignant
+minimale de la personne encadrant la palanquée
 
 </td>
       <td>
@@ -66009,144 +65890,144 @@ EFFECTIF MAXIMAL
 
 de la palanquée
 
-(enseignant non compris)
+(personne encadrant
+
+la palanquée non comprise)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td rowspan="2" valign="top">
 
 Espace de 0 à 6 mètres
 
 </td>
-      <td align="center">
+      <td>
 
 Baptême
 
 </td>
-      <td align="center">
+      <td>
 
 E-1
 
 </td>
-      <td align="center">
+      <td>
 
 1 (*)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-</td>
-      <td align="center">
+      <td>
 
 Débutants
 
 </td>
-      <td align="center">
+      <td>
 
 E-1
 
 </td>
-      <td align="center">
+      <td>
 
 4 (*)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top">
 
 Espace de 0 à 12 mètres 
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-PE-1 ou débutants en cours de formation vers les aptitudes PE-1 ou PA-1
+Débutants en cours de formation vers les aptitudes PE-12 ou PA-12
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 E-2
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 4 (*)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top">
 
 Espace de 0 à 20 mètres
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-Débutants ou PE-1 en cours de formation vers les aptitudes PE-2 ou PA-2
+Débutants ou PE-12, en cours de formation vers les aptitudes PE-20 ou PA-20
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 E-2
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 4 (*)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top">
 
 Espace de 0 à 40 mètres
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-PE-2 ou PA-2 en cours de formation vers les aptitudes PE-3 ou PA-3 
+PE-20 ou PA-20, en cours de formation vers les aptitudes PE-40 ou PA-40 
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 E-3
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-3 (*)
+4 (*)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top">
 
 Espace de 0 à 60 mètres
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-PE-3 ou PA-3 encours de formation vers les aptitudes PE-4 ou PA-4
+PE-40 ou PA-40, en cours de formation vers les aptitudes PE-60 ou PA-60
 
 </td>
-      <td align="center">
+      <td valign="top">
 
 E-4
 
 </td>
-      <td align="center">
+      <td valign="top">
 
-3 (*) 
+4 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
+(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une
+qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 </td>
     </tr>
@@ -66157,7 +66038,7 @@ E-4
 
 _Modifié par_:
 
-  - Arrêté du 18 juin 2010 - art. 16
+  - Arrêté du 5 janvier 2012 - art. 2
 
 _Cité par_:
 
@@ -66168,35 +66049,36 @@ _Cité par_:
   - Code du sport. - art. A322-82 (V)
 
 
-###### Article Annexe III-16 b
+###### Article Annexe III-16 b (art. A322-82)
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
+Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 
 <pre>
-┏━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ ESPACES       │ PLONGÉE ENCADRÉE                                                   │ PLONGÉE AUTONOME                     ┃
-┃ d'évolution   ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃               │ Aptitudes mini-    │ Effectif maximal de la pa-  │ Compétence mi-  │ Aptitudes minimales │ Effectif maxi- ┃
-┃               │ males des plon-    │ lanquée (encadrement non    │ nimale de l'en- │ des plongeurs en    │ mal de la pa-  ┃
-┃               │ geurs encadrés     │ compris)                    │ cadrant         │ autonomie           │ lanquée        ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à │ Débutants          │ 4 (*)                       │ E1 ou GP        │                     │                ┃
-┃ 6 mètres      │                    │                             │                 │                     │                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à │ PE-1               │ 4 (*)                       │ E2 ou GP        │ PA-1                │ 3              ┃
-┃ 12 mètres     │                    │                             │                 │                     │                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à │ PE-2               │ 4 (*)                       │ E2 ou GP        │ PA-2                │ 3              ┃
-┃ 20 mètres     │                    │                             │                 │                     │                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à │ PE-3               │ 4 (*)                       │ E3 ou GP        │ PA-3                │ 3              ┃
-┃ 40 mètres     │                    │                             │                 │                     │                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à │ PE-4               │ 3 (*)                       │ E 4             │ PA-4                │ 3              ┃
-┃ 60 mètres     │                    │                             │                 │                     │                ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ (*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une quali-                 ┃
-┃ fication de GP.                                                                                                           ┃
+┏━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ ESPACES      │ PLONGÉE ENCADRÉE                                                       │ PLONGÉE AUTONOME                  ┃
+┃ d'évolution  ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃              │ Aptitudes mini-  │ Effectif maximal de la pa-   │ Compétence minimale  │ Aptitudes mini-   │ Effectif      ┃
+┃              │ males des plon-  │ lanquée (personne encadrant  │ de la personne enca- │ males des plon-   │ maximal de la ┃
+┃              │ geurs encadrés   │ la palanquée non comprise)   │ drant la palanquée   │ geurs en autono-  │ palanquée     ┃
+┃              │                  │                              │                      │ mie               │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0  │ Débutants        │ 4 (*)                        │ E1 ou GP ou P4       │                   │               ┃
+┃ à 6 mètres   │                  │                              │                      │                   │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0  │ PE-12            │ 4 (*)                        │ E2 ou GP ou P4       │ PA-12             │ 3             ┃
+┃ à 12 mètres  │                  │                              │                      │                   │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0  │ PE-20            │ 4 (*)                        │ E2 ou GP ou P4       │ PA-20             │ 3             ┃
+┃ à 20 mètres  │                  │                              │                      │                   │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0  │ PE-40            │ 4 (*)                        │ E3 ou GP ou P4       │ PA-40             │ 3             ┃
+┃ à 40 mètres  │                  │                              │                      │                   │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0  │ PE-60            │ 4 (*)                        │ E4                   │ PA-60             │ 3             ┃
+┃ à 60 mètres  │                  │                              │                      │                   │               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ (*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titu-                   ┃
+┃ laires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).                                       ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
@@ -66205,331 +66087,635 @@ CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 _Modifié par_:
 
-  - Arrêté du 12 novembre 2010 - art. 2
+  - Arrêté du 5 janvier 2012 - art. 2
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
 
 _Cité par_:
 
   - Code du sport. - art. A322-77 (V)
 
 
-###### Article Annexe III-17
+###### Article Annexe III-17 a (art. A322-91)
 
-**CONTENU DE LA TROUSSE DE SECOURS**
+Aptitudes des pratiquants à utiliser du nitrox
 
-(Art. A322-72 et A322-78).
+<table width="680" border="1" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>
 
-La trousse de secours comprend au minimum :
+APTITUDES
 
-― des pansements compressifs tout préparés (grands et petits modèle : 1 boîte de chaque) ;
+à plonger au nitrox
 
-― un antiseptique local de type amonium quaternaire (1 tube) ;
+</td>
+      <td>
 
-― une crème antiactinique (1 tube) ;
+LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES
 
-― une bande de type Velpeau de 5 centimètres de large ;
+suivantes auprès du directeur de plongée
 
-― de l'aspirine en poudre non effervescente.
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+PN-20
+
+Aptitudes à évoluer en palanquée au nitrox dans l'espace de 0 à 20 mètres
+
+</td>
+      <td valign="top">
+
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes correspondant à l'espace d'évolution concerné
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-12 ou PA-20 selon l'espace d'évolution concerné
+
+Maîtrise de la gestion et de l'utilisation de son matériel nitrox, de l'analyse du mélange et du renseignement de la fiche
+d'identification de la bouteille
+
+Maîtrise du maintien de son équilibre et de la gestion de son profilpar rapport à la profondeur "plancher" de son mélange
+
+Maîtrise des moyens de décompression (table ou ordinateur nitrox)
+
+Connaissance des risques hyperoxiques liés à l'utilisation du nitrox
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+PN-C
+
+plongeur au nitrox confirmé)
+
+Aptitudes à évoluer en palanquée au nitrox dans l'espace au-delà de 20 ètres et dans la limite de 60 mètres
+
+</td>
+      <td valign="top">
+
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 ou PE-60 selon l'espace d'évolution concerné.
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-40 ou PA-60 selon l'espace d'évolution concerné.
+
+Maîtrise des aptitudes PN-20.
+
+Maîtrise de l'utilisation et du choix du matériel avec plusieurs mélanges au nitrox au fond et en décompression et à
+l'utilisation de l'oxygène pur
+
+Maîtrise de l'équilibre et de la stabilisation à la profondeur des paliers lors des changements de mélanges.
+
+Connaissances des principes de la fabrication des mélanges.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 6 juillet 2011 - art. 5 (MMN)
+  - Arrêté du 6 juillet 2011 - art. 5 (V)
+  - Code du sport. - art. A322-77 (V)
+  - Code du sport. - art. A322-91 (V)
+  - Code du sport. - art. A322-95 (V)
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2012 - art. 2
+
+
+###### Article Annexe III-17 b (art. A322-91)
+
+Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
+
+<table border="1" width="680" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>
+
+ESPACES D'ÉVOLUTION
+
+</td>
+      <td>
+
+APTITUDES MINIMALES
+
+des plongeurs
+
+</td>
+      <td>
+
+COMPÉTENCE
+
+minimale
+
+de la personne encadrant
+
+la palanquée
+
+</td>
+      <td>
+
+EFFECTIF
+
+maximal
+
+de la palanquée
+
+(personne encadrant
+
+la palanquée non comprise)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2">
+
+Espace de 0 à 6 mètres
+
+</td>
+      <td valign="top">
+
+Baptême
+
+</td>
+      <td valign="top">
+
+E-2 + PN-C
+
+</td>
+      <td valign="top">
+
+1 (*)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Débutants
+
+</td>
+      <td>
+
+E-2 + PN-C
+
+</td>
+      <td>
+
+4 (*)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espace de 0 à 12 mètres 
+
+</td>
+      <td>
+
+PE-12 en cours de formation vers les aptitudes PN-20
+
+</td>
+      <td>
+
+E-2 + PN-C
+
+</td>
+      <td>
+
+4 (*)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espace de 0 à 20 mètres
+
+</td>
+      <td>
+
+PE-20 en cours de formation vers les aptitudes PN-20
+
+</td>
+      <td>
+
+E-2 + PN-C
+
+</td>
+      <td>
+
+4 (*)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espace de 0 à 40 mètres
+
+</td>
+      <td>
+
+PE-40 + PN-C
+
+</td>
+      <td>
+
+E-3 + PN-C
+
+</td>
+      <td>
+
+4 (*)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espace au-delà de 40 mètres et dans la limite de 60 mètres
+
+</td>
+      <td>
+
+PE-60 + PN-C
+
+</td>
+      <td>
+
+E-4 + PN-C
+
+</td>
+      <td>
+
+4 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de
+palanquée (GP) ou de plongeur niveau 4 (P4) + PN-C.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
   - Arrêté du 5 janvier 2012 - art. 2
 
 _Cité par_:
 
-  - Code du sport. - art. A322-72 (VD)
-  - Code du sport. - art. A322-78 (V)
+  - Code du sport. - art. A322-74 (V)
+  - Code du sport. - art. A322-95 (V)
 
 
-###### Article Annexe III-18 (art. A322-109)
+###### Article Annexe III-17 c (art. A322-91)
 
-(Art.A. 322-109 du code du sport) 
+Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 
-**CONDITIONS DE DÉLIVRANCE DES QUALIFICATIONS NITROX ET TRIMIX **
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ ESPACES d'évolution  │ PLONGÉE ENCADRÉE                                                  │ PLONGÉE AUTONOME               ┃
+┃                      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                      │ Aptitudes mi-  │ Effectif maximal de la pa-  │ Compétence mini-   │ Aptitudes mini- │ Effectif mi- ┃
+┃                      │ nimales des    │ lanquée (personne encadrant │ male de la per-    │ males des plon- │ nimal de la  ┃
+┃                      │ plongeurs en-  │ la palanquée non comprise)  │ sonne encadrant la │ geurs en auto-  │ palanquée    ┃
+┃                      │ cadrés         │                             │ palanquée          │ nomie           │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 12     │ PE-12 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-12 + PN-20   │ 3            ┃
+┃ mètres               │                │                             │ PN-C               │                 │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 20     │ PE-20 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-20 + PN-20   │ 3            ┃
+┃ mètres               │                │                             │ PN-C               │                 │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 40     │ PE-40 + PN-C   │ 4 (*)                       │ E3 ou GP ou P4 +   │ PA-40 + PN-C    │ 3            ┃
+┃ mètres               │                │                             │ PN-C               │                 │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace au-delà de 40 │ PE-60 + PN-C   │ 4                           │ E4 + PN-C          │ PA-60 + PN-C    │ 3            ┃
+┃ mètres et dans la    │                │                             │                    │                 │              ┃
+┃ limite de 60 mètres  │                │                             │                    │                 │              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ (*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une quali-                 ┃
+┃ fication de guide de palanquée (GP) ou de plongeur niveau 4 (P4) + PN-C.                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-Les qualifications " nitrox ", " nitrox confirmé ", " trimix élémentaire " et " trimix " sont délivrées pour les plongeurs
-par la FFESSM (Fédération française d'études et de sports sous-marins), la FSGT (Fédération sportive et gymnique du travail),
-l'ANMP (Association nationale des moniteurs de plongée), le SNMP (Syndicat national des moniteurs de plongée) ou par la CMAS
-(Confédération mondiale des activités subaquatiques). 
-
-Ces qualifications, qui doivent justifier d'un niveau de compétence au moins égal à celles définies par la fédération
-délégataire, la Fédération française d'études et de sports sous-marins (FFESSM), sont délivrées dans des conditions de
-certification et de jury similaires à celles en vigueur au sein de cette fédération. Elles sont équivalentes en prérogatives,
-conformément aux annexes III-19 a et b et III-20 a et b. 
-
-Les moniteurs titulaires du niveau 3 d'encadrement et de la qualification " nitrox confirmé ", adhérents de la FFESSM
-(Fédération française d'études et de sports sous-marins), de la FSGT (Fédération sportive et gymnique du travail), de l'ANMP
-(Association nationale des moniteurs de plongée), du SNMP (Syndicat national des moniteurs de plongée) ou de la CMAS
-(Confédération mondiale des activités subaquatiques), peuvent obtenir auprès de leur organisme l'autorisation de délivrer,
-dans le respect de leur cursus de formation, les qualifications " nitrox " et " nitrox confirmé ". 
-
-Les moniteurs titulaires du niveau 4 d'encadrement et de la qualification " trimix ", adhérents de la FFESSM (Fédération
-française d'études et de sports sous-marins), de la FSGT (Fédération sportive et gymnique du travail), de l'ANMP (Association
-nationale des moniteurs de plongée), du SNMP (Syndicat national des moniteurs de plongée) ou de la CMAS (Confédération
-mondiale des activités subaquatiques), peuvent obtenir auprès de leur organisme l'autorisation de délivrer, dans le respect
-de leur cursus de formation, la qualification " trimix élémentaire " et la qualification " trimix ". 
-
-Les moniteurs titulaires du niveau 3 d'encadrement référencé au tableau de l'annexe III-15 du code du sport et titulaires de
-la qualification " nitrox confirmé " peuvent délivrer à des plongeurs qualifiés et formés à l'usage de mélanges autres que
-l'air à l'issue d'une ou plusieurs plongées d'évaluation, un certificat de compétence " nitrox " ou " nitrox confirmé ". 
-
-Les moniteurs titulaires du niveau 4 d'encadrement référencé au tableau de l'annexe III-15 du code du sport et titulaires de
-la qualification " trimix " peuvent délivrer à des plongeurs qualifiés et formés à l'usage de mélanges autres que l'air à
-l'issue d'une ou plusieurs plongées d'évaluation, un certificat de compétence " nitrox ", " nitrox confirmé ", " trimix
-élémentaire " ou " trimix ". 
-
-Ces certificats restent la propriété du moniteur ; ils ne sont pas remis au plongeur et ne sont valables que dans le cadre de
-l'établissement qui l'a délivré. Les plongeurs bénéficiaires de ces certificats obtiennent des prérogatives identiques à
-celles qui sont référencées dans les tableaux figurant aux annexes III-19 a et b et III-20 a et b.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 23 juillet 2009 - art. 2
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. A322-109 (VT)
-  - Code du sport. - art. A331-24 (Ab)
-
-
-###### Article Annexe III-19 A (art. A322-101)
-
-**CONDITIONS DE PRATIQUE  DE LA PLONGÉE AU NITROX EN ENSEIGNEMENT**
-
-<table>
-    <tbody>
-      <tr>
-        <th>ESPACES D'ÉVOLUTION
-
-</th>
-        <th>NIVEAU MINIMUM
-
-de pratique des plongeurs
-
-</th>
-        <th>COMPÉTENCE MINIMUM
-
-de l'encadrant de palanquée
-
-</th>
-        <th colspan="2">EFFECTIF MAXIMUM
-
-de la palanquée,
-
-encadrant non compris
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">Espace proche : 0 ― 6 mètres.
-
-</td>
-        <td align="center">Baptême.
-
-</td>
-        <td align="center">E 3 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">1
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-</td>
-        <td align="center">Débutant.
-
-</td>
-        <td align="center">E 3 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Espace médian (*) : 6 ― 20 mètres.
-
-</td>
-        <td align="center">Niveau P 1, en cours de formation mélange.
-
-</td>
-        <td align="center">E 3 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4 + 1 P 4 qualifié nitrox confirmé éventuellement.
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Espace lointain (*) : 20 ― 40 mètres.
-
-</td>
-        <td align="center">Niveau P 2, en cours de formation mélange.
-
-</td>
-        <td align="center">E 3 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4 + 1 P 4 qualifié nitrox confirmé éventuellement.
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Au-delà de 40 mètres.
-
-</td>
-        <td align="center">Niveau P 3 ou P 4, en cours de formation mélange.
-
-</td>
-        <td align="center">E 4 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4 + 1 P 4 qualifié nitrox confirmé éventuellement.
-
-</td>
-      </tr>
-      <tr>
-        <td colspan="5">(*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la
-limite de 5 mètres et sans excéder la profondeur maximale d'utilisation des mélanges employés.
-
-</td>
-      </tr>
-    </tbody>
-  </table>
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 5 janvier 2012 - art. 2
 
-_Abrogé par_:
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+
+
+###### Article Annexe III-18 a (art. A322-96)
+
+Aptitudes des pratiquants à utiliser du trimix ou de l'héliox
+
+<table cellpadding="0" width="680" border="1">
+  <tbody>
+    <tr>
+      <td valign="top">
+
+APTITUDES À PLONGER
+
+au trimix ou à l'héliox
+
+</td>
+      <td valign="top">
+
+LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES
+
+suivantes auprès du directeur de plongée
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+PTH-40
+
+Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace de 0 à 40 mètres
+
+</td>
+      <td valign="top">
+
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 + PN-C.
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-40 + PN-C.
+
+Maîtrise de l'utilisation du matériel, de l'analyse des gaz et du marquage des bouteilles.
+
+Maîtrise de la stabilisation, vitesse de remontée et de la communication avec son équipier.
+
+Maîtrise de l'utilisation de son parachute et du dévidoir.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+PTH-60
+
+Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace de 0 à 60 mètres
+
+</td>
+      <td valign="top">
+
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-60 + PTH-40.
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-40.
+
+Maîtrise de l'utilisation de la ligne de descente/de décompression.
+
+Maîtrise de la planification de la plongée avec plusieurs mélanges de gaz (mélange fond au trimix et mélange de
+décompression).
+
+Maîtrise des procédures d'intervention sur un plongeur en difficulté depuis le fond.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+PTH-120
+
+Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace au-delà de 60 mètres et dans la limite de 120 mètres
+
+</td>
+      <td valign="top">
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-60.
+
+Maîtrise de la préparation et de la mise en place de la ligne de descente/de décompression.
+
+Maîtrise de l'organisation matérielle et de la planification de la décompression.
+
+Maîtrise de la fabrication des mélanges trimix et nitrox.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Arrêté du 5 janvier 2012 - art. 2
+
+_Cité par_:
+
+  - Code du sport. - art. A322-77 (V)
+  - Code du sport. - art. A322-96 (V)
+
+
+###### Article Annexe III-18 b (art. A322-91)
+
+Conditions d'évolution en enseignement en plongée au trimix ou à l'héliox en milieu naturel
+
+<table cellpadding="0" border="1" width="680">
+  <tbody>
+    <tr>
+      <td>
+
+ESPACES
+
+d'évolution
+
+</td>
+      <td>
+
+APTITUDES MINIMALES DES PLONGEURS
+
+</td>
+      <td>
+
+COMPÉTENCE
+
+minimale
+
+de la personne encadrant
+
+la palanquée
+
+</td>
+      <td>
+
+EFFECTIF
+
+maximal
+
+de la palanquée
+
+(personne encadrant
+
+la palanquée
+
+non comprise)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Espace de 0 à 40 mètres 
+
+</td>
+      <td valign="top">
+
+PE-40 + PN-C en cours de formation vers les aptitudes PTH-40
+
+</td>
+      <td valign="top">
+
+E-3 + PTH-60
+
+</td>
+      <td valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Espace de 0 à 60 mètres
+
+</td>
+      <td valign="top">
+
+PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-60
+
+</td>
+      <td valign="top">
+
+E-4 + PTH-120
+
+</td>
+      <td valign="top">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Espace de 0 à 80 mètres
+
+</td>
+      <td valign="top">
+
+PE-60 + PTH-60 en cours de formation vers les aptitudes PTH-120 
+
+</td>
+      <td valign="top">
+
+E-4 + PTH-120
+
+</td>
+      <td valign="top">
+
+4
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2012 - art. 2
+
+_Cité par_:
+
+  - Code du sport. - art. A322-74 (V)
+  - Code du sport. - art. A322-96 (V)
+
+
+###### Article Annexe III-18 c (art. A322-91)
+
+Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en milieu naturel
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ ESPACES d'évolution  │ PLONGÉE ENCADRÉE                                                  │ PLONGÉE AUTONOME               ┃
+┃                      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                      │ Aptitudes mini- │ Effectif maximal de la pa- │ Compétence mini-   │ Aptitudes mini-  │ Effectif    ┃
+┃                      │ males des plon- │ lanquée (personne enca-    │ male de la per-    │ males des plon-  │ maximal de  ┃
+┃                      │ geurs encadrés  │ drant la palanquée non     │ sonne encadrant la │ geurs en autono- │ la palan-   ┃
+┃                      │                 │ comprise)                  │ palanquée          │ mie              │ quée        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 40     │ PE-40 + PTH-40  │ 4                          │ E3 + PTH-40        │ PA-40 + PTH-40   │ 3           ┃
+┃ mètres               │                 │                            │                    │                  │             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 60     │ PE-60 + PTH-60  │ 4                          │ E4 + PTH-60        │ PA-60 + PTH-60   │ 3           ┃
+┃ mètres               │                 │                            │                    │                  │             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace de 0 à 80     │ PE-60 + PTH-120 │ 4                          │ E4 + PTH-120       │ PA-60 + PTH-120  │ 3           ┃
+┃ mètres               │                 │                            │                    │                  │             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Espace au-delà de 80 │                 │                            │                    │ PA-60 + PTH-120  │ 3           ┃
+┃ mètres et dans la    │                 │                            │                    │                  │             ┃
+┃ limite de 120 mètres │                 │                            │                    │                  │             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2012 - art. 2
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+
+
+###### Article Annexe III-19 (art. A322-78)
+
+Vous pouvez consulter les fiches à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120222&numTexte=44&pageDebut=03008&pageFin=03018
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 janvier 2012 - art. 2
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
 
 _Cité par_:
 
   - Code du sport. - art. A322-101 (V)
-  - Code du sport. - art. A322-103 (VT)
-  - Code du sport. - art. A322-109 (VT)
-  - Code du sport. - art. Annexe III-18 (V)
-
-
-###### Article Annexe III-19 B (art. A322-101)
-
-**CONDITIONS DE PRATIQUE  DE LA PLONGÉE AU NITROX EN EXPLORATION**
-
-<table>
-    <tbody>
-      <tr>
-        <th>ESPACES D'ÉVOLUTION
-
-</th>
-        <th>NIVEAU MINIMUM
-
-de pratique des plongeurs
-
-</th>
-        <th>COMPÉTENCE MINIMUM
-
-du guide de palanquée
-
-</th>
-        <th colspan="2">EFFECTIF MAXIMUM
-
-de la palanquée,
-
-encadrant non compris
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">0 ― 20 mètres (*).
-
-</td>
-        <td align="center">Niveau P 1 + qualification nitrox.
-
-</td>
-        <td align="center">P 4 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-</td>
-        <td align="center">Niveau P 2 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">Autonomie.
-
-</td>
-        <td align="center">3
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Espace lointain (*) : 20 ― 40 mètres.
-
-</td>
-        <td align="center">Niveau P 2 + qualification nitrox.
-
-</td>
-        <td align="center">P 4 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">4
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Au-delà de 40 mètres.
-
-</td>
-        <td align="center">Niveau P 3 + qualification nitrox confirmé.
-
-</td>
-        <td align="center">Autonomie.
-
-</td>
-        <td align="center">3
-
-</td>
-      </tr>
-      <tr>
-        <td colspan="5">(*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la
-limite de 5 mètres et sans excéder la profondeur maximale d'utilisation des mélanges employés.
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Code du sport. - art. A322-78 (V)
 
 
 ###### Article Annexe III-20 A (art. A322-101)
