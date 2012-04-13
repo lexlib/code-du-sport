@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-04-01
+Version Consolidée au 2012-04-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -32726,15 +32726,16 @@ Il exerce ces missions par l'attribution de concours financiers, sous forme de s
 au Comité national olympique et sportif français, aux associations sportives, aux collectivités territoriales ou à leurs
 groupements, aux organismes assurant le fonctionnement des antennes médicales de prévention du dopage mentionnées à l'article
 L. 232-1, ainsi qu'aux associations et groupements d'intérêt public qui interviennent dans le domaine des activités physiques
-et sportives.
+et sportives. 
+
+Le Centre national pour le développement du sport exerce également ses missions en contribuant au financement des projets de
+construction ou de rénovation des enceintes sportives destinées à accueillir la compétition sportive dénommée " UEFA Euro
+2016 " ainsi que des équipements connexes permettant le fonctionnement de celles-ci. A cette fin, il peut conclure des
+conventions de subventionnement avec toute personne morale de droit public ou privé. 
 
 Le siège de l'établissement est fixé par arrêté du ministre chargé des sports.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 53
 
 _Anciens textes_:
 
@@ -32743,7 +32744,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-548 du 15 mai 2009 - art. 2
+  - Décret n°2012-474 du 11 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L232-1
 
 _Cité par_:
 
