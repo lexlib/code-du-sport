@@ -23,11 +23,11 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 ┃ Espace de 0  │ PE-40            │ 4 (*)                        │ E3 ou GP ou P4       │ PA-40             │ 3             ┃
 ┃ à 40 mètres  │                  │                              │                      │                   │               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0  │ PE-60            │ 4 (*)                        │ E4                   │ PA-60             │ 3             ┃
+┃ Espace de 0  │ PE-60            │ 4                            │ E4                   │ PA-60             │ 3             ┃
 ┃ à 60 mètres  │                  │                              │                      │                   │               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ (*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titu-                   ┃
-┃ laires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).                                       ┃
+┃ (*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une quali-                 ┃
+┃ fication de guide de palanquée (GP) ou de plongeur niveau 4 (P4).                                                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
@@ -36,11 +36,7 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - Arrêté du 6 avril 2012 - art. 9
 
 _Cité par_:
 
