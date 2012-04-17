@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-04-14
+Version Consolidée au 2012-04-18
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -47081,7 +47081,9 @@ Espace de 0 à 20 mètres ;
 
 Espace de 0 à 40 mètres ; 
 
-Espace de 0 à 60 mètres ; 
+Espace de 0 à 60 mètres ;
+
+Espace de 0 à 70 mètres ;
 
 Espace de 0 à 80 mètres ; 
 
@@ -47089,17 +47091,17 @@ Espace au-delà de 80 mètres.
 
 La plongée subaquatique à l'air est limitée à 60 mètres. 
 
-La pratique de la plongée subaquatique au nitrox est limitée à 60 mètres. 
-
 L'encadrement de la plongée subaquatique aux mélanges trimix ou héliox est limité à 80 mètres. 
 
-La pratique de la plongée subaquatique en autonomie aux mélanges trimix ou héliox est limitée à 120 mètres.
+La pratique de la plongée subaquatique en autonomie aux mélanges trimix ou héliox est limitée à 120 mètres. 
+
+La teneur en oxygène du nitrox détermine l'espace d'évolution.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Arrêté du 6 avril 2012 - art. 1
 
 
 ###### Article A322-77
@@ -47113,25 +47115,31 @@ d'une ou plusieurs plongées.
 
 Le plongeur titulaire d'un brevet mentionné à l'annexe III-14 b justifie des aptitudes correspondantes. 
 
-Au sens de la présente section, les aptitudes sont définies comme suit : 
+Au sens de la présente section, les aptitudes sont définies comme suit :
 
-- les aptitudes à plonger encadré à l'air : PE ; 
+- les aptitudes à plonger encadré à l'air : PE ;
 
-- les aptitudes à plonger en autonomie à l'air : PA ; 
+- les aptitudes à plonger en autonomie à l'air : PA ;
 
-- les aptitudes à plonger en utilisant un mélange au nitrox : PN ; 
+- les aptitudes à plonger en utilisant un mélange au nitrox : PN ;
 
 - les aptitudes à plonger en utilisant un mélange au trimix ou à l'héliox : PTH. 
 
-Les personnes en situation de handicap peuvent bénéficier, dans l'espace de 0 à 40 mètres, d'une assistance adaptée en
-encadrement ou en matériel pour évoluer en palanquée encadrée en justifiant des aptitudes PE-12 à PE-40 et, le cas échéant,
-des aptitudes à plonger au nitrox.
+Dans l'espace de 0 à 40 mètres, pour justifier des aptitudes PE-12 à PE-40 et des aptitudes à plonger au nitrox, les
+personnes en situation de handicap peuvent bénéficier d'une assistance adaptée en encadrement ou en matériel pour évoluer en
+palanquée encadrée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Arrêté du 6 avril 2012 - art. 2
+
+_Cite_:
+
+  - Code du sport. - art. Annexe III-14 a (art. A322-77) (V)
+  - Code du sport. - art. Annexe III-17 a (art. A322-91) (V)
+  - Code du sport. - art. Annexe III-18 a (art. A322-96) (V)
 
 _Cité par_:
 
@@ -47607,17 +47615,21 @@ la plongée en milieu naturel.
 Par dérogation aux dispositions des sous-sections 1 et 2, lorsque la plongée se déroule en piscine ou fosse de plongée dont
 la profondeur n'excède pas 6 mètres, le directeur de plongée est titulaire au minimum du niveau d'enseignement 1 (E1)
 mentionné à l'annexe III-15 b. Le directeur de plongée autorise les plongeurs justifiant des aptitudes PE-12 à plonger en
-autonomie et les guides de palanquée (GP) ou les plongeurs niveau 4 (P4) à effectuer les baptêmes.
+autonomie et les guides de palanquée (GP) ou les plongeurs niveau 4 (P4) à effectuer les baptêmes. 
+
+Par dérogation aux dispositions de l'article A. 322-72 du code du sport, lorsque la plongée se déroule en piscine ou fosse de
+plongée dont la profondeur n'excède pas 6 mètres, la fiche de sécurité n'est pas obligatoire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Arrêté du 6 avril 2012 - art. 3
 
 _Cite_:
 
-  - Code du sport. - art. A322-91
+  - Code du sport. - art. A322-72
+  - Code du sport. - art. Annexe III-15 b (art. A322-74) (V)
 
 
 ###### Article A322-99
@@ -47628,15 +47640,14 @@ gymnique du travail, l'Union nationale des centres sportifs de plein air, l'Asso
 le Syndicat national des moniteurs de plongée ou la Confédération mondiale des activités subaquatiques justifiant des
 aptitudes PA-60 peut évoluer dans l'espace de 0 à 40 mètres en l'absence de directeur de plongée. 
 
-L'exploitant détermine notamment le site de l'activité subaquatique ainsi que l'organisation mise en œuvre pour assurer la
-sécurité des plongeurs et le déclenchement des secours. Il s'assure que la fiche de sécurité mentionnée à l'article A. 322-72
-est établie par les plongeurs.
+L'exploitant est informé, avant la plongée, du choix du site de l'activité subaquatique par les plongeurs. Il entérine
+l'organisation mise en œuvre pour assurer la sécurité des plongeurs et le déclenchement des secours.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Arrêté du 6 avril 2012 - art. 4
 
 
 ###### Article A322-100
@@ -47680,19 +47691,25 @@ _Cite_:
 Pour l'application de la présente section, la pratique de l'apnée est soumise aux dispositions de l'article A. 322-81 et du I
 de l'article A. 322-78. 
 
-Toutefois, dans l'espace de 0 à 6 mètres, la mise à la disposition des pratiquants de l'ensemble d'oxygénothérapie avec ses
-accessoires n'est pas obligatoire.
+Par dérogation au I de l'article A. 322-78, pour la pratique de l'apnée dans l'espace de 0 à 6 mètres, les pratiquants ont à
+leur disposition sur le lieu de mise à l'eau ou d'immersion un plan de secours ainsi que le matériel de secours suivant :
+
+- un moyen de communication permettant de prévenir les secours. Une VHF est nécessaire lorsque la plongée se déroule en mer
+au départ d'une embarcation support de plongée ;
+
+- des fiches d'évacuation selon un modèle type en annexe III-19.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 1
+  - Arrêté du 6 avril 2012 - art. 5
 
 _Cite_:
 
   - Code du sport. - art. A322-78
   - Code du sport. - art. A322-81
+  - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
 ##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=466></a>
@@ -65322,7 +65339,7 @@ sportive et gymnique du travail (FSGT), l'Union nationale des centres sportifs d
 des moniteurs de plongée (ANMP), le Syndicat national des moniteurs de plongée (SNMP) et la Confédération mondiale des
 activités subaquatiques (CMAS) attestant des aptitudes de l'annexe III-14 a
 
-<table cellpadding="0" width="750" border="1" align="center">
+<table width="750" border="1" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -65345,7 +65362,9 @@ par la CMAS
 
 APTITUDES À PLONGER ENCADRÉ
 
-par un guide de palanquée
+(avec une personne
+
+encadrant la palanquée)
 
 </td>
       <td>
@@ -65451,7 +65470,7 @@ PA-60
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 6
 
 _Cité par_:
 
@@ -65462,7 +65481,7 @@ _Cité par_:
 
 ###### Article Annexe III-15 a (art. A322-72)
 
-Qualification minimale du directeur de plongée
+Qualification minimale du directeur de plongée en milieu naturel
 
 <table align="center" width="750" border="1" cellpadding="0">
   <tbody>
@@ -65504,7 +65523,7 @@ Plongées à l'air ou au nitrox en exploration
     <tr>
       <td valign="top">
 
-Directeur de plongée en milieu naturel 
+Directeur de plongée 
 
 </td>
       <td valign="top">
@@ -65522,17 +65541,21 @@ Plongeur de niveau 5 (P5) (*)
 
 Plongées à l'air ou au nitrox en enseignement ou en exploration
 
+Plongées au trimix ou à l'héliox en enseignement jusqu'à 40 mètres
+
+Plongées au trimix ou à l'héliox en exploration jusqu'à 70 mètres
+
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Directeur de plongée en milieu naturel 
+Directeur de plongée
 
 </td>
       <td valign="top">
 
-MF1 (*) FFESSM ou FSGT
+MF1 (*) FFESSM ou FSGT (*)
 
 </td>
       <td valign="top">
@@ -65553,7 +65576,9 @@ DESJEPS plongée
     <tr>
       <td colspan="4">
 
-Plongées au trimix en enseignement ou en exploration
+Plongées au trimix ou à l'héliox en enseignement
+
+Plongées au trimix ou à l'héliox en exploration
 
 </td>
     </tr>
@@ -65565,7 +65590,7 @@ Directeur de plongée
 </td>
       <td valign="top">
 
-MF2 (*) FFESSM ou FSGT
+MF2 FFESSM ou FSGT (*)
 
 </td>
       <td valign="top">
@@ -65597,7 +65622,7 @@ aux mélanges utilisés conformément aux annexes III-17 a et III-18 a.
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 7
 
 _Cité par_:
 
@@ -65611,7 +65636,7 @@ _Cité par_:
 
 Qualification minimale de la personne encadrant la palanquée
 
-<table cellpadding="0" border="1" width="680">
+<table border="1" cellpadding="0" width="680">
   <tbody>
     <tr>
       <td>
@@ -65649,138 +65674,135 @@ Plongées à l'air en exploration
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
-Personne encadrant une palanquée en exploration.
-
-</td>
-      <td>
-
-Guide de palanquée (GP) (*).
-
-Plongeur de niveau 4 (P4) (*).
+Personne encadrant une palanquée en exploration
 
 </td>
-      <td>
-      </td><td>
+      <td align="left" valign="top">
 
-BPJEPS plongée.
+Guide de palanquée (GP) (*)
 
-Stagiaire BPJEPS plongée.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Plongée à l'air en enseignement et en exploration
+Plongeur de niveau 4 (P4) (*)
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td align="left" valign="top">
+      </td><td align="left" valign="top">
 
-Enseignant niveau 1 (E-1).
+BPJEPS plongée
 
-</td>
-      <td valign="top">
-
-Initiateur (*) FFESSM ou FSGT.
-
-</td>
-      <td valign="top">
-      </td><td valign="top">
-
-BPJEPS plongée.
-
-Stagiaire BPJEPS plongée.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Enseignant niveau 2 (E-2).
-
-</td>
-      <td valign="top">
-
-Initiateur (*) FFESSM et Guide de palanquée (GP) (*).
-
-Stagiaire pédagogique MF1
-
-FFESSM (*) (**).
-
-Aspirant fédéral FSGT.
-
-</td>
-      <td valign="top">
-
-Moniteur 1 étoile.
-
-</td>
-      <td valign="top">
-
-Stagiaire BEES 1 plongée.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Enseignant niveau 3 (E-3).
-
-</td>
-      <td valign="top">
-
-MF1 (*) FFESSM ou FSGT.
-
-</td>
-      <td valign="top">
-
-Moniteur 2 étoiles.
-
-</td>
-      <td valign="top">
-
-BEES 1 plongée.
-
-Stagiaire DEJEPS plongée.
-
-Stagiaire DESJEPS plongée.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Enseignant niveau 4 (E-4).
-
-</td>
-      <td valign="top">
-
-MF2 (*) FFESSM ou FSGT.
-
-</td>
-      <td valign="top">
-      </td><td valign="top">
-
-BEES 2 plongée.
-
-DEJEPS plongée.
-
-DESJEPS plongée.
+Stagiaire BPJEPS plongée
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-*(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des
+Plongée à l'air en enseignement ou en exploration
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignement niveau 1 (E-1)
+
+</td>
+      <td valign="top">
+
+Initiateur FFESSM ou FSGT (*)
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+BPJEPS plongée
+
+Stagiaire BPJEPS plongée
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 2 (E-2)
+
+</td>
+      <td valign="top">
+
+Initiateur FFESSM et guide de palanquée (GIP) (*)
+
+Stagiaire pédagogique MF1 FFESSM
+
+Aspirant fédéral FSGT (*)
+
+</td>
+      <td valign="top">
+
+Moniteur 1 étoile
+
+</td>
+      <td valign="top">
+
+Stagiaire BEES 1 plongée
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 3 (E-3)
+
+</td>
+      <td valign="top">
+
+MF1 FFESSM ou FSGT (*)
+
+</td>
+      <td valign="top">
+
+Moniteur 2 étoiles
+
+</td>
+      <td valign="top">
+
+BEES 1 plongée
+
+Stagiaire DEJEPS plongée
+
+Stagiaire DESJEPS plongée
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Enseignant niveau 4 (E-1)
+
+</td>
+      <td valign="top">
+
+MF2 FFESSM ou FSGT (*)
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+
+BEES 2 plongée
+
+DEJEPS plongée
+
+DESJEPS plongée 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des
 brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
-
-(**) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2) en milieu naturel, le stagiaire pédagogique MF1
-de la FFESSM est assujetti à la présence sur le site de plongée d'un cadre formateur E3 minimum.
 
 </td>
     </tr>
@@ -65791,11 +65813,11 @@ de la FFESSM est assujetti à la présence sur le site de plongée d'un cadre fo
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 8
 
 **Liens**:
 
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - RECTIFICATION: Arrêté du 6 avril 2012 - art., v. init.
 
 _Cité par_:
 
@@ -65813,14 +65835,12 @@ _Cité par_:
 
 Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 
-<table cellpadding="0" width="680" border="1">
+<table cellpadding="0" border="1" width="680">
   <tbody>
     <tr>
       <td>
 
-ESPACES
-
-d'évolution
+ESPACES d'évolution
 
 </td>
       <td>
@@ -65848,7 +65868,7 @@ la palanquée non comprise)
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top">
+      <td valign="top" rowspan="2">
 
 Espace de 0 à 6 mètres
 
@@ -65977,8 +65997,8 @@ E-4
     <tr>
       <td colspan="4">
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une
-qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de
+palanquée (GP) ou de plongeur niveau 4 (P4).
 
 </td>
     </tr>
@@ -65989,7 +66009,7 @@ qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 9
 
 _Cité par_:
 
@@ -66025,11 +66045,11 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 ┃ Espace de 0  │ PE-40            │ 4 (*)                        │ E3 ou GP ou P4       │ PA-40             │ 3             ┃
 ┃ à 40 mètres  │                  │                              │                      │                   │               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0  │ PE-60            │ 4 (*)                        │ E4                   │ PA-60             │ 3             ┃
+┃ Espace de 0  │ PE-60            │ 4                            │ E4                   │ PA-60             │ 3             ┃
 ┃ à 60 mètres  │                  │                              │                      │                   │               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ (*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titu-                   ┃
-┃ laires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).                                       ┃
+┃ (*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une quali-                 ┃
+┃ fication de guide de palanquée (GP) ou de plongeur niveau 4 (P4).                                                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
@@ -66038,11 +66058,7 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - Arrêté du 6 avril 2012 - art. 9
 
 _Cité par_:
 
@@ -66053,60 +66069,67 @@ _Cité par_:
 
 Aptitudes des pratiquants à utiliser du nitrox
 
-<table width="680" cellpadding="0" border="1">
+<table border="1" cellpadding="0" width="680">
   <tbody>
     <tr>
       <td>
 
-APTITUDES
+APTITUDES À PLONGER
 
-à plonger au nitrox
+au nitrox
 
 </td>
       <td>
 
-LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES
+LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES SUIVANTES
 
-suivantes auprès du directeur de plongée
+auprès du directeur de plongée
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PN-20
+PN
 
-Aptitudes à évoluer en palanquée au nitrox dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée au nitrox dont la teneur en oxygène n'excède pas 40 %
 
 </td>
       <td valign="top">
 
-Pour évoluer en palanquée encadrée : maîtrise des aptitudes correspondant à l'espace d'évolution concerné
+Pour évoluer en palanquée encadrée ou autonome : maîtrise des aptitudes à l'air correspondant à l'espace d'évolution concerné
 
-Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-12 ou PA-20 selon l'espace d'évolution concerné
+Maîtrise de la gestion et l'utilisation de son matériel nitrox, de l'analyse du mélange dont la teneur en oxygène n'excède
+pas 40 % et du renseignement de la fiche d'identification de la bouteille
 
-Maîtrise de la gestion et de l'utilisation de son matériel nitrox, de l'analyse du mélange et du renseignement de la fiche
-d'identification de la bouteille
-
-Maîtrise du maintien de son équilibre et de la gestion de son profilpar rapport à la profondeur "plancher" de son mélange
+Maîtrise du maintien de son équilibre et de la gestion de son profil par rapport à la profondeur plancher de son mélange
 
 Maîtrise des moyens de décompression (table ou ordinateur nitrox)
 
-Connaissance des risques hyperoxiques liés à l'utilisation du nitrox
+Connaissance des risques hyperoxiques liés à l'utilisation du nitrox.
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PN-C
+PN-C (plongeur au nitrox confirmé) 
 
-plongeur au nitrox confirmé)
-
-Aptitudes à évoluer en palanquée au nitrox dans l'espace au-delà de 20 ètres et dans la limite de 60 mètres
+Aptitudes à évoluer en palanquée au nitrox et à effectuer la décompression à l'oxygène pur
 
 </td>
       <td valign="top">
+
+Pour évoluer en palanquée encadrée ou autonome : maîtrise des aptitudes à l'air correspondant à l'espace d'évolution concerné
+
+Maîtrise des aptitudes PN
+
+Maîtrise de l'utilisation et du choix du matériel avec plusieurs mélanges au nitrox au fond et en décompression et à
+l'utilisation de l'oxygène pur
+
+Maîtrise de l'équilibre et de la stabilisation à la profondeur des paliers lors des changements de mélanges
+
+Connaissance des principes de la fabrication des mélanges
 
 Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 ou PE-60 selon l'espace d'évolution concerné.
 
@@ -66136,16 +66159,20 @@ _Cité par_:
   - Code du sport. - art. A322-91 (V)
   - Code du sport. - art. A322-95 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 10
+
+**Liens**:
+
+  - RECTIFICATION: Arrêté du 6 avril 2012 - art., v. init.
 
 
 ###### Article Annexe III-17 b (art. A322-91)
 
 Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 
-<table width="680" border="1" cellpadding="0">
+<table cellpadding="0" width="680" border="1">
   <tbody>
     <tr>
       <td>
@@ -66175,13 +66202,15 @@ la palanquée
 
 EFFECTIF
 
-maximal
+maximal 
 
 de la palanquée
 
 (personne encadrant
 
-la palanquée non comprise)
+la palanquée
+
+non comprise)
 
 </td>
     </tr>
@@ -66232,7 +66261,7 @@ Espace de 0 à 12 mètres
 </td>
       <td>
 
-PE-12 en cours de formation vers les aptitudes PN-20
+PE-12 en cours de formation vers les aptitudes PN
 
 </td>
       <td>
@@ -66254,7 +66283,7 @@ Espace de 0 à 20 mètres
 </td>
       <td>
 
-PE-20 en cours de formation vers les aptitudes PN-20
+PE-20 en cours de formation vers les aptitudes PN
 
 </td>
       <td>
@@ -66276,7 +66305,7 @@ Espace de 0 à 40 mètres
 </td>
       <td>
 
-PE-40 + PN-C
+PE-40 + PN
 
 </td>
       <td>
@@ -66298,7 +66327,7 @@ Espace au-delà de 40 mètres et dans la limite de 60 mètres
 </td>
       <td>
 
-PE-60 + PN-C
+PE-60 + PN
 
 </td>
       <td>
@@ -66325,9 +66354,9 @@ palanquée (GP) ou de plongeur niveau 4 (P4) + PN-C.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 11
 
 _Cité par_:
 
@@ -66343,21 +66372,21 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 ┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ ESPACES d'évolution  │ PLONGÉE ENCADRÉE                                                  │ PLONGÉE AUTONOME               ┃
 ┃                      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                      │ Aptitudes mi-  │ Effectif maximal de la pa-  │ Compétence mini-   │ Aptitudes mini- │ Effectif mi- ┃
-┃                      │ nimales des    │ lanquée (personne encadrant │ male de la per-    │ males des plon- │ nimal de la  ┃
-┃                      │ plongeurs en-  │ la palanquée non comprise)  │ sonne encadrant la │ geurs en auto-  │ palanquée    ┃
+┃                      │ Aptitudes mi-  │ Effectif maximal de la pa-  │ Compétence mini-   │ Aptitudes mini- │ Effectif     ┃
+┃                      │ nimales des    │ lanquée (personne encadrant │ male de la per-    │ males des plon- │ maximal de   ┃
+┃                      │ plongeurs en-  │ la palanquée non comprise)  │ sonne encadrant la │ geurs en auto-  │ la palanquée ┃
 ┃                      │ cadrés         │                             │ palanquée          │ nomie           │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 12     │ PE-12 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-12 + PN-20   │ 3            ┃
+┃ Espace de 0 à 12     │ PE-12 + PN     │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-12 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 20     │ PE-20 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-20 + PN-20   │ 3            ┃
+┃ Espace de 0 à 20     │ PE-20 + PN     │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-20 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 40     │ PE-40 + PN-C   │ 4 (*)                       │ E3 ou GP ou P4 +   │ PA-40 + PN-C    │ 3            ┃
+┃ Espace de 0 à 40     │ PE-40 + PN     │ 4 (*)                       │ E3 ou GP ou P4 +   │ PA-40 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace au-delà de 40 │ PE-60 + PN-C   │ 4                           │ E4 + PN-C          │ PA-60 + PN-C    │ 3            ┃
+┃ Espace au-delà de 40 │ PE-60 + PN     │ 4                           │ E4 + PN-C          │ PA-60 + PN      │ 3            ┃
 ┃ mètres et dans la    │                │                             │                    │                 │              ┃
 ┃ limite de 60 mètres  │                │                             │                    │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -66369,20 +66398,16 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - Arrêté du 6 avril 2012 - art. 12
 
 
 ###### Article Annexe III-18 a (art. A322-96)
 
 Aptitudes des pratiquants à utiliser du trimix ou de l'héliox
 
-<table cellpadding="0" border="1" width="680">
+<table width="680" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td valign="top">
@@ -66410,50 +66435,58 @@ Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace de 0
 </td>
       <td valign="top">
 
-Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 + PN-C.
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 + PN-C
 
-Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-40 + PN-C.
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-40 + PN-C
 
-Maîtrise de l'utilisation du matériel, de l'analyse des gaz et du marquage des bouteilles.
+Maîtrise de l'utilisation du matériel, de l'analyse des gaz et du marquage des bouteilles
 
-Maîtrise de la stabilisation, vitesse de remontée et de la communication avec son équipier.
+Maîtrise de la stabilisation, vitesse de remontée et de la communication avec son équipier
 
-Maîtrise de l'utilisation de son parachute et du dévidoir.
+Maîtrise de l'utilisation de son parachute et du dévidoir
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PTH-60
+PTH-70 
 
-Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace de 0 à 60 mètres
+Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace de 0 à 70 mètres
 
 </td>
       <td valign="top">
 
-Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-60 + PTH-40.
+Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-60 + PTH-40
 
-Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-40.
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-40
 
-Maîtrise de l'utilisation de la ligne de descente/de décompression.
+Maîtrise de l'utilisation de la ligne de descente/de décompression
 
 Maîtrise de la planification de la plongée avec plusieurs mélanges de gaz (mélange fond au trimix et mélange de
-décompression).
+décompression)
 
-Maîtrise des procédures d'intervention sur un plongeur en difficulté depuis le fond.
+Maîtrise des procédures d'intervention sur un plongeur en difficulté depuis le fond
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PTH-120
+PTH-120 
 
-Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace au-delà de 60 mètres et dans la limite de 120 mètres
+Aptitudes à évoluer en palanquée au trimix ou à l'héliox dans l'espace au-delà de 70 mètres et dans la limite de 120 mètres
 
 </td>
       <td valign="top">
+
+Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-70
+
+Maîtrise de la préparation et de la mise en place de la ligne de descente/de décompression
+
+Maîtrise de l'organisation matérielle et de la planification de la décompression
+
+Maîtrise de la fabrication des mélanges trimix et nitrox
 
 Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-60 + PTH-60.
 
@@ -66470,9 +66503,9 @@ Maîtrise de la fabrication des mélanges trimix et nitrox.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 13
 
 _Cité par_:
 
@@ -66503,9 +66536,7 @@ APTITUDES MINIMALES DES PLONGEURS
 
 COMPÉTENCE
 
-minimale
-
-de la personne encadrant
+minimale de la personne encadrant
 
 la palanquée
 
@@ -66514,7 +66545,7 @@ la palanquée
 
 EFFECTIF
 
-maximal
+maximal 
 
 de la palanquée
 
@@ -66529,7 +66560,7 @@ non comprise)
     <tr>
       <td valign="top">
 
-Espace de 0 à 40 mètres 
+Espace de 0 à 40 ètres 
 
 </td>
       <td valign="top">
@@ -66539,7 +66570,7 @@ PE-40 + PN-C en cours de formation vers les aptitudes PTH-40
 </td>
       <td valign="top">
 
-E-3 + PTH-60
+E-3 + PTH-70
 
 </td>
       <td valign="top">
@@ -66551,17 +66582,17 @@ E-3 + PTH-60
     <tr>
       <td valign="top">
 
-Espace de 0 à 60 mètres
+Espace de 0 à 70 mètres
 
 </td>
       <td valign="top">
 
-PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-60
+PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-70
 
 </td>
       <td valign="top">
 
-E-4 + PTH-120
+E-4 + PTH-120 
 
 </td>
       <td valign="top">
@@ -66578,7 +66609,7 @@ Espace de 0 à 80 mètres
 </td>
       <td valign="top">
 
-PE-60 + PTH-60 en cours de formation vers les aptitudes PTH-120 
+PE-60 + PTH-70 en cours de formation vers les aptitudes PTH-120
 
 </td>
       <td valign="top">
@@ -66597,9 +66628,9 @@ E-4 + PTH-120
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 14
 
 _Cité par_:
 
@@ -66623,7 +66654,7 @@ Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en 
 ┃ Espace de 0 à 40     │ PE-40 + PTH-40  │ 4                          │ E3 + PTH-40        │ PA-40 + PTH-40   │ 3           ┃
 ┃ mètres               │                 │                            │                    │                  │             ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 60     │ PE-60 + PTH-60  │ 4                          │ E4 + PTH-60        │ PA-60 + PTH-60   │ 3           ┃
+┃ Espace de 0 à 70     │ PE-60 + PTH-70  │ 4                          │ E4 + PTH-70        │ PA-60 + PTH-70   │ 3           ┃
 ┃ mètres               │                 │                            │                    │                  │             ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Espace de 0 à 80     │ PE-60 + PTH-120 │ 4                          │ E4 + PTH-120       │ PA-60 + PTH-120  │ 3           ┃
@@ -66638,13 +66669,9 @@ Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - Arrêté du 6 avril 2012 - art. 15
 
 
 ###### Article Annexe III-19 (art. A322-78)
