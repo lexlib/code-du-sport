@@ -5,7 +5,7 @@ sportive et gymnique du travail (FSGT), l'Union nationale des centres sportifs d
 des moniteurs de plongée (ANMP), le Syndicat national des moniteurs de plongée (SNMP) et la Confédération mondiale des
 activités subaquatiques (CMAS) attestant des aptitudes de l'annexe III-14 a
 
-<table align="center" border="1" cellpadding="0" width="750">
+<table width="750" align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -28,7 +28,9 @@ par la CMAS
 
 APTITUDES À PLONGER ENCADRÉ
 
-par un guide de palanquée
+(avec une personne
+
+encadrant la palanquée)
 
 </td>
       <td>
@@ -134,7 +136,7 @@ PA-60
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 6
 
 _Cité par_:
 
