@@ -6,21 +6,21 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 ┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ ESPACES d'évolution  │ PLONGÉE ENCADRÉE                                                  │ PLONGÉE AUTONOME               ┃
 ┃                      ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                      │ Aptitudes mi-  │ Effectif maximal de la pa-  │ Compétence mini-   │ Aptitudes mini- │ Effectif mi- ┃
-┃                      │ nimales des    │ lanquée (personne encadrant │ male de la per-    │ males des plon- │ nimal de la  ┃
-┃                      │ plongeurs en-  │ la palanquée non comprise)  │ sonne encadrant la │ geurs en auto-  │ palanquée    ┃
+┃                      │ Aptitudes mi-  │ Effectif maximal de la pa-  │ Compétence mini-   │ Aptitudes mini- │ Effectif     ┃
+┃                      │ nimales des    │ lanquée (personne encadrant │ male de la per-    │ males des plon- │ maximal de   ┃
+┃                      │ plongeurs en-  │ la palanquée non comprise)  │ sonne encadrant la │ geurs en auto-  │ la palanquée ┃
 ┃                      │ cadrés         │                             │ palanquée          │ nomie           │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 12     │ PE-12 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-12 + PN-20   │ 3            ┃
+┃ Espace de 0 à 12     │ PE-12 + PN     │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-12 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 20     │ PE-20 + PN-20  │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-20 + PN-20   │ 3            ┃
+┃ Espace de 0 à 20     │ PE-20 + PN     │ 4 (*)                       │ E2 ou GP ou P4 +   │ PA-20 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace de 0 à 40     │ PE-40 + PN-C   │ 4 (*)                       │ E3 ou GP ou P4 +   │ PA-40 + PN-C    │ 3            ┃
+┃ Espace de 0 à 40     │ PE-40 + PN     │ 4 (*)                       │ E3 ou GP ou P4 +   │ PA-40 + PN      │ 3            ┃
 ┃ mètres               │                │                             │ PN-C               │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Espace au-delà de 40 │ PE-60 + PN-C   │ 4                           │ E4 + PN-C          │ PA-60 + PN-C    │ 3            ┃
+┃ Espace au-delà de 40 │ PE-60 + PN     │ 4                           │ E4 + PN-C          │ PA-60 + PN      │ 3            ┃
 ┃ mètres et dans la    │                │                             │                    │                 │              ┃
 ┃ limite de 60 mètres  │                │                             │                    │                 │              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -32,10 +32,6 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+  - Arrêté du 6 avril 2012 - art. 12
