@@ -2,14 +2,12 @@
 
 Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 
-<table border="1" width="680" cellpadding="0">
+<table border="1" cellpadding="0" width="680">
   <tbody>
     <tr>
       <td>
 
-ESPACES
-
-d'évolution
+ESPACES d'évolution
 
 </td>
       <td>
@@ -166,8 +164,8 @@ E-4
     <tr>
       <td colspan="4">
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une
-qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de
+palanquée (GP) ou de plongeur niveau 4 (P4).
 
 </td>
     </tr>
@@ -178,7 +176,7 @@ qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 _Modifié par_:
 
-  - Arrêté du 5 janvier 2012 - art. 2
+  - Arrêté du 6 avril 2012 - art. 9
 
 _Cité par_:
 
