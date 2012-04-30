@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-04-21
+Version Consolidée au 2012-05-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -9155,29 +9155,27 @@ _Cite_:
 ###### Article L332-1
 
 Les organisateurs de manifestations sportives à but lucratif peuvent être tenus d'y assurer un service d'ordre dans les
-conditions prévues à l'article 23 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
-sécurité.
+conditions prévues à l'article L. 211-11 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°95-73 du 21 janvier 1995 - art. 23 (V)
-
 _Anciens textes_:
 
-  - Loi n°95-73 du 21 janvier 1995 - art. 23 (V)
   - Loi n°95-73 du 21 janvier 1995 - art. 23 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 2 (V)
 
 _Cité par_:
 
   - Décret n°2016-1954 du 28 décembre 2016 (V)
   - Code du sport. - art. R113-2 (V)
   - Code du sport. - art. R332-14 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L211-11 (V)
 
 
 ###### Article L332-2
@@ -9209,26 +9207,18 @@ _Modifié par_:
 ###### Article L332-2-1
 
 Lorsqu'un système de vidéoprotection est installé dans une enceinte où une manifestation sportive se déroule, les personnes
-chargées de son exploitation, conformément à l'autorisation préfectorale délivrée en application de l'article 10 de la loi n°
-95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, et l'organisateur de la manifestation
-sportive s'assurent, préalablement au déroulement de ladite manifestation, du bon fonctionnement du système de
-vidéoprotection. 
+chargées de son exploitation, conformément à l'autorisation préfectorale délivrée en application 
+  <font size="1">du chapitre III du titre II et du titre V du livre II du code de la sécurité intérieure</font>, et
+l'organisateur de la manifestation sportive s'assurent, préalablement au déroulement de ladite manifestation, du bon
+fonctionnement du système de vidéoprotection. 
 
 Est puni de 15 000 euros d'amende le fait de méconnaître l'obligation fixée au premier alinéa.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°95-73 du 21 janvier 1995 - art. 10
-
-_Codifié par_:
-
-  - Ordonnance n°2006-596 du 23 mai 2006
-
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 17
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 3 (V)
 
 
 ###### Article L332-3
