@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-06-07
+Version Consolidée au 2012-06-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -487,38 +487,35 @@ Version Consolidée au 2012-06-07
         - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#484)
           - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#485)
             - [Sous-section 1 : Dispositions générales (art. A331-1)](#486)
-            - [Sous-section 2 : Epreuves et compétitions sur la voie publique (art. A331-5 à A331-15)](#487)
-              - [Paragraphe 1 : Dispositions générales (art. A331-2 à A331-7)](#488)
-              - [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger (art. A331-8 à A331-12)](#489)
-              - [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13 (art. A331-13 à A331-15)](#490)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-16 à A331-21)](#491)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#492)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#493)
-            - [Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique (art. A331-24 à A331-25)](#494)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#495)
-          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#496)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#497)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#498)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#499)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#500)
-        - [Chapitre unique (art. A411-1 à A411-7)](#501)
-          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#502)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#503)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#504)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#505)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#506)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#507)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#508)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#509)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#510)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#511)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#512)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#513)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#514)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#515)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#516)
-      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-19 (art. A222-14))](#517)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#518)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-4)](#487)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#488)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#489)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#490)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-24 à A331-25)](#491)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#492)
+          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#493)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#494)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#495)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#496)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#497)
+        - [Chapitre unique (art. A411-1 à A411-7)](#498)
+          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#499)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#500)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#501)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#502)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#503)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#504)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#505)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#506)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#507)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#508)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#509)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#510)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#511)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#512)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#513)
+      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-19 (art. A222-14))](#514)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#515)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -48051,50 +48048,37 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Epreuves et compétitions sur la voie publique<a id=487></a>
-
-###### Article A331-5
-
-Les organisateurs qui, bénéficiant d'une autorisation, décideraient pour quelque cause que ce soit, d'annuler l'épreuve, ou
-d'en reporter la date ont l'obligation d'informer de leur décision l'autorité ayant délivré l'autorisation six jours francs
-au moins avant la date prévue pour le début de la manifestation.
-
-Le non-respect du délai imparti peut entraîner l'interdiction de solliciter la reconduction de la date de l'épreuve ou son
-renouvellement pendant une période de deux ans au maximum.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-
-##### Paragraphe 1 : Dispositions générales<a id=488></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=487></a>
 
 ###### Article A331-2
 
-L'autorisation prévue à l'article R. 331-6 est délivrée sous réserve des exceptions prévues aux articles A. 331-6 et A.
-331-8 : 
+Tout dossier de déclaration de manifestation sportive présenté par l'organisateur comprend : 
 
-1° Par le ministre de l'intérieur, lorsque le parcours sur lequel doit se dérouler l'épreuve inclut des voies situées dans
-plus de vingt départements distincts ; 
+1° Les nom, adresse et coordonnées de l'organisateur ; 
 
-2° En vertu d'une délégation ministérielle permanente, par le préfet du département dans lequel le départ de l'épreuve est
-donné, si le nombre des départements intéressés par la manifestation est égal ou inférieur à vingt. 
+2° La date et les horaires auxquels se déroule la manifestation ; 
 
-Dans le cas où l'épreuve comporte des points de départ différents, sans que le nombre des départements respectivement
-traversés soit au total supérieur à vingt, l'autorisation est délivrée par le préfet du département où est établi le siège du
-groupement organisateur de l'épreuve.
+3° La nature et les modalités d'organisation de la manifestation, notamment son programme et son règlement ; 
+
+4° Dans les cas où l'itinéraire est imposé aux participants, un plan  des voies empruntées sur lequel figurent les points de
+rassemblement ou  de contrôle préalablement définis (à joindre) ; 
+
+5° Le nombre maximal de participants à la manifestation ainsi que, le cas échéant, le nombre de véhicules d'accompagnement ; 
+
+6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ; 
+
+7° Une attestation de police d'assurance souscrite par l'organisateur  de la manifestation, qui doit être présentée à
+l'autorité administrative  au plus tard six jours francs avant le début de la manifestation. 
+
+L'organisateur de la manifestation transmet le dossier complet de  déclaration au préfet territorialement compétent, au plus
+tard un mois  avant la date prévue pour son organisation. Si la manifestation se  déroule sur plusieurs départements, le
+dossier est adressé à chaque  préfet de département traversé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 3 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -48102,44 +48086,47 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R331-6 (V)
-  - Code du sport. - art. R331-8 (V)
+  - Code du sport. - art. R331-6
+  - Code du sport. - art. R331-8
 
 
 ###### Article A331-3
 
-L'organisateur a l'obligation de constituer et de déposer un dossier comportant les documents et pièces ci-dessous
-énumérés : 
+Tout dossier de demande d'autorisation de manifestation sportive présenté par l'organisateur comprend : 
 
-1° Une demande d'autorisation en double exemplaire précisant la nature et la date de l'épreuve, le nombre approximatif des
-concurrents, le nom et l'adresse du siège de l'association organisatrice ainsi que de la fédération à laquelle l'association
-est affiliée, le calendrier sur lequel a été inscrite l'épreuve, enfin, les nom, adresse et qualité de l'auteur de la
-demande. 
+1° Les nom, adresse et coordonnées de l'organisateur ; 
 
-Dans le cas où l'épreuve est organisée par une association non affiliée à une fédération agréée, la demande doit avoir été
-visée, avec avis favorable, par le chef de service de la jeunesse et des sports du département où est établi le siège de
-l'association requérante ; 
+2° La date et les horaires auxquels se déroule la manifestation ; 
 
-2° Le règlement de l'épreuve ; 
+3° Un plan détaillé des voies et des parcours empruntés ; 
 
-3° Un exemplaire signé de la police d'assurance ou, à défaut de celui-ci, l'engagement de souscrire un contrat conforme au
-modèle type prévu à l'annexe III-21-1.
+4° Le nombre maximal de participants à la manifestation ; 
 
-Dans cette hypothèse, l'exemplaire signé de la police devra être présenté par l'organisateur à l'autorité ayant délivré
-l'autorisation six jours francs au moins avant la date de l'épreuve ; 
+5° La nature et les modalités d'organisation de la manifestation,  notamment son règlement particulier, tel qu'il résulte des
+règles  techniques et de sécurité mentionnées à l'article R. 331-7 ; 
 
-4° L'engagement de l'organisateur de prendre à sa charge les frais du service d'ordre exceptionnel mis en place à l'occasion
-du déroulement de l'épreuve et d'assurer la répartition des dommages, dégradations, modifications de toute nature de la voie
-publique ou de ses dépendances imputables aux concurrents, aux organisateurs ou à leurs préposés ; 
+6° L'avis de la fédération délégataire concernée ou, à défaut d'avis  rendu, la preuve de l'envoi par lettre recommandée avec
+accusé de  réception, de la demande d'avis déposée auprès de celle-ci, dans les  conditions prévues à l'article R. 331-9-1 ; 
 
-5° Les documents (notes, cartes et plans) concernant l'itinéraire et l'horaire de l'épreuve établis conformément aux
-dispositions fixées pour chaque catégorie d'épreuve.
+7° Le nombre approximatif de spectateurs attendus à la manifestation ; 
+
+8° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ; 
+
+9° Une attestation de police d'assurance souscrite par l'organisateur  de la manifestation qui couvre sa responsabilité
+civile, celle des  participants à la manifestation et de toute personne nommément désignée  par l'organisateur qui prête son
+concours à l'organisation de celle-ci.  Cette attestation de police d'assurance doit être présentée à l'autorité
+administrative au plus tard six jours francs avant le début de la  manifestation. Le non-respect de ce délai entraîne le
+refus  d'autorisation par l'autorité administrative compétente. 
+
+L'organisateur de la manifestation est tenu de transmettre le dossier  complet au préfet territorialement compétent pour
+délivrer  l'autorisation, ainsi qu'à chaque préfet de département traversé, au  plus tard trois mois avant la date prévue
+pour son organisation. Si la  manifestation se déroule dans le cadre d'un seul département, ce délai  est réduit à deux mois.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 1
+  - Arrêté du 3 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -48150,317 +48137,53 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. ANNEXE III-21-1 (V)
+  - Code du sport. - art. Annexe III-21-1
 
 
 ###### Article A331-4
 
-Le visa par les pouvoirs sportifs du règlement de l'épreuve ne peut être accordé que pour autant que celui-ci a été agréé par
-l'autorité habilitée à délivrer l'autorisation.
+Si  les manifestations soumises à autorisation portent sur vingt  départements et plus, la demande d'autorisation est
+transmise par  l'organisateur, dans le délai minimal de trois mois, à chaque préfet de  département traversé et au ministre
+de l'intérieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A331-6
-
-La demande aux fins d'autorisation d'une des épreuves et compétitions visées au présent paragraphe doit être adressée, par
-l'organisateur à l'autorité administrative habilitée conformément aux dispositions de l'article 1er ci-dessus à délivrer
-l'autorisation trois mois au moins avant la date prévue pour le déroulement de la manifestation. Ce délai est toutefois
-réduit à six semaines lorsque l'épreuve doit se disputer dans le cadre d'un seul département. 
-
-Par dérogation aux dispositions de l'article A. 331-2, les épreuves ne comportant pas la participation de véhicules à moteur
-sont autorisées par le sous-préfet, lorsqu'elles se déroulent dans le ressort exclusif de son arrondissement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A331-2
-
-
-###### Article A331-7
-
-L'autorisation ne peut être délivrée qu'après enquête ouverte à la diligence de l'autorité saisie de la demande auprès des
-services chargés de la voirie et de surveillance de la circulation et ce, par le canal du préfet, pour chacun des
-départements intéressés.
-
-L'enquête a pour but de déterminer, en fonction des exigences de la sécurité et de la circulation, notamment à l'intérieur
-des agglomérations, les prescriptions que les organisateurs auront à remplir ou à faire respecter par les concurrents ainsi
-que les modifications qui devront, le cas échéant, être apportées à l'horaire, à l'itinéraire de l'épreuve ou à son
-règlement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. A331-12 (VT)
-
-
-##### Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger<a id=489></a>
-
-###### Article A331-8
-
-Les épreuves sportives organisées par des groupements, clubs ou associations ayant leur siège à l'étranger et appelées à se
-disputer en tout ou partie sur des voies publiques sont autorisées par le ministre de l'intérieur, à l'exception des épreuves
-cyclistes qui seront autorisées par le préfet du premier département frontalier traversé par ladite manifestation ou par le
-préfet du lieu de départ si celui-ci est fixé sur le territoire français.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Arrêté du 3 mai 2012 - art. 2
 
 
-###### Article A331-9
-
-Les demandes d'autorisation concernant les épreuves sportives organisées par des groupements visés au précédent article ne
-peuvent être instruites que sous réserve qu'elles soient introduites par l'intermédiaire d'une des fédérations sportives
-françaises délégataires ou d'une association sportive française affiliée à celles-ci. 
-
-La fédération ou l'association choisie comme intermédiaire doit s'engager conjointement avec l'association étrangère
-organisatrice à prendre à sa charge les frais du service d'ordre et la réparation des dommages causés à la chaussée tel que
-le prévoit le 4° de l'article A. 331-3.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A331-3
-
-
-###### Article A331-10
-
-Les organisateurs doivent produire auprès de l'autorité qualifiée pour délivrer l'autorisation et dans les délais prescrits
-les documents et pièces prévus à l'article A. 331-3 sous réserve des dispositions de l'article A. 331-11 ci-dessous.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A331-11
-  - Code du sport. - art. A331-3
-
-
-###### Article A331-11
-
-Pour l'organisation de manifestations sportives, le 3° de l'article A. 331-3est remplacé par les dispositions ci-après : 
-
-Les organisateurs doivent prendre l'engagement de présenter une police d'assurance couvrant, en cas d'accident corporel
-survenu en cours d'épreuve, leur responsabilité civile ainsi que celle des concurrents selon les modalités et dans les
-limites qui seront prescrites dans chaque cas particulier par l'autorité administrative française. 
-
-Un exemplaire du contrat d'assurance auquel sera joint, s'il est nécessaire, une traduction certifiée conforme, devra être
-communiqué dix jours francs au moins avant la date fixée pour le début de l'épreuve à l'autorité qualifiée pour délivrer
-l'autorisation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. A331-10 (VT)
-
-_Cite_:
-
-  - Code du sport. - art. A331-3
-
-
-###### Article A331-12
-
-Les dispositions de l'article R. 331-7 ne sont pas applicables aux épreuves et compétitions organisées par des groupements
-ayant leur siège à l'étranger.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A331-7
-
-
-##### Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13<a id=490></a>
-
-###### Article A331-13
-
-Sont soumis à la déclaration prévue à l'article R. 331-13 : 
-
-1° Les manifestations sportives comportant le classement des participants en fonction d'éléments n'imposant pas l'obligation
-d'effectuer un parcours dans le minimum de temps, soit directement par la plus grande vitesse réalisée, soit indirectement
-par la réalisation d'une moyenne imposée ou par le respect d'un horaire fixé à l'avance ; 
-
-2° Les manifestations sportives prévoyant la concentration en un point déterminé de la voie publique ou de ses dépendances de
-plus de vingt véhicules.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R331-13
-
-
-###### Article A331-14
-
-Les organisateurs de manifestations sportives définies à l'article précédent sont tenus de déposer auprès du préfet du
-domicile de l'organisateur ou du siège de l'association organisatrice et en tout état de cause auprès du ou des préfets des
-départements traversés, un mois avant la date de la manifestation, un dossier comportant :
-
-1° Une déclaration indiquant la date et la nature de la manifestation, les noms et adresse de l'organisation ou de
-l'association organisatrice ; le nombre approximatif des participants ;
-
-2° Le parcours et l'horaire de la manifestation ;
-
-3° Le programme ou le règlement de la manifestation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-
-###### Article A331-15
-
-Le ou les préfets à qui la déclaration a été adressée, après consultation le cas échéant des autorités administratives
-locales intéressées, peuvent imposer toutes modifications que justifieraient les conditions de la circulation ou les
-exigences de la sécurité.
-
-La décision prise est aussitôt portée à la connaissance des organisateurs et des autres préfets intéressés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 2
-
-
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=491></a>
-
-###### Article A331-16
-
-La constitution des dossiers présentés aux autorités administratives par les organisateurs de concentrations et de
-manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la
-participation de véhicules terrestres à moteur ainsi que par les gestionnaires de circuit soumis à homologation est définie
-aux article A. 331-17 à A. 331-21.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Cité par_:
-
-  - Arrêté du 17 juillet 2009 (V)
-
-_Abrogé par_:
-
-  - Arrêté du 3 mai 2012 - art. 3
-
-_Cite_:
-
-  - Code du sport. - art. A331-17
-
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=488></a>
 
 ###### Article A331-17
 
-Tout dossier de déclaration comprend :
+Tout dossier de déclaration de concentration présenté par l'organisateur comprend : 
 
-1° La date et les horaires auxquels se déroule la concentration des véhicules terrestres à moteur ;
+1° La date et les horaires auxquels se déroule la concentration des véhicules terrestres à moteur ; 
 
-2° Les modalités d'organisation de la concentration ;
+2° Les modalités d'organisation de la concentration ; 
 
 3° Dans les cas où l'itinéraire est imposé aux participants, un plan des voies empruntées sur lequel figurent les points de
-rassemblement préalablement définis (à joindre) ;
+rassemblement préalablement définis (à joindre) ; 
 
-4° Le nombre maximal de véhicules qui participent à cette concentration ainsi que le nombre de véhicules d'accompagnement ;
+4° Le nombre maximal de véhicules qui participent à cette concentration ainsi que le nombre de véhicules d'accompagnement ; 
 
-5° Le nombre maximal de spectateurs attendus ;
+5° Le nombre approximatif de spectateurs attendus ; 
 
 6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ainsi que les mesures
-prises par l'organisateur pour garantir la tranquillité publique pendant toute la durée de cette concentration ;
+prises par l'organisateur pour garantir la tranquillité publique pendant toute la durée de cette concentration ; 
 
-7° Une attestation de police d'assurance souscrite par l'organisateur de ladite concentration.
+7° Une attestation de police d'assurance souscrite par l'organisateur de ladite concentration. 
 
 L'organisateur de cette concentration transmet en trois exemplaires le dossier complet au préfet territorialement compétent
 au plus tard deux mois avant la date prévue pour son organisation. Si la concentration se déroule sur plusieurs départements,
-le dossier est adressé en trois exemplaires à chaque préfet de département traversé.
+le dossier est adressé à chaque préfet de département traversé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 3 mai 2012 - art. 3
 
 _Cité par_:
 
@@ -48469,7 +48192,7 @@ _Cité par_:
 
 ###### Article A331-18
 
-Tout dossier de demande d'autorisation comprend : 
+Tout dossier de demande d'autorisation de concentration ou de manifestation présenté par l'organisateur comprend: 
 
 I.-Pour l'organisation d'une manifestation de véhicules terrestres à moteur : 
 
@@ -48489,19 +48212,28 @@ mentionnées à l'article R. 331-19 ;
 6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ainsi que les mesures
 prises par l'organisateur pour garantir la tranquillité publique pendant toute la durée de la manifestation ; 
 
-7° Les nom et qualités de la personne désignée comme « organisateur technique » par l'organisateur de la manifestation qui
-est chargée de s'assurer que les règles techniques et de sécurité prescrites par l'autorité administrative compétente après
-avis de la commission départementale de la sécurité routière sont respectées ; 
+7° Les nom et qualités de la personne désignée comme organisateur technique par l'organisateur de la manifestation qui est
+chargée de s'assurer que les règles techniques et de sécurité prescrites par l'autorité administrative compétente après avis
+de la commission départementale de la sécurité routière sont respectées ; 
 
 8° Une attestation de police d'assurance souscrite par l'organisateur de la manifestation qui couvre sa responsabilité
 civile, celle des participants à la manifestation et de toute personne nommément désignée par l'organisateur qui prête son
 concours à l'organisation de celle-ci. Cette attestation de police d'assurance doit être présentée à l'autorité
 administrative au plus tard six jours francs avant le début de la manifestation. Le non-respect de ce délai entraîne le refus
-d'autorisation par l'autorité administrative compétente.
+d'autorisation par l'autorité administrative compétente. 
 
-L'organisateur de cette manifestation est tenu de transmettre en trois exemplaires le dossier complet de demande
-d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation. Si
-cette manifestation se déroule sur un terrain homologué, ce délai est réduit à deux mois. 
+9° Si l'itinéraire prévoit un ou plusieurs parcours de liaison au sens de l'article R. 331-21, la liste des participants
+comportant leur nom, prénom, date et lieu de naissance, numéro de permis de conduire, nationalité et adresse de domicile
+ainsi que le numéro d'inscription de leur véhicule délivré par l'organisateur. Cette liste doit être présentée à l'autorité
+préfectorale au moins six jours francs avant le début de la manifestation. L'organisateur doit veiller à ce que le numéro
+d'inscription attribué soit reporté sur le véhicule correspondant, de manière clairement lisible et visible, à l'avant et à
+l'arrière pour les véhicules de catégorie M, à l'arrière ou sur un dossard porté par le conducteur pour les véhicules de
+catégorie L, au sens de l'article R. 311-1 du code de la route. A défaut du respect de l'ensemble des dispositions définies
+par le présent alinéa, la dérogation prévue à l'article R. 411-29 du même code n'est pas applicable. 
+
+L'organisateur de cette manifestation est tenu de transmettre le dossier complet de demande d'autorisation au préfet
+territorialement compétent au plus tard trois mois avant la date prévue pour son organisation. Si cette manifestation se
+déroule sur un terrain homologué, ce délai est réduit à deux mois. 
 
 II.-Pour l'organisation d'une concentration de véhicules terrestres à moteur dont le nombre est égal ou supérieur à deux
 cents véhicules automobiles ou quatre cents véhicules à moteur de deux ou quatre roues, y compris les véhicules
@@ -48521,37 +48253,41 @@ points de rassemblement préalablement définis ;
 6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ainsi que les mesures
 prises par l'organisateur pour garantir la tranquillité publique pendant toute la durée de cette concentration ; 
 
-7° Une attestation de police d'assurance souscrite par l'organisateur de la concentration.
+7° Une attestation de police d'assurance souscrite par l'organisateur de la concentration. 
 
-L'organisateur de cette concentration est tenu de transmettre en trois exemplaires le dossier complet de demande
-d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation.
+L'organisateur de cette concentration est tenu de transmettre le dossier complet de demande d'autorisation au préfet
+territorialement compétent au plus tard trois mois avant la date prévue pour son organisation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Cite_:
-
-  - Code du sport. - art. A331-19 (V)
+  - Arrêté du 28 mars 2012 - art. 1
+  - Arrêté du 3 mai 2012 - art. 3
 
 _Cité par_:
 
   - Code du sport. - art. A331-20 (M)
 
+_Cite_:
+
+  - Code du sport. - art. R331-19
+  - Code du sport. - art. R331-21
+  - Code de la route. - art. R311-1
+  - Code de la route. - art. R411-29
+
 
 ###### Article A331-19
 
 Si les manifestations ou concentrations soumises à autorisation portent sur vingt départements et plus, la demande
-d'autorisation est transmise par l'organisateur, dans le délai minimal de trois mois, en trois exemplaires à chaque préfet de
-département traversé et en un seul exemplaire au ministre de l'intérieur.
+d'autorisation est transmise par l'organisateur, dans le délai minimal de trois mois, à chaque préfet de département traversé
+et au ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 3 mai 2012 - art. 3
 
 _Cité par_:
 
@@ -48607,7 +48343,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=492></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=489></a>
 
 ###### Article A331-22
 
@@ -48661,21 +48397,25 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=493></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=490></a>
 
-##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique<a id=494></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=491></a>
 
 ###### Article A331-24
 
 Les conditions générales des polices d'assurances souscrites par les organisateurs d'épreuves ou compétitions sportives, en
-application des dispositions des articles R. 331-6 à R. 331-17, devront être conformes au modèle de l'annexe III-21-1 du
+application des dispositions des articles R. 331-6 à R. 331-17-2, devront être conformes au modèle de l'annexe III-21-1 du
 présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 3
+  - Arrêté du 3 mai 2012 - art. 4
+
+_Abrogé par_:
+
+  - Arrêté du 30 janvier 2015 - art. 1
 
 _Cité par_:
 
@@ -48688,7 +48428,7 @@ _Cite_:
 
 ###### Article A331-25
 
-Le montant minimum des garanties prévues par la police d'assurance visée à l'article R. 331-10 est fixé :
+Le montant minimum des garanties d'assurance prévues à l'article R. 331-14 est fixé :
 
 - pour la réparation des dommages corporels à 6 100 000 euros par sinistre ;
 
@@ -48696,16 +48436,16 @@ Le montant minimum des garanties prévues par la police d'assurance visée à l'
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 3
+  - Arrêté du 3 mai 2012 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. R331-10
+  - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=495></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=492></a>
 
 ###### Article A331-32
 
@@ -48728,7 +48468,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe<a id=496></a>
+##### Section 4 : Organisation de manifestations publiques de boxe<a id=493></a>
 
 ###### Article A331-33
 
@@ -48835,9 +48575,9 @@ _Cité par_:
   - Code du sport. - art. A331-34 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=497></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=494></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=498></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=495></a>
 
 ###### Article A331-37
 
@@ -48858,30 +48598,36 @@ _Cite_:
 ###### Article A331-38
 
 Les personnes proposées par les organisateurs des épreuves et compétitions sportives pour signaler la priorité de passage
-prévue à l'article R. 411-30 du code de la route sont agréées par l'autorité administrative. Elles prennent le nom de "
-signaleur ". L'arrêté qui autorise l'épreuve mentionne les nom, adresse et qualité des signaleurs désignés pour l'épreuve.
+prévue à l'article R. 411-30 du code de la route sont agréées par l'autorité administrative. Elles peuvent être fixes ou
+mobiles. Elles prennent le nom de " signaleur ". L'arrêté qui autorise l'épreuve mentionne le nom  des signaleurs désignés
+pour l'épreuve.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 5
+  - Arrêté du 3 mai 2012 - art. 5
 
 _Cite_:
 
-  - Code de la route. - art. R411-30 (V)
+  - Code de la route. - art. R411-30
 
 
 ###### Article A331-39
 
-Les signaleurs doivent être identifiables par les usagers de la route au moyen d'un brassard marqué " Course " et être en
-possession d'une copie de l'arrêté autorisant la course.
+Les signaleurs doivent être identifiables par les usagers de la route au moyen d'un gilet de haute visibilité, mentionné à
+l'article R. 416-19 du code de la route et être à même de produire, dans de brefs délais, une copie de l'arrêté autorisant la
+course.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 5
+  - Arrêté du 3 mai 2012 - art. 5
+
+_Cite_:
+
+  - Code de la route. - art. R416-19 (V)
 
 
 ###### Article A331-40
@@ -48891,13 +48637,17 @@ huitième partie, de l'instruction interministérielle relative à la signalisat
 modèle K10 (un par signaleur). 
 
 Pourront, en outre, être utilisés les barrages modèle K2, présignalés, signalant un obstacle de caractère temporaire et sur
-lesquels le mot " Course " sera inscrit.
+lesquels le mot " Course " sera inscrit. 
+
+Le  cas échéant, les voitures ouvreuses doivent être surmontées d'un  panneau signalant le début de la course et les
+voitures-balais d'un  panneau du même type signalant la fin de course. Les signaleurs occupant  ces véhicules peuvent
+utiliser des porte-voix.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 5
+  - Arrêté du 3 mai 2012 - art. 5
 
 _Cité par_:
 
@@ -48907,38 +48657,43 @@ _Cité par_:
 
 ###### Article A331-41
 
-Les équipements prévus à l'article A. 331-29 doivent être fournis par l'organisateur.
+Les équipements prévus à l'article A. 331-40 doivent être fournis par l'organisateur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 5
+  - Arrêté du 3 mai 2012 - art. 5
 
 _Cite_:
 
-  - Code du sport. - art. A331-29
+  - Code du sport. - art. A331-40 (V)
 
 
 ###### Article A331-42
 
-Les signaleurs devront être présents et les équipements mis en place un quart d'heure au moins, une demi-heure au plus, avant
-le passage théorique de la course et retirés un quart d'heure après le passage du véhicule annonçant la fin de la course.
+Les délais dans lesquels les signaleurs devront être présents et les équipements, prévus à l'article A. 331-40, mis en place,
+avant le passage théorique de la course et retirés après le passage du véhicule annonçant la fin de la course, peuvent être
+fixés par l'arrêté qui autorise l'épreuve.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 août 2008 - art. 5
+  - Arrêté du 3 mai 2012 - art. 5
+
+_Cite_:
+
+  - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=499></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=496></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=500></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=497></a>
 
-#### Chapitre unique<a id=501></a>
+#### Chapitre unique<a id=498></a>
 
-##### Section 2 : Organisation et fonctionnement<a id=502></a>
+##### Section 2 : Organisation et fonctionnement<a id=499></a>
 
 ###### Article A411-1
 
@@ -49093,9 +48848,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=503></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=500></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=504></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=501></a>
 
 ###### Article A421-1
 
@@ -49214,7 +48969,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=505></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=502></a>
 
 ###### Article A422-1
 
@@ -49247,7 +49002,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=506></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=503></a>
 
 ###### Article A423-1
 
@@ -49362,7 +49117,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=507></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=504></a>
 
 ###### Article A424-1
 
@@ -49463,7 +49218,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=508></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=505></a>
 
 ###### Article A425-1
 
@@ -49591,7 +49346,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=509></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=506></a>
 
 ###### Article A426-1
 
@@ -49613,7 +49368,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=510></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=507></a>
 
 ###### Article A427-1
 
@@ -49635,11 +49390,11 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-# ANNEXES<a id=511></a>
+# ANNEXES<a id=508></a>
 
-## Annexes partie réglementaire - Décrets<a id=512></a>
+## Annexes partie réglementaire - Décrets<a id=509></a>
 
-### Annexes I<a id=513></a>
+### Annexes I<a id=510></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -50967,7 +50722,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=514></a>
+### Annexes II<a id=511></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -52220,7 +51975,7 @@ _Cite_:
   - Code du sport. - art. R241-14 (V)
 
 
-### Annexes III<a id=515></a>
+### Annexes III<a id=512></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -52801,9 +52556,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=516></a>
+## Annexes partie réglementaire - Arrêtés<a id=513></a>
 
-### Annexes II<a id=517></a>
+### Annexes II<a id=514></a>
 
 ###### Article Annexe I-1 (art. A142-0)
 
@@ -63026,7 +62781,7 @@ _Cité par_:
   - Code du sport. - art. A222-14 (Ab)
 
 
-### Annexes III<a id=518></a>
+### Annexes III<a id=515></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
