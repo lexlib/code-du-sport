@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-06-08
+Version Consolidée au 2012-08-02
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -55329,8 +55329,9 @@ Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP J
 BP JEPS, spécialité "activités équestres". 
 
 </td>
+      <td align="left" valign="top">Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans
+toutes les activités équestres. </td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
     </td></tr>
     <tr>
       <td colspan="3">
@@ -55347,10 +55348,7 @@ Equitation.
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition en équitation. 
-
-</td>
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation. </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
@@ -55361,8 +55359,8 @@ Tourisme équestre.
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition en tourisme équestre. 
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement
+de randonnées pour tout public et sur tout itinéraire. 
 
 </td>
       <td align="left" valign="top">
@@ -55375,8 +55373,7 @@ Equitation western.
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition en équitation western. 
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. 
 
 </td>
       <td align="left" valign="top">
@@ -55389,8 +55386,8 @@ Equitation de tradition et de travail.
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition en équitation de tradition et de travail. 
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de
+travail. 
 
 </td>
       <td align="left" valign="top">
@@ -55403,8 +55400,7 @@ Attelage.
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition en attelage. 
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage.
 
 </td>
       <td align="left" valign="top">
@@ -56266,6 +56262,11 @@ Encadrement et animation d'activités de full contact
 </td>
       <td align="left" valign="top">
     </td></tr>
+    <tr>
+      <td>Sports de contact</td>
+      <td>Animation d'activités de sports de contact.</td>
+      <td>A l'exclusion de toute pratique compétitive. </td>
+    </tr>
     <tr>
       <td align="left" valign="top">
 
@@ -57552,6 +57553,76 @@ parachutisme.
 </td>
     </tr>
     <tr>
+      <td>BP JEPS, spécialité "activités du cyclisme" </td>
+      <td>Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</td>
+      <td>A l'exclusion de toute pratique compétitive. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Mentions de la spécialité "activités du cyclisme" 
+
+</td>
+    </tr>
+    <tr>
+      <td>BMX.</td>
+      <td>Préparation et mise en œuvre de cycles d'apprentissage en BMX.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>Cyclisme traditionnel.</td>
+      <td>Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>VTT.</td>
+      <td>Préparation et mise en œuvre de cycles d'apprentissage en VTT.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "lutte et disciplines associées". 
+
+</td>
+      <td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de
+lutte et disciplines associées.</td>
+      <td>A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Mentions de la spécialité lutte et disciplines associées 
+
+</td>
+    </tr>
+    <tr>
+      <td>Lutte.</td>
+      <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux
+de compétition régionale en lutte.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>Sambo.</td>
+      <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux
+de compétition régionale en sambo. 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>Grappling.</td>
+      <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux
+de compétition régionale en grappling.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>Lutte bretonne (gouren).</td>
+      <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux
+de compétition régionale en lutte bretonne (gouren).</td>
+      <td>
+    </td></tr>
+    <tr>
       <td colspan="3">
 
 Unités capitalisables complémentaires associées à la spécialité "activités aquatiques"
@@ -57907,6 +57978,60 @@ Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un 
 </td>
     </tr>
     <tr>
+      <td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels". 
+
+</td>
+      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
+
+</td>
+      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+
+</td>
+    </tr>
+    <tr>
+      <td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade".
+
+</td>
+      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
+
+</td>
+      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+
+A l'exclusion de la via ferrata. 
+
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. 
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+
+</td>
+    </tr>
+    <tr>
+      <td>DES JEPS, spécialité "performance sportive", mention "escalade". 
+
+</td>
+      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.</td>
+      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+
+A l'exclusion de la via ferrata. 
+
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. 
+
+</td>
+    </tr>
+    <tr>
+      <td>DE JEPS, spécialité "performance sportive", "mention spéléologie". 
+
+</td>
+      <td>Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants. 
+
+</td>
+      <td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
+
+</td>
+    </tr>
+    <tr>
       <td align="left" valign="top">
 
 DES JEPS, spécialité "performance sportive", mention "plongée subaquatique". 
@@ -58163,19 +58288,33 @@ LIMITES DES CONDITIONS D'EXERCICE
     <tr>
       <td align="left" valign="top">
 
-Animateur poney. 
+Animateur poney délivré jusqu'au 1er septembre 2012. 
 
 </td>
       <td align="left" valign="top">
 
-Initiation au poney dans tout établissement. 
+Initiation au poney dans tout établissement.
 
 </td>
       <td align="left" valign="top">
 
-Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option "équitation-activités équestres" ou
-du brevet d'Etat d'éducateur sportif du 2e degré, option "équitation" ou du brevet professionnel de la jeunesse, de
-l'éducation populaire et du sport, spécialité "activités équestres", toutes mentions. 
+Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres , ou
+du brevet d'Etat d'éducateur sportif du 2e degré, option équitation , ou du brevet professionnel de la jeunesse, de
+l'éducation populaire et du sport, spécialité activités équestres , toutes mentions. 
+
+</td>
+    </tr>
+    <tr>
+      <td>Animateur assistant d'équitation. 
+
+</td>
+      <td>Découverte et initiation dans les activités équestres. 
+
+</td>
+      <td>Sous l'autorité d'un titulaire d'une certification de niveau IV ou supérieur dans le domaine des activités
+équestres. 
+
+A l'exclusion des pratiques compétitives de niveau amateur et plus.
 
 </td>
     </tr>
@@ -58816,6 +58955,39 @@ Sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisan
 
 </td>
     </tr>
+    <tr>
+      <td>CQP "moniteur de rugby à XV".</td>
+      <td>Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. 
+
+Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de compétition dans les catégories d'âge des écoles de
+rugby (7 à 15 ans). 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>CQP "initiateur en motocyclisme". 
+
+</td>
+      <td>Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule
+terrestre motorisé à guidon (moto ou quad).</td>
+      <td>A l'exclusion des voies ouvertes à la circulation publique. 
+
+A l'exclusion de toute pratique compétitive.
+
+</td>
+    </tr>
+    <tr>
+      <td>CQP "moniteur de squash".</td>
+      <td>Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>CQP "animateur de tennis de table" </td>
+      <td>Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition
+inclus.</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -58887,10 +59059,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 25 janvier 2012 - art. 2
-  - Arrêté du 25 janvier 2012 - art. 3
-  - Arrêté du 25 janvier 2012 - art. 4
-  - Arrêté du 25 janvier 2012 - art. 5
+  - Arrêté du 10 juillet 2012 - art. 2
+  - Arrêté du 10 juillet 2012 - art. 3
+  - Arrêté du 10 juillet 2012 - art. 4
 
 
 ###### Article Annexe II-2 (art. A212-2)
