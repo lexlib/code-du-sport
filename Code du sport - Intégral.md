@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-08-08
+Version Consolidée au 2012-08-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -59349,7 +59349,8 @@ partie au fonctionnement de l'organisation employeuse.
 Leurs actions s'inscrivent dans le cadre des valeurs et des objectifs fixés par les instances dirigeantes de l'organisation
 au regard des attendus en termes de résultats.
 
-Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collectif pour :
+Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collectif et de sensibilisation à
+l'environnement et au développement durable pour :
 
 ― concevoir des programmes de perfectionnement sportif ;
 
@@ -59518,9 +59519,9 @@ D. ― Conduire des actions de formation :
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 16 juillet 2012 - art. 1
 
 _Cité par_:
 
@@ -59619,7 +59620,7 @@ relations avec une autorité élue " ;
 - ils sont responsables de la qualité des relations individuelles et / ou collectives avec les compétiteurs. 
 
 Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial
-pour : 
+et de sensibilisation à l'environnement et au développement durable pour : 
 
 - préparer le projet stratégique de performance dans un champ disciplinaire ; 
 
@@ -59632,7 +59633,7 @@ pour :
 - organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation. 
 
 (2) Cf. rapport d'étude sur les référentiels professionnel et de formation des entraîneurs nationaux Chef de projet
-performance  (2006), MJSVA-INSEP. 
+performance (2006), MJSVA-INSEP. 
 
 2.5. Situation fonctionnelle 
 
@@ -59798,9 +59799,9 @@ E. - Organiser des actions de formation de formateurs dans le cadre des réseaux
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 1er juillet 2008 - art. 3
+  - Arrêté du 16 juillet 2012 - art. 2
 
 
 ###### Article Annexe II-4 (art. A212-49)
