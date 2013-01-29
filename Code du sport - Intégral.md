@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -340,7 +340,7 @@ Version Consolidée au 2013-01-01
             - [Sous-section 1 : Contrôle financier (art. A211-64 à A211-70)](#337)
             - [Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-71 à A211-73)](#338)
         - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#339)
-          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-2)](#340)
+          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-10)](#340)
             - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#341)
             - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#342)
               - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#343)
@@ -392,10 +392,10 @@ Version Consolidée au 2013-01-01
               - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#389)
               - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#390)
               - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#391)
-            - [Sous-section 7 : Formation générale commune aux métiers de la montagne (art. A212-168 à A212-75-1-8)](#392)
+            - [Sous-section 7 : Formation générale commune aux métiers de la montagne (art. A212-168 à A212-175-1-8)](#392)
               - [Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne (art. A212-168 à A212-175)](#393)
-              - [Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne (art. A212-75-1-1 à A212-75-1-8)](#394)
-            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-1 à A212-175-2)](#395)
+              - [Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne (art. A212-175-1-1 à A212-175-1-8)](#394)
+            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-9 à A212-175-10)](#395)
           - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#396)
             - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#397)
             - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#398)
@@ -41804,9 +41804,9 @@ _Cité par_:
 
   - Arrêté du 25 octobre 2004 - art. 17 (VT)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
@@ -41851,9 +41851,9 @@ Tout dossier de candidature incomplet sera refusé.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 
 ###### Article A212-170
@@ -41887,9 +41887,9 @@ question ou d'un texte relatifs aux sports de montagne (durée : vingt minutes ;
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 
 ###### Article A212-171
@@ -41903,9 +41903,9 @@ du ministre chargé des sports et des organisations professionnelles concernées
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 
 ###### Article A212-172
@@ -41916,9 +41916,9 @@ formation générale commune aux métiers sportifs de la montagne.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 
 ###### Article A212-173
@@ -41941,9 +41941,9 @@ nordique de fond » ;
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
@@ -41960,9 +41960,9 @@ brevet d'Etat.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
@@ -41976,37 +41976,37 @@ générale commune aux métiers sportifs de la montagne sont équivalentes.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
+  - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. A212-117
 
 
-##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne<a id=394></a>
+##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne<a id=394></a>
 
-###### Article A212-75-1-1
+###### Article A212-175-1-1
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est
 organisée suivant les modalités définies par le présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 
-###### Article A212-75-1-2
+###### Article A212-175-1-2
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est assurée
-par l'Ecole nationale des sports de montagne.
+par l'Ecole nationale des sports de montagne. 
 
 L'Ecole nationale des sports de montagne peut déléguer l'organisation de la formation générale commune aux métiers
 d'enseignement, d'encadrement et d'entraînement des sports de montagne à un établissement ou un autre organisme de formation
@@ -42015,21 +42015,21 @@ de la formation et de l'emploi du Conseil supérieur des sports de montagne, ré
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 
-###### Article A212-75-1-3
+###### Article A212-175-1-3
 
 Peuvent s'inscrire à la formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de
-montagne les candidats âgés de dix-sept ans révolus à la date d'entrée en formation. Le dossier d'inscription, dont la
-composition est fixée en annexe II-20, est déposé auprès de l'Ecole nationale des sports de montagne deux mois au moins avant
-la date d'entrée en formation et comprend notamment : 
+montagne, les candidats âgés de dix-sept ans révolus à la date d'entrée en formation. Le dossier d'inscription, dont la
+composition est fixée en annexe II-20, est déposé auprès de l'Ecole nationale des sports de montagne, deux mois au moins
+avant la date d'entrée en formation et comprend notamment : 
 
 1° L'attestation de réussite à l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC 1) ou son
 équivalent ; 
@@ -42039,10 +42039,10 @@ la date d'entrée en formation et comprend notamment :
 - l'attestation de réussite à l'examen probatoire du diplôme d'accompagnateur en moyenne montagne du brevet d'Etat
 d'alpinisme ; 
 
-- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré option " ski
 alpin " ; 
 
-- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré option " ski
 nordique de fond " ; 
 
 - l'attestation de réussite au test technique d'accès du diplôme d'Etat de ski-moniteur national de ski alpin ; 
@@ -42051,20 +42051,20 @@ nordique de fond " ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 _Cité par_:
 
-  - Code du sport. - art. A212-75-1-7 (Ab)
+  - Code du sport. - art. A212-175-1-7 (VT)
 
 
-###### Article A212-75-1-4
+###### Article A212-175-1-4
 
 Le cursus de formation, d'une durée minimale de trente-cinq heures, est articulé autour des cinq thématiques suivantes : 
 
@@ -42082,90 +42082,90 @@ La formation est coordonnée par un responsable pédagogique désigné par l'Eco
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 _Cité par_:
 
-  - Code du sport. - art. A212-75-1-5 (Ab)
-  - Code du sport. - art. A212-75-1-6 (Ab)
+  - Code du sport. - art. A212-175-1-5 (VT)
+  - Code du sport. - art. A212-175-1-6 (VT)
 
 
-###### Article A212-75-1-5
+###### Article A212-175-1-5
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est évaluée
 au moyen d'une épreuve écrite de trois heures, transversale à l'ensemble des thématiques abordées au cours de la formation,
-mentionnées à l'article A. 212-75-1-4 (notée sur 20).
+mentionnées à l'article A. 212-175-1-4 (notée sur 20).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A212-75-1-4
+  - Code du sport. - art. A212-175-1-4
 
 
-###### Article A212-75-1-6
+###### Article A212-175-1-6
 
-Le jury de l'épreuve est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale
+Le jury de l'épreuve est présidé par le directeur régional de la jeunesse et des sports et de la cohésion sociale
 territorialement compétent ou son représentant, fonctionnaire de catégorie A appartenant à un corps relevant du ministère
-chargé des sports. Outre le responsable pédagogique mentionné à l'article A. 212-75-1-4, il comprend un représentant de
+chargé des sports. Outre le responsable pédagogique mentionné à l'article A. 212-175-1-4, il comprend un représentant de
 l'Ecole nationale des sports de montagne, des agents de l'Etat et un représentant de chaque organisation professionnelle
 nationale la plus représentative des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne, désigné
 par son président.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A212-75-1-4
+  - Code du sport. - art. A212-175-1-4
 
 
-###### Article A212-75-1-7
+###### Article A212-175-1-7
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne peut être
 obtenue par la voie de la validation des acquis de l'expérience. 
 
 Les candidats souhaitant déposer une demande de validation des acquis de l'expérience doivent être titulaires de
-l'attestation de réussite mentionnée au 1° de l'article A. 212-75-1-3 et de l'une des attestations de réussite mentionnées au
-2° du même article.
+l'attestation de réussite mentionnée au 1° de l'article A. 212-175-1-3 et de l'une des attestations de réussite mentionnées
+au 2° du même article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A212-75-1-3
+  - Code du sport. - art. A212-175-1-3
 
 
-###### Article A212-75-1-8
+###### Article A212-175-1-8
 
 Les candidats titulaires de l'attestation de réussite aux épreuves de l'examen de la formation générale commune aux métiers
 sportifs de la montagne ou de l'attestation de réussite aux épreuves de l'examen de la partie commune du brevet d'Etat
@@ -42178,18 +42178,18 @@ commune aux métiers sportifs de la montagne ou de l'examen de la partie commune
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 1er octobre 2012 - art. 1
-
 _Abrogé par_:
+
+  - Arrêté du 1er octobre 2012 - art. 4 (V)
+
+_Créé par_:
 
   - Arrêté du 11 janvier 2013 - art. 1
 
 
 ##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=395></a>
 
-###### Article A212-175-1
+###### Article A212-175-9
 
 La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
 sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
@@ -42218,22 +42218,22 @@ des salariés ;
 
 _Créé par_:
 
-  - Arrêté du 28 octobre 2009 - art. 2
+  - Arrêté du 11 janvier 2013 - art. 3
 
 **Liens**:
 
-  - TRANSFERE: Arrêté du 11 janvier 2013 - art. 3
+  - TRANSFERE: Décret n°2014-1452 du 4 décembre 2014 - art. 2
+
+_Anciens textes_:
+
+  - Code du sport. - art. A212-175-1 (T)
 
 _Nouveaux textes_:
 
-  - Code du sport. - art. A212-175-9 (T)
-
-_Cite_:
-
-  - Code du sport. - art. R212-84
+  - Code du sport. - art. D212-84-1 (V)
 
 
-###### Article A212-175-2
+###### Article A212-175-10
 
 La commission édicte un règlement intérieur sur proposition de son président. Le secrétariat de la commission est assuré par
 la sous-direction de l'emploi et des formations de la direction des sports.
@@ -42242,15 +42242,11 @@ la sous-direction de l'emploi et des formations de la direction des sports.
 
 _Créé par_:
 
-  - Arrêté du 28 octobre 2009 - art. 2
+  - Arrêté du 11 janvier 2013 - art. 3
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Arrêté du 11 janvier 2013 - art. 3
-
-_Nouveaux textes_:
-
-  - Code du sport. - art. A212-175-10 (V)
+  - Code du sport. - art. A212-175-2 (T)
 
 
 ##### Section 2 : Obligation de déclaration d'activité<a id=396></a>
