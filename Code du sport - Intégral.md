@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-04-07
+Version Consolidée au 2013-05-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -30520,7 +30520,7 @@ _Cité par_:
 
 ###### Article R322-34
 
-Après avoir rempli les obligations définies aux articles R. 322-33 et R. 322-34, le fabricant, son mandataire établi sur le
+Après avoir rempli les obligations définies aux articles R. 322-32 et R. 322-33, le fabricant, son mandataire établi sur le
 territoire de l'un des Etats membres de la Communauté européenne ou, à défaut, tout responsable de la mise sur le marché
 appose le marquage " CE ", conformément aux dispositions de l'annexe III-6. 
 
@@ -30538,7 +30538,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-890 du 22 juillet 2009 - art. 1
+  - Décret n°2013-396 du 13 mai 2013 - art. 5
 
 _Cite_:
 
@@ -30669,7 +30669,7 @@ mesure de présenter, aux services de contrôle mentionnés à l'article L. 215-
 prévus aux articles R. 322-32 et R. 322-33 ; 
 
 4° Pour tout responsable de la mise à disposition d'un EPI-SL d'occasion, de ne pas être en mesure de présenter aux agents
-chargés du contrôle les justificatifs de la mise en œuvre de l'article R. 332-37. 
+chargés du contrôle les justificatifs de la mise en œuvre de l'article R. 322-37. 
 
 II.-La récidive des contraventions prévues au I est réprimée conformément aux articles 132-11 et 132-15 du code pénal. 
 
@@ -30688,7 +30688,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-890 du 22 juillet 2009 - art. 1
+  - Décret n°2013-396 du 13 mai 2013 - art. 5
 
 _Cite_:
 
