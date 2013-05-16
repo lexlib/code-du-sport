@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-05-16
+Version Consolidée au 2013-05-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -490,7 +490,7 @@ Version Consolidée au 2013-05-16
         - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#487)
           - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#488)
             - [Sous-section 1 : Dispositions générales (art. A331-1)](#489)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-4)](#490)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#490)
             - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#491)
             - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#492)
           - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-24 à A331-32)](#493)
@@ -48289,6 +48289,28 @@ de l'intérieur.
 _Modifié par_:
 
   - Arrêté du 3 mai 2012 - art. 2
+
+
+###### Article A331-5
+
+Le calendrier de la fédération sportive sous l'égide de laquelle l'épreuve a été placée indique les avis rendus en
+application de l'article R. 331-9-1. 
+
+La fédération indique sur ce calendrier et selon ses propres modalités, pour chaque manifestation inscrite, si l'avis délivré
+par la fédération délégataire est favorable ou s'il n'a pas été rendu. 
+
+Le calendrier de la fédération concernée et l'indication sur celui-ci de l'avis s'y rapportant constituent la modalité de
+publication prévue à l'article R. 331-9-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 3 mai 2013 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R331-9-1
 
 
 ##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=491></a>
