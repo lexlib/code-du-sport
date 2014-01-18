@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-19
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -35371,8 +35371,6 @@ Fédération française de planeur ultra-léger motorisé : ULM info.
 
 Fédération française de la randonnée pédestre : Balises comités. 
 
-Fédération française de rugby : Rugby mag. 
-
 Fédération française de sauvetage et de secourisme : Préserver et sauver. 
 
 Fédération française de savate, boxe française et disciplines associées : La lettre de la savate. 
@@ -35403,7 +35401,7 @@ Fédération française de vol libre : Vol passion.
 
 _Modifié par_:
 
-  - Arrêté du 7 mars 2011 - art. 1
+  - Arrêté du 2 janvier 2014 - art. 1
 
 _Cite_:
 
