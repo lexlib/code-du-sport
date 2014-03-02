@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-03-03
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -58993,13 +58993,23 @@ niveaux de compétition. Encadrement et conduite de cycles d'apprentissage perme
       <td> </td>
     </tr>
     <tr>
-      <td>BP JEPS, spécialité basket-ball . 
+      <td>BP JEPS, spécialité "basket-ball". 
 
 </td>
       <td>
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>BP JEPS, spécialité "patinage sur glace".
+
+</td>
+      <td>Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
+d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace. 
+
+</td>
       <td> </td>
     </tr>
     <tr>
@@ -60530,6 +60540,58 @@ niveaux de compétition.
       <td>Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.</td>
       <td> </td>
     </tr>
+    <tr>
+      <td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". 
+
+</td>
+      <td>Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou
+embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants
+du code du sport.
+
+</td>
+      <td>A l'exclusion du raft.
+
+Jusqu'en classe II incluse, avec des passages de classe III non successifs.
+
+</td>
+    </tr>
+    <tr>
+      <td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
+
+</td>
+      <td>Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation
+propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du
+sport.
+
+</td>
+      <td>Jusqu'à 1 mille d'un abri.
+
+Par vent de force 3 Beaufort maximum sur le site d'évolution.
+
+</td>
+    </tr>
+    <tr>
+      <td>CQP "technicien sportif de rugby à XV ". 
+
+</td>
+      <td>Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories de moins de 15 ans, jusqu'en
+fédérale 2.
+
+</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>CQP "animateur de patinoire", option " hockey sur glace".
+
+</td>
+      <td>Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire.
+
+Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize
+ans.
+
+</td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -60603,9 +60665,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 11 juillet 2013 - art. 2
-  - Arrêté du 11 juillet 2013 - art. 3
-  - Arrêté du 11 juillet 2013 - art. 4
+  - Arrêté du 10 février 2014 - art. 2
+  - Arrêté du 10 février 2014 - art. 3
 
 
 ###### Article Annexe II-2 (art. A212-2)
