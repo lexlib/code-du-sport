@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-04-03
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -15605,9 +15605,9 @@ Sont membres de droit du conseil supérieur :
 
 23° Le directeur général de la gendarmerie nationale ; 
 
-24° Le    directeur général de la sécurité civile et de la gestion des crises ; 
+24° Le directeur général de la sécurité civile et de la gestion des crises ; 
 
-25° Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
+25° Le             commissaire général à l'égalité des territoires  ; 
 
 26° Le directeur de l'Office national des forêts ; 
 
@@ -15632,11 +15632,23 @@ Décret n° 2009-631 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
 supérieur des sports de montagne).
 
+Conformément à l'article 1 du décret n° 2014-598 du 6 juin 2014, le Conseil supérieur des sports de montagne est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015).
+
+Conformément à l'annexe I du décret n° 2015-634 du 5 juin 2015, le Conseil supérieur des sports de montagne est renouvelé
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Art. 4 du décret n°83-144 du 24 février 1983 portant création du Conseil supérieur des sports de montagne
+  - Art. 5 du décret n°83-144 du 24 février 1983 portant création du Conseil supérieur des sports de montagne
 
 _Modifié par_:
 
-  - Décret n°2011-988 du 23 août 2011 - art. 6
+  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
+  - Décret n°2014-394 du 31 mars 2014 - art. 9 (VT)
 
 
 ###### Article D142-29
