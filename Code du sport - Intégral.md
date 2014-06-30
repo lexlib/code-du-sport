@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-05-03
+Version Consolidée au 2014-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -45488,14 +45488,14 @@ _Cite_:
 ###### Article A312-11
 
 Le préfet prononce, après avis de la Commission nationale de sécurité des enceintes sportives, l'homologation des enceintes
-sportives de plein air dont la capacité d'accueil est égale ou supérieure à 30 000 spectateurs et des enceintes sportives
+sportives de plein air dont la capacité d'accueil est égale ou supérieure à 15 000 spectateurs et des enceintes sportives
 couvertes dont la capacité d'accueil est égale ou supérieure à 8 000 spectateurs.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 29 avril 2014 - art. 1
 
 
 ###### Article A312-12
