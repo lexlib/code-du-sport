@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-07-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -17259,8 +17259,8 @@ _Créé par_:
 ###### Article D211-54
 
 L'Ecole nationale des sports de montagne est administrée par un conseil d'administration et dirigée par un directeur général,
-assisté d'un directeur pour l'Ecole nationale de ski et d'alpinisme et d'un directeur pour le Centre national de ski nordique
-et de moyenne montagne. 
+directeur de l'Ecole nationale de ski et d'alpinisme, assisté d'un directeur adjoint de l'Ecole nationale de ski et
+d'alpinisme et d'un directeur du Centre national de ski nordique et de moyenne montagne. 
 
 Un conseil d'orientation est constitué pour chacun des sites de l'établissement.
 
@@ -17270,14 +17270,14 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
-
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
-
 _Cité par_:
 
   - Arrêté du 11 mars 2014 (VT)
   - Arrêté du 7 décembre 2015 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-783 du 7 juillet 2014 - art. 1
 
 
 ###### Article D211-55
@@ -17357,22 +17357,23 @@ Les représentants de l'Etat sont désignés par le ministre qu'ils représenten
 Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires. 
 
 Un arrêté du ministre chargé des sports publié au Bulletin officiel du ministère chargé des sports constate la composition du
-conseil d'administration telle qu'elle résulte du présent article. Le directeur général, le directeur de l'Ecole nationale de
-ski et d'alpinisme, le directeur du Centre national de ski nordique et de moyenne montagne, l'agent comptable et      le
-contrôleur budgétaire  assistent avec voix consultative aux séances du conseil, ainsi que toute personne dont il paraîtrait
+conseil d'administration telle qu'elle résulte du présent article. Le directeur général, le directeur adjoint de l'Ecole
+nationale de ski et d'alpinisme, le directeur du Centre national de ski nordique et de moyenne montagne, l'agent comptable et
+le contrôleur budgétaire assistent avec voix consultative aux séances du conseil, ainsi que toute personne dont il paraîtrait
 utile au président de recueillir l'avis. Le directeur général peut se faire accompagner par toute personne de son choix
 appartenant à l'établissement.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+  - Décret n°2014-783 du 7 juillet 2014 - art. 2
+
 _Cité par_:
 
   - Décret n°2010-1378 du 12 novembre 2010 - art. 7 (VD)
   - Arrêté du 26 janvier 2011 - art. 1 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D211-55-1
@@ -17383,7 +17384,7 @@ I. - Le conseil d'orientation de l'Ecole nationale de ski et d'alpinisme compren
 
 a) Le directeur général ou son représentant ; 
 
-b) Le directeur de l'Ecole nationale de ski et d'alpinisme ou son représentant ; 
+b) Le directeur adjoint de l'Ecole nationale de ski et d'alpinisme ou son représentant ;
 
 c) Le préfet de la Haute-Savoie ou son représentant ; 
 
@@ -17461,13 +17462,13 @@ général, qui en informe le conseil d'administration.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
-
 _Cité par_:
 
   - Arrêté du 26 janvier 2011 - art. 1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2014-783 du 7 juillet 2014 - art. 3
 
 
 ###### Article D211-56
@@ -17560,15 +17561,15 @@ _Modifié par_:
 
 ###### Article D211-58-1
 
-Les conseils d'orientation se réunissent au moins deux fois par an sur convocation du directeur général. Les travaux du
+Les conseils d'orientation se réunissent au moins une fois par an sur convocation du directeur général. Les travaux du
 conseil d'orientation font l'objet d'un procès-verbal signé par son président et communiqué au plus prochain conseil
 d'administration.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+  - Décret n°2014-783 du 7 juillet 2014 - art. 4
 
 
 ###### Article D211-59
@@ -17636,17 +17637,18 @@ _Cite_:
 
 ###### Article D211-59-1
 
-Les conseils d'orientation sont consultés, notamment sur les questions relatives à l'activité du site et sur les projets de
-délibération du conseil d'administration relatives aux questions mentionnées aux 1°,2°,4°,5° et 15° de l'article D. 211-59. 
+Les conseils d'orientation sont informés, notamment des questions relatives à l'activité du site et des projets de
+délibération du conseil d'administration relatives aux questions mentionnées aux 1°, 2°, 4°, 5° et 15° de l'article D.
+211-59. 
 
 Ils peuvent être saisis par leur président ou par une majorité de leurs membres de toute question intéressant la vie de
 l'établissement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+  - Décret n°2014-783 du 7 juillet 2014 - art. 5
 
 
 ###### Article D211-60
@@ -17657,9 +17659,9 @@ du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
 Pour devenir exécutoires, les délibérations prévues aux 9°, 13° et 14° de l'article D. 211-59 doivent recevoir l'approbation
 expresse des ministres chargés du budget et des sports. 
 
-Les autres délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de quinze jours qui suit la
-date de réception du procès-verbal, sauf si dans ce délai le ministre chargé des sports y fait opposition ; ce délai peut
-être réduit par le ministre en cas d'urgence.
+Les autres délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de quinze jours suivant leur
+réception par le ministre chargé des sports sauf si dans ce délai celui-ci y a fait opposition ; ce délai peut être réduit
+par le ministre en cas d'urgence.
 
 **Liens relatifs à cet article**
 
@@ -17674,13 +17676,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
+  - Décret n°2014-783 du 7 juillet 2014 - art. 6
 
 
 ###### Article D211-61
 
-Le directeur général de l'Ecole nationale des sports de montagne, le directeur de l'Ecole nationale de ski et d'alpinisme et
-le directeur du Centre national de ski nordique et de moyenne montagne sont nommés par arrêté du ministre chargé des sports.
+Le directeur général de l'Ecole nationale des sports de montagne, le directeur adjoint de l'Ecole nationale de ski et
+d'alpinisme et le directeur du Centre national de ski nordique et de moyenne montagne sont nommés par arrêté du ministre
+chargé des sports.
 
 **Liens relatifs à cet article**
 
@@ -17690,7 +17693,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+  - Décret n°2014-783 du 7 juillet 2014 - art. 7
 
 
 ###### Article D211-62
