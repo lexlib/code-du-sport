@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-11-21
+Version Consolidée au 2014-12-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -185,7 +185,7 @@ Version Consolidée au 2014-11-21
                 - [Sous-paragraphe 2 : Certificat de pré-qualification (art. D212-76 à R212-75)](#182)
                 - [Sous-paragraphe 3 : Certificat de qualification complémentaire (art. D212-77 à D212-78)](#183)
                 - [Sous-paragraphe 4 : Modalités pratiques (art. D212-83 à R212-82)](#184)
-              - [Paragraphe 7 : Reconnaissance des diplômes étrangers (art. R212-84)](#185)
+              - [Paragraphe 7 : Reconnaissance des diplômes étrangers (art. D212-84-1 à R212-84)](#185)
           - [Section 2 : Obligation de déclaration d'activité (art. R212-85 à R212-94)](#186)
             - [Sous-section 1 : Personnes titulaires des diplômes, titres à finalité professionnelle ou certificats de qualification requis (art. R212-85 à R212-87)](#187)
             - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. R212-88 à R212-91)](#188)
@@ -399,7 +399,7 @@ Version Consolidée au 2014-11-21
             - [Sous-section 7 : Formation générale commune aux métiers de la montagne (art. A212-168 à A212-175-1-8)](#396)
               - [Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne (art. A212-168 à A212-175)](#397)
               - [Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne (art. A212-175-1-1 à A212-175-1-8)](#398)
-            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-9 à A212-175-10)](#399)
+            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#399)
             - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#400)
           - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#401)
             - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#402)
@@ -22094,12 +22094,52 @@ _Cite_:
 
 ##### Paragraphe 7 : Reconnaissance des diplômes étrangers<a id=185></a>
 
+###### Article D212-84-1
+
+La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
+sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
+chargé des sports pour une durée de cinq ans. 
+
+Outre son président, sa composition est fixée comme suit : 
+
+1° Quatre représentants désignés par les ministres concernés dont : 
+
+a) Un chef de service déconcentré départemental de l'Etat chargé des sports ou son représentant ; 
+
+b) Un chef de service déconcentré régional de l'Etat chargé des sports ou son représentant ; 
+
+c) Un représentant du ministre de l'éducation nationale ; 
+
+d) Un représentant du ministre de l'enseignement supérieur ; 
+
+2° Un représentant du Comité national olympique et sportif français désigné par son président ; 
+
+3° Deux représentants désignés par la branche professionnelle du sport dont un représentant des employeurs et un représentant
+des salariés ; 
+
+4° Un représentant de l'association des directeurs techniques nationaux désigné par son président.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1452 du 4 décembre 2014 - art. 2
+
+_Anciens textes_:
+
+  - Code du sport. - art. A212-175-9 (T)
+
+_Cité par_:
+
+  - Code du sport. - art. R212-84 (V)
+
+
 ###### Article R212-84
 
 Les diplômes étrangers sont admis en équivalence aux diplômes mentionnés à l'article L. 212-1 par le ministre chargé des
 sports après avis de la commission de reconnaissance des qualifications, dont la composition, comprenant notamment des
-représentants de l'administration, des employeurs et des personnels techniques, et l'organisation sont fixées par arrêté du
-ministre chargé des sports.
+représentants de l'administration, des employeurs et des personnels techniques, est fixée conformément à l'article D.
+212-84-1.
 
 **Liens relatifs à cet article**
 
@@ -22123,10 +22163,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1116 du 15 septembre 2009 - art. 1
+  - Décret n°2014-1452 du 4 décembre 2014 - art. 2
 
 _Cite_:
 
+  - Code du sport. - art. D212-84-1
   - Code du sport. - art. L212-1
 
 
@@ -43659,50 +43700,6 @@ _Créé par_:
 
 
 ##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=399></a>
-
-###### Article A212-175-9
-
-La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
-sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
-chargé des sports pour une durée de cinq ans. 
-
-Outre son président, sa composition est fixée comme suit : 
-
-1° Quatre représentants désignés par les ministres concernés dont : 
-
-a) Un chef de service déconcentré départemental de l'Etat chargé des sports ou son représentant ; 
-
-b) Un chef de service déconcentré régional de l'Etat chargé des sports ou son représentant ; 
-
-c) Un représentant du ministre de l'éducation nationale ; 
-
-d) Un représentant du ministre de l'enseignement supérieur ; 
-
-2° Un représentant du Comité national olympique et sportif français désigné par son président ; 
-
-3° Deux représentants désignés par la branche professionnelle du sport dont un représentant des employeurs et un représentant
-des salariés ; 
-
-4° Un représentant de l'association des directeurs techniques nationaux désigné par son président.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 11 janvier 2013 - art. 3
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-1452 du 4 décembre 2014 - art. 2
-
-_Anciens textes_:
-
-  - Code du sport. - art. A212-175-1 (T)
-
-_Nouveaux textes_:
-
-  - Code du sport. - art. D212-84-1 (V)
-
 
 ###### Article A212-175-10
 
