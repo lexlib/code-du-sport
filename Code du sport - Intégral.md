@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-12-07
+Version Consolidée au 2014-12-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -34849,9 +34849,7 @@ Fédération française de boxe : France boxe.
 
 Fédération française de canoë-kayak : Canoë-Kayak information. 
 
-Fédération française de course d'orientation : Course orientation magazine. 
-
-Fédération française de cyclisme : La France cycliste. 
+Fédération française de course d'orientation : Course orientation magazine.
 
 Fédération française de danse : Danse danse danse. 
 
@@ -34871,7 +34869,7 @@ Fédération française de judo, jujitsu, kendo et disciplines associées : Judo
 
 Fédération française de karaté et arts martiaux affinitaires : Officiel karaté magazine. 
 
-Fédération française de longue paume : Longue paume infos.
+Fédération française de longue paume : Longue paume infos. 
 
 Fédération française motonautique : La lettre motonautique. 
 
@@ -34922,7 +34920,11 @@ Fédération française de vol libre : Vol passion.
 
 _Modifié par_:
 
-  - Arrêté du 2 janvier 2014 - art. 1
+  - Arrêté du 9 décembre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 24 août 2017 - art. 1
 
 _Cite_:
 
