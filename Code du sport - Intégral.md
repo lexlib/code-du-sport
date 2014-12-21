@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-12-20
+Version Consolidée au 2014-12-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -8550,39 +8550,11 @@ _Anciens textes_:
   - Code de l'éducation - art. L463-3 (Ab)
 
 
-###### Article L322-3
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les responsables des établissements où sont pratiquées une ou
-plusieurs de ces activités déclarent leur activité à l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°84-810 du 30 août 1984 - art. 1 (V)
-  - Code du sport. - art. A322-143 (V)
-  - Code du sport. - art. L322-4 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-_Abrogé par_:
-
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 49
-
-_Anciens textes_:
-
-  - Code de l'éducation - art. L463-4 (M)
-  - Code de l'éducation - art. L463-4 (Ab)
-
-
 ###### Article L322-4
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour toute personne : 
 
-1° D'exploiter un établissement où sont pratiquées des activités physiques et sportives sans avoir procédé à la déclaration
-prévue à l'article L. 322-3 ; 
+1° (abrogé)
 
 2° De maintenir en activité un établissement où sont pratiquées une ou plusieurs activités physiques ou sportives en
 méconnaissance d'une mesure prise en application de l'article L. 322-5.
@@ -8591,18 +8563,19 @@ méconnaissance d'une mesure prise en application de l'article L. 322-5.
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 49
 
 _Anciens textes_:
 
-  - Code de l'éducation - art. L463-7 (M)
-  - Code de l'éducation L463-7, alinéas 1 et 4
   - Code de l'éducation - art. L463-7 (Ab)
 
 _Cite_:
 
-  - Code du sport. - art. L322-3 (V)
-  - Code du sport. - art. L322-5 (V)
+  - Code du sport. - art. L322-5
 
 
 ###### Article L322-5
