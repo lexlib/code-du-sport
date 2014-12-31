@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -54,7 +54,7 @@ Version Consolidée au 2014-12-22
         - [Chapitre unique (art. L241-1 à L241-10)](#51)
     - [LIVRE III : PRATIQUE SPORTIVE (art. L311-1 à L333-9)](#52)
       - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. L311-1 à L312-17)](#53)
-        - [Chapitre Ier : Sports de nature (art. L311-1 à L311-6)](#54)
+        - [Chapitre Ier : Sports de nature (art. L311-1 à L311-7)](#54)
         - [Chapitre II : Equipements sportifs (art. L312-1 à L312-17)](#55)
           - [Section 1 : Dispositions communes (art. L312-1 à L312-4)](#56)
           - [Section 2 : Installations fixes (art. L312-5 à L312-11)](#57)
@@ -7837,6 +7837,22 @@ _Cite_:
 _Cité par_:
 
   - Code du sport. - art. L421-1 (VD)
+
+
+###### Article L311-7
+
+Le département du Rhône et la métropole de Lyon élaborent conjointement un plan départemental-métropolitain des espaces,
+sites et itinéraires relatifs aux sports de nature dans les conditions prévues à l'article L. 311-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 16
+
+_Cite_:
+
+  - Code du sport. - art. L311-3 (V)
 
 
 #### Chapitre II : Equipements sportifs<a id=55></a>
