@@ -6,506 +6,100 @@ LES EQUIVALENCES
 équivalence des brevets d'Etat mentionnés articles D. 212-70 à D. 212-83, pour le degré correspondant et figurant en regard,
 dans la colonne 2. 
 
-<table>
-  <tbody>
-    <tr>
-      <td>
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ COLONNE N° 1                                                                       │ COLONNE N° 2                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aïkido Arrêté du 30 juin 1971                                                      │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur de judo, karaté, aïkido ― option principale : aïkido.  │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Boxe Arrêté du 21 octobre 1969                                                     │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de prévôt.                                                           │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur.                                                       │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Equitation Arrêté du 12 septembre 1966                                             │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'instructeur.                                                       │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur.                                                       │ Brevet d'Etat du troisième degré. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Escrime Arrêté du 1er avril 1969                                                   │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de prévôt.                                                           │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de maître.                                                           │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Football Arrêté du 12 juin 1973                                                    │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'entraîneur.                                                        │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'entraîneur-instructeur.                                            │ Brevet d'Etat du troisième degré. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Golf Arrêté du 17 mars 1967                                                        │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'assistant-professeur.                                              │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur.                                                       │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gymnastique féminine Arrêté du 10 août 1968                                        │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'aptitude à l'enseignement de la gymnastique.                       │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gymnastique sportive Arrêté du 1er avril 1969                                      │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'entraîneur de gymnastique sportive (option masculine ou féminine). │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Judo Arrêté du 30 juin 1971                                                        │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur de judo, karaté, aïkido (option principale : judo).    │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Karaté Arrêté du 30 juin 1971                                                      │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur de judo, karaté, aïkido (option principale : karaté).  │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Natation sportive Arrêté du 28 mars 1969 Arrêté du 6 mai 1966                      │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'entraîneur.                                                        │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Patinage sur glace Arrêté du 23 juillet 1966                                       │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur.                                                       │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Plongée subaquatique Arrêté du 24 février 1967                                     │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur de plongée.                                              │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ski nautique Arrêté du 20 avril 1970                                               │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat d'assistant moniteur.                                                │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tennis Arrêté du 16 janvier 1968                                                   │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de professeur.                                                       │ Brevet d'Etat du deuxième degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Voile Arrêté du 7 octobre 1965 Arrêté du 23 octobre 1968                           │                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'Etat de moniteur.                                                         │ Brevet d'Etat du premier degré.   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-COLONNE N° 1
-
-</td>
-      <td>
-
-COLONNE N° 2
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Aïkido 
-
-Arrêté du 30 juin 1971 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur de judo, karaté, aïkido ― option principale : aïkido. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Boxe 
-
-Arrêté du 21 octobre 1969 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de prévôt. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Equitation 
-
-Arrêté du 12 septembre 1966 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'instructeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du troisième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Escrime 
-
-Arrêté du 1er avril 1969 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de prévôt. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de maître. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Football 
-
-Arrêté du 12 juin 1973 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'entraîneur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'entraîneur-instructeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du troisième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Golf 
-
-Arrêté du 17 mars 1967 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'assistant-professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Gymnastique féminine 
-
-Arrêté du 10 août 1968 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'aptitude à l'enseignement de la gymnastique. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Gymnastique sportive 
-
-Arrêté du 1er avril 1969 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'entraîneur de gymnastique sportive (option masculine ou féminine). 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Judo 
-
-Arrêté du 30 juin 1971 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur de judo, karaté, aïkido (option principale : judo). 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Karaté 
-
-Arrêté du 30 juin 1971 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur de judo, karaté, aïkido (option principale : karaté). 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Natation sportive 
-
-Arrêté du 28 mars 1969 
-
-Arrêté du 6 mai 1966 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'entraîneur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Patinage sur glace 
-
-Arrêté du 23 juillet 1966 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Plongée subaquatique 
-
-Arrêté du 24 février 1967 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur de plongée. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Ski nautique 
-
-Arrêté du 20 avril 1970 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat d'assistant moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Tennis 
-
-Arrêté du 16 janvier 1968 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de professeur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Voile 
-
-Arrêté du 7 octobre 1965 
-
-Arrêté du 23 octobre 1968 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Brevet d'Etat de moniteur. 
-
-</td>
-      <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-    </tr>
-  </tbody>
-</table>
 
 2. Le diplôme d'Etat de conseiller sportif première partie est admis en équivalence du premier degré du brevet d'Etat
 d'éducateur sportif pour la discipline choisie en option. 
@@ -520,60 +114,30 @@ sont calculés à partir de la date d'obtention du brevet ou du diplôme d'Etat 
 dans la colonne n° 1 du tableau ci-après sont admis de plein droit en équivalence du brevet d'Etat à trois degrés d'éducateur
 sportif mentionnés articles D. 212-70 à D. 212-83 pour le degré correspondant et figurant en regard dans la colonne n° 2 : 
 
-<table>
-    <tbody>
-      <tr>
-        <td>
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ COLONNE N° 1                  │ COLONNE N° 2                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'instructeur adjoint. │ Brevet d'Etat du premier degré.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Brevet d'instructeur.         │ Brevet d'Etat du deuxième degré. ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-COLONNE N° 1 
-
-</td>
-        <td>
-
-COLONNE N° 2 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Brevet d'instructeur adjoint. 
-
-</td>
-        <td align="center">
-
-Brevet d'Etat du premier degré. 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Brevet d'instructeur. 
-
-</td>
-        <td align="center">
-
-Brevet d'Etat du deuxième degré. 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
 
 Vol à voile, abrogé par l'arrêté du 26 juin 1997 transformé en homologation, voir tableau A de l'annexe de l'arrêté du 4 mai
 1995 modifié.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 5 février 2015 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A212-111 (V)
-  - Code du sport. - art. D212-70 (V)
+  - Code du sport. - art. A212-111
+  - Code du sport. - art. D212-70
 
 _Cité par_:
 
