@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-04-29
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -311,210 +311,214 @@ Version Consolidée au 2015-04-01
         - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#308)
         - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#309)
         - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#310)
-  - [Partie réglementaire - Arrêtés (art. A121-1 à A427-1)](#311)
-    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A121-1 à A142-32)](#312)
-      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#313)
-        - [Chapitre Ier : Associations sportives (art. A121-1)](#314)
-        - [Chapitre II : Sociétés sportives (art. A122-1)](#315)
-      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-1 à A131-6)](#316)
-        - [Chapitre Ier : Fédérations sportives (art. A131-1 à A131-6)](#317)
-      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#318)
-        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#319)
-        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#320)
-          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#321)
-          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#322)
-            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#323)
-          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#324)
-    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-8)](#325)
-      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#326)
-        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-73)](#327)
-          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#328)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#329)
-          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-43 à A211-49)](#330)
-            - [Sous-section 2 : Contrôle financier (art. A211-43 à A211-49)](#331)
-          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63)](#332)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#333)
-            - [Sous-section 2 : Contrôle financier (art. A211-57 à A211-63)](#334)
-          - [Section 5 : Les centres de ressources, d'expertise et de performance sportives (art. A211-64 à A211-73)](#335)
-            - [Sous-section 1 : Contrôle financier (art. A211-64 à A211-70)](#336)
-            - [Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-71 à A211-73)](#337)
-        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#338)
-          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-14)](#339)
-            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#340)
-            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#341)
-              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#342)
-              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#343)
-              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#344)
-              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#345)
-            - [Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport (art. A212-17 à A212-47)](#346)
-              - [Paragraphe 1 : Conditions d'inscription (art. A212-17 à A212-19)](#347)
-              - [Paragraphe 2 : L'habilitation (art. A212-20 à A212-26-1)](#348)
-              - [Paragraphe 4 : L'alternance (art. A212-28 à A212-29)](#349)
-              - [Paragraphe 5 : Nomenclature (art. A212-30)](#350)
-              - [Paragraphe 6 : Certification par unités capitalisables (art. A212-31 à A212-35)](#351)
-              - [Paragraphe 7 : Validation des acquis de l'expérience (art. A212-36 à A212-39)](#352)
-              - [Paragraphe 8 : Dispositions diverses et transitoires (art. A212-40 à A212-47)](#353)
-            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-74)](#354)
-              - [Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle » (art. A212-48)](#355)
-              - [Paragraphe 2 : Spécialité « perfectionnement sportif » (art. A212-49 à A212-74)](#356)
-                - [Sous-paragraphe 1 : Conditions d'inscription (art. A212-51 à A212-51-1)](#357)
-                - [Sous-paragraphe 2 : L'habilitation (art. A212-52 à A212-58)](#358)
-                - [Sous-paragraphe 4 : L'alternance (art. A212-60)](#359)
-                - [Sous-paragraphe 5 : Nomenclature (art. A212-61)](#360)
-                - [Sous-paragraphe 6 : Certification par unités capitalisables (art. A212-62 à A212-66)](#361)
-                - [Sous-paragraphe 7 : Validation des acquis de l'expérience (art. A212-67 à A212-70)](#362)
-                - [Sous-paragraphe 8 : Dispositions diverses (art. A212-71 à A212-74)](#363)
-            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-75 à A212-101)](#364)
-              - [Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle » (art. A212-75)](#365)
-              - [Paragraphe 2 : Spécialité « performance sportive » (art. A212-76 à A212-101)](#366)
-                - [Sous-paragraphe 1 : Conditions d'inscription (art. A212-78 à A212-78-1)](#367)
-                - [Sous-paragraphe 2 : L'habilitation (art. A212-79 à A212-85)](#368)
-                - [Sous-paragraphe 4 : L'alternance (art. A212-87)](#369)
-                - [Sous-paragraphe 5 : Nomenclature (art. A212-88)](#370)
-                - [Sous-paragraphe 6 : Certification par unités capitalisables (art. A212-89 à A212-93)](#371)
-                - [Sous-paragraphe 7 : Validation des acquis de l'expérience (art. A212-94 à A212-97)](#372)
-                - [Sous-paragraphe 8 : Dispositions diverses (art. A212-98 à A212-101)](#373)
-            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#374)
-              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#375)
-              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#376)
-              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#377)
-              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#378)
-              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-116 à A212-128)](#379)
-                - [Sous-paragraphe 1 : Partie commune (art. A212-116 à A212-121)](#380)
-                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#381)
-              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#382)
-              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#383)
-              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#384)
-              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#385)
-              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#386)
-              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#387)
-            - [Sous-section 7 : Formation générale commune aux métiers de la montagne (art. A212-168 à A212-175-1-8)](#388)
-              - [Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne (art. A212-168 à A212-175)](#389)
-              - [Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne (art. A212-175-1-1 à A212-175-1-8)](#390)
-            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#391)
-            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#392)
-          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#393)
-            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#394)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#395)
-              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#396)
-                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#397)
-                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#398)
-              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#399)
-                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#400)
-                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#401)
-              - [Paragraphe 3  Plongée subaquatique (art. A212-193 à A212-198)](#402)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-193)](#403)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-194)](#404)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-195 à A212-197)](#405)
-                - [Sous-paragraphe 4 : Conditions d'exercice. (art. A212-198)](#406)
-              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#407)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#408)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#409)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#410)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#411)
-              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#412)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#413)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#414)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#415)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#416)
-              - [Paragraphe 7 : Alpinisme-Guide de haute montagne. (art. A212-221 à A212-228)](#417)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-221)](#418)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#419)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#420)
-                - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#421)
-      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#422)
-        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#423)
-          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#424)
-      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-8)](#425)
-        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-8)](#426)
-          - [Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives (art. A231-1 à A231-2)](#427)
-          - [Section 2 : Sportifs de haut niveau (art. A231-3 à A231-8)](#428)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#429)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#430)
-        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#431)
-          - [Section 1 : Dispositions communes (art. A312-1)](#432)
-          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#433)
-          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#434)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#435)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#436)
-          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#437)
-            - [Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-3)](#438)
-          - [Section 2 : Etablissements de natation  et d'activités aquatiques (art. A322-4 à A322-70)](#439)
-            - [Sous-section 1 : Dispositions communes (art. A322-4 à A322-41)](#440)
-              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#441)
-              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#442)
-              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#443)
-              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#444)
-              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#445)
-            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-63)](#446)
-              - [Paragraphe 1 : Champ d'application (art. A322-42)](#447)
-              - [Paragraphe 2 : Pratique du canoë, du kayak et de la nage en eau vive (art. A322-43 à A322-52)](#448)
-              - [Paragraphe 3 : Pratique avec des embarcations gonflables (art. A322-53 à A322-57)](#449)
-              - [Paragraphe 4 : Pratique en mer (art. A322-58 à A322-63)](#450)
-            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#451)
-          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#452)
-            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#453)
-            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#454)
-            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#455)
-              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#456)
-              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#457)
-              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#458)
-            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#459)
-          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#460)
-            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#461)
-            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#462)
-            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#463)
-            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#464)
-            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#465)
-          - [Section 5 : Salles où sont pratiqués les arts martiaux. (art. A322-141)](#466)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#467)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme (art. A322-147 à A322-175)](#468)
-            - [Paragraphe 1 : Généralités (art. A322-147 à A322-148)](#469)
-            - [Paragraphe 2 : Les séances de saut (art. A322-149 à A322-154)](#470)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#471)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-159)](#472)
-            - [Paragraphe 5 : L'encadrement (art. A322-160 à A322-162)](#473)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-163 à A322-165)](#474)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-166)](#475)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-167 à A322-175)](#476)
-              - [Sous-paragraphe 1 : Les séances de vol (art. A322-167 à A322-170)](#477)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#478)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#479)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#480)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#481)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#482)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#483)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#484)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#485)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#486)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#487)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#488)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#489)
-            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#490)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#491)
-          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#492)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#493)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#494)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#495)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-7)](#496)
-        - [Chapitre unique (art. A411-1 à A411-7)](#497)
-          - [Section 2 : Organisation et fonctionnement (art. A411-1 à A411-7)](#498)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#499)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#500)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#501)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#502)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#503)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#504)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#505)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#506)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#507)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#508)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#509)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#510)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#511)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#512)
-      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-21)](#513)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#514)
+  - [Partie réglementaire - Arrêtés (art. A112-1 à A427-1)](#311)
+    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-1 à A142-32)](#312)
+      - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-1 à A112-10)](#313)
+        - [Chapitre II : Etablissements publics nationaux (art. A112-1 à A112-10)](#314)
+          - [Section unique : Le Musée national du sport (art. A112-1 à A112-10)](#315)
+            - [Sous-section unique : Contrôle budgétaire (art. A112-1 à A112-10)](#316)
+      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#317)
+        - [Chapitre Ier : Associations sportives (art. A121-1)](#318)
+        - [Chapitre II : Sociétés sportives (art. A122-1)](#319)
+      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-1 à A131-6)](#320)
+        - [Chapitre Ier : Fédérations sportives (art. A131-1 à A131-6)](#321)
+      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#322)
+        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#323)
+        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#324)
+          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#325)
+          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#326)
+            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#327)
+          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#328)
+    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-8)](#329)
+      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#330)
+        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-73)](#331)
+          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#332)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#333)
+          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-43 à A211-49-1)](#334)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-43 à A211-49-1)](#335)
+          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63-1)](#336)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#337)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-57 à A211-63-1)](#338)
+          - [Section 5 : Les centres de ressources, d'expertise et de performance sportives (art. A211-64 à A211-73)](#339)
+            - [Sous-section 1 : Contrôle budgétaire (art. A211-64 à A211-70-1)](#340)
+            - [Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-71 à A211-73)](#341)
+        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#342)
+          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-14)](#343)
+            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#344)
+            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#345)
+              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#346)
+              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#347)
+              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#348)
+              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#349)
+            - [Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport (art. A212-17 à A212-47)](#350)
+              - [Paragraphe 1 : Conditions d'inscription (art. A212-17 à A212-19)](#351)
+              - [Paragraphe 2 : L'habilitation (art. A212-20 à A212-26-1)](#352)
+              - [Paragraphe 4 : L'alternance (art. A212-28 à A212-29)](#353)
+              - [Paragraphe 5 : Nomenclature (art. A212-30)](#354)
+              - [Paragraphe 6 : Certification par unités capitalisables (art. A212-31 à A212-35)](#355)
+              - [Paragraphe 7 : Validation des acquis de l'expérience (art. A212-36 à A212-39)](#356)
+              - [Paragraphe 8 : Dispositions diverses et transitoires (art. A212-40 à A212-47)](#357)
+            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-74)](#358)
+              - [Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle » (art. A212-48)](#359)
+              - [Paragraphe 2 : Spécialité « perfectionnement sportif » (art. A212-49 à A212-74)](#360)
+                - [Sous-paragraphe 1 : Conditions d'inscription (art. A212-51 à A212-51-1)](#361)
+                - [Sous-paragraphe 2 : L'habilitation (art. A212-52 à A212-58)](#362)
+                - [Sous-paragraphe 4 : L'alternance (art. A212-60)](#363)
+                - [Sous-paragraphe 5 : Nomenclature (art. A212-61)](#364)
+                - [Sous-paragraphe 6 : Certification par unités capitalisables (art. A212-62 à A212-66)](#365)
+                - [Sous-paragraphe 7 : Validation des acquis de l'expérience (art. A212-67 à A212-70)](#366)
+                - [Sous-paragraphe 8 : Dispositions diverses (art. A212-71 à A212-74)](#367)
+            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-75 à A212-101)](#368)
+              - [Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle » (art. A212-75)](#369)
+              - [Paragraphe 2 : Spécialité « performance sportive » (art. A212-76 à A212-101)](#370)
+                - [Sous-paragraphe 1 : Conditions d'inscription (art. A212-78 à A212-78-1)](#371)
+                - [Sous-paragraphe 2 : L'habilitation (art. A212-79 à A212-85)](#372)
+                - [Sous-paragraphe 4 : L'alternance (art. A212-87)](#373)
+                - [Sous-paragraphe 5 : Nomenclature (art. A212-88)](#374)
+                - [Sous-paragraphe 6 : Certification par unités capitalisables (art. A212-89 à A212-93)](#375)
+                - [Sous-paragraphe 7 : Validation des acquis de l'expérience (art. A212-94 à A212-97)](#376)
+                - [Sous-paragraphe 8 : Dispositions diverses (art. A212-98 à A212-101)](#377)
+            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#378)
+              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#379)
+              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#380)
+              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#381)
+              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#382)
+              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-116 à A212-128)](#383)
+                - [Sous-paragraphe 1 : Partie commune (art. A212-116 à A212-121)](#384)
+                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#385)
+              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#386)
+              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#387)
+              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#388)
+              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#389)
+              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#390)
+              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#391)
+            - [Sous-section 7 : Formation générale commune aux métiers de la montagne (art. A212-168 à A212-175-1-8)](#392)
+              - [Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne (art. A212-168 à A212-175)](#393)
+              - [Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne (art. A212-175-1-1 à A212-175-1-8)](#394)
+            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#395)
+            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#396)
+          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#397)
+            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#398)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#399)
+              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#400)
+                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#401)
+                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#402)
+              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#403)
+                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#404)
+                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#405)
+              - [Paragraphe 3  Plongée subaquatique (art. A212-193 à A212-198)](#406)
+                - [Sous-paragraphe 1 : Déclaration. (art. A212-193)](#407)
+                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-194)](#408)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-195 à A212-197)](#409)
+                - [Sous-paragraphe 4 : Conditions d'exercice. (art. A212-198)](#410)
+              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#411)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#412)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#413)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#414)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#415)
+              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#416)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#417)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#418)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#419)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#420)
+              - [Paragraphe 7 : Alpinisme-Guide de haute montagne. (art. A212-221 à A212-228)](#421)
+                - [Sous-paragraphe 1 : Déclaration. (art. A212-221)](#422)
+                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#423)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#424)
+                - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#425)
+      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#426)
+        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#427)
+          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#428)
+      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-8)](#429)
+        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-8)](#430)
+          - [Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives (art. A231-1 à A231-2)](#431)
+          - [Section 2 : Sportifs de haut niveau (art. A231-3 à A231-8)](#432)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#433)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#434)
+        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#435)
+          - [Section 1 : Dispositions communes (art. A312-1)](#436)
+          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#437)
+          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#438)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#439)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#440)
+          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#441)
+            - [Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-3)](#442)
+          - [Section 2 : Etablissements de natation  et d'activités aquatiques (art. A322-4 à A322-70)](#443)
+            - [Sous-section 1 : Dispositions communes (art. A322-4 à A322-41)](#444)
+              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#445)
+              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#446)
+              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#447)
+              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#448)
+              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#449)
+            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-63)](#450)
+              - [Paragraphe 1 : Champ d'application (art. A322-42)](#451)
+              - [Paragraphe 2 : Pratique du canoë, du kayak et de la nage en eau vive (art. A322-43 à A322-52)](#452)
+              - [Paragraphe 3 : Pratique avec des embarcations gonflables (art. A322-53 à A322-57)](#453)
+              - [Paragraphe 4 : Pratique en mer (art. A322-58 à A322-63)](#454)
+            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#455)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#456)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#457)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#458)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#459)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#460)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#461)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#462)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#463)
+          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#464)
+            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#465)
+            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#466)
+            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#467)
+            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#468)
+            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#469)
+          - [Section 5 : Salles où sont pratiqués les arts martiaux. (art. A322-141)](#470)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#471)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme (art. A322-147 à A322-175)](#472)
+            - [Paragraphe 1 : Généralités (art. A322-147 à A322-148)](#473)
+            - [Paragraphe 2 : Les séances de saut (art. A322-149 à A322-154)](#474)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#475)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-159)](#476)
+            - [Paragraphe 5 : L'encadrement (art. A322-160 à A322-162)](#477)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-163 à A322-165)](#478)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-166)](#479)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-167 à A322-175)](#480)
+              - [Sous-paragraphe 1 : Les séances de vol (art. A322-167 à A322-170)](#481)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#482)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#483)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#484)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#485)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#486)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#487)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#488)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#489)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#490)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#491)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#492)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#493)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#494)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#495)
+          - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#496)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#497)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#498)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#499)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#500)
+        - [Chapitre unique (art. A411-1 à A411-10)](#501)
+          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#502)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#503)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#504)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#505)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#506)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#507)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#508)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#509)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#510)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#511)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#512)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#513)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#514)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#515)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#516)
+      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-21)](#517)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#518)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -35112,9 +35116,280 @@ _Cite_:
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES<a id=312></a>
 
-### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=313></a>
+### TITRE Ier :  PERSONNES PUBLIQUES<a id=313></a>
 
-#### Chapitre Ier : Associations sportives<a id=314></a>
+#### Chapitre II : Etablissements publics nationaux<a id=314></a>
+
+##### Section unique : Le Musée national du sport<a id=315></a>
+
+##### Sous-section unique : Contrôle budgétaire<a id=316></a>
+
+###### Article A112-1
+
+Le Musée national du sport est assujetti au contrôle budgétaire prévu par les articles 220 à 228 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, dans les conditions fixées à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-2
+
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, le contrôleur budgétaire assiste avec voix consultative au conseil d'administration de l'établissement. Il est
+destinataire, dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi
+que des comptes rendus et des procès-verbaux. 
+
+Le document prévu à l'article A. 112-10 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein de l'organisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+  - Code du sport. - art. A112-10
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-3
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 112-10.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+  - Code du sport. - art. A112-10
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-4
+
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci. 
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
+
+En outre, sont transmis pour information :
+
+- les accords-cadres ;
+
+- les marchés à bons de commandes ;
+
+- la liste des agents accueillis en position d'activité ;
+
+- la liste des agents mis à disposition contre remboursement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-5
+
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
+
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur général du Musée
+national du sport ;
+
+- les documents à caractère stratégique relatifs aux missions du Musée national du sport, ses objectifs, ses moyens et ses
+engagements financiers ;
+
+- les informations relatives au suivi du contrat de performance et à la contribution du Musée national du sport à la
+performance du programme budgétaire dont il est opérateur ;
+
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du Musée national du sport ainsi que tout document relevant d'une cartographie des risques ;
+
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
+
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du Musée national du sport relatifs à la mise en œuvre de leurs recommandations.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-6
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 25 juin 2014
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-7
+
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 112-10, au regard de la qualité du
+contrôle interne budgétaire : 
+
+Sont soumis au visa :
+
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
+
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
+
+- les décisions fixant la rémunération des fonctionnaires détachés sur contrat ;
+
+- les acquisitions et aliénations immobilières ;
+
+- les baux autres que les baux domaniaux ;
+
+- les marchés autres que les marchés à bons de commande ;
+
+- les bons de commandes ;
+
+- les décisions et conventions portant attribution de prêts ou de subventions. 
+
+Sont soumis à avis préalable :
+
+- les projets de transactions avant transmission au tiers pour signature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 4
+  - Loi n°84-16 du 11 janvier 1984 - art. 6
+  - Code du sport. - art. A112-10
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-8
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet au Musée national du sport le programme de contrôle et
+l'informe, le cas échéant, des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+Le Musée national du sport est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les
+documents nécessaires à la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et le cas échéant au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 112-10, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A112-10
+
+
+###### Article A112-9
+
+S'il apparaît au contrôleur budgétaire que la gestion du Musée national du sport remet en cause le caractère soutenable de
+l'exécution budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la
+poursuite de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci
+lui fait connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire. 
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-10
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A112-2 (V)
+  - Code du sport. - art. A112-3 (V)
+  - Code du sport. - art. A112-7 (V)
+  - Code du sport. - art. A112-8 (V)
+
+
+### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=317></a>
+
+#### Chapitre Ier : Associations sportives<a id=318></a>
 
 ###### Article A121-1
 
@@ -35141,7 +35416,7 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-#### Chapitre II : Sociétés sportives<a id=315></a>
+#### Chapitre II : Sociétés sportives<a id=319></a>
 
 ###### Article A122-1
 
@@ -35164,9 +35439,9 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=316></a>
+### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=320></a>
 
-#### Chapitre Ier : Fédérations sportives<a id=317></a>
+#### Chapitre Ier : Fédérations sportives<a id=321></a>
 
 ###### Article A131-1
 
@@ -35353,9 +35628,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=318></a>
+### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=322></a>
 
-#### Chapitre Ier : Le Comité national olympique et sportif français<a id=319></a>
+#### Chapitre Ier : Le Comité national olympique et sportif français<a id=323></a>
 
 ###### Article A141-1
 
@@ -35374,9 +35649,9 @@ _Cite_:
   - Code du sport. - art. R141-4 (V)
 
 
-#### Chapitre II : Autres organismes de concertation<a id=320></a>
+#### Chapitre II : Autres organismes de concertation<a id=324></a>
 
-##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=321></a>
+##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=325></a>
 
 ###### Article A142-0
 
@@ -35393,9 +35668,9 @@ _Cite_:
   - Code du sport. - art. R142-8
 
 
-##### Section 2 : Le Conseil supérieur des sports de montagne<a id=322></a>
+##### Section 2 : Le Conseil supérieur des sports de montagne<a id=326></a>
 
-##### Sous-section 1  La commission de la formation et de l'emploi<a id=323></a>
+##### Sous-section 1  La commission de la formation et de l'emploi<a id=327></a>
 
 ###### Article A142-5
 
@@ -35730,7 +36005,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=324></a>
+##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=328></a>
 
 ###### Article A142-20
 
@@ -36149,15 +36424,15 @@ _Modifié par_:
   - Arrêté du 10 juin 2009 - art. 1
 
 
-## LIVRE II : ACTEURS DU SPORT<a id=325></a>
+## LIVRE II : ACTEURS DU SPORT<a id=329></a>
 
-### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=326></a>
+### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=330></a>
 
-#### Chapitre Ier : Formation aux professions du sport<a id=327></a>
+#### Chapitre Ier : Formation aux professions du sport<a id=331></a>
 
-##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=328></a>
+##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=332></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=329></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=333></a>
 
 ###### Article A211-1
 
@@ -36248,168 +36523,283 @@ _Cite_:
   - Code du sport. - art. D211-4
 
 
-##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=330></a>
+##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=334></a>
 
-##### Sous-section 2 : Contrôle financier<a id=331></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=335></a>
 
 ###### Article A211-43
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale de voile et des sports nautiques, ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale de voile et des sports nautiques, les circuits
-et procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
-partenarial.
+L'Ecole nationale de voile et des sports nautiques (ENVSN) est assujettie au contrôle budgétaire prévu par les articles 220 à
+228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions
+fixées à la présente sous-section.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-44
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+Le contrôleur budgétaire est destinataire, dans les mêmes conditions que les membres des instances auxquelles il peut
+assister en application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, des documents qui leur sont communiqués avant chaque séance, ainsi que des comptes rendus et des procès-
+verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+En application du deuxième alinéa du même article, le document prévu à l'article A. 211-49-1 peut ouvrir la possibilité pour
+le contrôleur budgétaire de compléter la liste des instances concernées.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+  - Code du sport. - art. A211-49-1
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-44-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres de l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-45
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget, avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci. 
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- le plan de trésorerie et la situation des placements ;
+
+- l'état détaillé des recettes propres ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
+
+Si le contrôleur identifie des risques d'une exécution non soutenable, il en informe le ministre chargé du budget et le
+ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-46
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre au dirigeant de l'ENVSN ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions de l'organisme, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'organisme à la performance du
+programme budgétaire concerné ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire, ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- le cas échéant, les informations relatives à la création de filiales ;
 
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- les rapports d'inspection et d'audit, ainsi que les plans d'action de l'ENVSN relatifs à la mise en œuvre de leurs
+recommandations.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-46-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 25 juin 2014
+
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-47
 
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-49-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les mesures générales ou catégorielles, relatives notamment à la rémunération ou à la gestion du temps de travail et ayant
+un impact sur la masse salariale de l'ENVSN ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les ouvertures de concours ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les contrats de recrutement ;
 
-5° Les prêts et subventions ;
+- les conventions de mise à disposition de personnel (les entrées et les sorties) ;
 
-6° Les décisions d'attribution de garantie ;
+- les entrées par détachement sur contrat ;
 
-7° Les transactions ;
+- les acquisitions et aliénations immobilières ;
 
-8° Les placements financiers.
+- les baux autres que les baux domaniaux ;
 
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
+- les conventions et contrats autres que les contrats de recrutement, ainsi que les marchés autres que les marchés à bons de
+commande ;
 
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les bons de commande. 
+
+Sont soumis à avis préalable :
+
+- les accords-cadres ;
+
+- les marchés à bons de commande ;
+
+- les prêts et subventions ;
+
+- les mesures relatives à l'avancement des personnels ;
+
+- les ruptures conventionnelles de contrat de personnel et les indemnités de départ ;
+
+- les projets de transactions avant transmission au tiers pour signature ;
+
+- les participations et les apports à toute entité dans les cas où ils ne sont pas approuvés par les autorités de tutelle
+ainsi que les cessions de participation et les retraits d'apports ;
+
+- les emprunts autorisés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A211-49-1
 
 
 ###### Article A211-48
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet à l'ENVSN le programme de contrôle. Le cas échéant, il lui
+communique la liste des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+L'ENVSN est tenue de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à
+la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-49-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A211-49-1
 
 
 ###### Article A211-49
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+S'il apparaît au contrôleur budgétaire que la gestion de l'école nationale de voile et des sports nautiques met en cause le
+caractère soutenable de l'exécution budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses
+obligatoires ou inéluctables, la poursuite de son exploitation ou la qualité de la comptabilité budgétaire, il en informe
+l'ordonnateur par écrit. Celui-ci lui fait connaître dans les mêmes formes les mesures qu'il envisage de prendre pour
+rétablir la situation budgétaire. 
 
-Le contrôleur peut, en concertation avec l'ordonnateur et le cas échéant sur sa proposition, mettre en place un renforcement
-des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des
-sports.
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-49-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A211-44 (V)
+  - Code du sport. - art. A211-47 (V)
+  - Code du sport. - art. A211-48 (V)
 
 
-##### Section 4 : L'Ecole nationale des sports de montagne<a id=332></a>
+##### Section 4 : L'Ecole nationale des sports de montagne<a id=336></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=333></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=337></a>
 
 ###### Article A211-50
 
@@ -36540,326 +36930,588 @@ _Cite_:
   - Code du sport. - art. D211-57
 
 
-##### Sous-section 2 : Contrôle financier<a id=334></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=338></a>
 
 ###### Article A211-57
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale des sports de montagne, ci-après dénommée " le contrôleur ",
-exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue de leur
-prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible d'être
-confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance. 
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale des sports de montagne, les circuits et
-procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
-partenarial.
+L'Ecole nationale des sports de montagne (ENSM) est assujettie au contrôle budgétaire prévu par les articles 220 à 228 du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions fixées à la
+présente sous-section.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
 _Modifié par_:
 
-  - Arrêté du 12 septembre 2011 - art. 7
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-58
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+Le contrôleur budgétaire est destinataire, dans les mêmes conditions que les membres des instances auxquelles il peut
+assister en application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, des documents qui leur sont communiqués avant chaque séance ainsi que des comptes rendus et des procès-
+verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+En application du deuxième alinéa du même article, le document prévu à l'article A. 211-63-1 peut ouvrir la possibilité pour
+le contrôleur d'assister à d'autres instances existant au sein de l'organisme.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+  - Code du sport. - art. A211-63-1
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-58-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres de l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-59
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire au moins deux fois par an, avant le 31
+mai et avant le 30 septembre, sauf dérogation accordée par celui-ci. Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie et la situation des placements ;
+
+- l'état détaillé des recettes propres ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
+
+Si le contrôleur identifie des risques d'une exécution non soutenable, il en informe le ministre chargé du budget et le
+ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-60
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au dirigeant de l'ENSM ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions de l'ENSM, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'ENSM à la performance du programme
+budgétaire concerné ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire de l'ENSM, ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- le cas échéant, les informations relatives à la création de filiales ;
 
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- les rapports d'inspection et d'audit des auditeurs internes et externes ainsi que les plans d'action de l'ENSM relatifs à
+la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-60-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 25 juin 2014
+
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-61
 
-I. - Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-63-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les mesures générales ou catégorielles, relatives notamment à la rémunération ou à la gestion du temps de travail et ayant
+un impact sur la masse salariale de l'organisme ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les actes relatifs au recrutement, à la rémunération et à l'avancement des cadres dirigeants ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les contrats de recrutement et leurs avenants ;
 
-5° Les prêts et subventions ;
+- les entrées par détachement sur contrat ;
 
-6° Les décisions d'attribution de garantie ;
+- les entrées par mise à disposition donnant lieu à remboursement ;
 
-8° Les transactions ;
+- les mesures relatives à l'avancement des personnels autres que les mesures liées à l'application des dispositions
+statutaires ;
 
-9° Les placements financiers.
+- les ruptures conventionnelles de contrat ;
 
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
+- les indemnités de départ ;
 
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les conventions et contrats autres que les contrats de recrutement ;
 
-**Liens relatifs à cet article**
+- les marchés autres que les marchés à bons de commande ;
 
-_Créé par_:
+- les bons de commande ;
 
-  - Arrêté du 28 février 2008 - art. (V)
+- les prêts, secours et subventions ;
 
+- les acquisitions et aliénations immobilières ;
 
-###### Article A211-62
+- les baux autres que les baux domaniaux. 
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Sont soumis à avis préalable :
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+- les accords-cadres ;
 
-**Liens relatifs à cet article**
+- les marchés à bons de commande ;
 
-_Créé par_:
+- les projets de transactions avant transmission au tiers pour signature ;
 
-  - Arrêté du 28 février 2008 - art. (V)
+- les emprunts autorisés et les attributions de garanties ;
 
-
-###### Article A211-63
-
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
-
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un
-renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre
-chargé des sports.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-
-##### Section 5 : Les centres de ressources, d'expertise et de performance sportives<a id=335></a>
-
-##### Sous-section 1 : Contrôle financier<a id=336></a>
-
-###### Article A211-64
-
-L'autorité chargée du contrôle financier sur les centres de ressources, d'expertise et de performance sportives, ci-après
-dénommée le contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue
-notamment, en vue de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels
-l'établissement est susceptible d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la
-performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'établissement, les circuits et procédures mis en place. Il
-coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
+- les participations et les apports à toute entité dans les cas où ils ne sont pas approuvés par les autorités de tutelle
+ainsi que les cessions de participations et les retraits d'apports.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 12 septembre 2011 - art. 9
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A211-63-1
+
+
+###### Article A211-62
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés, qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Le contrôleur budgétaire transmet à l'ENSM le programme de contrôle. 
+
+L'ENSM est tenue de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à la
+réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-63-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A211-63-1
+
+
+###### Article A211-63
+
+S'il apparaît au contrôleur budgétaire que la gestion de l'ENSM remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-63-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission.
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A211-58 (V)
+  - Code du sport. - art. A211-61 (V)
+  - Code du sport. - art. A211-62 (V)
+
+
+##### Section 5 : Les centres de ressources, d'expertise et de performance sportives<a id=339></a>
+
+##### Sous-section 1 : Contrôle budgétaire<a id=340></a>
+
+###### Article A211-64
+
+Les centres de ressources, d'expertise et de performance sportives (CREPS) sont assujettis au contrôle budgétaire prévu par
+les articles 220 à 228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans
+les conditions fixées à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-65
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, le contrôleur budgétaire assiste avec voix consultative au conseil d'administration du CREPS. Il est destinataire,
+dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi que des
+comptes rendus et des procès-verbaux. 
+
+Le document prévu à l'article A. 211-70-1 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein du CREPS.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+  - Code du sport. - art. A211-70-1
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-65-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 211-70-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+  - Code du sport. - art. A211-70-1
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-66
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement permettant de le renseigner
-sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci.
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
+
+En outre, sont transmis pour information :
+
+- les accords-cadres ;
+
+- les marchés à bons de commandes ;
+
+- la liste des agents accueillis en position d'activité ;
+
+- la liste des agents mis à disposition contre remboursement.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-67
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur du CREPS ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions du CREPS, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts. Cette situation est complétée (en tant que de besoin et à la demande du contrôleur) d'une
-actualisation des documents prévisionnels transmis à l'appui du projet de budget ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'établissement à la performance du
+programme budgétaire dont il est opérateur ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du CREPS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance, et les informations
-relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement.
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du CREPS relatifs à la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-67-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 25 juin 2014
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-68
 
-I. ― Sont soumis au visa du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-70-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
 
-4° Les transactions ;
+- les décisions fixant la rémunération des fonctionnaires détachés sur contrat ;
 
-5° Les baux, contrats, conventions, marchés ou commandes ;
+- les acquisitions et aliénations immobilières ;
 
-6° Les prêts et subventions.
+- les baux autres que les baux domaniaux ;
 
-II. ― Sont soumis à l'avis préalable du contrôleur, en dessous des seuils fixés au I. et au-dessus des seuils et selon des
-modalités qu'il fixe après consultation de l'établissement :
+- les marchés autres que les marchés à bons de commandes ;
 
-1° Les transactions ;
+- les bons de commandes ;
 
-2° Les baux, contrats, conventions, marchés ou commandes ;
+- les décisions et conventions portant attribution de prêts ou de subventions. 
 
-3° Les prêts et subventions.
+Sont soumis à avis préalable :
 
-III. ― Le contrôleur doit délivrer son visa ou faire connaître son avis dans un délai de quinze jours à compter de la
-réception des projets d'acte ou de décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute
-demande écrite d'informations complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En
-l'absence de réponse de sa part à l'expiration de ce délai, son visa est réputé délivré ou son avis est réputé favorable.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
-
-Si l'ordonnateur ne se conforme pas à l'avis donné, il informe par écrit le contrôleur des motifs de sa décision.
+- les projets de transactions avant transmission au tiers pour signature.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Loi n°84-16 du 11 janvier 1984 - art. 4
+  - Loi n°84-16 du 11 janvier 1984 - art. 6
+  - Code du sport. - art. A211-70-1
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-69
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet à l'établissement le programme de contrôle et l'informe, le
+cas échéant, des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+L'établissement est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents
+nécessaires à la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-70-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
+
+_Cite_:
+
+  - Code du sport. - art. A211-70-1
 
 
 ###### Article A211-70
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+S'il apparaît au contrôleur budgétaire que la gestion du CREPS remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
 
-Le contrôleur peut, en concertation avec l'ordonnateur et le cas échéant sur sa proposition, mettre en place un renforcement
-des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des
-sports.
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
 
 
-##### Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=337></a>
+###### Article A211-70-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission.
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 7 avril 2016 - art. 3
+
+_Cité par_:
+
+  - Code du sport. - art. A211-65 (Ab)
+  - Code du sport. - art. A211-65-1 (Ab)
+  - Code du sport. - art. A211-68 (Ab)
+  - Code du sport. - art. A211-69 (Ab)
+
+
+##### Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=341></a>
 
 ###### Article A211-71
 
@@ -36948,11 +37600,11 @@ _Cite_:
   - Code du sport. - art. D211-74
 
 
-#### Chapitre II : Enseignement du sport contre rémunération<a id=338></a>
+#### Chapitre II : Enseignement du sport contre rémunération<a id=342></a>
 
-##### Section 1 : Obligation de qualification<a id=339></a>
+##### Section 1 : Obligation de qualification<a id=343></a>
 
-##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=340></a>
+##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=344></a>
 
 ###### Article A212-1
 
@@ -36995,7 +37647,7 @@ _Créé par_:
   - Arrêté du 18 juillet 2008 - art. 2
 
 
-##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=341></a>
+##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=345></a>
 
 ###### Article A212-2
 
@@ -37041,7 +37693,7 @@ _Cité par_:
   - Code du sport. - art. A212-2 (V)
 
 
-##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=342></a>
+##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=346></a>
 
 ###### Article A212-4
 
@@ -37178,7 +37830,7 @@ _Cité par_:
   - Code du sport. - art. A212-5 (VT)
 
 
-##### Paragraphe 2 : Délivrance du diplôme<a id=343></a>
+##### Paragraphe 2 : Délivrance du diplôme<a id=347></a>
 
 ###### Article A212-9
 
@@ -37339,7 +37991,7 @@ _Cité par_:
   - Code du sport. - art. A212-7 (VT)
 
 
-##### Paragraphe 3 : Dispositions transitoires<a id=344></a>
+##### Paragraphe 3 : Dispositions transitoires<a id=348></a>
 
 ###### Article A212-15
 
@@ -37391,7 +38043,7 @@ _Cite_:
   - Code du sport. - art. D212-11
 
 
-##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=345></a>
+##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=349></a>
 
 ###### Article A212-16-1
 
@@ -37496,9 +38148,9 @@ _Abrogé par_:
   - Arrêté du 26 février 2019 - art. 1
 
 
-##### Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport<a id=346></a>
+##### Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport<a id=350></a>
 
-##### Paragraphe 1 : Conditions d'inscription<a id=347></a>
+##### Paragraphe 1 : Conditions d'inscription<a id=351></a>
 
 ###### Article A212-17
 
@@ -37603,7 +38255,7 @@ _Cite_:
   - Code du sport. - art. A212-17
 
 
-##### Paragraphe 2 : L'habilitation<a id=348></a>
+##### Paragraphe 2 : L'habilitation<a id=352></a>
 
 ###### Article A212-20
 
@@ -37971,7 +38623,7 @@ _Cite_:
   - Code du sport. - art. A212-26
 
 
-##### Paragraphe 4 : L'alternance<a id=349></a>
+##### Paragraphe 4 : L'alternance<a id=353></a>
 
 ###### Article A212-28
 
@@ -38022,7 +38674,7 @@ _Modifié par_:
   - Arrêté du 3 février 2012 - art. 14
 
 
-##### Paragraphe 5 : Nomenclature<a id=350></a>
+##### Paragraphe 5 : Nomenclature<a id=354></a>
 
 ###### Article A212-30
 
@@ -38066,7 +38718,7 @@ _Cite_:
   - Code du sport. - art. D212-25 (V)
 
 
-##### Paragraphe 6 : Certification par unités capitalisables<a id=351></a>
+##### Paragraphe 6 : Certification par unités capitalisables<a id=355></a>
 
 ###### Article A212-31
 
@@ -38180,7 +38832,7 @@ _Cité par_:
   - Code du sport. - art. A212-44 (V)
 
 
-##### Paragraphe 7 : Validation des acquis de l'expérience<a id=352></a>
+##### Paragraphe 7 : Validation des acquis de l'expérience<a id=356></a>
 
 ###### Article A212-36
 
@@ -38270,7 +38922,7 @@ _Cite_:
   - Code du sport. - art. A212-35
 
 
-##### Paragraphe 8 : Dispositions diverses et transitoires<a id=353></a>
+##### Paragraphe 8 : Dispositions diverses et transitoires<a id=357></a>
 
 ###### Article A212-40
 
@@ -38390,9 +39042,9 @@ _Cité par_:
   - Arrêté du 22 juillet 2019 (VD)
 
 
-##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=354></a>
+##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=358></a>
 
-##### Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »<a id=355></a>
+##### Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »<a id=359></a>
 
 ###### Article A212-48
 
@@ -38411,7 +39063,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Spécialité « perfectionnement sportif »<a id=356></a>
+##### Paragraphe 2 : Spécialité « perfectionnement sportif »<a id=360></a>
 
 ###### Article A212-49
 
@@ -38486,7 +39138,7 @@ _Cité par_:
   - Arrêté du 21 septembre 2018 - art. 6 (VD)
 
 
-##### Sous-paragraphe 1 : Conditions d'inscription<a id=357></a>
+##### Sous-paragraphe 1 : Conditions d'inscription<a id=361></a>
 
 ###### Article A212-51
 
@@ -38571,7 +39223,7 @@ _Cite_:
   - Code du sport. - art. R212-7
 
 
-##### Sous-paragraphe 2 : L'habilitation<a id=358></a>
+##### Sous-paragraphe 2 : L'habilitation<a id=362></a>
 
 ###### Article A212-52
 
@@ -38846,7 +39498,7 @@ _Cite_:
   - Code du sport. - art. A212-57 (M)
 
 
-##### Sous-paragraphe 4 : L'alternance<a id=359></a>
+##### Sous-paragraphe 4 : L'alternance<a id=363></a>
 
 ###### Article A212-60
 
@@ -38878,7 +39530,7 @@ _Cite_:
   - Code du travail - art. L6325-1
 
 
-##### Sous-paragraphe 5 : Nomenclature<a id=360></a>
+##### Sous-paragraphe 5 : Nomenclature<a id=364></a>
 
 ###### Article A212-61
 
@@ -38914,7 +39566,7 @@ _Cite_:
   - Code du sport. - art. D212-41 (V)
 
 
-##### Sous-paragraphe 6 : Certification par unités capitalisables<a id=361></a>
+##### Sous-paragraphe 6 : Certification par unités capitalisables<a id=365></a>
 
 ###### Article A212-62
 
@@ -39047,7 +39699,7 @@ _Cité par_:
   - Code du sport. - art. A212-70 (Ab)
 
 
-##### Sous-paragraphe 7 : Validation des acquis de l'expérience<a id=362></a>
+##### Sous-paragraphe 7 : Validation des acquis de l'expérience<a id=366></a>
 
 ###### Article A212-67
 
@@ -39172,7 +39824,7 @@ _Cite_:
   - Code du sport. - art. A212-66 (Ab)
 
 
-##### Sous-paragraphe 8 : Dispositions diverses<a id=363></a>
+##### Sous-paragraphe 8 : Dispositions diverses<a id=367></a>
 
 ###### Article A212-71
 
@@ -39282,9 +39934,9 @@ _Abrogé par_:
   - Arrêté du 21 décembre 2015 - art. 3
 
 
-##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=364></a>
+##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=368></a>
 
-##### Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »<a id=365></a>
+##### Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »<a id=369></a>
 
 ###### Article A212-75
 
@@ -39306,7 +39958,7 @@ _Abrogé par_:
   - Arrêté du 21 décembre 2015 - art. 4
 
 
-##### Paragraphe 2 : Spécialité « performance sportive »<a id=366></a>
+##### Paragraphe 2 : Spécialité « performance sportive »<a id=370></a>
 
 ###### Article A212-76
 
@@ -39386,7 +40038,7 @@ _Abrogé par_:
   - Arrêté du 21 décembre 2015 - art. 4
 
 
-##### Sous-paragraphe 1 : Conditions d'inscription<a id=367></a>
+##### Sous-paragraphe 1 : Conditions d'inscription<a id=371></a>
 
 ###### Article A212-78
 
@@ -39476,7 +40128,7 @@ _Cite_:
   - Code du sport. - art. R212-7
 
 
-##### Sous-paragraphe 2 : L'habilitation<a id=368></a>
+##### Sous-paragraphe 2 : L'habilitation<a id=372></a>
 
 ###### Article A212-79
 
@@ -39696,7 +40348,7 @@ _Cite_:
   - Code du sport. - art. A212-84 (Ab)
 
 
-##### Sous-paragraphe 4 : L'alternance<a id=369></a>
+##### Sous-paragraphe 4 : L'alternance<a id=373></a>
 
 ###### Article A212-87
 
@@ -39727,7 +40379,7 @@ _Cite_:
   - Code du travail - art. L6325-1
 
 
-##### Sous-paragraphe 5 : Nomenclature<a id=370></a>
+##### Sous-paragraphe 5 : Nomenclature<a id=374></a>
 
 ###### Article A212-88
 
@@ -39763,7 +40415,7 @@ _Cite_:
   - Code du sport. - art. D212-74 (V)
 
 
-##### Sous-paragraphe 6 : Certification par unités capitalisables<a id=371></a>
+##### Sous-paragraphe 6 : Certification par unités capitalisables<a id=375></a>
 
 ###### Article A212-89
 
@@ -39895,7 +40547,7 @@ _Cité par_:
   - Code du sport. - art. A212-97 (Ab)
 
 
-##### Sous-paragraphe 7 : Validation des acquis de l'expérience<a id=372></a>
+##### Sous-paragraphe 7 : Validation des acquis de l'expérience<a id=376></a>
 
 ###### Article A212-94
 
@@ -40019,7 +40671,7 @@ _Cite_:
   - Code du sport. - art. A212-93 (Ab)
 
 
-##### Sous-paragraphe 8 : Dispositions diverses<a id=373></a>
+##### Sous-paragraphe 8 : Dispositions diverses<a id=377></a>
 
 ###### Article A212-98
 
@@ -40125,9 +40777,9 @@ _Cite_:
   - Code du sport. - art. A212-100 (Ab)
 
 
-##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=374></a>
+##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=378></a>
 
-##### Paragraphe 1 : Présentation du diplôme<a id=375></a>
+##### Paragraphe 1 : Présentation du diplôme<a id=379></a>
 
 ###### Article A212-102
 
@@ -40338,7 +40990,7 @@ _Cite_:
   - Code du sport. - art. A212-104 (V)
 
 
-##### Paragraphe 2 : Conditions et formalités d'inscription<a id=376></a>
+##### Paragraphe 2 : Conditions et formalités d'inscription<a id=380></a>
 
 ###### Article A212-108
 
@@ -40520,7 +41172,7 @@ _Cité par_:
   - Code du sport. - art. Annexe II-10 (art. A212-167) (V)
 
 
-##### Paragraphe 3 : Composition du jury<a id=377></a>
+##### Paragraphe 3 : Composition du jury<a id=381></a>
 
 ###### Article A212-112
 
@@ -40705,7 +41357,7 @@ _Cite_:
   - Code du sport. - art. D212-73 (V)
 
 
-##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=378></a>
+##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=382></a>
 
 ###### Article A212-115
 
@@ -40732,9 +41384,9 @@ _Cite_:
   - Code du sport. - art. D212-70 (V)
 
 
-##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=379></a>
+##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=383></a>
 
-##### Sous-paragraphe 1 : Partie commune<a id=380></a>
+##### Sous-paragraphe 1 : Partie commune<a id=384></a>
 
 ###### Article A212-116
 
@@ -40971,7 +41623,7 @@ _Cite_:
   - Code du sport. - art. A212-120 (V)
 
 
-##### Sous-paragraphe 2 : Partie spécifique<a id=381></a>
+##### Sous-paragraphe 2 : Partie spécifique<a id=385></a>
 
 ###### Article A212-122
 
@@ -41229,7 +41881,7 @@ _Cite_:
   - Code du sport. - art. A212-127 (V)
 
 
-##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=382></a>
+##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=386></a>
 
 ###### Article A212-129
 
@@ -41522,7 +42174,7 @@ _Cite_:
   - Code du sport. - art. A212-129 (V)
 
 
-##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=383></a>
+##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=387></a>
 
 ###### Article A212-140
 
@@ -41821,7 +42473,7 @@ _Cite_:
   - Code du sport. - art. A212-138 (V)
 
 
-##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=384></a>
+##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=388></a>
 
 ###### Article A212-151
 
@@ -41997,7 +42649,7 @@ _Cite_:
   - Code du sport. - art. A212-144 (V)
 
 
-##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=385></a>
+##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=389></a>
 
 ###### Article A212-158
 
@@ -42118,7 +42770,7 @@ _Cité par_:
   - Code du sport. - art. A212-111 (V)
 
 
-##### Paragraphe 10 : Dispositions générales<a id=386></a>
+##### Paragraphe 10 : Dispositions générales<a id=390></a>
 
 ###### Article A212-163
 
@@ -42247,7 +42899,7 @@ _Cite_:
   - Code du sport. - art. Annexe II-11 (V)
 
 
-##### Paragraphe 11 : Validation des acquis de l'expérience<a id=387></a>
+##### Paragraphe 11 : Validation des acquis de l'expérience<a id=391></a>
 
 ###### Article 212-167-1
 
@@ -42364,9 +43016,9 @@ _Créé par_:
   - Arrêté du 24 décembre 2008 - art. 8
 
 
-##### Sous-section 7 : Formation générale commune aux métiers de la montagne<a id=388></a>
+##### Sous-section 7 : Formation générale commune aux métiers de la montagne<a id=392></a>
 
-##### Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne<a id=389></a>
+##### Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne<a id=393></a>
 
 ###### Article A212-168
 
@@ -42563,7 +43215,7 @@ _Cite_:
   - Code du sport. - art. A212-117
 
 
-##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne<a id=390></a>
+##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne<a id=394></a>
 
 ###### Article A212-175-1-1
 
@@ -42765,7 +43417,7 @@ _Créé par_:
   - Arrêté du 11 janvier 2013 - art. 1
 
 
-##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=391></a>
+##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=395></a>
 
 ###### Article A212-175-10
 
@@ -42783,7 +43435,7 @@ _Anciens textes_:
   - Code du sport. - art. A212-175-2 (T)
 
 
-##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=392></a>
+##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=396></a>
 
 ###### Article A212-175-11
 
@@ -42860,9 +43512,9 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art. 1
 
 
-##### Section 2 : Obligation de déclaration d'activité<a id=393></a>
+##### Section 2 : Obligation de déclaration d'activité<a id=397></a>
 
-##### Sous-section 1 : Principes<a id=394></a>
+##### Sous-section 1 : Principes<a id=398></a>
 
 ###### Article A212-176
 
@@ -43013,11 +43665,11 @@ _Cite_:
   - Code du sport. - art. R212-86 (V)
 
 
-##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.<a id=395></a>
+##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.<a id=399></a>
 
-##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=396></a>
+##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=400></a>
 
-##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=397></a>
+##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=401></a>
 
 ###### Article A212-182
 
@@ -43058,7 +43710,7 @@ _Cite_:
   - Code du sport. - art. R212-88
 
 
-##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=398></a>
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=402></a>
 
 ###### Article A212-182-2
 
@@ -43077,9 +43729,9 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Paragraphe 2 : Ski<a id=399></a>
+##### Paragraphe 2 : Ski<a id=403></a>
 
-##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=400></a>
+##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=404></a>
 
 ###### Article A212-183
 
@@ -43299,7 +43951,7 @@ _Modifié par_:
   - Arrêté du 31 octobre 2014 - art. 2
 
 
-##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=401></a>
+##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=405></a>
 
 ###### Article A212-192-1
 
@@ -43498,9 +44150,9 @@ _Modifié par_:
   - Arrêté du 31 octobre 2014 - art. 2
 
 
-##### Paragraphe 3  Plongée subaquatique<a id=402></a>
+##### Paragraphe 3  Plongée subaquatique<a id=406></a>
 
-##### Sous-paragraphe 1 : Déclaration.<a id=403></a>
+##### Sous-paragraphe 1 : Déclaration.<a id=407></a>
 
 ###### Article A212-193
 
@@ -43521,7 +44173,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=404></a>
+##### Sous-paragraphe 2 : Différence substantielle.<a id=408></a>
 
 ###### Article A212-194
 
@@ -43544,7 +44196,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=405></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=409></a>
 
 ###### Article A212-195
 
@@ -43618,7 +44270,7 @@ _Cite_:
   - Code du sport. - art. A212-96
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice.<a id=406></a>
+##### Sous-paragraphe 4 : Conditions d'exercice.<a id=410></a>
 
 ###### Article A212-198
 
@@ -43644,9 +44296,9 @@ _Cite_:
   - Code du sport. - art. A322-71
 
 
-##### Paragraphe 5 : Parachutisme<a id=407></a>
+##### Paragraphe 5 : Parachutisme<a id=411></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=408></a>
+##### Sous-paragraphe 1 : Déclaration<a id=412></a>
 
 ###### Article A212-209
 
@@ -43667,7 +44319,7 @@ _Cite_:
   - Code du sport. - art. R212-92 (V)
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=409></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=413></a>
 
 ###### Article A212-210
 
@@ -43695,7 +44347,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=410></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=414></a>
 
 ###### Article A212-211
 
@@ -43760,7 +44412,7 @@ _Créé par_:
   - Arrêté du 21 décembre 2009 - art. 1
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=411></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=415></a>
 
 ###### Article A212-214
 
@@ -43785,9 +44437,9 @@ _Modifié par_:
   - Arrêté du 7 janvier 2014 - art. 3
 
 
-##### Paragraphe 6 : Spéléologie<a id=412></a>
+##### Paragraphe 6 : Spéléologie<a id=416></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=413></a>
+##### Sous-paragraphe 1 : Déclaration<a id=417></a>
 
 ###### Article A212-215
 
@@ -43808,7 +44460,7 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=414></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=418></a>
 
 ###### Article A212-216
 
@@ -43829,7 +44481,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=415></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=419></a>
 
 ###### Article A212-217
 
@@ -43892,7 +44544,7 @@ _Modifié par_:
   - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=416></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=420></a>
 
 ###### Article A212-220
 
@@ -43909,9 +44561,9 @@ _Créé par_:
   - Arrêté du 21 décembre 2009 - art. 1
 
 
-##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=417></a>
+##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=421></a>
 
-##### Sous-paragraphe 1 : Déclaration.<a id=418></a>
+##### Sous-paragraphe 1 : Déclaration.<a id=422></a>
 
 ###### Article A212-221
 
@@ -43937,7 +44589,7 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=419></a>
+##### Sous-paragraphe 2 : Différence substantielle.<a id=423></a>
 
 ###### Article A212-222
 
@@ -44002,7 +44654,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=420></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=424></a>
 
 ###### Article A212-225
 
@@ -44070,7 +44722,7 @@ _Créé par_:
   - Arrêté du 18 janvier 2010 - art. 1
 
 
-##### Sous-paragraphe 4 :  Conditions d'exercice.<a id=421></a>
+##### Sous-paragraphe 4 :  Conditions d'exercice.<a id=425></a>
 
 ###### Article A212-228
 
@@ -44092,11 +44744,11 @@ _Créé par_:
   - Arrêté du 18 janvier 2010 - art. 1
 
 
-### TITRE II : SPORTIFS<a id=422></a>
+### TITRE II : SPORTIFS<a id=426></a>
 
-#### Chapitre II : Sport professionnel<a id=423></a>
+#### Chapitre II : Sport professionnel<a id=427></a>
 
-##### Section unique  Agents sportifs<a id=424></a>
+##### Section unique  Agents sportifs<a id=428></a>
 
 ###### Article A222-1
 
@@ -44270,11 +44922,11 @@ _Cite_:
   - Code du sport. - art. L222-17
 
 
-### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=425></a>
+### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=429></a>
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=426></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=430></a>
 
-##### Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives<a id=427></a>
+##### Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives<a id=431></a>
 
 ###### Article A231-1
 
@@ -44337,7 +44989,7 @@ _Cite_:
   - Code du sport. - art. A231-1 (Ab)
 
 
-##### Section 2 : Sportifs de haut niveau<a id=428></a>
+##### Section 2 : Sportifs de haut niveau<a id=432></a>
 
 ###### Article A231-3
 
@@ -44587,13 +45239,13 @@ _Cite_:
   - Code du sport. - art. L231-6
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=429></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=433></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=430></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=434></a>
 
-#### Chapitre II : Equipements sportifs<a id=431></a>
+#### Chapitre II : Equipements sportifs<a id=435></a>
 
-##### Section 1 : Dispositions communes<a id=432></a>
+##### Section 1 : Dispositions communes<a id=436></a>
 
 ###### Article A312-1
 
@@ -44623,7 +45275,7 @@ _Cite_:
   - Code du sport. - art. R312-4
 
 
-##### Section 2 : Installations fixes<a id=433></a>
+##### Section 2 : Installations fixes<a id=437></a>
 
 ###### Article A312-2
 
@@ -44842,7 +45494,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-3 (V)
 
 
-##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=434></a>
+##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=438></a>
 
 ###### Article A312-10
 
@@ -44921,13 +45573,13 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=435></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=439></a>
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=436></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=440></a>
 
-##### Section 1 : Dispositions générales<a id=437></a>
+##### Section 1 : Dispositions générales<a id=441></a>
 
-##### Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives<a id=438></a>
+##### Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives<a id=442></a>
 
 ###### Article A322-1
 
@@ -45017,11 +45669,11 @@ _Cite_:
   - Code du sport. - art. R322-1 (V)
 
 
-##### Section 2 : Etablissements de natation  et d'activités aquatiques<a id=439></a>
+##### Section 2 : Etablissements de natation  et d'activités aquatiques<a id=443></a>
 
-##### Sous-section 1 : Dispositions communes<a id=440></a>
+##### Sous-section 1 : Dispositions communes<a id=444></a>
 
-##### Paragraphe 1 : Obligation de déclaration<a id=441></a>
+##### Paragraphe 1 : Obligation de déclaration<a id=445></a>
 
 ###### Article A322-4
 
@@ -45095,7 +45747,7 @@ _Cite_:
   - Code de la santé publique - art. L1332-5 (V)
 
 
-##### Paragraphe 2 : Obligation de surveillance<a id=442></a>
+##### Paragraphe 2 : Obligation de surveillance<a id=446></a>
 
 ###### Article A322-8
 
@@ -45192,7 +45844,7 @@ _Cite_:
   - Code du sport. - art. A322-8 (V)
 
 
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=443></a>
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=447></a>
 
 ###### Article A322-12
 
@@ -45343,7 +45995,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=444></a>
+##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=448></a>
 
 ###### Article A322-18
 
@@ -45362,7 +46014,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=445></a>
+##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=449></a>
 
 ###### Article A322-19
 
@@ -45793,9 +46445,9 @@ _Cité par_:
   - Code du sport. - art. A322-40 (V)
 
 
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=446></a>
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=450></a>
 
-##### Paragraphe 1 : Champ d'application<a id=447></a>
+##### Paragraphe 1 : Champ d'application<a id=451></a>
 
 ###### Article A322-42
 
@@ -45827,7 +46479,7 @@ _Cite_:
   - Code du sport. - art. L322-2 (V)
 
 
-##### Paragraphe 2 : Pratique du canoë, du kayak et de la nage en eau vive<a id=448></a>
+##### Paragraphe 2 : Pratique du canoë, du kayak et de la nage en eau vive<a id=452></a>
 
 ###### Article A322-43
 
@@ -46094,7 +46746,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 3 : Pratique avec des embarcations gonflables<a id=449></a>
+##### Paragraphe 3 : Pratique avec des embarcations gonflables<a id=453></a>
 
 ###### Article A322-53
 
@@ -46249,7 +46901,7 @@ _Abrogé par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Paragraphe 4 : Pratique en mer<a id=450></a>
+##### Paragraphe 4 : Pratique en mer<a id=454></a>
 
 ###### Article A322-58
 
@@ -46424,7 +47076,7 @@ _Abrogé par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=451></a>
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=455></a>
 
 ###### Article A322-64
 
@@ -46649,7 +47301,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=452></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=456></a>
 
 ###### Article A322-71
 
@@ -46677,7 +47329,7 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
-##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=453></a>
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=457></a>
 
 ###### Article A322-72
 
@@ -46971,7 +47623,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=454></a>
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=458></a>
 
 ###### Article A322-82
 
@@ -47127,9 +47779,9 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=455></a>
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=459></a>
 
-##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=456></a>
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=460></a>
 
 ###### Article A322-90
 
@@ -47241,7 +47893,7 @@ _Modifié par_:
   - Arrêté du 5 janvier 2012 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières au nitrox<a id=457></a>
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=461></a>
 
 ###### Article A322-95
 
@@ -47262,7 +47914,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
 
 
-##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=458></a>
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=462></a>
 
 ###### Article A322-96
 
@@ -47305,7 +47957,7 @@ _Cite_:
   - Code du sport. - art. A322-78 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=459></a>
+##### Sous-section 4 : Dispositions diverses<a id=463></a>
 
 ###### Article A322-98
 
@@ -47412,7 +48064,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
-##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=460></a>
+##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=464></a>
 
 ###### Article A322-116
 
@@ -47431,7 +48083,7 @@ _Cité par_:
   - Code du sport. - art. A322-123 (VT)
 
 
-##### Paragraphe 1 : Déclaration<a id=461></a>
+##### Paragraphe 1 : Déclaration<a id=465></a>
 
 ###### Article A322-117
 
@@ -47539,7 +48191,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Conditions à respecter<a id=462></a>
+##### Paragraphe 2 : Conditions à respecter<a id=466></a>
 
 ###### Article A322-123
 
@@ -47571,7 +48223,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 3 : Mesures de sécurité générale<a id=463></a>
+##### Paragraphe 3 : Mesures de sécurité générale<a id=467></a>
 
 ###### Article A322-125
 
@@ -47680,7 +48332,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Mesures d'hygiène générale<a id=464></a>
+##### Paragraphe 4 : Mesures d'hygiène générale<a id=468></a>
 
 ###### Article A322-131
 
@@ -47751,7 +48403,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=465></a>
+##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=469></a>
 
 ###### Article A322-135
 
@@ -47861,7 +48513,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 5 : Salles où sont pratiqués les arts martiaux.<a id=466></a>
+##### Section 5 : Salles où sont pratiqués les arts martiaux.<a id=470></a>
 
 ###### Article A322-141
 
@@ -47903,7 +48555,7 @@ _Abrogé par_:
   - Arrêté du 1er juin 2015 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=467></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=471></a>
 
 ###### Article A322-142
 
@@ -48006,9 +48658,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme<a id=468></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme<a id=472></a>
 
-##### Paragraphe 1 : Généralités<a id=469></a>
+##### Paragraphe 1 : Généralités<a id=473></a>
 
 ###### Article A322-147
 
@@ -48052,7 +48704,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Les séances de saut<a id=470></a>
+##### Paragraphe 2 : Les séances de saut<a id=474></a>
 
 ###### Article A322-149
 
@@ -48224,7 +48876,7 @@ _Cite_:
   - Code du sport. - art. A322-153 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=471></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=475></a>
 
 ###### Article A322-155
 
@@ -48270,7 +48922,7 @@ _Cite_:
   - Code du sport. - art. A322-151 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=472></a>
+##### Paragraphe 4 : Les équipements<a id=476></a>
 
 ###### Article A322-157
 
@@ -48333,7 +48985,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=473></a>
+##### Paragraphe 5 : L'encadrement<a id=477></a>
 
 ###### Article A322-160
 
@@ -48389,7 +49041,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=474></a>
+##### Paragraphe 6 : Les moyens matériels<a id=478></a>
 
 ###### Article A322-163
 
@@ -48448,7 +49100,7 @@ _Cite_:
   - Code du sport. - art. R322-1 (V)
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=475></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=479></a>
 
 ###### Article A322-166
 
@@ -48471,9 +49123,9 @@ _Cité par_:
   - Code du sport. - art. A322-171 (VD)
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=476></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=480></a>
 
-##### Sous-paragraphe 1 : Les séances de vol<a id=477></a>
+##### Sous-paragraphe 1 : Les séances de vol<a id=481></a>
 
 ###### Article A322-167
 
@@ -48547,7 +49199,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=478></a>
+##### Sous-paragraphe 2 :  Les machines<a id=482></a>
 
 ###### Article A322-171
 
@@ -48592,7 +49244,7 @@ _Abrogé par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=479></a>
+##### Sous-paragraphe 3 : Les équipements<a id=483></a>
 
 ###### Article A322-174
 
@@ -48613,7 +49265,7 @@ _Abrogé par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=480></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=484></a>
 
 ###### Article A322-175
 
@@ -48651,7 +49303,7 @@ _Cite_:
   - Code du sport. - art. L212-1
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=481></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=485></a>
 
 ###### Article A322-176
 
@@ -48692,13 +49344,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=482></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=486></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=483></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=487></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=484></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=488></a>
 
-##### Sous-section 1 : Dispositions générales<a id=485></a>
+##### Sous-section 1 : Dispositions générales<a id=489></a>
 
 ###### Article A331-1
 
@@ -48717,7 +49369,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=486></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=490></a>
 
 ###### Article A331-2
 
@@ -48844,7 +49496,7 @@ _Cite_:
   - Code du sport. - art. R331-9-1
 
 
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=487></a>
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=491></a>
 
 ###### Article A331-17
 
@@ -49034,7 +49686,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=488></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=492></a>
 
 ###### Article A331-22
 
@@ -49088,9 +49740,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=489></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=493></a>
 
-##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=490></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=494></a>
 
 ###### Article A331-25
 
@@ -49111,7 +49763,7 @@ _Cite_:
   - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=491></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=495></a>
 
 ###### Article A331-32
 
@@ -49134,7 +49786,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe<a id=492></a>
+##### Section 4 : Organisation de manifestations publiques de boxe<a id=496></a>
 
 ###### Article A331-33
 
@@ -49241,9 +49893,9 @@ _Cité par_:
   - Code du sport. - art. A331-34 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=493></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=497></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=494></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=498></a>
 
 ###### Article A331-37
 
@@ -49353,170 +50005,281 @@ _Cite_:
   - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=495></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=499></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=496></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=500></a>
 
-#### Chapitre unique<a id=497></a>
+#### Chapitre unique<a id=501></a>
 
-##### Section 2 : Organisation et fonctionnement<a id=498></a>
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=502></a>
 
 ###### Article A411-1
 
-L'autorité chargée du contrôle financier sur le Centre national pour le développement du sport, ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'établissement, les circuits et procédures mis en place. Il
-coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
+Le Centre national pour le développement du sport (CNDS) est assujetti au contrôle budgétaire prévu par les articles 220 à
+228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions
+fixées à la présente section.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-2
 
-Le contrôleur assiste avec voix consultative au conseil d'administration. Il reçoit dans les mêmes conditions que les membres
-de ce conseil les convocations, ordres du jour et tous les documents qui doivent leur être adressés avant chaque séance. Les
-procès-verbaux lui sont adressés dès leur établissement.
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable, le
+contrôleur budgétaire peut assister au conseil d'administration de l'établissement avec voix consultative. Il est
+destinataire, dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi
+que des comptes rendus et des procès-verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+Le document prévu à l'article A. 411-10 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein de l'établissement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+  - Code du sport. - art. A411-10
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-3
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit à l'appui du projet de budget avec ses annexes le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 411-10.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+  - Code du sport. - art. A411-10
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-4
 
-Le contrôleur suit l'exécution du budget de l'établissement et de ses décisions modificatives. A cette fin, et pour
-l'exercice de sa mission générale de surveillance de l'établissement, il a accès à tous les documents se rapportant à son
-activité et à sa gestion. A ce titre, il reçoit notamment, selon une périodicité et des modalités qu'il fixe après
-consultation de l'établissement, les documents suivants :
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31 mai et
+avant le 30 septembre sauf dérogation accordée par celui-ci. 
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+Ils comprennent :
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- l'actualisation de la répartition initiale détaillée ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
 
-4° La situation des engagements ;
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
 
-5° La situation de trésorerie et l'état des placements ;
+- le plan de trésorerie ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
 
-7° La situation des effectifs ;
+En outre, sont transmis pour information :
 
-8° L'état des recettes propres ;
+- les accords-cadres ;
 
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
+- les marchés à bons de commande ;
 
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- un état récapitulatif des engagements juridiques résultant des conventions et décisions portant attributions de subvention
+prises par les délégués territoriaux accompagné d'un échéancier des besoins en crédits de paiement associés ;
+
+- la liste des agents mis à disposition contre remboursement ;
+
+- la liste des agents accueillis en position d'activité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-5
 
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° Les décisions modificatives d'urgence ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur général du CNDS ;
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements, d'affectations ou de mises à disposition ;
+- les documents à caractère stratégique relatifs aux missions du CNDS, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les informations relatives au suivi du contrat de performance et à la contribution du CNDS à la performance du programme
+budgétaire dont il est opérateur ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du CNDS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° Les prêts et subventions ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les décisions d'attribution de garantie ;
-
-7° Les transactions ;
-
-8° Les placements financiers.
-
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du CNDS relatifs à la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-6
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
-
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 juin 2014
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-7
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 411-10, au regard de la qualité du
+contrôle interne budgétaire : 
 
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un
-renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre
-chargé des sports.
+Sont soumis au visa :
+
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
+
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ;
+
+- les actes relatifs à la rémunération des fonctionnaires détachés sur un contrat de droit public ;
+
+- les acquisitions et aliénations immobilières ;
+
+- les baux autres que les baux domaniaux ;
+
+- les marchés autres que les marchés à bons de commande ;
+
+- les bons de commandes ;
+
+- les conventions ou décisions portant attribution de prêts ou de subvention prises par l'ordonnateur principal du CNDS. 
+
+Sont soumis à avis préalable :
+
+- les projets de transactions avant transmission au tiers pour signature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 4
+  - Loi n°84-16 du 11 janvier 1984 - art. 6
+  - Code du sport. - art. A411-10
+
+_Modifié par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A411-8
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet au CNDS le programme de contrôle et l'informe, le cas échéant,
+des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+Le CNDS est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à la
+réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et le cas échéant au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 411-10, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A411-10
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=499></a>
+###### Article A411-9
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=500></a>
+S'il apparaît au contrôleur budgétaire que la gestion du CNDS remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire. 
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A411-10
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 20 avril 2015 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A411-2 (V)
+  - Code du sport. - art. A411-3 (V)
+  - Code du sport. - art. A411-7 (V)
+  - Code du sport. - art. A411-8 (V)
+
+
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=503></a>
+
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=504></a>
 
 ###### Article A421-1
 
@@ -49633,7 +50396,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=501></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=505></a>
 
 ###### Article A422-1
 
@@ -49666,7 +50429,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=502></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=506></a>
 
 ###### Article A423-1
 
@@ -49781,7 +50544,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=503></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=507></a>
 
 ###### Article A424-1
 
@@ -49882,7 +50645,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=504></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=508></a>
 
 ###### Article A425-1
 
@@ -50010,7 +50773,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=505></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=509></a>
 
 ###### Article A426-1
 
@@ -50032,7 +50795,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=506></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=510></a>
 
 ###### Article A427-1
 
@@ -50054,11 +50817,11 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-# ANNEXES<a id=507></a>
+# ANNEXES<a id=511></a>
 
-## Annexes partie réglementaire - Décrets<a id=508></a>
+## Annexes partie réglementaire - Décrets<a id=512></a>
 
-### Annexes I<a id=509></a>
+### Annexes I<a id=513></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -51389,7 +52152,7 @@ _Cité par_:
   - Code du sport. - art. R132-7 (V)
 
 
-### Annexes II<a id=510></a>
+### Annexes II<a id=514></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -52643,7 +53406,7 @@ _Cite_:
   - Code du sport. - art. R241-14
 
 
-### Annexes III<a id=511></a>
+### Annexes III<a id=515></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -53224,9 +53987,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=512></a>
+## Annexes partie réglementaire - Arrêtés<a id=516></a>
 
-### Annexes II<a id=513></a>
+### Annexes II<a id=517></a>
 
 ###### Article Annexe I-1 (art. A142-0)
 
@@ -65500,7 +66263,7 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art.
 
 
-### Annexes III<a id=514></a>
+### Annexes III<a id=518></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
