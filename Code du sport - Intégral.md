@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-06-12
+Version Consolidée au 2015-06-15
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2015-06-12
           - [Section 3 : Relations entre associations et sociétés sportives (art. D122-10 à R122-12)](#106)
       - [TITRE III : FÉDÉRATIONS SPORTIVES ET LIGUES PROFESSIONNELLES (art. R131-1 à R132-17)](#107)
         - [Chapitre Ier : Fédérations sportives (art. R131-1 à R131-45)](#108)
-          - [Section 1 : Dispositions générales (art. R131-1 à R131-2)](#109)
+          - [Section 1 : Dispositions générales (art. R131-1)](#109)
           - [Section 2 : Fédérations agréées (art. R131-3 à R131-24)](#110)
             - [Sous-section 1 : Délivrance et retrait de l'agrément (art. R131-3 à R131-12)](#111)
             - [Sous-section 2 : Compétences des fédérations agréées (art. R131-13 à R131-15)](#112)
@@ -125,7 +125,7 @@ Version Consolidée au 2015-06-12
         - [Chapitre Ier : Le Comité national olympique et sportif français (art. R141-1 à R141-25)](#122)
           - [Section 1 : Mission générale (art. R141-1 à R141-4)](#123)
           - [Section 2 : Mission de conciliation (art. R141-5 à R141-25)](#124)
-            - [Sous-section 1 : Principes (art. R141-5 à R141-9)](#125)
+            - [Sous-section 1 : Principes (art. R141-5 à R141-9-1)](#125)
             - [Sous-section 2 : Conférence des conciliateurs (art. R141-10 à R141-14)](#126)
             - [Sous-section 3 : Procédure (art. R141-15 à R141-24)](#127)
               - [Paragraphe 1 : Saisine du conciliateur et instruction de la demande (art. R141-15 à R141-21)](#128)
@@ -12300,33 +12300,6 @@ _Cité par_:
   - Arrêté du 31 juillet 2008 - art. 1 (Ab)
 
 
-###### Article R131-2
-
-La juridiction compétente pour statuer sur les recours contentieux dirigés contre les décisions individuelles prises par les
-fédérations dans l'exercice de leurs prérogatives de puissance publique est le tribunal administratif dans le ressort duquel
-se situe la résidence ou le siège social du requérant à la date de ces décisions.
-
-**Nota:**
-
-Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, l'abrogation de ces dispositions s'appliquent aux décisions
-des fédérations rendues à compter du 15 juin 2015.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Al. 16, 3e phrase, de l'article 19 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
-  - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2015-651 du 10 juin 2015 - art. 2
-
-
 ##### Section 2 : Fédérations agréées<a id=110></a>
 
 ##### Sous-section 1 : Délivrance et retrait de l'agrément<a id=111></a>
@@ -14170,22 +14143,30 @@ dénuées de fondement.
 S'il n'est pas fait application de l'alinéa précédent, le président de la conférence désigne un conciliateur dont le nom est
 notifié aux parties. Dans le délai d'un mois suivant la saisine, le conciliateur, après avoir entendu les intéressés, propose
 des mesures de conciliation. Ces mesures sont présumées acceptées par les parties, sauf opposition notifiée au conciliateur
-et aux parties, dans un nouveau délai d'un mois à compter de la formulation aux parties des propositions du conciliateur.
+et aux parties, dans un délai de quinze jours à compter de la formulation aux parties des propositions du conciliateur.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Al. 14 et 15 de l'article 19 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
   - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. L141-4 (V)
+  - Code du sport. - art. L141-4
 
 _Cité par_:
 
@@ -14216,8 +14197,7 @@ _Cité par_:
 ###### Article R141-9
 
 La saisine du Comité national olympique et sportif français n'interrompt le délai de recours contentieux, en application de
-l'article R. 141-8 du présent code, que si elle est intervenue dans le délai prévu à l'article R. 421-1 du code de justice
-administrative.
+l'article R. 141-8 du présent code, que si elle est intervenue dans le délai prévu au premier alinéa de l'article R. 141-15.
 
 L'interruption prend fin :
 
@@ -14227,23 +14207,51 @@ rejet ;
 - à compter de la notification à l'une des parties du refus de la conciliation émanant de l'autre partie, en application du
 deuxième alinéa de l'article R. 141-23 du présent code.
 
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 25 du décret n°2002-1114 du 30 août 2002 pris pour l'application du IV de l'article 19 de la loi n°84-610 du 16 juillet 1984 et relatif à la mission de conciliation du Comité national olympique et sportif français
   - Décret n°2002-1114 du 30 août 2002 - art. 25 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative. - art. R421-1 (V)
-  - Code du sport. - art. R141-16 (V)
-  - Code du sport. - art. R141-23 (V)
-  - Code du sport. - art. R141-8 (V)
+  - Code du sport. - art. R141-16
+  - Code du sport. - art. R141-23
+  - Code du sport. - art. R141-8
+
+
+###### Article R141-9-1
+
+Le délai de recours contentieux applicable aux décisions mentionnées à l'article R. 141-5 et relevant de la compétence de la
+juridiction administrative est d'un mois.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R141-5
 
 
 ##### Sous-section 2 : Conférence des conciliateurs<a id=126></a>
@@ -14363,10 +14371,9 @@ _Cite_:
 
 ###### Article R141-15
 
-La demande de conciliation est adressée au président de la conférence des conciliateurs par lettre recommandée avec demande
-d'avis de réception.
-
-Elle doit mentionner le nom et le domicile de la partie qui sollicite la mise en oeuvre de la procédure de conciliation.
+La demande de conciliation est adressée au président de la conférence des conciliateurs par lettre recommandée, par télécopie
+ou par courrier électronique, avec demande d'avis de réception. Elle doit être effectuée dans les quinze jours suivant la
+notification ou la publication de la décision contestée. La demande mentionne le nom et le domicile de son auteur.
 
 La demande de conciliation contient l'exposé des faits, moyens et conclusions. Lorsqu'elle est dirigée contre une décision,
 la demande doit, à peine d'irrecevabilité, être accompagnée d'une copie de celle-ci.
@@ -14376,20 +14383,29 @@ Le demandeur doit avoir un intérêt direct et personnel à agir.
 S'il s'agit d'une personne morale, la demande de conciliation doit être présentée par la personne ayant qualité pour agir en
 son nom.
 
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°2002-1114 du 30 août 2002 pris pour l'application du IV de l'article 19 de la loi n°84-610 du 16 juillet 1984 et relatif à la mission de conciliation du Comité national olympique et sportif français
   - Décret n°2002-1114 du 30 août 2002 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. R141-16 (V)
+  - Code du sport. - art. R141-19 (VD)
 
 
 ###### Article R141-16
@@ -14463,26 +14479,38 @@ _Codifié par_:
 
 ###### Article R141-19
 
-Dans le cas où la demande de conciliation a été présentée postérieurement à l'expiration du délai de recours contentieux, le
-président de la conférence des conciliateurs, saisi par l'une des parties, a la faculté d'inviter l'autre partie à participer
-à une procédure de conciliation facultative.
+Dans le cas où la demande de conciliation a été présentée postérieurement à l'expiration du délai prévu à l'article R.
+141-15, le président de la conférence des conciliateurs, saisi par l'une des parties, a la faculté d'inviter l'autre partie à
+participer à une procédure de conciliation facultative. 
 
 Les parties doivent alors informer par écrit le président de la conférence des conciliateurs de leur décision de se soumettre
-ou non à la procédure de conciliation facultative.
+ou non à la procédure de conciliation facultative. 
 
 Les dispositions du présent article sont également applicables lorsque la conciliation n'est pas un préalable obligatoire à
 l'exercice d'un recours contentieux.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 11 du décret n°2002-1114 du 30 août 2002 pris pour l'application du IV de l'article 19 de la loi n°84-610 du 16 juillet 1984 et relatif à la mission de conciliation du Comité national olympique et sportif français
   - Décret n°2002-1114 du 30 août 2002 - art. 11 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R141-15 (VD)
 
 _Cité par_:
 
@@ -14590,22 +14618,31 @@ _Codifié par_:
 ###### Article R141-23
 
 Les mesures proposées par les conciliateurs sont réputées acceptées par les parties et doivent être appliquées dès leur
-notification. Les parties peuvent toutefois s'y opposer dans le délai d'un mois à compter de cette notification.
+notification. Les parties peuvent toutefois s'y opposer dans le délai de quinze jours à compter de cette notification.
 
 Cette opposition ne peut être prise en compte que si elle est notifiée aux conciliateurs ainsi qu'aux autres parties.
 
-Ces notifications doivent intervenir par lettre recommandée avec demande d'avis de réception.
+Ces notifications doivent intervenir par lettre recommandée, par télécopie ou par courrier électronique, avec demande d'avis
+de réception.
+
+**Nota:**
+
+Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, ces dispositions s'appliquent aux décisions des fédérations
+rendues à compter du 15 juin 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Al. 3 à 5 de l'article 21 du décret n°2002-1114 du 30 août 2002 pris pour l'application du IV de l'article 19 de la loi n°84-610 du 16 juillet 1984 et relatif à la mission de conciliation du Comité national olympique et sportif français
   - Décret n°2002-1114 du 30 août 2002 - art. 21 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-651 du 10 juin 2015 - art. 1
 
 _Cité par_:
 
