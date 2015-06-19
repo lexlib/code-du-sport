@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-06-15
+Version Consolidée au 2015-06-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -20890,8 +20890,8 @@ _Cité par_:
 
 ###### Article D212-41
 
-Pour être admis, le candidat doit avoir obtenu quatre unités, dont deux sont transversales, une est spécifique à la
-spécialité et une est relative à la mention.
+Pour être admis, le candidat doit avoir obtenu quatre unités, dont deux sont transversales quelle que soit la spécialité et
+deux sont spécifiques à la mention.
 
 **Liens relatifs à cet article**
 
@@ -20904,12 +20904,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1418 du 20 novembre 2006 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-688 du 17 juin 2015 - art. 1
 
 
 ###### Article D212-42
@@ -21387,8 +21390,8 @@ _Cité par_:
 
 ###### Article D212-57
 
-Pour être admis, le candidat doit avoir obtenu quatre unités, dont deux sont transversales, une est spécifique à la
-spécialité et une est relative à la mention.
+Pour être admis, le candidat doit avoir obtenu quatre unités, dont deux sont transversales quelle que soit la spécialité et
+deux sont spécifiques à la mention.
 
 **Liens relatifs à cet article**
 
@@ -21400,12 +21403,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1419 du 20 novembre 2006 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2015-688 du 17 juin 2015 - art. 2
 
 
 ###### Article D212-58
