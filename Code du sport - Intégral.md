@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-07-23
+Version Consolidée au 2015-07-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -948,11 +948,15 @@ Les associations sportives ne peuvent bénéficier de l'aide de l'Etat qu'à la 
 L'agrément est notamment fondé sur l'existence de dispositions statutaires garantissant le fonctionnement démocratique de
 l'association, la transparence de sa gestion et l'égal accès des femmes et des hommes à ses instances dirigeantes. 
 
-L'autorité administrative peut prononcer le retrait de l'agrément d'une association sportive si elle emploie des personnes ne
-satisfaisant pas aux obligations des articles L. 212-1, L. 212-2 et L. 212-9 ou si elle méconnaît les obligations des
-articles L. 322-1 et L. 322-2.
+L'affiliation d'une association sportive à une fédération sportive agréée par l'Etat en application de l'article L. 131-8
+vaut agrément. 
 
-Les conditions de l'agrément et du retrait de l'agrément sont déterminées par décret en Conseil d'Etat.
+L'autorité administrative peut prononcer le retrait de l'agrément accordé à une association sportive ou résultant de
+l'affiliation prévue au troisième alinéa si elle emploie des personnes ne satisfaisant pas aux obligations des articles L.
+212-1, L. 212-2 et L. 212-9 ou si elle méconnaît les obligations des articles L. 322-1 et L. 322-2.
+
+Les conditions de l'agrément et du retrait de l'agrément accordé à une association ou résultant de l'affiliation prévue au
+troisième alinéa sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -975,13 +979,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 11 (V)
 
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
-  - Code du sport. - art. L212-9 (V)
-  - Code du sport. - art. L322-1 (V)
+  - Code du sport. - art. L212-1
+  - Code du sport. - art. L212-9
+  - Code du sport. - art. L322-1
 
 
 ###### Article L121-5
@@ -1909,7 +1917,7 @@ conditions dans lesquelles est garantie dans les instances dirigeantes une propo
 personnes de chaque sexe. 
 
 Par dérogation au premier alinéa du présent 1, les statuts peuvent prévoir, pour le premier renouvellement des instances
-dirigeantes suivant la promulgation de la  loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les
+dirigeantes suivant la promulgation de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les
 hommes, que la proportion de membres au sein des instances dirigeantes du sexe le moins représenté parmi les licenciés est au
 moins égale à sa proportion parmi les licenciés. 
 
@@ -1919,6 +1927,9 @@ de chaque sexe pouvant prendre en compte la répartition par sexe des licenciés
 
 3. La proportion de licenciés de chacun des deux sexes est appréciée sans considération d'âge ni de toute autre condition
 d'éligibilité aux instances dirigeantes.
+
+III.-Les fédérations sportives sont reconnues comme établissements d'utilité publique lorsqu'elles ont obtenu l'agrément
+mentionné au premier alinéa et bénéficient des avantages associés à la reconnaissance d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -1971,7 +1982,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2014-873 du 4 août 2014 - art. 63
+  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 12 (V)
 
 
 ###### Article L131-8-1
