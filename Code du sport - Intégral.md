@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-10-02
+Version Consolidée au 2015-10-11
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-5)](#2)
@@ -58181,26 +58181,40 @@ compétition en sport-boules.</td>
       <td>
     </td></tr>
     <tr>
-      <td>CS athlétisme et disciplines associées . 
+      <td align="left" valign="top">
+
+CS athlétisme et disciplines associées. 
 
 </td>
-      <td>Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de
-l'athlétisme et disciplines associées.
+      <td align="left" valign="top">
+
+Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et
+disciplines associées.
 
 </td>
-      <td>A l'exclusion de toute pratique compétitive.</td>
+      <td align="left" valign="top">
+
+A l'exclusion de toute pratique compétitive.
+
+</td>
     </tr>
     <tr>
-      <td>CS hockey .</td>
-      <td>Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.</td>
-      <td>
+      <td align="left" valign="top">
+
+CS hockey.
+
+</td>
+      <td align="left" valign="top">
+
+Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.
+
+</td>
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
 
-BP JEPS, spécialité "activités gymniques de la forme et de la force". 
-
-</td>
+BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       <td align="left" valign="top">
       </td><td align="left" valign="top">
     </td></tr>
@@ -59424,26 +59438,38 @@ Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un 
 </td>
     </tr>
     <tr>
-      <td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels". 
+      <td align="left" valign="top">
+
+DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels". 
 
 </td>
-      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
+      <td align="left" valign="top">
+
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
 
 </td>
-      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+      <td align="left" valign="top">
+
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
 
 </td>
     </tr>
     <tr>
-      <td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade". 
+      <td align="left" valign="top">
+
+DE JEPS, spécialité "perfectionnement sportif", mention "escalade". 
 
 </td>
-      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
+      <td align="left" valign="top">
+
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
 
 </td>
-      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+      <td align="left" valign="top">
+
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
 
 A l'exclusion de la via ferrata. 
 
@@ -59454,11 +59480,19 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td>DES JEPS, spécialité "performance sportive", mention "escalade". 
+      <td align="left" valign="top">
+
+DES JEPS, spécialité "performance sportive", mention "escalade". 
 
 </td>
-      <td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. </td>
-      <td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+      <td align="left" valign="top">
+
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
+
+</td>
+      <td align="left" valign="top">
+
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
 
 A l'exclusion de la via ferrata. 
 
@@ -59894,8 +59928,9 @@ l'éducation populaire et du sport, spécialité activités équestres, toutes m
       <td>Découverte et initiation dans les activités équestres. 
 
 </td>
-      <td>Sous l'autorité d'un titulaire d'une certification de niveau IV ou supérieur dans le domaine des activités
-équestres. 
+      <td>
+
+Sous l'autorité d'un titulaire d'une certification de niveau IV ou supérieur dans le domaine des activités équestres. 
 
 A l'exclusion des pratiques compétitives de niveau amateur et plus. 
 
@@ -59920,7 +59955,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football. 
 
-<table align="center" border="1" cellpadding="0" width="740">
+<table align="center" border="1" cellpadding="0" width="760">
   <tbody>
     <tr>
       <td width="151">
@@ -60638,8 +60673,9 @@ in line hockey", "roller acrobatique", "roller randonnée".
 Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.
 
 </td>
-      <td align="left" valign="top">Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de
-compétition inclus : 
+      <td align="left" valign="top">
+
+Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : 
 
 - dans la limite de vingt pratiquants par titulaire du CQP ;
 
@@ -60773,18 +60809,18 @@ Encadrement en autonomie de séances collectives en badminton, de l'initiation j
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 CQP "moniteur de football américain et de flag". 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers
 niveaux de compétition. 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A l'exclusion des championnats nationaux.
 
@@ -60806,19 +60842,19 @@ Encadrement en autonomie de séances d'entraînement en cheerleading pour tout p
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou embarcation
 propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du
 sport.
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 A l'exclusion du raft. 
 
@@ -60827,18 +60863,18 @@ Jusqu'en classe II incluse, avec des passages de classe III non successifs.
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation propulsée à
 la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Jusqu'à 1 mille d'un abri. 
 
@@ -61000,24 +61036,123 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td>CQP "technicien sportif d'athlétisme", option "fond/hors stade". </td>
-      <td>Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
+      <td align="left" valign="top">
+
+CQP "technicien sportif d'athlétisme", option "fond/hors stade". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et
-disciplines hors stade (courses sur route, cross-country, courses à pied en nature). </td>
-      <td>Pour des publics de plus de 14 ans. 
+disciplines hors stade (courses sur route, cross-country, courses à pied en nature). 
+
+</td>
+      <td align="left" valign="top">
+
+Pour des publics de plus de 14 ans. 
 
 Dans la limite de 12 pratiquants.
 
 </td>
     </tr>
     <tr>
-      <td>CQP "technicien sportif d'athlétisme", option "épreuves combinées". </td>
-      <td>Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
-perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon.
+      <td align="left" valign="top">
+
+CQP "technicien sportif d'athlétisme", option "épreuves combinées". 
+
 </td>
-      <td>Pour des publics de plus de 14 ans. 
+      <td align="left" valign="top">
+
+Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
+perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon. 
+
+</td>
+      <td align="left" valign="top">
+
+Pour des publics de plus de 14 ans. 
 
 Dans la limite de 12 pratiquants.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP moniteur d'escrime, option "fleuret". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie des activités de l'escrime sportive au fleuret par la découverte et l'initiation, jusqu'au niveau de
+compétition régional. 
+
+</td>
+      <td align="left" valign="top">
+
+Dans la limite de 20 pratiquants. 
+
+A l'exclusion du temps scolaire contraint. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP moniteur d'escrime, option "épée". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie des activités de l'escrime sportive à l'épée par la découverte et l'initiation, jusqu'au niveau de
+compétition régional. 
+
+</td>
+      <td align="left" valign="top">
+
+Dans la limite de 20 pratiquants. 
+
+A l'exclusion du temps scolaire contraint. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP moniteur d'escrime, option "sabre". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie des activités de l'escrime sportive au sabre par la découverte et l'initiation, jusqu'au niveau de
+compétition régional. 
+
+</td>
+      <td align="left" valign="top">
+
+Dans la limite de 20 pratiquants. 
+
+A l'exclusion du temps scolaire contraint. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP moniteur d'escrime, option "artistique". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie des activités de l'escrime artistique par la découverte et l'initiation, jusqu'au niveau de
+compétition régional. 
+
+</td>
+      <td align="left" valign="top">
+
+Dans la limite de 20 pratiquants. 
+
+A l'exclusion du temps scolaire contraint.
 
 </td>
     </tr>
@@ -61048,18 +61183,18 @@ LIMITES DES CONDITIONS D'EXERCICE
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Diplôme de masseur-kinésithérapeute. 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités
 physiques et sportives déclarés. 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Dans le respect de la législation et de la déontologie de la kinésithérapie. 
 
@@ -61093,7 +61228,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 6 juillet 2015 - art. 1
+  - Arrêté du 1er octobre 2015 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
