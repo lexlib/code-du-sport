@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-12-10
+Version Consolidée au 2015-12-27
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -516,7 +516,7 @@ Version Consolidée au 2015-12-10
         - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#513)
   - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#514)
     - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#515)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-6 art R131-2 et R131-7)](#516)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#516)
       - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#517)
       - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#518)
     - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#519)
@@ -14778,23 +14778,19 @@ _Cite_:
 
 ###### Article R*131-46
 
-Sous réserve des dispositions des articles R. 222-24 et R. 331-3, en application du II de l'article 21 de la loi du 12 avril
-2000, le silence gardé pendant deux mois par une fédération sportive délégataire vaut décision de rejet pour les demandes qui
-ne sont pas présentées en qualité de titulaire d'une licence sportive délivrée par cette fédération. 
-
-L'alinéa précédent n'est pas applicable aux demandes de délivrance de la licence sportive.
+En application du II de l'article 21 de la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec
+les administrations, le silence gardé pendant deux mois par une fédération sportive délégataire vaut décision de rejet pour
+les demandes dont la liste figure à l'annexe I-7, qui entrent dans le champ de ses missions de service public.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2000-321 du 12 avril 2000 - art. 21
-  - Code du sport. - art. R222-24
-  - Code du sport. - art. R331-3
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1462 du 10 novembre 2015 - art. 1
+  - Décret n°2015-1752 du 24 décembre 2015 - art. 1
 
 
 #### Chapitre II : Ligues professionnelles<a id=121></a>
@@ -53168,6 +53164,80 @@ _Cité par_:
 
   - Code du sport. - art. R131-3 (M)
   - Code du sport. - art. R132-7 (V)
+
+
+###### Article Annexe I-7 (art. R*131-46)
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ OBJET DE LA DEMANDE                                                   ┃ DISPOSITIONS AP- ┃ DÉLAI À L'EXPIRATION DUQUEL la ┃
+┃                                                                       ┃ PLICABLES        ┃ décision de rejet est acquise, ┃
+┃                                                                       ┃                  ┃ lorsqu'il est différent du dé- ┃
+┃                                                                       ┃                  ┃ lai de deux mois               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à l'accès et à la participation des sportifs,  ┃ Règlements des   ┃                                ┃
+┃ individuellement ou par équipe, à des compétitions et des épreuves et ┃ fédérations      ┃                                ┃
+┃ à l'organisation et au déroulement de ces épreuves, à l'exception de  ┃ sportives délé-  ┃                                ┃
+┃ celles prévues par les articles L. 331-5 et R. 331-3                  ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à l'équipement des sportifs, aux installations ┃ Règlements des   ┃                                ┃
+┃ et aux éclairages                                                     ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives aux relations avec les médias                  ┃ Règlements des   ┃                                ┃
+┃                                                                       ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives aux relations avec les partenaires commerciaux ┃ Règlements des   ┃                                ┃
+┃                                                                       ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à l'accueil du public et à l'organisation des  ┃ Règlements des   ┃                                ┃
+┃ billetteries                                                          ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à la capacité des sportifs, à l'exception des  ┃ Règlements des   ┃                                ┃
+┃ demandes de délivrance de la licence sportive                         ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à la capacité des clubs et à leurs statuts     ┃ Règlements des   ┃                                ┃
+┃                                                                       ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives aux règles de jeu et aux règles techniques     ┃ Règlements des   ┃                                ┃
+┃                                                                       ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives aux agents sportifs, à l'exception de celles   ┃ Règlements des   ┃                                ┃
+┃ prévues par les articles L. 222-15 et R. 222-24                       ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives à l'inscription aux formations et brevets fé-  ┃ Règlements des   ┃                                ┃
+┃ déraux                                                                ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Les demandes relatives aux relations avec d'autres fédérations spor-  ┃ Règlements des   ┃                                ┃
+┃ tives et des associations sportives non affiliées                     ┃ fédérations      ┃                                ┃
+┃                                                                       ┃ sportives délé-  ┃                                ┃
+┃                                                                       ┃ gataires         ┃                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
 ### Annexes II<a id=517></a>
