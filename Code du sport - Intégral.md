@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -44754,7 +44754,7 @@ _Créé par_:
 En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
 l'animation, l'enseignement ou l'entraînement de l'alpinisme par l'activité de guide de haute montagne dans le cadre de la
-liberté d'établissement ou de la libre prestation de services se déclarent au préfet de la région Rhône-Alpes. 
+liberté d'établissement ou de la libre prestation de services se déclarent au préfet     du département de l'Isère. 
 
 Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
 l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur conformité et les transmet pour avis à la section
@@ -44762,9 +44762,9 @@ permanente de l'alpinisme de la commission de la formation et de l'emploi du Con
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 24 décembre 2015 - art. 1
 
 _Cite_:
 
