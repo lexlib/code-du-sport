@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-01-10
+Version Consolidée au 2016-01-28
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -6074,16 +6074,21 @@ _Créé par_:
 
 ###### Article L231-2
 
-L'obtention ou le renouvellement d'une licence sportive permettant la participation aux compétitions organisées par la
-fédération sportive qui la délivre est subordonnée à la présentation d'un certificat médical datant de moins d'un an et
-attestant l'absence de contre-indication à la pratique en compétition de la discipline ou activité sportive pour laquelle
-elle est sollicitée.
+I.-L'obtention d'une licence d'une fédération sportive est subordonnée à la présentation d'un certificat médical datant de
+moins d'un an et permettant d'établir l'absence de contre-indication à la pratique du sport ou, le cas échéant, de la
+discipline concernée. 
+
+Lorsque la licence sollicitée permet la participation aux compétitions organisées par une fédération sportive, le certificat
+médical atteste l'absence de contre-indication à la pratique du sport ou de la discipline concernés en compétition. 
+
+II.-Les modalités de renouvellement de la licence, et notamment la fréquence à laquelle un nouveau certificat est exigé, sont
+fixées par décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+  - Loi n°2016-41 du 26 janvier 2016 - art. 219
 
 _Cité par_:
 
@@ -6101,20 +6106,17 @@ _Anciens textes_:
 
 ###### Article L231-2-1
 
-La pratique en compétition d'une discipline sportive à l'occasion d'une manifestation organisée par une fédération agréée ou
-autorisée par une fédération délégataire est subordonnée à la présentation : 
-
-1° Soit d'un certificat médical datant de moins d'un an et attestant l'absence de contre-indication à la pratique en
-compétition de cette discipline ou activité sportive ; 
-
-2° Soit d'une licence mentionnée à l'article L. 231-2 délivrée pour la même discipline ou activité sportive et portant
-attestation de la délivrance de ce certificat.
+L'inscription à une compétition sportive autorisée par une fédération délégataire ou organisée par une fédération agréée est
+subordonnée à la présentation d'une licence mentionnée au second alinéa du I de l'article L. 231-2 dans la discipline
+concernée. A défaut de présentation de cette licence, l'inscription est subordonnée à la présentation d'un certificat médical
+datant de moins d'un an établissant l'absence de contre-indication à la pratique du sport ou de la discipline concernés en
+compétition.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+  - Loi n°2016-41 du 26 janvier 2016 - art. 219
 
 _Cité par_:
 
@@ -6123,41 +6125,26 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. L231-2
-
-
-###### Article L231-2-2
-
-L'obtention d'une première licence sportive ne permettant pas la participation aux compétitions organisées par la fédération
-sportive qui la délivre est subordonnée à la présentation d'un certificat médical datant de moins d'un an et attestant
-l'absence de contre-indication à la pratique de la discipline sportive pour laquelle elle est sollicitée. Les fédérations
-sportives peuvent, selon une fréquence qu'elles définissent, demander pour une nouvelle délivrance de licence la présentation
-d'un certificat médical.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
-
-_Abrogé par_:
-
-  - Loi n°2016-41 du 26 janvier 2016 - art. 219
+  - Code du sport. - art. L231-2 (V)
 
 
 ###### Article L231-2-3
 
-Pour certaines disciplines, dont la liste est fixée par arrêté des ministres chargés des sports et de la santé au regard des
-risques qu'elles présentent pour la sécurité ou la santé des pratiquants, le certificat médical mentionné aux articles L.
-231-2 à L. 231-2-2 ne peut être délivré que dans les conditions prévues au même arrêté. 
+Pour les disciplines, énumérées par décret, qui présentent des contraintes particulières, la délivrance ou le renouvellement
+de la licence ainsi que la participation à des compétitions sont soumis à la production d'un certificat médical datant de
+moins d'un an établissant l'absence de contre-indication à la pratique de la discipline concernée. La délivrance de ce
+certificat est subordonnée à la réalisation d'un examen médical spécifique dont les caractéristiques sont fixées par arrêté
+des ministres chargés de la santé et des sports. 
 
-Le certificat médical mentionné au présent article doit dater de moins d'un an.
+Les contraintes particulières mentionnées au premier alinéa du présent article consistent soit en des contraintes liées à
+l'environnement spécifique dans lequel les disciplines se déroulent, au sens de l'article L. 212-2, soit en des contraintes
+liées à la sécurité ou la santé des pratiquants.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+  - Loi n°2016-41 du 26 janvier 2016 - art. 219
 
 _Cité par_:
 
@@ -6168,7 +6155,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. L231-2
+  - Code du sport. - art. L212-2 (V)
 
 
 ###### Article L231-3
@@ -7404,7 +7391,8 @@ signataires du code mondial antidopage peuvent avoir lieu au domicile ou au lieu
 et 6 heures, dans le respect de sa vie privée et de son intimité et lorsque les conditions suivantes sont réunies : 
 
 1° Le sportif appartient à l'une des catégories mentionnées à l'article L. 232-15, fait partie du groupe cible d'un organisme
-sportif international ou participe à une manifestation sportive internationale ; 
+sportif international ou d'une organisation nationale antidopage étrangère ou participe à une manifestation sportive
+internationale ; 
 
 2° Il existe à l'encontre du sportif des soupçons graves et concordants qu'il a contrevenu ou va contrevenir aux dispositions
 du présent chapitre et un risque de disparition des preuves. 
@@ -7415,9 +7403,9 @@ protection de sa santé. Elles se limitent au prélèvement d'échantillons.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 13
+  - Loi n°2016-41 du 26 janvier 2016 - art. 221
 
 _Cite_:
 
@@ -7430,7 +7418,7 @@ _Cité par_:
 
   - Code du sport. - art. L232-14-2 (VD)
   - Code du sport. - art. L232-14-3 (VD)
-  - Code du sport. - art. L232-14-4 (VD)
+  - Code du sport. - art. L232-14-4 (V)
 
 
 ###### Article L232-14-2
@@ -7505,14 +7493,15 @@ _Cité par_:
 
 Lorsque le sportif a refusé son consentement aux opérations de contrôle mentionnées à l'article L. 232-14-1, le juge des
 libertés et de la détention du tribunal de grande instance dans le ressort duquel s'effectue le contrôle peut, à la requête
-du directeur du département des contrôles de l'Agence française de lutte contre le dopage ou d'un organisme sportif
-international compétent, autoriser les opérations mentionnées à l'article L. 232-14-1. 
+du directeur du département des contrôles de l'Agence française de lutte contre le dopage, de l'organisation nationale
+antidopage étrangère compétente ou d'un organisme sportif international compétent, autoriser les opérations mentionnées à
+l'article L. 232-14-1. 
 
 Le juge des libertés et de la détention peut également autoriser des opérations de contrôle mentionnées à l'article L.
 232-14-1 sur un sportif dont le consentement n'aura pas été sollicité, selon les mêmes modalités que celles mentionnées à
-l'alinéa précédent, quand l'Agence française de lutte contre le dopage ou l'organisme sportif international compétent a
-connaissance de soupçons graves et concordants que celui-ci va contrevenir, de manière imminente, aux dispositions du présent
-chapitre. 
+l'alinéa précédent, quand l'Agence française de lutte contre le dopage, l'organisation nationale antidopage étrangère
+compétente ou l'organisme sportif international compétent a connaissance de soupçons graves et concordants que celui-ci va
+contrevenir, de manière imminente, aux dispositions du présent chapitre. 
 
 A peine de nullité, l'autorisation est donnée pour un prélèvement déterminé et fait l'objet d'une ordonnance écrite. Cette
 ordonnance, qui n'est pas susceptible d'appel, est motivée par référence aux éléments de fait et de droit justifiant que
@@ -7520,8 +7509,9 @@ l'opération est nécessaire. Les opérations sont faites sous le contrôle du m
 déplacer sur les lieux pour veiller au respect des dispositions légales. 
 
 Le procureur de la République territorialement compétent est, préalablement à la saisine du juge des libertés et de la
-détention, informé par le directeur du département des contrôles de l'Agence française de lutte contre le dopage ou par
-l'organisme sportif international compétent du projet de contrôle et peut s'y opposer. 
+détention, informé par le directeur du département des contrôles de l'Agence française de lutte contre le dopage, par
+l'organisation nationale antidopage étrangère compétente ou par l'organisme sportif international compétent du projet de
+contrôle et peut s'y opposer. 
 
 Les opérations prévues ne peuvent, à peine de nullité, avoir un autre objet que le prélèvement visé dans la décision du juge
 des libertés et de la détention. 
@@ -7531,13 +7521,13 @@ constitue pas une cause de nullité des procédures incidentes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 13
+  - Loi n°2016-41 du 26 janvier 2016 - art. 221
 
 _Cite_:
 
-  - Code du sport. - art. L232-14-1
+  - Code du sport. - art. L232-14-1 (V)
 
 _Cité par_:
 
@@ -8508,24 +8498,30 @@ _Cite_:
 Lorsque les circonstances le justifient, telles que l'usage ou la détention d'une substance ou d'une méthode non spécifiée au
 sens de l'annexe I à la convention internationale mentionnée à l'article L. 230-2, le président de l'Agence française de
 lutte contre le dopage ordonne à l'encontre du sportif, à titre conservatoire et dans l'attente d'une décision définitive de
-l'agence ou d'une fédération sportive agréée, une suspension provisoire de sa participation aux manifestations organisées par
-les fédérations agréées ou autorisées par la fédération délégataire compétente. Cette décision est motivée. Le sportif est
-convoqué par le président de l'agence, dans les meilleurs délais, pour faire valoir ses observations sur cette suspension
-provisoire. La durée de suspension ne peut excéder deux mois. La suspension est renouvelable une fois dans les mêmes
-conditions. 
+l'agence, une suspension provisoire de sa participation aux manifestations organisées par les fédérations agréées ou
+autorisées par la fédération délégataire compétente. Cette décision est motivée. Le sportif est convoqué par le président de
+l'agence, dans les meilleurs délais, pour faire valoir ses observations sur cette suspension provisoire. La durée de
+suspension ne peut excéder deux mois. La suspension est renouvelable une fois dans les mêmes conditions. 
 
 La durée de la suspension provisoire est déduite de la durée de l'interdiction de participer aux manifestations sportives que
-l'agence peut ultérieurement prononcer.
+l'agence peut ultérieurement prononcer. 
+
+Lorsqu'une fédération sportive agréée est dans l'obligation de suspendre à titre provisoire un sportif et qu'il est constaté
+une carence de ladite fédération, le président de l'Agence française de lutte contre le dopage ordonne la suspension
+provisoire du sportif, selon les mêmes modalités que celles mentionnées aux deux premiers alinéas du présent article.
+Toutefois, les conditions relatives à la durée de la suspension provisoire sont celles fixées, à cet effet, dans le règlement
+prévu à l'article L. 232-21.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 24
+  - Loi n°2016-41 du 26 janvier 2016 - art. 221
 
 _Cite_:
 
   - Code du sport. - art. L230-2
+  - Code du sport. - art. L232-21 (V)
 
 _Cité par_:
 
