@@ -5689,20 +5689,36 @@ A l'exclusion du temps scolaire contraint.
     <tr>
       <td align="left" valign="top">
 
-CQP "animateur de savate". 
+CQP animateur de savate, option "boxe française". 
 
 </td>
       <td align="left" valign="top">
 
-Encadrement en autonomie de la savate, incluant la mise en œuvre des procédures de passage des gants bleus, verts, rouges et
-blancs. 
-
-</td>
+Encadrement en autonomie de la boxe française auprès de tout public, incluant la mise en œuvre des procédures de passage des
+grades : kangourous, gants bleu, vert, rouge et blanc. </td>
       <td align="left" valign="top">
-
-Activité exercée à titre secondaire. 
+    </td></tr>
+    <tr>
+      <td>CQP animateur de savate, option "canne de combat et bâton". 
 
 </td>
+      <td>Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des
+procédures de passage des pommeaux bleu, vert, rouge, blanc et jaune. </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>CQP animateur de savate, option "savate forme". </td>
+      <td>Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de
+passage des grades : kangourous, gants bleu, vert et rouge. </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>CQP animateur de savate, option "savate bâton défense". 
+
+</td>
+      <td>Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des
+grades : kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune </td>
+      <td>Pour des publics de plus de 16 ans.</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -6701,4 +6717,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 1er octobre 2015 - art. 1
+  - Arrêté du 15 janvier 2016 - art. 1
