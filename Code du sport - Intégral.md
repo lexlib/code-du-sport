@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-02-05
+Version Consolidée au 2016-02-13
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -40434,13 +40434,10 @@ _Cite_:
 Les diplômes, titres à finalité professionnelle et certificats de qualification ouvrant droit à l'enseignement, à l'animation
 ou à l'encadrement d'une activité physique ou sportive considérée ou dans un ensemble d'activités de même nature relatives à
 un public spécifique, ou à l'entraînement de ses pratiquants contre rémunération, conformément à l'article L. 212-1, figurent
-au tableau présenté en annexe II-1.
+au tableau présenté en annexe II-1 et au tableau annexé à l'arrêté du 22 janvier 2016 fixant la liste des diplômes acquis
+jusqu'au 31 décembre 2015.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
 
 _Cité par_:
 
@@ -40451,23 +40448,28 @@ _Cité par_:
   - Arrêté du 25 février 2019 - art. (V)
   - Code du sport. - art. Annexe II-1 (art. A212-1) (V)
 
+_Modifié par_:
+
+  - Arrêté du 22 janvier 2016 - art. 2
+
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
+  - Code du sport. - art. L212-1
 
 
 ###### Article A212-1-1
 
 Pour chacune des options, spécialités ou mentions de chaque diplôme, titre à finalité professionnelle et certificat de
-qualification inscrit à l'annexe II-1 du présent code, sont mentionnées les conditions d'exercice de leurs titulaires. Ceux-
-ci bénéficient de ces conditions d'exercice dans la limite des réglementations particulières susceptibles de s'appliquer à
+qualification inscrit à l'annexe II-1 du présent code et au tableau annexé à l'arrêté du 22 janvier 2016 fixant la liste des
+diplômes acquis jusqu'au 31 décembre 2015, sont mentionnées les conditions d'exercice de leurs titulaires. Ceux-ci
+bénéficient de ces conditions d'exercice dans la limite des réglementations particulières susceptibles de s'appliquer à
 l'activité considérée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 juillet 2008 - art. 2
+  - Arrêté du 22 janvier 2016 - art. 2
 
 
 ##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=364></a>
@@ -45448,13 +45450,25 @@ _Modifié par_:
 En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
 l'animation, l'enseignement ou l'entraînement de la spéléologie dans le cadre de la liberté d'établissement ou de la libre
-prestation de services se déclarent au préfet     du département de l'Isère.
+prestation de services se déclarent au préfet du département de l'Isère.
+
+Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur recevabilité et sollicite les trois avis suivants :
+
+- l'avis du centre de ressources, d'expertise et de performance sportive de Rhône-Alpes ;
+
+- l'avis de l'organisation professionnelle la plus représentative ;
+
+- l'avis de la Fédération française de spéléologie. 
+
+L'avis sollicité est transmis dans le délai de huit jours ouvrés au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme. A défaut, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 1er juin 2015 - art. 2
+  - Arrêté du 3 février 2016 - art. 1
 
 _Cite_:
 
@@ -45468,14 +45482,15 @@ _Cite_:
 
 La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93 susceptible d'exister entre la
 qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national est
-appréciée en référence à la formation du brevet d'Etat d'éducateur sportif, option " spéléologie " en tant qu'elle intègre
-les connaissances théoriques et pratiques en matière de sécurité et les compétences techniques de sécurité.
+appréciée en référence à la formation du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "
+perfectionnement sportif " mention " spéléologie " en tant qu'il intègre les connaissances théoriques et pratiques en matière
+de sécurité et les compétences techniques de sécurité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 21 décembre 2009 - art. 1
+  - Arrêté du 3 février 2016 - art. 2
 
 _Cite_:
 
@@ -45515,35 +45530,35 @@ _Cite_:
 
 ###### Article A212-218
 
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Rhône-Alpes,
-par le       centre de ressources, d'expertise et de performance sportives  de Voiron, site de Vallon-Pont-d'Arc.
+L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Auvergne
+Rhône-Alpes, par le centre de ressources, d'expertise et de performance sportives de Rhône-Alpes, site de Vallon-Pont-d'Arc.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
+  - Arrêté du 3 février 2016 - art. 3
 
 
 ###### Article A212-219
 
 Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
-sports de Rhône-Alpes ou son représentant et comprenant : 
+sports de d'Auvergne Rhône-Alpes ou son représentant et comprenant : 
 
-― le responsable du site de Vallon-Pont-d'Arc du       centre de ressources, d'expertise et de performance sportives  de
-Voiron ou son représentant ; 
+― le responsable du site de Vallon-Pont-d'Arc du centre de ressources, d'expertise et de performance sportives de Rhône-Alpes
+ou son représentant ; 
 
 ― au moins un représentant des organisations professionnelles les plus représentatives ; 
 
 ― deux représentants de la Fédération française de spéléologie dont le directeur technique national ou son représentant ; 
 
-― un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau IV en spéléologie.
+― un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau III en spéléologie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
+  - Arrêté du 3 février 2016 - art. 4
 
 
 ##### Sous-paragraphe 4 : Conditions d'exercice<a id=424></a>
@@ -45554,13 +45569,13 @@ Dans le cas où le préfet estime qu'il n'existe pas de différence substantiell
 identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
 d'éducateur sportif ou un récépissé de déclaration de prestation de services qui portent mention des conditions d'exercice
 suivantes : "Enseignement de la spéléologie dans toutes cavités, lieux d'entraînement pour tout public et dans le respect du
-milieu naturel”.
+milieu naturel”, " Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 21 décembre 2009 - art. 1
+  - Arrêté du 3 février 2016 - art. 5
 
 
 ##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=425></a>
@@ -55446,7 +55461,7 @@ _Cite_:
 
 (Article A. 212-1 du code du sport) 
 
-A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur 
+A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur 
 
 <table border="1">
   <thead>
@@ -55470,7 +55485,7 @@ LIMITES DES CONDITIONS D'EXERCICE
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 DEUG "sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous". 
 
@@ -55481,14 +55496,14 @@ Encadrement et animation auprès de tout public des activités physiques ou spor
 de loisir. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des pratiques compétitives. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques". 
 
@@ -55511,24 +55526,24 @@ Toute activité physique ou sportive visant l'amélioration de l'intégration so
 DEUST "activités physiques et sportives et inadaptations sociales". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toute activité physique ou sportive visant l'amélioration de l'intégration sociale. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DEUST "action, commercialisation des services sportifs". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement des pratiques physiques liées aux loisirs. 
 
@@ -55541,7 +55556,7 @@ intellectuelle ou un trouble psychique.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DEUST "manager de club sportif". 
 
@@ -55551,7 +55566,7 @@ DEUST "manager de club sportif".
 Encadrement des activités physiques ou sportives. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des personnes ayant un handicap, une déficience
 intellectuelle ou un trouble psychique. 
@@ -55564,24 +55579,24 @@ intellectuelle ou un trouble psychique.
 DEUST "métiers de la forme". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement des activités physiques ou sportives de publics seniors. 
 
@@ -55594,7 +55609,7 @@ des publics seniors.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DEUST "animation et gestion des activités physiques, sportives ou culturelles". 
 
@@ -55605,7 +55620,7 @@ Animation auprès de tout public par la découverte des activités physiques, sp
 activités. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation auprès de tout public, à l'exclusion : 
 
@@ -55617,12 +55632,12 @@ psychique ;
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Licence professionnelle "santé, option vieillissement et activités physiques adaptées". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement des activités physiques ou sportives de publics seniors. 
 
@@ -55635,18 +55650,18 @@ des publics seniors.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Licence professionnelle "activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de
 projets". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toute activité physique des métiers de la forme, liée au développement et à l'entretien du bien-être et de la santé. 
 
@@ -55658,12 +55673,12 @@ Toute activité physique des métiers de la forme, liée au développement et à
 Licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation auprès de tout public, des activités physiques et sportives. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation auprès de tout public, à l'exclusion : 
 
@@ -55685,7 +55700,7 @@ Licence professionnelle activités sportives, spécialité "métiers de la forme
 Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -55699,37 +55714,37 @@ Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de l
 (s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Licence "éducation et motricité" filière "sciences et techniques des activités physiques et sportives". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Licence "entraînement sportif" filière "sciences et techniques des activités physiques et sportives". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les)
 discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Licence "activité physique adaptée et santé" filière "sciences et techniques des activités physiques et sportives". 
 
@@ -55745,1224 +55760,98 @@ ou de réadaptation ou d'intégration de personnes présentant l'altération d'u
   </tbody>
 </table>
 
-B.-Diplômes et titres délivrés par le ministère chargé de l'agriculture 
+B. - Diplômes et titres délivrés par le ministère chargé de l'agriculture 
 
 Néant. 
 
-C.-Diplômes délivrés par le ministère chargé des sports 
+C. - Diplômes délivrés par le ministre chargé des sports
+
+C.1. - Brevet d'Etat d'éducateur sportif (BEES)
 
 <table border="1">
-  <thead>
-    <tr>
-      <td align="left" valign="top">
-
-INTITULÉ DU DIPLÔME 
-
-</td>
-      <td align="left" valign="top">
-
-CONDITIONS D'EXERCICE 
-
-</td>
-      <td align="left" valign="top">
-
-LIMITES DES CONDITIONS D'EXERCICE 
-
-</td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td colspan="3">
+      <th>
 
-Brevet d'Etat d'éducateur sportif (BEES) 
+INTITULÉ DU DIPLÔME
 
-</td>
+</th>
+      <th>
+
+CONDITIONS D'EXERCICE
+
+</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+</th>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-BEES, option "métiers de la forme". 
+BEES du 3e degré, toutes options.
 
 </td>
       <td valign="top" align="left">
 
-Enseignement des méthodes et techniques visant à entretenir et améliorer la condition physique ; conduite de séances de
-préparation physique sportive. 
+Enseignement de l'activité visée par l'option considérée, dans tout établissement.
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
-
-BEES, option "activités gymniques" (gymnastique générale, gymnastique artistique féminine, gymnastique artistique masculine,
-gymnastique rythmique et sportive, aérobic). 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités gymniques dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "gymnastique sportive féminine". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement des activités gymniques dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "gymnastique sportive masculine". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités gymniques dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "gymnastique sportive masculine et féminine". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement des activités gymniques dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "gymnastique rythmique et sportive". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement des activités gymniques dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "haltérophilie, culturisme, musculation éducative, sportive et d'entretien". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de l'haltérophilie, du culturisme, de la musculation éducative, sportive et d'entretien dans tout
-établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "animation des activités physiques pour tous". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des activités physiques ou sportives dans une perspective de découverte des activités encadrées, de développement
-et de maintien des capacités physiques individuelles dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-
-A l'exclusion de toute activité d'entraînement ou d'approfondissement d'une discipline sportive. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "activités physiques et sportives adaptées". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités physiques ou sportives adaptées auprès des personnes déficientes intellectuelles ou des personnes
-atteintes de troubles psychiques. 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la natation sous la surveillance d'un maître nageur sauveteur. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "sports pour handicapés physiques et sensoriels" (options principales : athlétisme, basket-ball en fauteuil
-roulant, développé couché et musculation, tennis de table, tir à l'arc, volley-ball, natation, ski alpin, ski nordique de
-fond). 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement des activités physiques ou sportives adaptées auprès des personnes handicapées physiques et sensorielles. 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la natation dans les seuls établissements spécialisés, sous la surveillance d'un maître nageur sauveteur ; 
-
-Enseignement du ski alpin et du ski nordique réservé aux personnes ayant choisi ces disciplines en option. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "activités de la natation". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement des activités de la natation, entraînement à la compétition et surveillance des baignades dans tout lieu de
-baignade ou établissement de natation. 
-
-</td>
-      <td align="left" valign="top">
-
-Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur
-sauveteur, en cours de validité. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "aviron". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de l'aviron dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "canoë-kayak et disciplines associées". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-
-Dans les rivières jusqu'à la classe 3. 
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "canoë-kayak et disciplines associées" assorti du certificat de qualification complémentaire (CQC) "entraînement
-à la compétition". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement de
-séances ou stages d'entraînement. 
-
-</td>
-      <td align="left" valign="top">
-
-Dans les rivières jusqu'à la classe 3. 
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "mer". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement des
-sorties en mer, y compris vent supérieur à force 3 Beaufort ou à plus d'un mille d'un abri accessible et conduite des séances
-d'apprentissage et d'entraînement de canoë-kayak de vagues. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "raft en eaux vives". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du
-canoë-kayak et du raft y compris dans les rivières de classe supérieure à 3. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "nage en eaux vives". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du
-canoë-kayak et de la nage en eaux vives y compris dans les rivières de classe supérieure à 3. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "canoë-kayak en eaux vives". 
-
-</td>
-      <td align="left" valign="top">
-
-Organisation et enseignement du canoë-kayak sur rivières de toutes classes. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "char à voile". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du char à voile dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "plongée subaquatique". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la plongée subaquatique dans les conditions techniques et de sécurité prévues par la réglementation. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "ski nautique". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement et organisation des activités de ski nautique sous toutes leurs formes, dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "surf". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités du surf dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "voile". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la voile (catamarans, dériveurs, planches à voile, habitables) dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "aïkido", spécialité "aïkido". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de l'aïkido dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "aïkido", spécialité "aïkibudo" 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de l'aïkibudo dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "boxe anglaise". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la boxe anglaise dans tout établissement, avec le titre de prévôt. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "boxe française". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la boxe française dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "escrime". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de l'escrime (épée, fleuret, sabre) dans tout établissement, avec le titre de maître d'armes. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "judo, jujitsu". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du judo et des disciplines associées dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "karaté et arts martiaux affinitaires". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du karaté et des arts martiaux affinitaires dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "lutte". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la lutte dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "sambo". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du sambo dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "taekwondo et disciplines associées". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du taekwondo et des disciplines associées dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "athlétisme". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de l'athlétisme (vitesse, haies, demi-fond, fond, marche, sauts, lancers) dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "badminton". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du badminton dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "billard". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du billard (billard français, américain, pool anglais) dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "bobsleigh". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du bobsleigh dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "hockey sur glace". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du hockey sur glace dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "patinage sur glace". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du patinage sur glace dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "patinage artistique". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du patinage sur glace et notamment du patinage artistique dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "patinage de vitesse". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du patinage sur glace et notamment du patinage de vitesse dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "patinage danse". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du patinage sur glace et notamment du patinage danse dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "roller-skating". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du roller-skating (patinage artistique, rink-hockey, course, danse, randonnée, roller acrobatique, roller in
-line hockey, skateboard) dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "pentathlon moderne". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du pentathlon moderne dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "motocyclisme". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du motocyclisme dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "motocyclisme" assorti du CQC "sécurité routière des cyclomotoristes". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du motocyclisme dans tout établissement. Encadrement de stages d'initiation à la conduite de cyclomoteurs dont
-le déroulement s'effectue en partie sur la voie publique et qui conduisent à la délivrance du brevet de sécurité routière
-valant autorisation de conduite des cyclomoteurs. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "trampoline et sports acrobatiques". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du trampoline et des sports acrobatiques dans tout établissement : trampoline, double mini-tramp, tumbling,
-acrosport. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "golf". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du golf et des disciplines associées dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "tennis". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du tennis dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "tennis de table". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du tennis de table dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "squash". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du squash dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "tir à l'arc". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du tir à l'arc dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "tir sportif". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du tir sportif dans tout établissement : 
-
-- plateau : double trap, fosse olympique, skeet olympique, fosse américaine ;
-
-- cible : arbalète, carabine, pistolet, sanglier courant. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "sport-boules". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du sport-boules dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "pelote basque". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la pelote basque dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "activités du cyclisme". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités du cyclisme dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "cyclisme", spécialité "cyclisme traditionnel". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du cyclisme traditionnel dans tout établissement : route, piste, cyclo-cross. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "cyclisme", spécialité "bicross". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du bicross dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "cyclisme", spécialité "cyclisme en salle". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du cyclisme en salle dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "cyclisme", spécialité "vélo tout terrain (VTT)". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du vélo tout terrain dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "cyclisme" assorti du CQC "VTT en milieu montagnard". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la spécialité et de l'activité VTT en milieu montagnard dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "course d'orientation". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement et conduite de la course d'orientation dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "équitation-activités équestres". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement des activités équestres dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "parachutisme", spécialité "progression traditionnelle (TRAD)". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la TRAD dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "parachutisme", spécialité "progression accompagnée en chute libre (PAC)". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la PAC dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "parachutisme", spécialité "parachute biplace (tandem)". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du parachute biplace (tandem) dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "vol libre", spécialité "parapente". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du parapente dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "vol libre", spécialité "delta". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du delta dans tout établissement. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "spéléologie", délivré avant le 31 décembre 1996. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement de la spéléologie dans toute cavité et tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "spéléologie", délivré après le 1er janvier 1997. 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la spéléologie dans toutes cavités, canyons, lieux d'entraînement pour tout public et dans le respect du
-milieu naturel. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "escalade", délivré avant le 31 décembre 1996. 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de la discipline sur des structures artificielles d'escalade à toute altitude et sur des sites naturels
-d'escalade situés à une altitude inférieure à 1 500 mètres. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "escalade", délivré après le 1er janvier 1997. 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement de la discipline sur des structures artificielles d'escalade et dans les canyons à caractéristiques verticales
-et aquatiques nécessitant l'usage d'agrès à toute altitude et sur des sites naturels d'escalade situés à une altitude
-inférieure à 1 500 mètres. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion : 
-
-- des sites enneigés ou de ceux dont l'accès ne peut s'effectuer qu'en traversant des zones enneigées ;
-
-- des sites dont la fréquentation fait appel aux techniques de la neige et de la glace. 
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Diplôme d'aspirant guide du brevet d'Etat d'alpinisme. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et conduite de personnes dans des excursions ou des ascensions : 
-
-- alpinisme (randonnée, rocher, neige, glace et mixte) : randonnées à toutes altitudes ; courses faciles et peu difficiles ;
-courses AD, D, TD ; courses hivernales
-
-- ski alpinisme ;
-
-- escalade sportive. 
-
-Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux
-pratiques de compétition dans ces disciplines. 
-
-</td>
-      <td valign="top" align="left">
-
-Alpinisme : 
-
-- courses faciles et peu difficiles jusqu'à 5 000 mètres ;
-
-- courses AD, D, TD jusqu'à 3 500 mètres ;
-
-- courses hivernales jusqu'à 2 000 mètres sans limitation de difficulté. 
-
-Ski alpinisme jusqu'à 4 000 mètres et pour des randonnées à ski de deux jours maximum (une seule nuit en refuge). 
-
-Escalade sportive jusqu'à 2 000 mètres sans limitation de difficulté. 
-
-Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux
-pratiques de compétition dans les mêmes limites. 
-
-Ces limites sont sans objet, lorsque les activités sont placées sous la conduite d'un guide. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré avant le 31 décembre 1996. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain
-mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement
-aux pratiques de compétition dans les disciplines précitées. 
-
-</td>
-      <td align="left" valign="top">
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré après le 1er janvier 1997. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain
-mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement
-aux pratiques de compétition dans les disciplines précitées. Encadrement et enseignement de la pratique des canyons à
-caractéristiques verticales et aquatiques nécessitant l'usage d'agrès. 
-
-</td>
-      <td valign="top" align="left">
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montagnard". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain
-mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement
-aux pratiques de compétition dans les disciplines précitées. Enseignement de l'activité VTT en milieu montagnard. 
-
-</td>
-      <td valign="top" align="left">
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Diplôme d'accompagnateur en moyenne montagne (AMM) du brevet d'Etat d'alpinisme délivré en application de l'arrêté du 5 juin
-1985 modifié fixant les conditions de délivrance du diplôme d'AMM du brevet d'Etat d'alpinisme. 
-
-</td>
       <td align="left" valign="top">
-
-Conduite et encadrement de personnes en espace rural montagnard. Animation de groupes et enseignement des connaissances et
-savoir-faire propres à l'activité et au milieu. 
-
-</td>
-      <td valign="top" align="left">
-
-A l'exclusion : 
-
-- des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression l'utilisation du matériel ou des
-techniques de l'alpinisme ;
-
-- de toute pratique de la moyenne montagne enneigée. 
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêté du 10 mai 1993 relatif au brevet d'Etat
-d'alpinisme. 
+d'alpinisme.
 
 </td>
       <td align="left" valign="top">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
-type nordique, excluant tout accident de terrain et situés en moyenne montagne. 
+type nordique excluant tout accident de terrain et situés en moyenne montagne. 
 
-Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. 
+Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
       <td align="left" valign="top">
 
 A l'exclusion : 
 
-- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression, l'utilisation du matériel ou des
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des
 techniques de l'alpinisme ;
 
-- de la pratique du ski et activités assimilées. 
+- de la pratique du ski et activités assimilées.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Diplôme d'AMM du brevet d'Etat d'alpinisme assorti de la qualification "pratique de la moyenne montagne enneigée". 
+Diplôme d'AMM du brevet d'Etat d'alpinisme assorti de la qualification "pratique de la moyenne montagne enneigée".
 
 </td>
       <td valign="top" align="left">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
-type nordique, excluant tout accident de terrain et situés en moyenne montagne. 
+type nordique excluant tout accident de terrain et situés en moyenne montagne. 
 
-Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. 
+Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
       <td valign="top" align="left">
 
 A l'exclusion : 
 
-- des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des
 techniques de l'alpinisme ;
 
-- de la pratique du ski et activités assimilées. 
+- de la pratique du ski et activités assimilées.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
@@ -56970,650 +55859,530 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
       <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du brevet national de pisteur-secouriste 2e degré ou option ski alpin 2e
-degré ou option ski nordique 2e degré. 
+degré ou option ski nordique 2e degré.
+
+</td>
+      <td valign="top" align="left">
+
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
+type nordique excluant tout accident de terrain et situés en moyenne montagne. 
+
+Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
       <td align="left" valign="top">
 
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
-type nordique, excluant tout accident de terrain et situés en moyenne montagne. 
-
-Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. 
-
-</td>
-      <td valign="top" align="left">
-
 A l'exclusion : 
 
-- des rochers, des glaciers, des canyons et des terrains nécessitannt pour la progression, l'utilisation du matériel ou des
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des
 techniques de l'alpinisme ;
 
-- de la pratique du ski et activités assimilées. 
+- de la pratique du ski et activités assimilées.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, option "ski alpin" ou option "ski nordique". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
-type nordique, excluant tout accident de terrain et situés en moyenne montagne. 
-
-Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. 
-
-Prérogatives conférées aux titulaires du BEES option "ski alpin" ou "ski nordique" selon la spécialité. 
-
-</td>
-      <td valign="top" align="left">
-
-A l'exclusion : 
-
-- des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des
-techniques de l'alpinisme ;
-
-- de la pratique du ski et activités assimilées. 
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Diplôme d'AMM du brevet d'Etat d'alpinisme, option "moyenne montagne tropicale". 
+Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, option "ski alpin" ou option "ski nordique".
 
 </td>
       <td valign="top" align="left">
+
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
+type nordique excluant tout accident de terrain et situés en moyenne montagne. 
+
+Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
+
+Prérogatives conférées aux titulaires du BEES option "ski alpin" ou "ski nordique" selon la spécialité.
+
+</td>
+      <td align="left" valign="top">
+
+A l'exclusion : 
+
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des
+techniques de l'alpinisme ;
+
+- de la pratique du ski et activités assimilées.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Diplôme d'AMM du brevet d'Etat d'alpinisme, option "moyenne montagne tropicale".
+
+</td>
+      <td align="left" valign="top">
 
 Conduite et encadrement de personnes en moyenne montagne tropicale, animation de groupes et enseignement des connaissances et
-savoir-faire propres à l'activité et au milieu. 
+savoir-faire propres à l'activité et au milieu.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-A l'exclusion des rochers, des canyons, des terrains nécessitant, pour la progression, l'utilisation du matériel ou des
-techniques de l'alpinisme. 
+A l'exclusion des rochers, des canyons, des terrains nécessitant pour la progression l'utilisation du matériel ou des
+techniques de l'alpinisme.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme, option "moyenne montagne tropicale" assorti du CQC "encadrement du canyon en
-milieu tropical". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement de personnes dans les canyons situés en milieu tropical. 
+milieu tropical".
 
 </td>
       <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
 
-Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montagnard". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement de l'activité VTT en milieu montagnard. 
+Encadrement de personnes dans les canyons situés en milieu tropical.
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
+      <td valign="top" align="left">
+
+Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montagnard".
+
+</td>
       <td align="left" valign="top">
 
-BEES, option "ski alpin". 
+Enseignement de l'activité VTT en milieu montagnard.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+    </td></tr>
+  </tbody>
+</table>
 
-Enseignement et entraînement en ski alpin et activités assimilées à l'ensemble des classes de la progression du ski alpin
-définies par le Conseil supérieur des sports de montagne (CSSM). Permet d'exercer sur pistes et hors pistes. Confère le titre
-de moniteur national. 
+C.2. - Brevet d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports (BAPAAT)
 
-</td>
-      <td valign="top" align="left">
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
 
-A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de
-l'alpinisme. 
+INTITULÉ DU DIPLÔME
 
-</td>
+</th>
+      <th>
+
+CONDITIONS D'EXERCICE
+
+</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+</th>
     </tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "ski nordique de fond". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement, encadrement et animation du ski nordique de fond sous toutes ses formes, dans toutes les classes de la
-progression de l'enseignement du ski nordique de fond définie par le CSSM, y compris la classe compétition. Confère le titre
-de moniteur national. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "football". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du football dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "baseball et softball". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du baseball et du softball dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES option "basket-ball". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du basket-ball dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "handball". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du handball dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "volley-ball". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du volley-ball dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "hockey sur gazon". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du hockey sur gazon dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BEES, option "rugby". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement du rugby dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BEES, option "rugby à XIII". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement du rugby à XIII dans tout établissement. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Brevet d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports (BAPAAT) 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans les sites et structures d'accueil collectif" ;
-"loisirs de pleine nature". 
-
-</td>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Supports techniques du BAPAAT 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Bicross. 
-
-</td>
-      <td valign="top" align="left">
-
-Initiation au bicross, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié relatif à
-l'organisation et aux conditions de préparation et de délivrance du BAPAAT. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Escalade. 
-
-</td>
-      <td align="left" valign="top">
-
-Initiation à l'escalade, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Poney. 
-
-</td>
-      <td valign="top" align="left">
-
-Animation de l'activité poney, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Randonnée équestre. 
-
-</td>
-      <td align="left" valign="top">
-
-Accompagnement de randonnée équestre avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Randonnée nautique, raft. 
-
-</td>
-      <td align="left" valign="top">
-
-Initiation au raft, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Randonnée nautique, canoë-kayak. 
-
-</td>
-      <td valign="top" align="left">
-
-Initiation au canoë-kayak, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Randonnée nautique, nage en eau vive. 
-
-</td>
-      <td valign="top" align="left">
-
-Initiation à la nage en eau vive, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Randonnée nautique, kayak en mer. 
-
-</td>
-      <td align="left" valign="top">
-
-Initiation au kayak en mer, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Spéléologie. 
-
-</td>
-      <td align="left" valign="top">
-
-Initiation à la spéléologie, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Vélo tout-terrain (VTT). 
-
-</td>
-      <td valign="top" align="left">
-
-Initiation au VTT, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Randonnée pédestre. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de randonnées pédestres, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Course d'orientation. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement de la course d'orientation, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Jeux sportifs collectifs. 
-
-</td>
-      <td valign="top" align="left">
-
-Animation des jeux sportifs collectifs, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Roller-skating. 
-
-</td>
-      <td align="left" valign="top">
-
-Animation de l'activité roller-skating, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Tennis de table. 
-
-</td>
-      <td valign="top" align="left">
-
-Animation de la pratique du tennis de table, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier
-1993 modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Tir à l'arc. 
-
-</td>
-      <td align="left" valign="top">
-
-Animation de la pratique du tir à l'arc, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Swin. 
-
-</td>
-      <td align="left" valign="top">
-
-Animation de la pratique du swin, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
-modifié. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Randonnée équestre et brevet d'études professionnelles agricoles, option "activités hippiques", support technique "randonnée
-équestre". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité
-"accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques" et fixant
-les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre". 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS) 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-BP JEPS, spécialité "activités équestres". 
-
-</td>
-      <td valign="top" align="left">Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans
-toutes les activités équestres. </td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "activités équestres" 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Equitation. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation. </td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Tourisme équestre. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement
-de randonnées pour tout public et sur tout itinéraire. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Equitation western. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Equitation de tradition et de travail. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de
-travail. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Attelage. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
     <tr>
       <td>
 
-Certificats de spécialisation (CS) associés à la spécialité "activités équestres" 
+BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans les sites et structures d'accueil collectif" ;
+"loisirs de pleine nature".
 
 </td>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center" colspan="3">
 
-CS "course d'orientation". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en course d'orientation. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BP JEPS, spécialité "activités nautiques". 
-
-</td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions monovalentes de la spécialité "activités nautiques" 
+Supports techniques du BAPAAT
 
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+Bicross.
+
+</td>
+      <td align="left" valign="top">
+
+Initiation au bicross, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié relatif à
+l'organisation et aux conditions de préparation et de délivrance du BAPAAT.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
       <td valign="top" align="left">
 
-Aviron et disciplines associées. </td>
+Escalade.
+
+</td>
+      <td align="left" valign="top">
+
+Initiation à l'escalade, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Poney.
+
+</td>
+      <td>
+
+Animation de l'activité poney, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée équestre.
+
+</td>
+      <td>
+
+Accompagnement de randonnée équestre avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée nautique, raft.
+
+</td>
+      <td>
+
+Initiation au raft, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée nautique, canoë-kayak.
+
+</td>
+      <td>
+
+Initiation au canoë-kayak, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée nautique, nage en eau vive.
+
+</td>
+      <td>
+
+Initiation à la nage en eau vive, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée nautique, kayak en mer.
+
+</td>
+      <td>
+
+Initiation au kayak en mer, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Spéléologie.
+
+</td>
+      <td>
+
+Initiation à la spéléologie, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Vélo tout terrain (VTT).
+
+</td>
+      <td>
+
+Initiation au VTT, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Randonnée pédestre.
+
+</td>
+      <td>
+
+Conduite de randonnées pédestres, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Course d'orientation.
+
+</td>
+      <td>
+
+Encadrement de la course d'orientation, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Jeux sportifs collectifs.
+
+</td>
+      <td>
+
+Animation des jeux sportifs collectifs, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Roller skating.
+
+</td>
+      <td>
+
+Animation de l'activité roller skating, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Tennis de table.
+
+</td>
+      <td>
+
+Animation de la pratique du tennis de table, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier
+1993 modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Tir à l'arc.
+
+</td>
+      <td>
+
+Animation de la pratique du tir à l'arc, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Swin.
+
+</td>
+      <td>
+
+Animation de la pratique du swin, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993
+modifié.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+Randonnée équestre et brevet d'études professionnelles agricoles, option "activités hippiques, support technique "randonnée
+équestre".
+
+</td>
+      <td align="left" valign="top">
+
+Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité
+"accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques", et fixant
+les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre".
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+C.3. - Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS)
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+INTITULÉ DU DIPLÔME
+
+</th>
+      <th>
+
+CONDITIONS D'EXERCICE
+
+</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+</th>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+BP JEPS, spécialité "activités équestres".
+
+</td>
+      <td valign="top" align="left">
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Mentions de la spécialité "activités équestres"
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Equitation
+
+</td>
+      <td valign="top" align="left">
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+Tourisme équestre
+
+</td>
+      <td align="left" valign="top">
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement
+de randonnées pour tout public et sur tout itinéraire.
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+Equitation western
+
+</td>
+      <td align="left" valign="top">
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+Equitation de tradition et de travail
+
+</td>
+      <td align="left" valign="top">
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de
+travail.
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td>
+
+Attelage
+
+</td>
+      <td>
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "activités nautiques".
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Mentions monovalentes de la spécialité "activités nautiques"
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Aviron et disciplines associées.
+
+</td>
       <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron et
-disciplines associées. 
+disciplines associées.
 
 </td>
       <td align="left" valign="top">
@@ -57621,2300 +56390,1132 @@ disciplines associées.
     <tr>
       <td valign="top" align="left">
 
-Canoë-kayak et disciplines associées. </td>
+Canoë-kayak et disciplines associées.
+
+</td>
       <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
 kayak et disciplines associées sur tout support ou embarcation propulsée à la pagaie ou à la nage. 
 
-Encadrement des activités de canyonisme. 
+Encadrement des activités de canyonisme.
 
 </td>
       <td align="left" valign="top">
 
 En eau calme. 
 
-En mer par vent de force 4 au maximum sur le site d'évolution. 
+En mer par vent de force 4 au maximum sur le site d'évolution.
 
-En eau vive jusqu'en classe III incluse. 
+En eau vive jusqu'en classe III incluse.
 
-En eau vive jusqu'en classe III incluse et dans les canyons cotés jusqu'à V1, A5 et E II inclus. 
+En eau vive jusqu'en classe III incluse et dans les canyons cotés jusqu'à V1, A5 et E II inclus.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Char à voile. 
+Char à voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en char à
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en char à
 voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de
-l'activité aménagé et ouvert. 
+l'activité aménagé et ouvert.
 
 </td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
       <td valign="top" align="left">
 
+Glisse aérotractée.
+
 </td>
-    </tr>
-    <tr>
       <td align="left" valign="top">
 
-Glisse aérotractée. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en glisse
-aérotractée. 
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en glisse
+aérotractée.
 
 </td>
       <td valign="top" align="left">
 
 Activités de cerf-volant, de cerf-volant de traction terrestre, de cerf-volant de traction nautique ou de planche nautique ou
 de planche nautique tractée dite "kitesurf", pour tout public et sur tout lieu nautique ou terrestre de pratique de
-l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Motonautisme. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-motonautisme. 
-
-</td>
-      <td valign="top" align="left">
-
-Activités de jet, bateau à moteur, engins tractés, pour tout public et sur tout lieu de pratique de l'activité. 
+l'activité.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Ski nautique et disciplines associées. </td>
-      <td valign="top" align="left">
+Motonautisme.
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en ski
-nautique et disciplines associées. </td>
+</td>
       <td align="left" valign="top">
 
-Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses), pour tout public et
-sur tout lieu de pratique de l'activité. </td>
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en
+motonautisme.
+
+</td>
+      <td align="left" valign="top">
+
+Activités de jet, bateau à moteur, engins tractés, pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Ski nautique et disciplines associées.
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en ski
+nautique et disciplines associées.
+
+</td>
+      <td align="left" valign="top">
+
+Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses) pour tout public et
+sur tout lieu de pratique de l'activité.
+
+</td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Surf. 
+Surf.
 
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en surf. 
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en surf.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Activités de surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard) pour tout public et sur tout lieu de
-pratique de l'activité. 
+pratique de l'activité.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Voile. 
+Voile.
 
 </td>
       <td valign="top" align="left">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en voile. 
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Activités de multicoque, dériveur, croisière (jusqu'à 12 milles nautiques d'un abri) et planche à voile pour tout public et
 sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un abri, possibilité d'encadrer en croisière au
-sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis. 
+sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="center" colspan="3">
 
-Mentions plurivalentes de la spécialité "activités nautiques" 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Groupe A 
+Mentions plurivalentes de la spécialité "activités nautiques"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td colspan="3" align="center">
 
-Aviron de mer. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de
-mer. </td>
-      <td align="left" valign="top">
-
-Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin. </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Aviron d'initiation et de découverte. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation. 
-
-</td>
-      <td align="left" valign="top">Sur tout type de bateaux, pour tout public sur des plans d'eau calmes, abrités et
-délimités. </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Groupe B 
+Groupe A
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Canoë-kayak "eau calme et rivière d'eau vive". 
+Aviron de mer
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en aviron de
+mer.
 
 </td>
       <td valign="top" align="left">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
-kayak "eau calme et rivière d'eau vive". 
+Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
 
 </td>
-      <td valign="top" align="left">
-
-Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse. </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Canoë-kayak "eau calme, mer et vagues". 
+Aviron d'initiation et de découverte.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation.
+
+</td>
+      <td>
+
+Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+
+Groupe B
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Canoë-kayak "eau calme et rivière d'eau vive".
 
 </td>
       <td valign="top" align="left">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
-kayak "eau calme, mer et vagues" 
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-
+kayak "eau calme et rivière d'eau vive".
+
+</td>
+      <td align="left" valign="top">
+
+Pour tout public en eau calme et en rivière jusqu'en classe III incluse.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Canoë-kayak "eau clame, mer et vagues".
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-
+kayak "eau calme, mer et vagues".
 
 </td>
       <td align="left" valign="top">
 
 Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e catégorie sur des parcours connus et reconnus,
-au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues. 
+au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="center" colspan="3">
 
-Groupe C 
+Groupe C
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Char à voile d'initiation et de découverte. 
+Char à voile d'initiation, et de découverte.
 
 </td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation en char à voile.
+
+</td>
+      <td>
+
+Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+
+Groupe D
+
+</td>
+    </tr>
+    <tr>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités de découverte et d'initiation en char à voile. </td>
+Croisière côtière.
+
+</td>
       <td valign="top" align="left">
-
-Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Groupe D 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Croisière côtière. 
-
-</td>
-      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière
-côtière. 
+côtière.
 
 </td>
       <td valign="top" align="left">
 
-Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri.
+Sur des voiliers autres que les embarcations légères de plaisance, pour tout public jusqu'à 12 milles nautiques d'un abri.
 Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
-possédant les diplômes requis. 
+possédant les diplômes requis.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Multicoques et dériveurs. 
+Multicoques et dériveurs.
 
 </td>
       <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-multicoques et dériveurs. 
+multicoques et dériveurs.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Pour tout public et sur tout lieu de pratique de l'activité. 
+Pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Planche à voile. 
+Planche à voile.
 
 </td>
       <td valign="top" align="left">
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-multicoques et dériveurs. 
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en planche à
+voile.
 
 </td>
       <td valign="top" align="left">
 
-Pour tout public et sur tout lieu de pratique de l'activité. 
+Pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="center" colspan="3">
 
-Groupe E 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Ski nautique d'initiation et de découverte. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation en ski nautique. 
-
-</td>
-      <td align="left" valign="top">
-
-Activités du ski nautique (bi-ski, wakeboard), pour tout public et sur tout lieu de pratique de l'activité. 
+Groupe E
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td>
 
-Groupe F 
+Ski nautique d'initiation et de découverte.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation en ski nautique.
+
+</td>
+      <td>
+
+Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td colspan="3" align="center">
 
-Jet (véhicule nautique à moteur). 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en jet. 
-
-</td>
-      <td valign="top" align="left">
-
-Activités de véhicule nautique à moteur, pour tout public et sur tout lieu de pratique de l'activité. 
+Groupe F
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Bateau à moteur d'initiation et de découverte. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation. 
+Jet (véhicule nautique à moteur).
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Tous types de bateaux définis, pour tout public et sur tout lieu de pratique de l'activité. 
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en jet.
+
+</td>
+      <td>
+
+Activités de véhicule nautique à moteur pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Engins tractés. 
+Bateau à moteur d'initiation et de découverte.
 
 </td>
-      <td valign="top" align="left">
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation.
+
+</td>
+      <td>
+
+Tous types de bateaux définis, pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Engins tractés.
+
+</td>
+      <td>
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en engins
-tractés. 
+tractés.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) pour tout public et sur tout lieu de pratique
-de l'activité. 
+de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="3" align="center">
 
-Groupe G 
+Groupe G
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Parachutisme ascensionnel nautique. 
+Parachutisme ascensionnel nautique.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-parachutisme ascensionnel nautique. 
+parachutisme ascensionnel nautique.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de
-l'activité. </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "activités nautiques" 
+l'activité.
 
 </td>
     </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "aviron de mer". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de
-mer. 
-
-</td>
-      <td align="left" valign="top">
-
-Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "aviron d'initiation et de découverte". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation. 
-
-</td>
-      <td valign="top" align="left">
-
-Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "canoë-kayak, eau calme, mer et vagues". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
-kayak, eau calme, mer et vagues. 
-
-</td>
-      <td align="left" valign="top">
-
-Pour tout public, en eau calme et en mer, dans la limite de la navigation en 6e catégorie sur des parcours connus et
-reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "canoë-kayak, eau calme et rivière d'eau vive". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
-kayak, eau calme et rivière d'eau vive. 
-
-</td>
-      <td align="left" valign="top">
-
-Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "char à voile d'initiation et de découverte". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation en char à voile. 
-
-</td>
-      <td align="left" valign="top">
-
-Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "croisière côtière". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière
-côtière. 
-
-</td>
-      <td align="left" valign="top">
-
-Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri.
-Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
-possédant les diplômes requis. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "multicoques et dériveurs". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-multicoques et dériveurs. 
-
-</td>
-      <td align="left" valign="top">
-
-Pour tout public et sur tout lieu de pratique de l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "planche à voile". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en planche à
-voile. 
-
-</td>
-      <td align="left" valign="top">
-
-Pour tout public et sur tout lieu de pratique de l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "ski nautique d'initiation et de découverte". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de découverte et d'initiation en ski nautique. 
-
-</td>
-      <td valign="top" align="left">
-
-Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "jet". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en jet. 
-
-</td>
-      <td valign="top" align="left">
-
-Toute forme de pratique pour tout public et sur tout lieu de pratique de l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "bateau à moteur d'initiation et de découverte". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation. 
-
-</td>
-      <td valign="top" align="left">
-
-Tous types de bateaux définis, pour tout public et sur tout lieu de pratique de l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "engins tractés". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en engins
-tractés. 
-
-</td>
-      <td align="left" valign="top">
-
-Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish), pour tout public et sur tout lieu de pratique de
-l'activité. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "parachutisme ascensionnel nautique". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
-parachutisme ascensionnel nautique. 
-
-</td>
-      <td align="left" valign="top">
-
-Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de
-l'activité. </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation (CS) associés à la spécialité "activités nautiques" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "croisière". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites navigation du (ou
-des) voilier (s) utilisé (s) jusqu'à 200 milles nautiques d'un abri. 
-
-</td>
-      <td align="left" valign="top">
-
-Croisière : encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites
-navigation du (ou des) voilier (s) utilisé (s) jusqu'à 200 milles nautiques d'un abri. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "activités d'escalade". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
-escalade. 
-
-</td>
-      <td valign="top" align="left">
-
-Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs
-limités aux "secteurs découverte" (1) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ;
-tous parcours aménagés, dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "cerf-volant". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BP JEPS, spécialité "activités pugilistiques". 
-
-</td>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "activités pugilistiques" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Kick boxing. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de kick boxing. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Muaythaï. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de muaythaï. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Boxe anglaise. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de boxe anglaise. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Boxe française, savate. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de boxe française, savate. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Full contact. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de full contact 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
     <tr>
       <td>
 
-Sports de contact 
+BP JEPS, spécialité "activités pugilistiques"
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center" colspan="3">
+
+Mentions de la spécialité "activités pugilistiques"
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Kick boxing.
 
 </td>
       <td>
 
-Animation d'activités de sports de contact. 
-
-</td>
-      <td>
-
-A l'exclusion de toute pratique compétitive. 
-
-</td>
-    </tr>
-    <tr>
-      <td>Boxe. </td>
-      <td>
-
-Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions. 
+Encadrement et animation d'activités de kick boxing.
 
 </td>
       <td>
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Certificats de spécialisation associés à la spécialité "activités pugilistiques" 
+Muaythaï.
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      <td>
 
-CS "lutte et disciplines associées". 
+Encadrement et animation d'activités de muaythaï.
 
 </td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BP JEPS, spécialité "golf". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation de l'activité golf. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "golf" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "squash". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage en squash, jusqu'au premier niveau de compétition. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-BP JEPS, spécialité "pêche de loisir". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement, animation et initiation d'activités de pêche sportive en eau douce. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "pêche de loisir" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "pêche de loisir en milieu maritime". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage en pêche de loisir en milieu maritime, jusqu'au premier niveau de compétition. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BP JEPS, spécialité "sport automobile". 
-
-</td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "sport automobile" 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Circuit. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en circuit. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Karting. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en karting. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Perfectionnement du pilotage. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en perfectionnement du pilotage. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Rallye. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en rallye. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Tout-terrain. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en tout-terrain. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "sport automobile" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "conduite sur glace". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
-compétition en conduite sur glace. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "conduite de loisir sur quad". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BP JEPS, spécialité "activités physiques pour tous". 
-
-</td>
-      <td align="left" valign="top">
-
-Animation à destination des différents publics à travers notamment la découverte des activités physiques. 
-
-</td>
-      <td valign="top" align="left">
-
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
-handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "activités physiques pour tous" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "baseball et softball". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en baseball et softball. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "cricket". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cricket. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "football américain et flag". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en football américain et flag. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "football américain". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "flag". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "rugby à XIII". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en rugby à XIII. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "triathlon". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en triathlon. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "swin". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en swin. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "pétanque". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pétanque. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "skateboard". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage en skateboard. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "squash". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en squash. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "cyclisme traditionnel". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en
-cyclo-cross. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "BMX". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "vélo tout terrain". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain. 
-
-</td>
-      <td valign="top" align="left">
-
-A l'exclusion du vélo tout terrain de descente. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "carambole". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en carambole. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "billard à poches". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en billard à poches. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "vélo tout terrain". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion du vélo tout terrain de descente. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation (CS) associés à la spécialité "activités physiques pour tous" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "cerf-volant". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "roller". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles de découverte, d'initiation et d'apprentissage en roller. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "activités athlétiques". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "activités d'escalade". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
-escalade. 
-
-</td>
-      <td align="left" valign="top">
-
-Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs
-limités aux "secteurs découverte" (2) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ;
-tous parcours aménagés, dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "tennis de table". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'animation et d'entraînement en tennis de table. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "bowling et sport de quilles". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage et de séances d'entraînement jusqu'au premier niveau de compétition en bowling. Conduite
-de cycles d'initiation et d'apprentissage en sports de quilles. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "tir sportif". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "tir à l'arc". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en tir à l'arc. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "escrime". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en escrime. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "accompagnement et intégration des personnes en situation de handicap". 
-
-</td>
-      <td valign="top" align="left">
-
-Animation des activités physiques ou sportives : 
-
-- auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant
-une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;
-
-- auprès de groupes constitués exclusivement de ces publics. 
-
-</td>
-      <td align="left" valign="top">
-
-Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée : 
-
-- à titre ponctuel ;
-
-- et en qualité de prestataire pour le compte de la structure employeuse. 
-
-Les pratiquants demeurent sous la responsabilité éducative et/ ou thérapeutique du personnel de la structure spécialisée qui
-les accompagne. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "pentathlon moderne". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de
-compétition en pentajeune. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "course d'orientation". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en course d'orientation. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "lutte et disciplines associées". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td>CS sport-boules . </td>
-      <td>Conduite de cycles de découverte, d'animation, d'initiation et d'entraînement jusqu'au premier niveau de
-compétition en sport-boules.</td>
       <td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-CS athlétisme et disciplines associées. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et
-disciplines associées.
+Boxe anglaise.
 
 </td>
-      <td valign="top" align="left">
+      <td>
+
+Encadrement et animation d'activités de boxe anglaise.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Boxe française, savate.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de boxe française, savate.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Full contact.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de full contact.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Sports de contact.
+
+</td>
+      <td>
+
+Animation d'activités de sports de contact.
+
+</td>
+      <td>
 
 A l'exclusion de toute pratique compétitive.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-CS hockey.
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "activités gymniques de la forme et de la force" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Activités gymniques acrobatiques. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques acrobatiques. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Activités gymniques d'expression. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques d'expression. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Forme en cours collectifs. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités de forme en cours collectifs. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Haltère, musculation et forme sur plateau. 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités haltère, musculation et forme sur
-plateau. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires associées à la spécialité "activités gymniques de la forme et de la force" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "gymnastique artistique féminine". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique
-féminine. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "gymnastique artistique masculine". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique
-masculine. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "gymnastique acrobatique". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique acrobatique. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "gymnastique rythmique". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique rythmique. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "gymnastique aérobic". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique aérobic. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "trampoline". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en trampoline. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "tumbling". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en tumbling. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "twirling". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en twirling. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "force athlétique". 
-
-</td>
-      <td valign="top" align="left">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en force athlétique. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "culturisme". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en culturisme. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "haltérophilie". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en haltérophilie. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation associés à la spécialité "activités gymniques de la forme et de la force" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "activités d'escalade". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
-escalade. 
-
-</td>
-      <td align="left" valign="top">
-
-Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs
-limités aux "secteurs découverte" (3) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ;
-tous parcours aménagés dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "tennis de table". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation et d'entraînement en tennis de table. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "escrime". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en escrime. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "lutte et disciplines associées". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS athlétisme et disciplines associées . 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et
-disciplines associées. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion de toute pratique compétitive. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-BP JEPS, spécialité "activités sports collectifs". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "activités sports collectifs" 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Basket-ball. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite en autonomie d'une séance d'entraînement en basket-ball. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Football. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite en autonomie d'une séance d'entraînement en football. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Handball. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite en autonomie d'une séance d'entraînement en handball. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Hockey sur gazon. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite en autonomie d'une séance d'entraînement en hockey sur gazon. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Rugby à XIII. 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite en autonomie d'une séance d'entraînement en rugby à XIII. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Rugby à XV 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite en autonomie d'une séance d'entraînement en rugby à XIII. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Volley-ball. 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite en autonomie d'une séance d'entraînement en volley-ball. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires associées à la spécialité "activités sports collectifs". 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-UCC "squash". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition fédérale en squash. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation associés à la spécialité "activités sports collectifs" 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "activités athlétiques". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "tennis de table". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation et d'entraînement en tennis de table. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td>CS athlétisme et disciplines associées . 
+Boxe
 
 </td>
       <td>
 
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et
-disciplines associées. 
+Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions.
 
 </td>
-      <td>A l'exclusion de toute pratique compétitive. 
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "pêche de loisirs".
+
+</td>
+      <td>
+
+Encadrement, animation et initiation d'activités de pêche sportive en eau douce.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "sport automobile".
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center" colspan="3">
+
+Mentions de la spécialité "sport automobile"
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-BP JEPS, spécialité "vol libre". 
+Circuit.
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en circuit.
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+Karting.
 
 </td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en karting.
+
+</td>
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td colspan="3">
+      <td valign="top" align="left">
 
-Mentions de la spécialité "vol libre" 
+Perfectionnement du pilotage.
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en perfectionnement du pilotage.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+Rallye
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en rallye.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Tout-terrain.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en tout-terrain.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+BP JEPS, spécialité "activités physiques pour tous".
+
+</td>
+      <td align="left" valign="top">
+
+Animation à destination de différents publics à travers notamment la découverte des activités physiques.
+
+</td>
+      <td align="left" valign="top">
+
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
+handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Parapente. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente. 
+BP JEPS, spécialité "activités gymniques de la forme et de la force".
 
 </td>
-      <td align="left" valign="top">
+      <td>
+      </td><td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center" colspan="3">
 
-Deltaplane. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente. 
+Mentions de la spécialité "activités gymniques de la forme et de la force"
 
 </td>
-      <td align="left" valign="top">
+    </tr>
+    <tr>
+      <td>
+
+Activités gymniques acrobatiques.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques acrobatiques.
+
+</td>
+      <td>
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-BP JEPS, spécialité "activités aquatiques". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement et animation d'activités aquatiques d'éveil, de découverte et d'initiation jusqu'aux premiers apprentissages
-auprès de tout public et d'activités aquagym. 
+Activités gymniques d'expression
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Surveillance des publics dans le cadre des activités encadrées. 
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques d'expression.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Forme en cours collectifs.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités de forme en cours collectifs.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Haltère, musculation et forme sur plateau.
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités haltère, musculation et forme sur
+plateau.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "activités sports collectifs".
+
+</td>
+      <td>
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Mentions de la spécialité "activités sports collectifs"
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Basket-ball.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en basket-ball.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Football.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en football.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Handball.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en handball.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Hockey sur gazon.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en hockey sur gazon.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rugby à XIII.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en rugby à XIII.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rugby à XV.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en rugby à XV.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Volley-ball.
+
+</td>
+      <td>
+
+Conduite en autonomie d'une séance d'entraînement en volley-ball.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "vol libre"
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Mentions de la spécialité "vol libre"
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-BP JEPS, spécialité "activités aquatiques et de la natation". 
+Parapente.
 
 </td>
       <td align="left" valign="top">
 
-Encadrement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et
+Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+Deltaplane.
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en deltaplane.
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+BP JEPS, spécialité "activités aquatiques et de la natation".
+
+</td>
+      <td align="left" valign="top">
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et
 enseignement des différentes nages. 
 
-Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. 
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
       <td align="left" valign="top">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
-en cours de validité. 
+en cours de validité.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-BP JEPS, spécialité "escrime". 
+BP JEPS, spécialité "escrime".
 
 </td>
       <td align="left" valign="top">
 
 Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles
-d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition. 
+d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
 
-BP JEPS, spécialité "plongée subaquatique". 
+BP JEPS, spécialité "plongée subaquatique".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de la randonnée subaquatique. 
 
-Enseignement et encadrement de la plongée subaquatique dans les conditions techniques et de sécurité définies aux articles A.
-322-71 et suivants du code du sport. 
+Enseignement et encadrement de la plongée subaquatique, dans les conditions techniques et de sécurité définies aux articles
+A. 322-71 et suivants du code du sport.
 
 </td>
       <td valign="top" align="left">
 
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-BP JEPS, spécialité "parachutisme", mention "tandem". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement en autonomie du tandem dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants
-du code du sport. 
+BP JEPS, spécialité "parachutisme".
 
 </td>
-      <td align="left" valign="top">
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme. 
-
-</td>
-    </tr>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td colspan="3" align="center">
 
-BP JEPS, spécialité "parachutisme", mention "progression accompagnée en chute libre" 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement en autonomie de la progression accompagnée en chute libre dans les conditions techniques et de sécurité définies
-aux articles A. 322-147 et suivants du code du sport. 
-
-</td>
-      <td valign="top" align="left">
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme. 
+Mentions de la spécialité "parachutisme"
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-BP JEPS, spécialité "parachutisme" mention "progression traditionnelle" 
+Tandem.
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et
+suivants du code du sport.
+
+</td>
+      <td align="left" valign="top">
+
+Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
+parachutisme.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Progression accompagnée en chute libre.
 
 </td>
       <td valign="top" align="left">
 
-Encadrement en autonomie de la progression traditionnelle dans les conditions techniques et de sécurité définies aux articles
-A. 322-147 et suivants du code du sport. 
+Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies
+aux articles A. 322-147 et suivants du code du sport.
 
 </td>
       <td valign="top" align="left">
 
 Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme. 
+parachutisme.
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-BP JEPS, spécialité "activités du cyclisme" 
+Progression traditionnelle.
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de sécurité définies aux
+articles A. 322-147 et suivants du code du sport.
+
+</td>
+      <td align="left" valign="top">
+
+Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
+parachutisme.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+BP JEPS, spécialité "activités du cyclisme".
 
 </td>
       <td valign="top" align="left">
 
-Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo. 
+Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.
+
+</td>
+      <td align="left" valign="top">
+
+A l'exclusion de toute pratique compétitive.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Mentions de la spécialité "activités du cyclisme"
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+BMX.
 
 </td>
       <td valign="top" align="left">
 
-A l'exclusion de toute pratique compétitive. 
+Préparation et mise en œuvre de cycles d'apprentissage en BMX.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Mentions de la spécialité "activités du cyclisme" 
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
       <td>
 
-BMX. 
+Cyclisme traditionnel.
 
 </td>
       <td>
 
-Préparation et mise en œuvre de cycles d'apprentissage en BMX. 
+Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel.
 
 </td>
       <td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
-Cyclisme traditionnel. 
+VTT.
 
 </td>
       <td>
 
-Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel. 
+Préparation et mise en œuvre de cycles d'apprentissage en VTT.
 
 </td>
       <td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
-VTT. 
-
-</td>
-      <td>
-
-Préparation et mise en œuvre de cycles d'apprentissage en VTT. 
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-BP JEPS, spécialité "lutte et disciplines associées". 
+BP JEPS, spécialité "lutte et disciplines associées".
 
 </td>
       <td>
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et
-disciplines associées. 
+disciplines associées.
 
 </td>
       <td>
 
-A l'exclusion de toute pratique compétitive au-delà du niveau régional. 
+A l'exclusion de toute pratique compétitive au-delà du niveau régional.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="3" align="center">
 
-Mentions de la spécialité lutte et disciplines associées 
+Mentions de la spécialité "lutte et disciplines associées"
 
 </td>
     </tr>
     <tr>
-      <td>Lutte. </td>
-      <td>
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition régionale en lutte. 
-
-</td>
-      <td>
-    </td></tr>
-    <tr>
       <td align="left" valign="top">
 
-Sambo. 
+Lutte.
 
 </td>
       <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition régionale en sambo. 
+compétition régionale en lutte.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+Sambo.
 
 </td>
       <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td>Grappling. </td>
-      <td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux
-de compétition régionale en grappling. </td>
-      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
+compétition régionale en sambo.
+
+</td>
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
 
-Lutte bretonne (gouren). 
+Grappling.
 
 </td>
       <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
-compétition régionale en lutte bretonne (gouren). 
+compétition régionale en grappling.
 
 </td>
       <td align="left" valign="top">
@@ -59922,49 +57523,67 @@ compétition régionale en lutte bretonne (gouren).
     <tr>
       <td valign="top" align="left">
 
-BP JEPS, spécialité "judo-jujitsu". 
+Lutte bretonne (gouren).
 
 </td>
       <td align="left" valign="top">
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
+compétition régionale en lutte bretonne (gouren).
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+BP JEPS, spécialité "judo-jujitsu".
+
+</td>
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics.
 Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers
-niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades. 
+niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades.
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td>BP JEPS, spécialité "basket-ball". 
+      <td valign="top" align="left">
+
+BP JEPS, spécialité "basket-ball".
 
 </td>
-      <td>
+      <td valign="top" align="left">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
-d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.</td>
-      <td>
+d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.
+
+</td>
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BP JEPS, spécialité "patinage sur glace".
 
 </td>
-      <td align="left" valign="top">
-
-Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
-d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
       <td valign="top" align="left">
 
-BP JEPS, spécialité "rugby à XV". 
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
+d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.
 
 </td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
       <td align="left" valign="top">
+
+BP JEPS, spécialité "rugby à XV".
+
+</td>
+      <td valign="top" align="left">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
@@ -59973,104 +57592,662 @@ d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td>BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)". </td>
-      <td>Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage
-(beach volley) pour tous les publics. 
+      <td>
 
-Conduite de cycles d'apprentissage, d'enseignement et d'entraînement, jusqu'aux premiers niveaux de compétition.
+BP JEPS, spécialité "golf".
 
 </td>
       <td>
+
+Encadrement et animation de l'activité golf.
+
+</td>
+      <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3">
+      <td align="left" valign="top">
 
-Unités capitalisables complémentaires associées à la spécialité "activités aquatiques" 
+BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage (beach-
+volley) pour tous les publics. Conduite de cycles d'apprentissage, d'enseignement et d'entraînement jusqu'aux premiers
+niveaux de compétition.
+
+</td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="center" colspan="3">
+
+Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-UCC "triathlon". 
+UCC "aviron de mer".
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de
+mer.
 
 </td>
       <td align="left" valign="top">
 
-Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition en triathlon. 
+Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
 
 </td>
-      <td valign="top" align="left">
-    </td></tr>
+    </tr>
     <tr>
-      <td colspan="3">
+      <td>
 
-Certificats de spécialisation associés à la spécialité "activités aquatiques" 
+UCC "aviron d'initiation et de découverte".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation.
+
+</td>
+      <td>
+
+Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-CS "pentathlon moderne". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de
-compétition en pentajeune. 
+UCC "canoë-kayak, eau calme, mer et vagues".
 
 </td>
       <td align="left" valign="top">
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
+kayak, eau calme, mer et vagues.
+
+</td>
+      <td align="left" valign="top">
+
+Pour tout public, en eau calme et en mer, dans la limite de la navigation en 6e catégorie sur des parcours connus et
+reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+UCC "canoë-kayak, eau calme et rivière d'eau vive".
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
+kayak, eau calme et rivière d'eau vive.
+
+</td>
+      <td valign="top" align="left">
+
+Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "char à voile d'initiation et de découverte".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation en char à voile.
+
+</td>
+      <td>
+
+Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+UCC "croisière côtière".
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière
+côtière.
+
+</td>
+      <td valign="top" align="left">
+
+Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri.
+Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
+possédant les diplômes requis.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "multicoques et dériveurs".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
+multicoques et dériveurs.
+
+</td>
+      <td>
+
+Pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "cerf-volant".
+
+</td>
+      <td>
+
+Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
+
+</td>
+      <td align="center">
     </td></tr>
+    <tr>
+      <td>
+
+UCC "planche à voile".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en planche à
+voile.
+
+</td>
+      <td>
+
+Pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "ski nautique d'initiation et de découverte".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation en ski nautique.
+
+</td>
+      <td>
+
+Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "jet".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en jet.
+
+</td>
+      <td>
+
+Toute forme de pratique pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "bateau à moteur d'initiation et de découverte".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation.
+
+</td>
+      <td>
+
+Tous types de bateaux définis, pour tout public et sur tout lieu de pratique de l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "engins tractés".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en engins
+tractés.
+
+</td>
+      <td>
+
+Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish) pour tout public et sur tout lieu de pratique de
+l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "parachutisme ascensionnel nautique".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
+parachutisme ascensionnel nautique.
+
+</td>
+      <td>
+
+Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de
+l'activité.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "pêche de loisir en milieu maritime".
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage en pêche de loisir en milieu maritime, jusqu'au premier niveau de compétition.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "BMX"
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "vélo tout terrain".
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain.
+
+</td>
+      <td>
+
+A l'exclusion du vélo tout terrain de descente.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "culturisme".
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en culturisme.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "haltérophilie".
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en haltérophilie.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "trampoline"
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en trampoline.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "gymnastique artistique féminine".
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique
+féminine.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "gymnastique artistique masculine".
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique
+masculine.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "gymnastique rythmique".
+
+</td>
+      <td>
+
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique rythmique.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "baseball et softball".
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en baseball et softball.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "flag".
+
+</td>
+      <td>
+
+Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "football américain".
+
+</td>
+      <td>
+
+Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "rugby à XIII".
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en rugby à XIII.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "triathlon".
+
+</td>
+      <td>
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en triathlon.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "conduite sur glace".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
+compétition en conduite sur glace.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+UCC "conduite de loisir sur quad".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+CS "activités athlétiques"
+
+</td>
+      <td>
+
+Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
+
+CS "athlétisme et disciplines associées".
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et
+disciplines associées.
+
+</td>
+      <td align="left" valign="top">
+
+A l'exclusion de toute pratique compétitive.
+
+</td>
+    </tr>
     <tr>
       <td valign="top" align="left">
 
-CS "sauvetage et sécurité en milieu aquatique". 
+CS "activités d'escalade".
 
 </td>
       <td valign="top" align="left">
 
-Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. 
+Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
+escalade.
 
 </td>
       <td valign="top" align="left">
+
+Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs
+limités aux "secteurs découverte" (2) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ;
+tous parcours aménagés, dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CS "sauvetage et sécurité en milieu aquatique".
+
+</td>
+      <td>
+
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
+
+</td>
+      <td>
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
-en cours de validité. 
+en cours de validité.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires associées à la spécialité "activités de randonnée" du BP JEPS 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "cyclisme traditionnel". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en
-cyclo-cross. 
-
-</td>
       <td valign="top" align="left">
+
+CS "accompagnement et intégration des personnes en situation de handicap".
+
+</td>
+      <td align="left" valign="top">
+
+Animation des activités physiques ou sportives : 
+
+- auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant
+une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;
+
+- auprès de groupes constitués exclusivement de ces publics.
+
+</td>
+      <td align="left" valign="top">
+
+Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée : 
+
+- à tire ponctuel ;
+
+- et en qualité de prestataire pour le compte de la structure employeuse.
+
+Les pratiquants demeurent sous la responsabilité éducative et/ou thérapeutique du personnel de la structure spécialisée qui
+les accompagne.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CS "tennis de table".
+
+</td>
+      <td>
+
+Conduite de cycles d'animation et d'entraînement en tennis de table.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CS "course d'orientation".
+
+</td>
+      <td>
+
+Conduite de cycles d'animation en course d'orientation.
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CS "escrime".
+
+</td>
+      <td>
+
+Conduite de cycles d'animation en escrime.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+CS "tir à l'arc".
+
+</td>
+      <td>
+
+Conduite de cycles d'animation en tir à l'arc.
+
+</td>
+      <td align="center">
     </td></tr>
     <tr>
       <td valign="top" align="left">
 
-UCC "BMX". 
+CS "croisière".
 
 </td>
       <td valign="top" align="left">
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX. 
+Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites de navigation du
+ou des voilier(s) utilisé(s) jusqu'à 200 milles nautiques d'un abri.
 
 </td>
       <td valign="top" align="left">
@@ -60078,532 +58255,355 @@ Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BM
     <tr>
       <td>
 
-UCC vélo tout terrain . 
+CS "cerf-volant".
 
 </td>
       <td>
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain. 
+Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td>
+
+CS "lutte et disciplines associées".
 
 </td>
       <td>
 
-A l'exclusion du vélo tout terrain de descente. 
+Conduite de cycles d'initiation en lutte et dans les disciplines associées.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation associés à la spécialité "activités de randonnée" du BP JEPS 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "course d'orientation". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en course d'orientation. 
-
-</td>
-      <td align="left" valign="top">
+      <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3">
+      <td>
 
-Unités capitalisables complémentaires associées à la spécialité "loisirs tout public" du BP JEPS 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-UCC "football américain". 
+CS "roller".
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain. 
+Conduite de cycles de découverte, d'initiation et d'apprentissage en roller.
 
 </td>
-      <td valign="top" align="left">
+      <td align="center">
     </td></tr>
+  </tbody>
+</table>
+
+C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
+
+supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
+
+<table border="1">
+  <tbody>
     <tr>
-      <td valign="top" align="left">
+      <th>
 
-UCC "flag". 
+INTITULÉ DU DIPLÔME
 
-</td>
-      <td align="left" valign="top">
+</th>
+      <th>
 
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag. 
+CONDITIONS D'EXERCICE
 
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
+</th>
+      <th>
 
-Certificats de spécialisation associés à la spécialité "loisirs tout public" du BP JEPS 
+LIMITES DES CONDITIONS D'EXERCICE
 
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "tir sportif". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "tir à l'arc". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en tir à l'arc. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "escrime". 
-
-</td>
-      <td valign="top" align="left">
-
-Conduite de cycles d'animation en escrime. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "course d'orientation". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en course d'orientation. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation associés à la spécialité "animation culturelle" du BP JEPS 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-CS "tir sportif". 
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité "perfectionnement sportif", toutes mentions.
 
 </td>
       <td valign="top" align="left">
 
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "escrime". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en escrime. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Certificats de spécialisation associés à la spécialité "animation sociale" du BP JEPS 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-CS "tir à l'arc". 
-
-</td>
-      <td align="left" valign="top">
-
-Conduite de cycles d'animation en tir à l'arc. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
-
-Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS et DES JEPS) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité "perfectionnement sportif", toutes mentions. 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants. 
+Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants.
 
 </td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport, spécialité "performance sportive", toutes
-mentions. 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants. 
+mentions.
 
 </td>
       <td align="left" valign="top">
+
+Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants.
+
+</td>
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
 
-DE JEPS, spécialité "perfectionnement sportif", mention "canyonisme". 
+DE JEPS, spécialité "perfectionnement sportif", mention "canyonisme".
 
 </td>
       <td valign="top" align="left">
 
-Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants. 
+Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme". 
+DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme."
 
 </td>
       <td align="left" valign="top">
 
 Enseignement, animation, encadrement du parachutisme ou entraînement de ses pratiquants dans les conditions techniques et de
-sécurité définies aux articles A. 322-147 et suivants du code du sport. 
+sécurité définies aux articles A. 322-147 et suivants du code du sport.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-DES JEPS, spécialité "performance sportive", mention "parachutisme". 
+DES JEPS, spécialité "performance sportive", mention "parachutisme".
 
 </td>
       <td align="left" valign="top">
 
 Enseignement, animation, encadrement du parachutisme ou entraînement de ses pratiquants dans les conditions techniques et de
-sécurité définies aux articles A. 322-147 et suivants du code du sport. 
+sécurité définies aux articles A. 322-147 et suivants du code du sport.
 
 </td>
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-DE JEPS, spécialité "perfectionnement sportif", mention "plongée subaquatique". 
+DE JEPS, spécialité "perfectionnement sportif", mention "plongée subaquatique".
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions
-techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport. 
+techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels". 
-
-</td>
-      <td align="left" valign="top">
-
-Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-DE JEPS, spécialité "perfectionnement sportif", mention "escalade". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
-
-A l'exclusion de la via ferrata. 
-
-A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. 
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-DES JEPS, spécialité "performance sportive", mention "escalade". 
-
-</td>
-      <td valign="top" align="left">
-
-Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. 
-
-</td>
-      <td align="left" valign="top">
-
-A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
-
-A l'exclusion de la via ferrata. 
-
-A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. 
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
       <td>
 
-DE JEPS, spécialité "perfectionnement sportif", mention "spéléologie". 
+DES JEPS, spécialité "performance sportive", mention "plongée subaquatique".
 
 </td>
       <td>
-
-Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants. 
-
-</td>
-      <td>
-
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-DES JEPS, spécialité "performance sportive", mention "plongée subaquatique". 
-
-</td>
-      <td valign="top" align="left">
 
 Enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions
-techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport. 
+techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Unités capitalisables complémentaires associées aux DE JEPS et aux DES JEPS 
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-UCC "baby et mini-volley" associée au DE JEPS, spécialité "perfectionnement sportif", mention "volley-ball". 
+DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels".
+
+</td>
+      <td valign="top" align="left">
+
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
+
+</td>
+      <td valign="top" align="left">
+
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+DE JEPS, spécialité "perfectionnement sportif", mention "escalade".
 
 </td>
       <td align="left" valign="top">
 
-Enseignement, animation, encadrement du baby et du mini-volley. 
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
 
 </td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td colspan="3">
+      <td align="left" valign="top">
 
-Certificats de spécialisation associés aux DE JEPS et aux DES JEPS 
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
+
+A l'exclusion de la via ferrata.
+
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-CS "beach-volley" associé au DES JEPS, spécialité "performance sportive", mention "volley-ball". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement du beach-volley et entraînement de ses pratiquants. 
+DES JEPS, spécialité "performance sportive", mention "escalade".
 
 </td>
       <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
 
-CS "cerf-volant" associé : 
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "glisses
-aérotractées nautiques" ;
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "voile". 
-
-</td>
-      <td align="left" valign="top">
-
-Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant. 
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
 
 </td>
       <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
 
-CS "canoë-kayak et disciplines associées en mer" associé : 
+A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
 
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "canoë-kayak
-et disciplines associées en eau calme" ;
+A l'exclusion de la via ferrata.
 
-- au DE JEPS, spécialité "perfectionnement sportif", mention "canoë-kayak et disciplines associées en eau vive". 
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure.
 
 </td>
-      <td align="left" valign="top">
-
-Encadrement du kayak de mer et des disciplines associées et entraînement des pratiquants. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td valign="top" align="left">
 
-CS "natation en eau libre" associé au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance
-sportive", mention "natation course". 
+DE JEPS, spécialité "perfectionnement sportif", mention "spéléologie".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Encadrement de la natation en eau libre et entraînement de ses pratiquants. 
+Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+
+Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+UCC "baby et mini-volley"
+
+</td>
+      <td>
+
+Enseignement, animation, encadrement du baby et du mini-volley.
+
+</td>
+      <td>
     </td></tr>
     <tr>
       <td valign="top" align="left">
 
-CS "nage avec palmes" associé au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance
-sportive" mention "natation course". 
+CS "sauvetage et sécurité en milieu aquatique".
 
 </td>
       <td valign="top" align="left">
 
-Encadrement de la nage avec palmes et entraînement de ses pratiquants. 
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
       <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-CS "sauvetage et sécurité en milieu aquatique" associé : 
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "natation
-course" ;
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "natation
-synchronisée" ;
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "water-polo" ;
-
-- au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "plongeon". 
-
-</td>
-      <td valign="top" align="left">
-
-Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. 
-
-</td>
-      <td align="left" valign="top">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
-en cours de validité. 
+en cours de validité.
 
 </td>
     </tr>
     <tr>
       <td>
 
-Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne. 
+CS "canoë-kayak et disciplines associées en mer".
 
 </td>
       <td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
 
-Diplôme d'Etat de ski-moniteur national de ski alpin. 
+Encadrement du kayak de mer et des disciplines associées et entraînement des pratiquants.
 
 </td>
-      <td align="left" valign="top">
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CS "cerf-volant".
+
+</td>
+      <td>
+
+Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant.
+
+</td>
+      <td>
+    </td></tr>
+  </tbody>
+</table>
+
+C.5. - Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+INTITULÉ DU DIPLÔME
+
+</th>
+      <th>
+
+CONDITIONS D'EXERCICE
+
+</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+</th>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Diplôme d'Etat de ski-moniteur national de ski alpin.
+
+</td>
+      <td valign="top" align="left">
 
 Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble
 des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de
-l'emploi du conseil supérieur des sports de montagne. 
+l'emploi du Conseil supérieur des sports de montagne.
 
 </td>
       <td valign="top" align="left">
@@ -60611,21 +58611,21 @@ l'emploi du conseil supérieur des sports de montagne.
 A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de
 l'alpinisme. 
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
+Diplôme d'Etat de ski-moniteur national de ski nordique de fond.
 
 </td>
       <td align="left" valign="top">
 
 Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de
 l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de
-la formation et de l'emploi du Conseil supérieur des sports de montagne. 
+la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 </td>
       <td valign="top" align="left">
@@ -60637,77 +58637,77 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
     <tr>
       <td valign="top" align="left">
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne 
+Diplôme d'Etat d'alpinisme-guide de haute montagne.
 
 </td>
       <td valign="top" align="left">
 
 Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain
-mixte.
+mixte. 
 
 Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.
 
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. 
+Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes.
 
 Entraînement aux pratiques de compétition dans les disciplines précitées.
 
 </td>
       <td valign="top" align="left">
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne enneigée".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités
 assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain
-important. 
+important.
 
 </td>
       <td align="left" valign="top">
 
-A l'exclusion :
+A l'exclusion : 
 
 - des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel
 ou des techniques de l'alpinisme ;
 
 - de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
 
-- de l'exercice professionnel dans les régions à climat tropical et équatorial, en période de fortes précipitations fixées
-par l'autorité publique compétente, sur des terrains escarpés et détrempés. 
+- de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées
+par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne tropicale et équatoriale". 
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne tropicale et équatoriale".
 
 </td>
       <td align="left" valign="top">
 
 Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités
 assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes
-précipitations fixées par l'autorité compétente, sur des terrains escarpés et détrempés. 
+précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
 </td>
       <td valign="top" align="left">
 
-A l'exclusion :
+A l'exclusion : 
 
 - des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel
 ou des techniques de l'alpinisme ;
 
-- des terrains enneigés. 
+- des terrains enneigés.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -60716,7 +58716,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
   </tbody>
 </table>
 
-D.-Titres à finalité professionnelle 
+D. - Titres à finalité professionnelle 
 
 D-1. Titres à finalité professionnelle délivrés par le ministère chargé de la défense 
 
@@ -60742,7 +58742,7 @@ LIMITES DES CONDITIONS D'EXERCICE
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Aide-moniteur d'entraînement physique, militaire et sportif. 
 
@@ -60752,7 +58752,7 @@ Aide-moniteur d'entraînement physique, militaire et sportif.
 Participation à l'animation des activités physiques ou sportives. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. 
 
@@ -60764,7 +58764,7 @@ Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV.
 Moniteur d'entraînement physique, militaire et sportif. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de
 développement et de maintien des capacités physiques individuelles. 
@@ -60778,12 +58778,12 @@ handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psy
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Moniteur-chef d'entraînement physique, militaire et sportif. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et coordination auprès de tout public des activités physiques ou sportives. 
 
@@ -60830,7 +58830,7 @@ Animateur poney délivré jusqu'au 1er septembre 2012.
 Initiation au poney dans tout établissement. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres, ou
 du brevet d'Etat d'éducateur sportif du 2e degré, option équitation, ou du brevet professionnel de la jeunesse, de
@@ -60859,7 +58859,7 @@ A l'exclusion des pratiques compétitives de niveau amateur et plus.
 Accompagnateur de tourisme équestre. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours
 identifiés. 
@@ -60870,90 +58870,90 @@ identifiés.
   </tbody>
 </table>
 
-D-3. Titres à finalité professionnelle délivrés par la Fédération française de football. 
+D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table align="center" cellpadding="0" width="760" border="1">
+<table width="720" cellpadding="0" border="1">
   <tbody>
     <tr>
-      <td width="151">
+      <td width="157">
 
 INTITULÉ DU TITRE
 
 </td>
-      <td width="302">
+      <td width="315">
 
 CONDITIONS D'EXERCICE
 
 </td>
-      <td width="265">
+      <td width="276">
 
 LIMITES DES CONDITIONS D'EXERCICE
 
 </td>
     </tr>
     <tr>
-      <td width="151">
+      <td width="157" valign="top">
 
 Moniteur de football. 
 
 </td>
-      <td width="302">
+      <td width="315" valign="top">
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football jusqu'au niveau régional.
 
 </td>
-      <td width="265">
+      <td width="276" valign="top">
     </td></tr>
     <tr>
-      <td width="151">
+      <td width="157" valign="top">
 
 Entraîneur de football. 
 
 </td>
-      <td width="302">
+      <td valign="top" width="315">
 
 Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les
 publics mineurs. 
 
 </td>
-      <td width="265">
+      <td valign="top" width="276">
     </td></tr>
     <tr>
-      <td width="151">
+      <td valign="top" width="157">
 
 Entraîneur formateur de football. 
 
 </td>
-      <td width="302">
+      <td width="315" valign="top">
 
 Encadrement et entraînement de joueurs de haut niveau en football dans une structure de préformation ou de formation. 
 
 </td>
-      <td width="265">
+      <td width="276" valign="top">
     </td></tr>
     <tr>
-      <td width="151">
+      <td valign="top" width="157">
 
 Entraîneur professionnel de football.
 
 </td>
-      <td width="302">
+      <td width="315" valign="top">
 
 Encadrement et entraînement de joueurs de haut niveau en football dans un club professionnel.
 
 </td>
-      <td width="265">
+      <td valign="top" width="276">
     </td></tr>
   </tbody>
 </table>
 
-E.-Certificats de qualification délivrés par les branches professionnelles 
+E. - Certificats de qualification délivrés par les branches professionnelles 
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-
 EE) 
 
 <table border="1">
-  <thead>
+  <tbody>
     <tr>
       <td>
 
@@ -60971,7 +58971,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 </td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
       <td valign="top" align="left">
@@ -60979,7 +58979,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 Certificat de qualification professionnelle (CQP) "animateur-soigneur assistant". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Participation à l'encadrement des pratiquants dans le cadre d'une action d'animation en équitation cheval, en équitation
 poney ou en tourisme équestre. 
@@ -61016,7 +59016,7 @@ Conduite en autonomie de séances d'initiation aux pratiques équestres.
 CQP "organisateur de randonnées équestres". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie. 
 
@@ -61029,7 +59029,7 @@ Initiation aux techniques de la randonnée équestre et conduite de promenades e
 E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport) 
 
 <table border="1">
-  <thead>
+  <tbody>
     <tr>
       <td>
 
@@ -61047,15 +59047,15 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 </td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un
 permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1
@@ -61088,7 +59088,7 @@ Sur des parcours connus et reconnus.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur de tir à l'arc". 
 
@@ -61112,15 +59112,15 @@ Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur de voile". </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation et initiation à la pratique de la voile. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous l'autorité d'un titulaire d'une certification professionnelle des activités physiques ou sportives de niveau IV ou
 supérieur, le nombre des titulaires du CQP AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de
@@ -61136,41 +59136,65 @@ A l'exclusion du temps scolaire contraint.
 CQP animateur de savate, option "boxe française". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de la boxe française auprès de tout public, incluant la mise en œuvre des procédures de passage des
 grades : kangourous, gants bleu, vert, rouge et blanc. </td>
+      <td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+CQP animateur de savate, option "canne de combat et bâton". 
+
+</td>
+      <td>
+
+Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des procédures de
+passage des pommeaux bleu, vert, rouge, blanc et jaune. 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td valign="top" align="left">
+
+CQP animateur de savate, option "savate forme". 
+
+</td>
+      <td valign="top" align="left">
+
+Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de passage des
+grades : kangourous, gants bleu, vert et rouge. 
+
+</td>
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td>CQP animateur de savate, option "canne de combat et bâton". 
+      <td align="left" valign="top">
+
+CQP animateur de savate, option "savate bâton défense". 
 
 </td>
-      <td>Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des
-procédures de passage des pommeaux bleu, vert, rouge, blanc et jaune. </td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>CQP animateur de savate, option "savate forme". </td>
-      <td>Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de
-passage des grades : kangourous, gants bleu, vert et rouge. </td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>CQP animateur de savate, option "savate bâton défense". 
+      <td align="left" valign="top">
+
+Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des grades :
+kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune 
 
 </td>
-      <td>Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des
-grades : kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune </td>
-      <td>Pour des publics de plus de 16 ans.</td>
+      <td valign="top" align="left">
+
+Pour des publics de plus de 16 ans.
+
+</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou
 non : 
@@ -61193,7 +59217,7 @@ Activité exercée à titre secondaire.
 CQP "animateur des activités gymniques", mention "activités d'éveil gymnique pour la petite enfance". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance : 
 
@@ -61211,7 +59235,7 @@ Activité exercée à titre secondaire.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur des activités gymniques", mention "activités gymniques d'expression et d'entretien". 
 
@@ -61243,7 +59267,7 @@ Activité exercée à titre secondaire.
 CQP "animateur des activités gymniques", mention "activités gymniques d'expression". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie, par la découverte et l'initiation des activités gymniques d'expression : 
 
@@ -61253,7 +59277,7 @@ rythmique ;
 - activités gymniques cardio-vasculaires jusqu'à un premier niveau de compétition en gymnastique aérobic. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -61274,7 +59298,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 - activités d'expression. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sans recours à des appareils de musculation. 
 
@@ -61285,7 +59309,7 @@ Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition". </td>
       <td align="left" valign="top">
@@ -61299,7 +59323,7 @@ Encadrement en autonomie par la découverte et l'animation des jeux sportifs et 
 - jeux de ballons, petits et grands terrains. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des pratiques compétitives. 
 
@@ -61312,7 +59336,7 @@ Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "assistant moniteur de tennis". 
 
@@ -61334,17 +59358,17 @@ A l'exclusion des cours individuels.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "éducateur de grimpe d'arbres". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation et encadrement en autonomie de la grimpe dans les arbres. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 8 pratiquants. 
 
@@ -61356,7 +59380,7 @@ Dans la limite de 8 pratiquants.
 CQP "technicien sportif régional de basket-ball". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. 
 
@@ -61389,11 +59413,11 @@ CQP "assistant moniteur char à voile".
 </td>
       <td align="left" valign="top">
 
-Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/ allongé, char debout ou char
+Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char
 tracté). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de
 titulaires du CQP "assistant moniteur char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ; 
@@ -61440,13 +59464,13 @@ cours de validité.
 CQP "assistant moniteur motonautique". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à
 moteur (VNM). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un référent, le titulaire du CQP encadre : 
 
@@ -61468,19 +59492,19 @@ A l'exclusion du temps scolaire contraint pour le public scolaire.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de roller skating" option "patinage artistique et danse". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du patinage artistique et de la danse jusqu'aux premiers
 niveaux de compétition inclus. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -61511,12 +59535,12 @@ Dans tous espaces.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de roller skating", option "rink-hockey". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux de compétition
@@ -61532,19 +59556,19 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de roller skating", option "roller in line hockey". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du roller in line hockey jusqu'aux premiers niveaux de
 compétition inclus. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -61553,7 +59577,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de roller skating", option "roller acrobatique". 
 
@@ -61574,7 +59598,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de roller skating", option "skateboard". 
 
@@ -61584,7 +59608,7 @@ CQP "moniteur de roller skating", option "skateboard".
 Encadrement en autonomie du skateboard jusqu'aux premiers niveaux de compétition inclus. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -61598,7 +59622,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating", option "roller randonnée".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique", "roller randonnée". 
@@ -61606,7 +59630,7 @@ in line hockey", "roller acrobatique", "roller randonnée".
 Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : 
 
@@ -61622,12 +59646,12 @@ Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux 
 CQP "moniteur d'aviron". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de compétition inclus. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de vingt pratiquants. Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans
 le cas où la zone d'évolution est un périmètre calme, abrité et délimité. 
@@ -61637,12 +59661,12 @@ Sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisan
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de rugby à XV". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. 
 
@@ -61716,7 +59740,7 @@ Encadrement en autonomie du tir sportif à des fins de découverte et d'initiati
 de compétition. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. 
 
@@ -61747,13 +59771,13 @@ Encadrement en autonomie de séances collectives en badminton, de l'initiation j
 CQP "moniteur de football américain et de flag". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers
 niveaux de compétition. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion des championnats nationaux.
 
@@ -61775,7 +59799,7 @@ Encadrement en autonomie de séances d'entraînement en cheerleading pour tout p
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". 
 
@@ -61796,7 +59820,7 @@ Jusqu'en classe II incluse, avec des passages de classe III non successifs.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
 
@@ -61807,7 +59831,7 @@ Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public
 la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Jusqu'à 1 mille d'un abri. 
 
@@ -61836,7 +59860,7 @@ Encadrement en autonomie de séances d'entraînement en rugby à XV des catégor
 CQP "animateur de patinoire", option "hockey sur glace".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire. 
 
@@ -61849,7 +59873,7 @@ ans.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur d'athlétisme", option "école d'athlé". 
 
@@ -61874,20 +59898,20 @@ Dans la limite de vingt pratiquants.
 CQP "animateur d'athlétisme", option "athlé loisirs". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour
 tout public pratiquant l'athlétisme loisirs, dont la marche nordique. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion des pratiques compétitives
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "sprint/haies". 
 
@@ -61899,7 +59923,7 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 100 m haies, 110 m haies et 400 m haies. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 14 ans. 
 
@@ -61913,13 +59937,13 @@ Dans la limite de 12 pratiquants.
 CQP "technicien sportif d'athlétisme", option "sauts". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : longueur, hauteur, triple saut et perche. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -61933,13 +59957,13 @@ Dans la limite de 12 pratiquants.
 CQP "technicien sportif d'athlétisme", option "lancers". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national dans les spécialités de l'option : "disque, poids, marteau et javelot". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -61960,6 +59984,27 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche. 
 
 </td>
+      <td valign="top" align="left">
+
+Pour des publics de plus de 14 ans. 
+
+Dans la limite de 12 pratiquants.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP "technicien sportif d'athlétisme", option "fond/hors stade". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
+perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et
+disciplines hors stade (courses sur route, cross-country, courses à pied en nature). 
+
+</td>
       <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
@@ -61969,28 +60014,7 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-
-CQP "technicien sportif d'athlétisme", option "fond/hors stade". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
-perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et
-disciplines hors stade (courses sur route, cross-country, courses à pied en nature). 
-
-</td>
-      <td valign="top" align="left">
-
-Pour des publics de plus de 14 ans. 
-
-Dans la limite de 12 pratiquants.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "technicien sportif d'athlétisme", option "épreuves combinées". 
 
@@ -62001,7 +60025,7 @@ Encadrement en autonomie de séances collectives et individuelles d'activités d
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 14 ans. 
 
@@ -62010,18 +60034,18 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP moniteur d'escrime, option "fleuret". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'escrime sportive au fleuret par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de 20 pratiquants. 
 
@@ -62030,18 +60054,18 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP moniteur d'escrime, option "épée". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'escrime sportive à l'épée par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 20 pratiquants. 
 
@@ -62050,7 +60074,7 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP moniteur d'escrime, option "sabre". 
 
@@ -62070,7 +60094,7 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP moniteur d'escrime, option "artistique". 
 
@@ -62081,7 +60105,7 @@ Encadrement en autonomie des activités de l'escrime artistique par la découver
 compétition régional. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 20 pratiquants. 
 
@@ -62092,7 +60116,7 @@ A l'exclusion du temps scolaire contraint.
   </tbody>
 </table>
 
-F.-Diplômes délivrés par le ministère chargé de la santé 
+F. - Diplômes délivrés par le ministère chargé de la santé 
 
 <table border="1">
   <thead>
@@ -62127,7 +60151,7 @@ Encadrement de la pratique de la gymnastique hygiénique d'entretien ou prévent
 physiques et sportives déclarés. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans le respect de la législation et de la déontologie de la kinésithérapie. 
 
@@ -62147,13 +60171,6 @@ vigueur au 17 juillet 2007.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté du 19 janvier 1993
-  - Arrêté du 10 mai 1993
-  - Arrêté du 14 septembre 1993
-  - Code de l'éducation - art. D123-13
-
 _Cité par_:
 
   - Arrêté du 26 juin 2009 - art. 1 (V)
@@ -62161,7 +60178,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 15 janvier 2016 - art. 1
+  - Arrêté du 22 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D123-13
 
 
 ###### Article Annexe II-2 (art. A212-2)
@@ -65971,84 +63992,356 @@ _Cité par_:
 
 ###### Article Annexe II-16-2 (art. A212-217)
 
-ÉPREUVE D'APTITUDE
+ÉPREUVE D'APTITUDE 
 
-1. Test de vérification des connaissances théoriques
+1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité 
 
-et pratiques en matière de sécurité
+Ce test vise à vérifier, au moyen d'un entretien et à partir de l'expérience du candidat, ses connaissances théoriques et
+pratiques en matière de sécurité. 
 
-Ce test vise à vérifier, à partir de l'expérience du candidat et de l'exposé de ses courses, sa capacité à évoluer en
-sécurité dans un environnement karstique, soit :
+Au cours de l'entretien d'une durée de trente à quarante-cinq minutes, le candidat explicite et fait l'analyse de son
+expérience professionnelle à partir de sa liste de courses, produite en amont, comportant la réalisation de vingt courses en
+cavités de classe 4, effectuées dans quatre massifs karstiques différents, comportant au moins :
 
-― à utiliser les moyens de communication pour déclencher une alerte et transmettre un message d'alerte en français ;
+- deux cavités de plus de six cents mètres de profondeur (traversées exclues), dont au moins une inscrite sur la liste de
+référence établie par le directeur technique national de la spéléologie ;
 
-― à interpréter un topoguide, à tenir compte de la réglementation locale et à évaluer la difficulté d'une cavité ;
+- deux cavités de plus de trois cent cinquante mètres de profondeur (traversées exclues), dont au moins une inscrite sur la
+liste de référence établie par le directeur technique national de la spéléologie ;
 
-― à évaluer l'engagement à partir de la connaissance du milieu naturel ;
+- deux cavités aquatiques nécessitant l'utilisation d'un matériel spécifique (combinaison néoprène, pontonnière ou canot)
+pendant deux heures minimum, dont au moins une inscrite sur la liste de référence établie par le directeur technique national
+de la spéléologie ;
 
-― à s'orienter à l'aide d'une carte (mesure de distances, d'altitudes et de directions, reconnaissance des éléments d'une
-carte sur le terrain) ;
+- deux cavités dont l'exploration nécessite au moins trois kilomètres de parcours (traversées admises), dont au moins une
+inscrite sur la liste de référence établie par le directeur technique national de la spéléologie ;
 
-― à mobiliser et à interpréter différentes sources d'informations météorologiques ;
+- douze cavités de plus de cent cinquante mètres de profondeur (traversées admises), dont au moins six inscrites sur la liste
+de référence établie par le directeur technique national de la spéléologie. 
 
-― à gérer des équipements de protection individuelle (EPI).
+2. Test technique de sécurité 
 
-Il consiste en un entretien d'une durée comprise entre trente et quarante-cinq minutes, sans temps de préparation préalable.
+Ce test vise à vérifier la capacité du candidat à maîtriser les techniques de progression. Il comporte trois épreuves : 
 
-2. Test technique de sécurité
+a) Un parcours d'aisance ; 
 
-Ce test vise à vérifier la capacité du candidat à maîtriser les techniques de progression.
+b) Une exploration d'envergure ; 
 
-Il comporte trois épreuves qui se déroulent dans l'ordre chronologique suivant :
+c) L'encadrement d'un groupe sous terre en sécurité. 
 
-1° Un parcours d'aisance ;
+a) Le parcours d'aisance permet au candidat de démontrer en sécurité les gestes techniques élémentaires de la progression sur
+corde. 
 
-2° Une exploration d'envergure ;
+Le parcours d'aisance sur corde peut se réaliser sur structure artificielle, en site naturel de type falaise ou en  cavité
+école     . Les déplacements se font sur des cordes préinstallées par l'organisme de formation. La réalisation de ce parcours
+est effectuée dans un temps contraint déterminé par un ouvreur. Le temps de parcours des candidates est augmenté de 20 %. 
 
-3° L'encadrement d'un groupe sous terre en sécurité.
+Il comporte les mises en situation suivantes :
 
-Chaque épreuve est éliminatoire.
+- évolution sur mains courantes : de sécurité et de progression ;
 
-1. Parcours d'aisance :
+- descentes sur cordes simples de différents diamètres avec arrêt sur clef de blocage ;
 
-Cette épreuve vise à vérifier la capacité du candidat à évoluer avec aisance :
+- descentes et remontées fractionnées ;
 
-Elle consiste :
+- descentes et remontées déviées ;
 
-― à progresser et évoluer sur des agrès en milieu vertical ;
+- déplacements pendulaires ;
 
-― à équiper un parcours en falaise ;
+- passage de nœud à la descente, à la montée. 
 
-― à porter assistance sur agrès.
+Un dégagement d'équipier sur bloqueurs par une méthode de balancier, technique au choix, dans un temps limité à trois minutes
+trente secondes est réalisé par le candidat. 
 
-2. Exploration d'envergure :
+L'équipement d'une section verticale comprenant au moins un fractionnement en falaise ou cavité. 
 
-Cette épreuve vise à vérifier la capacité du candidat à progresser dans une cavité difficile.
+Ce parcours vise également à vérifier ses compétences à intervenir sur un public en difficulté. 
 
-Elle consiste à gérer et réaliser une exploration incluant l'équipement et le déséquipement d'une cavité de classe 4,
-nécessitant au moins dix heures et présentant une profondeur de quatre cents à six cents mètres (traversées exclues).
+Sa durée est d'environ un jour. Il a lieu dans une cavité ; sauf cas de force majeure. 
 
-Au terme de cette exploration, le candidat réalise un dégagement d'équipier sur corde, en moins de trois minutes et trente
-secondes (méthode et technique au choix).
+Il peut comporter :
 
-3. Encadrement d'un groupe sous terre en sécurité :
+- une ou plusieurs situations d'exception ;
 
-Cette épreuve vise à vérifier la capacité du candidat à guider un groupe entre et sur les obstacles verticaux dans une cavité
-de classe 3 minimum.
+- une ou plusieurs situations d'intervention auprès d'une personne en difficulté ou en détresse ;
 
-Elle consiste à assurer la sécurité d'un groupe sous terre, dans une cavité choisie par le jury, pendant une durée minimale
-de deux heures puis à justifier, au cours d'un exposé d'une durée comprise entre vingt et trente minutes, les techniques
-utilisées et notamment :
+- une situation de mise en attente d'une victime et de déclenchement de secours en langue française. 
 
-― le choix du matériel à partir d'une fiche topographique ;
+Le candidat doit maîtriser les éléments suivants : 
 
-― le choix des techniques d'encadrement et de progression en fonction du niveau des pratiquants.
+Dans le domaine des techniques d'exception :
+
+- les techniques d'escalade permettant une remontée de puits ou une échappatoire improvisée ;
+
+- la pose d'ancrages de type montagne (pitons, coinceurs) ;
+
+- la confection et l'utilisation de matériel de réchappe (perte de matériel) ;
+
+- les techniques d'évitement de puits arrosés (installation de guidé en sécurité et remontée sur guide). 
+
+Dans le domaine des techniques d'intervention :
+
+- les interventions par balancier avec ou sans cordes annexes et dégagements vers le haut ;
+
+- les dégagements et évacuations sur mains courantes ;
+
+- les dégagements et évacuation sur tyrolienne ou corde guide ;
+
+- les dégagements sur corde en verticale, depuis le haut ou depuis le bas, vers le bas ;
+
+- les dégagements sur corde en verticale, depuis le haut ou depuis le bas, vers le bas, avec passage de fractionnement ;
+
+- les dégagements sur corde en verticale, depuis le haut ou depuis le bas, vers le bas, avec passage de déviations ;
+
+- les dégagements de personnes bloquées en fond de boucle de fractionnement. 
+
+Dans le domaine des techniques d'assistance :
+
+- les démarches et les gestes du secourisme de terrain en milieu engagé ;
+
+- la mise en attente d'une victime ;
+
+- l'installation de point chaud ;
+
+- les étapes du déclenchement de secours. 
+
+b) Exploration d'envergure. 
+
+Cette mise en situation vise à vérifier la capacité du candidat à réaliser sous terre en sécurité les démonstrations
+techniques en spéléologie. Sa durée est d'environ un jour. Elle consiste pour le candidat à gérer, dans le cadre d'une sortie
+dans une cavité de classe IV, une portion de 200 mètres de dénivelé (équipement et déséquipement). En fin de sortie, le
+candidat réalise un dégagement d'équipier sur corde en moins de trois minutes et trente secondes (méthode et technique au
+choix hors couper de corde et en force). Cette exploration se fait en aller et retour, excluant tout parcours en traversée
+souterraine. 
+
+Durant la course technique et engagée, le candidat doit être capable (EC) de maitriser les éléments suivants : 
+
+Dans le domaine de la préparation d'une sortie : 
+
+EC d'analyser une topographie. 
+
+EC d'analyser une fiche d'équipement. 
+
+EC d'analyser une cartographie. 
+
+EC d'analyser un bulletin météorologique. 
+
+EC d'analyser un contexte hydrogéologique. 
+
+EC d'opérer des choix et décisions en fonction des données observables de la météorologie. 
+
+Dans le domaine de la progression hors agrès : 
+
+Les déplacements en terrain varié, chaotique, glissant. 
+
+Les escalades. 
+
+La progression aquatique. 
+
+Le franchissement d'étroitures. 
+
+La progression en méandre. 
+
+L'orientation et l'interprétation de la topographie disponible. 
+
+Dans le domaine de la progression verticale : 
+
+A la descente : 
+
+Les différents freinages. 
+
+Arrêt sur clef de blocage. 
+
+Passage de fractionnement, simples, plein vides, décalés. 
+
+Franchissement d'un nœud. 
+
+La conversion. 
+
+Les réchappes de perte de matériel. 
+
+A la remontée : 
+
+Les remontées sur corde, les conversions. 
+
+Les réchappes de perte de matériel. 
+
+Franchissement d'un nœud. 
+
+Passage de fractionnement, simples, plein vides, décalés. 
+
+Dans le domaine de la communication : 
+
+Utilisation de code sonore. 
+
+Utilisation d'une terminologie adaptée en langue française. 
+
+Anticipation. 
+
+Dans le domaine de l'organisation matérielle et logistique de la sortie : 
+
+La gestion du matériel sur soi. 
+
+La gestion du matériel dans chaque sac. 
+
+Le conditionnement de l'alimentation. 
+
+La gestion du matériel dans l'équipe. 
+
+La maîtrise des itinéraires d'accès et marche d'approche. 
+
+Organisation collective de la sortie, répartition des rôles. 
+
+Dans le domaine de l'équipement des obstacles : 
+
+L'analyse et la prise de décision. 
+
+La protection des accès aux verticales. 
+
+La mise en place de mains courantes. 
+
+Le réglage de la hauteur et de la tension des mains courantes. 
+
+La gestion des frottements :
+
+- les protections ;
+
+- les évitements (déviations, fractionnements). 
+
+Les équipements hors crues :
+
+- les prolongements mains courantes ;
+
+- l'équipement de lignes et de fractionnements décalés ;
+
+- l'équipement de rappel guidé ;
+
+- l'installation de déviations. 
+
+Les grandes verticales :
+
+- l'anticipation sur les longueurs de corde ;
+
+- le réglage des boucles de fractionnement ;
+
+- les fractionnements de confort ;
+
+- consignes de sécurité. 
+
+c) L'encadrement d'un groupe sous terre en sécurité. 
+
+Cette séance vise à vérifier la capacité du candidat à assurer la sécurité des pratiquants et des tiers en spéléologie. Sa
+durée est d'environ un jour. Le candidat est mis en situation d'encadrement d'un public dans une cavité de classe 4. Le
+public est un public d'application, il peut être préparé ou disposer de bonnes qualités physiques et sportives transférables
+dans le cadre d'une sortie souterraine engagée et technique. 
+
+Le candidat doit maîtriser les éléments et comportements suivants : 
+
+Dans le domaine de la conception de la séance : 
+
+Repérage de la cavité. 
+
+Recherche et prise en compte d'informations pertinentes en lien avec la sécurité. 
+
+Analyse des contraintes et du potentiel du parcours. 
+
+Définition des objectifs utiles à la sécurité. 
+
+Prise en compte des attentes et des capacités du public. 
+
+Utilisation d'une fiche de préparation de séance. 
+
+Implication des publics dans la sortie. 
+
+Dans le domaine de la mise en œuvre de la séance : 
+
+L'organisation de la logistique :
+
+- prévision du timing ;
+
+- préparation du matériel collectif ;
+
+- réparation et vérification des matériels individuels ;
+
+- préparation des accès ;
+
+- organisation de la navette éventuelle (dans le cas d'une traversée) ;
+
+- préparation des sacs ;
+
+- conditionnement des repas. 
+
+Le franchissement des obstacles techniques par le groupe. 
+
+Analyse et équipement rapide des obstacles. 
+
+Equipements multiples si nécessaire. 
+
+Dans le domaine de la conduite de la séance : 
+
+La communication avec le groupe en français :
+
+- prise en main du public ;
+
+- présentation du projet de sortie et de séance ;
+
+- briefing  général, principes d'évolution en terrains étroits, chaotiques, glissants et engagés ;
+
+- énoncé, respect et transmission des consignes de sécurité ;
+
+- équilibrer mise en action du public et énoncé des consignes ;
+
+- communication posturale et comportementale. 
+
+Le contrôle :
+
+- contrôle initial des équipements personnels ;
+
+- contrôle régulier des équipements personnels ;
+
+- contrôle des équipements sous terre. 
+
+La vigilance :
+
+- disponibilité lors des tâches d'équipement de main courantes de puits ;
+
+- disponibilité physique, capacité à se déplacer rapidement ;
+
+- placement permettant la vigilance et le conseil. 
+
+L'organisation du groupe :
+
+- gestion de l'approche (rythme, portage, consigne, milieu) ;
+
+- gestion du retour (rythme, portage, consigne, milieu) ;
+
+- organisation ou prise en charge des parades dans les passages exposés, les escalades, les désescalades ;
+
+- organisation de la dynamique du groupe. 
+
+L'évaluation :
+
+- évaluation chronique du niveau d'autonomie et de compétences ;
+
+- évaluation chronique de l'état physique et psychologique des participants ;
+
+- évaluation de son propre état. 
+
+La régulation :
+
+- modification des objectifs de séances ;
+
+- intervention sur les symptômes  3F  : faim, froid, fatigue ;
+
+- intervention sur un participant en difficulté ou en détresse ;
+
+- respect des horaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 21 décembre 2009 - art. 2
+  - Arrêté du 3 février 2016 - art. 6
 
 _Cité par_:
 
