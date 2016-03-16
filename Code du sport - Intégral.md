@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-03-11
+Version Consolidée au 2016-03-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -341,7 +341,7 @@ Version Consolidée au 2016-03-11
         - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#338)
         - [Chapitre VIII : Dispositions applicables à la Martinique (art. R428-1)](#339)
         - [Chapitre IX : Dispositions applicables à la Guyane (art. R429-1)](#340)
-  - [Partie réglementaire - Arrêtés (art. A112-0 à A427-1)](#341)
+  - [Partie réglementaire - Arrêtés (art. A112-0 à A429-1)](#341)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-0 à A142-32)](#342)
       - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-0 à A112-10)](#343)
         - [Chapitre II : Etablissements publics nationaux (art. A112-0 à A112-10)](#344)
@@ -514,11 +514,11 @@ Version Consolidée au 2016-03-11
           - [Section 4 : Organisation de manifestations publiques de boxe (art. A331-33 à A331-36)](#511)
         - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#512)
           - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#513)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A427-1)](#514)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#514)
       - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#515)
         - [Chapitre unique (art. A411-1 à A411-10)](#516)
           - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#517)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A427-1)](#518)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#518)
         - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#519)
         - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#520)
         - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#521)
@@ -526,14 +526,16 @@ Version Consolidée au 2016-03-11
         - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#523)
         - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#524)
         - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#525)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#526)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#527)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#528)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#529)
-      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#530)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#531)
-      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-21)](#532)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#533)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#526)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#527)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-27)](#528)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#529)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#530)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#531)
+      - [Annexes III (art. Annexe III-1 (art. R322-22) à Annexe III-8)](#532)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-1 (art. A142-0) à Annexe III-27)](#533)
+      - [Annexes II (art. Annexe I-1 (art. A142-0) à Annexe II-21)](#534)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-27)](#535)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -51720,15 +51722,18 @@ Outre le délégué de l'établissement, membre de droit, ou son représentant :
 
 a) Le directeur de la jeunesse, des sports et de la vie associative, membre de droit, ou son représentant ;
 
-b) Deux agents de la direction de la jeunesse et des sports désignés par le directeur de la jeunesse, des sports et de la vie
-associative ;
+b) Cinq agents de l'Etat désignés par le préfet ;
 
 2° D'autre part :
 
 a) Le président du comité régional olympique et sportif de Mayotte, membre de droit, ou son représentant ;
 
 b) Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif. L'un de ces
-représentants est issu d'une discipline olympique.
+représentants est issu d'une discipline olympique ;
+
+c) Deux élus du conseil départemental de Mayotte ou leurs représentants ; 
+
+d) Un maire ou un maire adjoint désigné par le président de l'Association des maires de France. 
 
 II. ― Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de
 l'établissement. Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions.
@@ -51741,7 +51746,7 @@ entraîne sa démission de plein droit.
 
 _Modifié par_:
 
-  - Arrêté du 30 janvier 2015 - art. 2
+  - Arrêté du 4 mars 2016 - art. 1
 
 
 ###### Article A421-3
@@ -51751,10 +51756,6 @@ représentant et par le président du comité régional olympique et sportif ou 
 la direction de la jeunesse et des sports.
 
 La commission se réunit sur convocation de ses coprésidents.
-
-Le président du conseil général ou son représentant, un maire ou un maire adjoint désigné par le président de l'Association
-des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de Mayotte assistent
-avec voix consultative aux séances de la commission territoriale.
 
 Le délégué territorial et le président du comité régional olympique et sportif peuvent également inviter à assister à tout ou
 partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
@@ -51771,7 +51772,7 @@ La commission délibère à la majorité des membres présents ou représentés.
 
 _Modifié par_:
 
-  - Arrêté du 30 janvier 2015 - art. 2
+  - Arrêté du 4 mars 2016 - art. 2
 
 
 ###### Article A421-4
@@ -52087,15 +52088,16 @@ délégué territorial de l'établissement, membre de droit, ou son représentan
 a) Le directeur de la jeunesse, des sports et de la vie associative de la Nouvelle-Calédonie, membre de droit, ou son
 représentant ;
 
-b) Deux agents de la direction de la jeunesse et des sports de la Nouvelle-Calédonie, désignés par le directeur de la
-jeunesse, des sports et de la vie associative de la Nouvelle-Calédonie.
+b) Trois agents de l'Etat désignés par le haut-commissaire de la République ;
 
 2° D'autre part :
 
 a) Le président du comité territorial olympique et sportif de la Nouvelle-Calédonie, membre de droit, ou son représentant ;
 
 b) Deux représentants du mouvement sportif désignés par le président du comité territorial olympique et sportif. L'un de ces
-représentants est issu d'une discipline olympique.
+représentants est issu d'une discipline olympique ;
+
+c) Le président du gouvernement de Nouvelle-Calédonie, membre de droit, ou son représentant. 
 
 La commission territoriale est coprésidée par le délégué territorial de l'établissement ou son représentant et par le
 président du comité territorial olympique et sportif de la Nouvelle-Calédonie ou son représentant. 
@@ -52112,7 +52114,7 @@ commission territoriale afin de tenir compte du calendrier des Jeux du Pacifique
 
 _Modifié par_:
 
-  - Arrêté du 21 mars 2011 - art. 2
+  - Arrêté du 4 mars 2016 - art. 3
 
 
 ###### Article A425-3
@@ -52120,8 +52122,8 @@ _Modifié par_:
 La commission territoriale du Centre national pour le développement du sport se réunit sur convocation du délégué
 territorial. Son secrétariat est assuré par la direction de la jeunesse et des sports de la Nouvelle-Calédonie
 
-Le président du gouvernement de Nouvelle-Calédonie, ou son représentant, et les présidents des assemblées de province, ou
-leurs représentants, assistent avec voix consultative aux séances de la commission territoriale.
+Les présidents des assemblées de province, ou leurs représentants, assistent avec voix consultative aux séances de la
+commission territoriale.
 
 Le délégué territorial et le président du comité territorial olympique et sportif peuvent également inviter à assister à tout
 ou partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
@@ -52136,9 +52138,9 @@ La commission délibère à la majorité des membres présents ou représentés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 4 mars 2016 - art. 5
 
 
 ###### Article A425-4
@@ -52232,11 +52234,65 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-# ANNEXES<a id=526></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=526></a>
 
-## Annexes partie réglementaire - Décrets<a id=527></a>
+###### Article A428-1
 
-### Annexes I<a id=528></a>
+La commission territoriale du Centre national pour le développement du sport en Martinique comprend : 
+
+1° Le délégué territorial de l'établissement ou son représentant ; 
+
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
+
+3° Cinq représentants de l'Etat désignés par le préfet ; 
+
+4° Le président du comité régional olympique et sportif ou son représentant ; 
+
+5° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; 
+
+6° Deux élus de la collectivité territoriale de Martinique ou leurs représentants ; 
+
+7° Un maire ou adjoint au maire de communes de la Martinique désigné par l'Association des maires de France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 4 mars 2016 - art. 1
+
+
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=527></a>
+
+###### Article A429-1
+
+La commission territoriale du Centre national pour le développement du sport en Guyane comprend : 
+
+1° Le délégué territorial de l'établissement ou son représentant ; 
+
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
+
+3° Cinq représentants de l'Etat désignés par le préfet ; 
+
+4° Le président du comité régional olympique et sportif ou son représentant ; 
+
+5° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; 
+
+6° Deux élus de la collectivité territoriale de Guyane ou leurs représentants ; 
+
+7° Un maire ou adjoint au maire de communes de la Guyane désigné par l'Association des maires de France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 4 mars 2016 - art. 1
+
+
+# ANNEXES<a id=528></a>
+
+## Annexes partie réglementaire - Décrets<a id=529></a>
+
+### Annexes I<a id=530></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -53641,7 +53697,7 @@ _Créé par_:
   - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
-### Annexes II<a id=529></a>
+### Annexes II<a id=531></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -55070,7 +55126,7 @@ _Cite_:
   - Code du sport. - art. R241-14 (V)
 
 
-### Annexes III<a id=530></a>
+### Annexes III<a id=532></a>
 
 ###### Article Annexe III-1 (art. R322-22)
 
@@ -55651,9 +55707,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=531></a>
+## Annexes partie réglementaire - Arrêtés<a id=533></a>
 
-### Annexes II<a id=532></a>
+### Annexes II<a id=534></a>
 
 ###### Article Annexe I-1 (art. A142-0)
 
@@ -67027,7 +67083,7 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art.
 
 
-### Annexes III<a id=533></a>
+### Annexes III<a id=535></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
