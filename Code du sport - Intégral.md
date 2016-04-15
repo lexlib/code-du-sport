@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -4083,11 +4083,11 @@ fait l'objet d'une condamnation pour crime ou pour l'un des délits prévus :
 
 9° A l'article 1750 du code général des impôts. 
 
-II.-En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il a fait
-l'objet d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à
-l'encadrement d'institutions et d'organismes soumis aux dispositions législatives ou réglementaires relatives à la protection
-des mineurs accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il a fait l'objet d'une
-mesure administrative de suspension de ces mêmes fonctions.
+II.-En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il fait l'objet
+d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à l'encadrement
+d'institutions et d'organismes soumis aux dispositions législatives ou réglementaires relatives à la protection des mineurs
+accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il fait l'objet d'une mesure
+administrative de suspension de ces mêmes fonctions.
 
 **Liens relatifs à cet article**
 
@@ -4105,7 +4105,7 @@ _Cité par_:
   - Code du sport. - art. A322-3 (V)
   - Code du sport. - art. Annexe II-12-2 a (V)
   - Code du sport. - art. L121-4 (V)
-  - Code du sport. - art. L212-10 (M)
+  - Code du sport. - art. L212-10 (V)
   - Code du sport. - art. L322-1 (V)
   - Code du sport. - art. R212-85 (V)
   - Code du sport. - art. R212-86 (V)
@@ -4113,43 +4113,48 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2016-457 du 14 avril 2016 - art. 2
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1750 (V)
-  - Code pénal -  CHAPITRE II : Des atteintes à l'intégrité physi... (V)
-  - Code du sport. - art. L212-1 (V)
-  - Code du sport. - art. L232-25 (V)
-  - Code de la santé publique - art. L3421-1 (V)
+  - Code général des impôts, CGI. - art. 1750
+  - Code pénal
+  - Code du sport. - art. L212-1
+  - Code du sport. - art. L232-25
+  - Code de la santé publique - art. L3421-1
 
 _Anciens textes_:
 
-  - Code de l'éducation - art. L363-2 (M)
   - Code de l'éducation - art. L363-2 (Ab)
 
 
 ###### Article L212-10
 
-Le fait pour toute personne d'exercer contre rémunération l'une des fonctions de professeur, moniteur, éducateur, entraîneur
-ou animateur d'une activité physique ou sportive ou de faire usage de ces titres ou de tout autre titre similaire en
-méconnaissance de l'article L. 212-9 est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+Le fait pour toute personne d'exercer, à titre rémunéré ou bénévole, l'une des fonctions de professeur, moniteur, éducateur,
+entraîneur ou animateur d'une activité physique ou sportive ou de faire usage de ces titres ou de tout autre titre similaire
+en méconnaissance de l'article L. 212-9 est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2016-457 du 14 avril 2016 - art. 2
 
 _Anciens textes_:
 
-  - Code de l'éducation - art. L463-7 (M)
-  - Code de l'éducation L463-7, alinéas 1 et 2
   - Code de l'éducation - art. L463-7 (Ab)
 
 _Cite_:
 
-  - Code du sport. - art. L212-9 (V)
+  - Code du sport. - art. L212-9 (M)
 
 
 ##### Section 3 : Obligation de déclaration d'activité<a id=38></a>
