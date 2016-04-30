@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-04-21
+Version Consolidée au 2016-05-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -486,19 +486,19 @@ Version Consolidée au 2016-04-21
             - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#483)
             - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#484)
           - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#485)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme (art. A322-147 à A322-175)](#486)
-            - [Paragraphe 1 : Généralités (art. A322-147 à A322-148)](#487)
-            - [Paragraphe 2 : Les séances de saut (art. A322-149 à A322-154)](#488)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#486)
+            - [Paragraphe 1 : Champ d'application (art. A322-147)](#487)
+            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#488)
             - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#489)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-159)](#490)
-            - [Paragraphe 5 : L'encadrement (art. A322-160 à A322-162)](#491)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-163 à A322-165)](#492)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-166)](#493)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-167 à A322-175)](#494)
-              - [Sous-paragraphe 1 : Les séances de vol (art. A322-167 à A322-170)](#495)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-171 à A322-173)](#496)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-174)](#497)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-175)](#498)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#490)
+            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#491)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#492)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#493)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#494)
+              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#495)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#496)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#497)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#498)
           - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#499)
       - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#500)
         - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#501)
@@ -50343,20 +50343,16 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme<a id=486></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=486></a>
 
-##### Paragraphe 1 : Généralités<a id=487></a>
+##### Paragraphe 1 : Champ d'application<a id=487></a>
 
 ###### Article A322-147
 
-La présente section s'applique aux établissements qui organisent la pratique du parachutisme sportif, de loisir ou l'activité
-de chute libre en soufflerie.
+La présente section s'applique aux établissements qui organisent la pratique du parachutisme sportif ou l'activité de chute
+libre en soufflerie.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
 
 _Cité par_:
 
@@ -50364,67 +50360,65 @@ _Cité par_:
   - Arrêté du 28 mars 2018 - art. 1
   - Code du sport. - art. A322-154 (VT)
 
+_Modifié par_:
 
-###### Article A322-148
-
-L'âge minimum requis pour la pratique du parachutisme sportif et de loisir est de quinze ans.
-
-Les pratiquants doivent présenter, lors de leur inscription, un certificat médical de non-contre-indication à la pratique du
-parachutisme, datant de moins d'un an.
-
-Pour la pratique de la chute libre en soufflerie, les limitations d'âge, de poids et de taille des pratiquants sont définies
-par l'exploitant de l'établissement en fonction des caractéristiques de la machine. Toutefois l'âge ne saurait être inférieur
-à cinq ans.
-
-L'exploitant de l`établissement informera les pratiquants, préalablement au début de l'activité, des pathologies pouvant
-présenter des contre-indications. Il pourra demander un certificat de non-contre-indication à l'activité s'il le juge
-nécessaire. Ces informations et limitations seront affichées dans un lieu visible des pratiquants.
-
-Les pratiquants mineurs doivent présenter en outre une autorisation écrite de leurs représentants légaux.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 
 ##### Paragraphe 2 : Les séances de saut<a id=488></a>
 
-###### Article A322-149
+###### Article A322-148
 
-L'organisation des séances de saut tient compte des conditions aérologiques et météorologiques.
+L'âge minimum requis pour la pratique du parachutisme sportif est de quinze ans. 
 
-Dans le cas où l'évolution des conditions météorologiques est susceptible de mettre en péril la sécurité et la santé des
-pratiquants, le responsable de l'activité adapte ou annule la séance de saut.
+A l'exception des licenciés de la fédération ayant reçu délégation pour le parachutisme, les pratiquants doivent présenter,
+lors de leur inscription, un certificat médical de non-contre indication à la pratique du parachutisme mentionné à l'article
+L. 231-2-3. Les pratiquants mineurs doivent présenter en outre une autorisation écrite de leurs représentants légaux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L231-2-3 (V)
+
+
+###### Article A322-149
+
+L'organisation des séances de saut tient compte des conditions aérologiques et météorologiques. Dans le cas où l'évolution de
+ces conditions est susceptible de mettre en péril la sécurité et la santé des pratiquants, le responsable de la séance de
+saut l'adapte ou l'annule.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 25 mars 2016 - art. 1
 
 
 ###### Article A322-150
 
-Les sauts effectués par les élèves débutants sont précédés d'une formation obligatoire, adaptée à la nature du saut.
+Les sauts effectués par les débutants sont précédés d'une formation obligatoire, adaptée à la nature du saut. 
 
-Peuvent seuls être pratiqués lors du premier saut :
+Peuvent seuls être pratiqués lors du premier saut par les débutants : 
 
-1° Le saut à ouverture automatique avec utilisation d'un parachute de type « tout dans le dos » dont l'ouverture du conteneur
-principal est assurée par une sangle reliée à l'avion. Il est effectué à partir d'une hauteur minimale de mille mètres.
+1° Le saut à ouverture automatique avec utilisation d'un parachute de type " tout dans le dos " dont l'ouverture du conteneur
+principal est assurée par une sangle reliée à l'aéronef. Il est effectué à partir d'une hauteur minimale de mille mètres ; 
 
 2° Le saut à ouverture commandée, où l'élève est accompagné en chute libre par deux moniteurs. Ce saut est effectué d'une
-hauteur minimale de trois mille mètres.
+hauteur minimale de trois mille mètres ; 
 
 3° Le saut en tandem avec utilisation d'un parachute biplace supportant le poids d'un élève et d'un moniteur, effectué à
 partir d'une hauteur minimale de largage de trois mille mètres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -50436,34 +50430,36 @@ _Cité par_:
   - Code du sport. - art. A322-159 (V)
   - Code du sport. - art. A322-160 (V)
   - Code du sport. - art. A322-161 (V)
-  - Code du sport. - art. A322-162 (VT)
+  - Code du sport. - art. A322-162 (V)
 
 
 ###### Article A322-151
 
-Tous les sauts réalisés sont répertoriés sur un carnet spécifique, détenu par l'élève en progression, sur lequel les
-moniteurs attestent les aptitudes acquises :
+Tous les sauts réalisés sont répertoriés sur un carnet spécifique, détenu par l'élève, sur lequel les moniteurs attestent les
+aptitudes acquises : 
 
 1° Hors de la progression accompagnée en chute, les élèves effectuent d'abord des sauts en ouverture automatique qui leur
 permettent de démontrer leur aptitude à effectuer des sorties stables et à simuler l'action d'ouverture. Ils doivent
-effectuer un minimum de quatre sauts en ouverture automatique avant d'accéder à la chute libre. La hauteur de largage et
-l'exercice demandé doivent permettre à l'élève d'effectuer son ouverture à la hauteur minimale de mille mètres.
+effectuer un minimum de quatre sauts en ouverture automatique avant d'accéder à la chute libre. Dès l'accès à la chute libre,
+la hauteur de largage et l'exercice demandé doivent permettre à l'élève d'effectuer son ouverture à la hauteur minimale de
+mille deux cent mètres ; 
 
 2° Les élèves suivant une progression accompagnée en chute doivent être accompagnés en chute par un ou deux moniteurs aussi
-longtemps qu'ils n'ont pas démontré leur aptitude à stabiliser des sorties non tenues par un moniteur, à effectuer des chutes
-stables prolongées, à maîtriser un « retour face sol » après un « passage dos » volontaire, à apprécier correctement leur
-hauteur et ouvrir leur parachute à une hauteur prédéterminée. Ils doivent en outre avoir effectué un minimum de six sauts
-successifs accompagnés avant d'effectuer un saut non accompagné. La hauteur de parachutage ne doit pas être inférieure à
-trois mille mètres et la hauteur d'ouverture ne doit pas être inférieure à mille deux cents mètres.
+longtemps qu'ils n'ont pas démontré leur aptitude à stabiliser des sorties non tenues, à effectuer des chutes stables
+prolongées, à maîtriser un " retour face sol " après un " passage dos " volontaire, à apprécier correctement leur hauteur et
+ouvrir leur parachute à une hauteur prédéterminée. Le premier saut s'effectue toujours accompagné de deux moniteurs. Ils
+doivent en outre avoir effectué un minimum de six sauts accompagnés avant d'effectuer un saut non accompagné. La hauteur de
+parachutage ne doit pas être inférieure à trois mille mètres et la hauteur d'ouverture ne doit pas être inférieure à mille
+deux cents mètres ; 
 
 3° L'utilisation du tandem est possible à tous les stades de la progression de l'élève. La hauteur de parachutage ne doit pas
 être inférieure à trois mille mètres et la hauteur d'ouverture ne doit pas être inférieure à mille cinq cents mètres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -50474,64 +50470,66 @@ _Cité par_:
 
 ###### Article A322-152
 
-Le pratiquant autonome au sein d'un établissement doit avoir démontré les aptitudes suivantes :
+Le pratiquant autonome au sein d'un établissement répertorie ses sauts sur un carnet spécifique régulièrement visé par un
+moniteur ayant les qualifications requises. Il doit totaliser cent sauts minimum et avoir démontré les aptitudes suivantes : 
 
-― contrôle de son équipement, pliage, conditionnement ;
+- savoir s'intégrer dans une séance de pratique autonome ; 
 
-― respect de sa sécurité à bord de l'aéronef et lors du largage ;
+- être capable de veiller à la sécurité du largage en séance de pratique autonome ; 
 
-― maîtrise de la chute libre et de la hauteur d'ouverture ;
+- maîtriser la chute libre ; 
 
-― maîtrise de sa voilure et de son atterrissage ;
+- être capable de concevoir et réaliser son programme de navigation sous voile de l'ouverture du parachute jusqu'à
+l'atterrissage ; 
 
-― intégration dans un groupe de parachutistes ;
+- être capable de plier sa voile principale et de contrôler son équipement ; 
 
-― adaptation à l'environnement aéronautique.
+- avoir les connaissances théoriques fondamentales liées à l'activité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. A322-158 (VT)
   - Code du sport. - art. A322-161 (V)
-  - Code du sport. - art. A322-162 (VT)
+  - Code du sport. - art. A322-162 (V)
 
 
 ###### Article A322-153
 
-Ces sauts mentionnés au présent article ne sont pas autorisés pour les élèves débutants mentionnés à l'article A. 322-150 et
-en progression mentionnés à l'article A. 322-151. Ils sont effectués d'une hauteur minimale de largage de deux mille cinq
-cents mètres. Un système de libération de l'équipement est obligatoire ainsi qu'un coupe-sangles. 
+Les sauts mentionnés au présent article ne sont pas autorisés pour les élèves mentionnés à l'article A. 322-150 et en
+progression mentionnés à l'article A. 322-151. Ils sont organisés selon les caractéristiques suivantes : 
 
-1° Sauts sur l'eau : 
+1° Sauts sur l'eau :
 
-― les participants doivent posséder une bonne maîtrise de la natation. Ils sont équipés d'un système d'aide à la flottaison
-et reçoivent une formation spécifique ; 
+- les participants doivent posséder une bonne maîtrise de la natation. Ils sont équipés d'un système d'aide à la flottaison
+et reçoivent une formation spécifique ;
 
-― la récupération des parachutistes et de leurs équipements est assurée par un nombre d'embarcations en fonction de celui des
-personnes et des matériels à récupérer. 
+- la récupération des parachutistes et de leurs équipements est assurée par un nombre d'embarcations en fonction de celui des
+personnes et des matériels à récupérer ; 
 
-2° Sauts de nuit : 
+2° Sauts de nuit : les participants doivent être repérables et être en mesure de déterminer leur hauteur d'ouverture. La zone
+d'atterrissage est éclairée ; 
 
-― les participants doivent être repérables et être en mesure de déterminer leur hauteur d'ouverture. La zone d'atterrissage
-est éclairée. 
+3° Sauts avec surface additionnelle rigide :
 
-3° Sauts avec surf ou toute autre surface additionnelle rigide.
+- un système de libération de l'équipement est obligatoire ;
+
+- pour l'ensemble des sauts visés au présent article, le coupe-sangles est obligatoire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. A322-150 (V)
-  - Code du sport. - art. A322-151 (V)
 
 _Cité par_:
 
@@ -50540,130 +50538,110 @@ _Cité par_:
 
 ###### Article A322-154
 
-Sauf exceptions prévues aux articles A. 322-147, A. 322-150, A. 322-151, A. 322-153, la hauteur minimale d'ouverture des
-parachutes est de 850 mètres. 
+Sauf exceptions prévues au 1° de l'article A. 322-150 et à l'article A. 322-151, la hauteur minimale du jet de l'extracteur
+de la voile principale est de 850 mètres. 
 
-La vitesse maximale du vent au sol est fonction des dimensions et des difficultés de la zone d'atterrissage et du niveau des
-parachutistes. Elle ne peut toutefois excéder sept mètres / seconde tant que l'élève n'a pas démontré la maîtrise de sa
-voilure, et onze mètres / seconde dans tous les autres cas.
+En fonction des caractéristiques de la zone de sauts et des conditions aérologiques, la vitesse maximale du vent au sol ne
+peut excéder celle fixée par la fédération ayant reçu délégation pour le parachutisme. Dans tous les cas, elle ne peut
+excéder onze mètres par seconde.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A322-147 (V)
   - Code du sport. - art. A322-150 (V)
-  - Code du sport. - art. A322-151 (V)
-  - Code du sport. - art. A322-153 (V)
 
 
 ##### Paragraphe 3 : Les zones d'atterrissage<a id=489></a>
 
 ###### Article A322-155
 
-L'exploitant de l'établissement doit obtenir les autorisations du propriétaire du terrain.
+L'exploitant de l'établissement doit obtenir les autorisations du propriétaire du terrain. Les secours doivent pouvoir
+accéder à la zone d'atterrissage. 
 
-Les secours doivent pouvoir accéder à la zone d'atterrissage.
+Préalablement au premier saut dans l'établissement, les pratiquants reçoivent une formation sur la zone de sauts et ses
+caractéristiques : vents dominants, consignes d'atterrissage, zones de dégagement, obstacles à éviter. 
 
-Les pratiquants reçoivent une information particulière sur la zone de sauts et ses caractéristiques : vents dominants,
-consignes d'atterrissage, zones de dégagement, obstacles à éviter.
-
-Plusieurs établissements peuvent utiliser la même zone d'atterrissage.
-
-Pour ce faire et préalablement au début des activités, s'ils n'utilisent pas les mêmes moyens aériens, les établissements
-élaborent un protocole de coordination, validé par les services déconcentrés du ministère chargé des sports.
+Plusieurs établissements peuvent utiliser la même zone d'atterrissage. Pour ce faire et préalablement au début des activités,
+s'ils n'utilisent pas les mêmes moyens aériens, la fédération ayant reçu délégation pour le parachutisme élabore un protocole
+de coordination au regard de ses règles techniques et de sécurité, qu'elle communique à l'autorité administrative.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 
 ###### Article A322-156
 
 Pour les sauts définis aux 1° et 2° des articles A. 322-150 et A. 322-151, la zone d'atterrissage est dégagée et mesure au
-moins 100 mètres de diamètre. En outre, son environnement permet des atterrissages hors zone en sécurité. 
-
-Les pratiquants reçoivent une information particulière sur la zone de sauts et ses caractéristiques : vents dominants,
-consignes d'atterrissage, zones de dégagement, obstacles à éviter. 
-
-Pour les sauts définis aux 3° des articles A. 322-150 et A. 322-151, la zone est dégagée et mesure au moins 50 mètres de
-diamètre.
+moins cent mètres de diamètre. En outre, son environnement permet des atterrissages hors zone en sécurité. Pour les sauts
+définis aux 3° des articles A. 322-150 et A. 322-151, la zone est dégagée et mesure au moins cinquante mètres de diamètre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. A322-150 (V)
-  - Code du sport. - art. A322-151 (V)
 
 
 ##### Paragraphe 4 : Les équipements<a id=490></a>
 
 ###### Article A322-157
 
-Les équipements vestimentaires ne peuvent gêner l'accès aux commandes fonctionnelles d'ouverture des parachutes ni la mise en
-œuvre de la procédure de secours.
+Le port d'un casque est obligatoire pour les sauts définis aux 1° et 2° des articles A. 322-150 et A. 322-151. 
 
-L'emport d'un altimètre est obligatoire.
+Les équipements vestimentaires et équipements annexes doivent permettre l'accès aux commandes fonctionnelles d'ouverture des
+parachutes et la mise en œuvre de la procédure de secours. Tout équipement de prise de vues embarqué qui présente un risque
+d'accrochage doit être équipé d'un système de désolidarisation rapide en cas d'accrochage. 
 
-Un coupe-sangles est disponible dans l'avion.
+L'emport d'un altimètre est obligatoire. 
+
+Un coupe-sangles est disponible dans l'aéronef. 
 
 Les pratiquants de voile contact et de tandem emportent un coupe-sangles.
 
-Les lunettes de saut permettent un champ de vision suffisant pour visualiser la procédure de secours.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A322-150 (V)
 
 
 ###### Article A322-158
 
 A l'exception des sauts définis au 3° de l'article A. 322-150 où l'élève est équipé d'un harnais passager spécifiquement
 conçu pour l'activité, aucun saut ne peut être effectué si le parachutiste n'est équipé d'un sac harnais, d'une voilure
-principale et d'une voilure de secours. 
+principale, d'une voilure de secours et d'un déclencheur de sécurité. 
 
-Pour les sauts définis à l'article A. 322-150 le sac harnais est obligatoirement de type « tout dans le dos », la voilure
-principale est libérable et de type « aile », la voilure de secours est de type « aile ». 
+Pour les sauts définis à l'article A. 322-150, le sac harnais est obligatoirement de type " tout dans le dos ", la voilure
+principale est libérable et de type " aile ", la voilure de secours est de type " aile ". 
 
-Pour les sauts définis aux articles A. 322-150, A. 322-152 et A. 322-153, l'emport d'un déclencheur de sécurité, adapté à
-l'activité, relié au parachute de secours, est obligatoire.
+Le parachute de secours doit être plié au minimum une fois par an. La maintenance et le pliage du parachute de secours
+doivent être effectués par un titulaire d'un diplôme, titre à finalité professionnelle ou certificat de qualification,
+inscrit au répertoire national des certifications professionnelles ou reconnu par la fédération ayant reçu délégation pour le
+parachutisme. 
 
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Cite_:
-
-  - Code du sport. - art. A322-150 (V)
-  - Code du sport. - art. A322-152 (V)
-
-
-###### Article A322-159
-
-Le port d'un casque est obligatoire pour les sauts définis aux 1° et 2° des articles A. 322-150 et A. 322-151. 
-
-Le casque équipé d'appareils de prise de vue possède un système de dégrafage rapide.
+Pour tous types de sauts, l'emport d'un déclencheur de sécurité activé, relié au parachute de secours, est obligatoire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
@@ -50672,32 +50650,37 @@ _Cite_:
 
 ##### Paragraphe 5 : L'encadrement<a id=491></a>
 
-###### Article A322-160
+###### Article A322-159
 
 L'encadrement est adapté à la nature de l'activité, au niveau et au nombre des pratiquants.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A322-150
 
 
-###### Article A322-161
+###### Article A322-160
 
 Pour les séances de saut encadrées définies aux 1° et 2° des articles A. 322-150 et A. 322-151, l'encadrement est composé
 d'au moins deux moniteurs dont l'un au moins, qu'il soit ou non rémunéré, possède le diplôme requis par l'article L. 212-1,
-l'autre pouvant posséder soit ce diplôme, soit, s'il agit à titre bénévole, le brevet de moniteur fédéral de parachutisme
-délivré par la fédération ayant reçu délégation pour le parachutisme. 
+l'autre pouvant posséder soit ce diplôme, soit, s'il agit à titre bénévole, le brevet de moniteur fédéral de parachutisme,
+adapté au type de saut effectué délivré par la fédération ayant reçu délégation pour le parachutisme. Au moins un de ces deux
+moniteurs ou une autre personne qualifiée comme défini précédemment doit être au sol. 
 
-Un moniteur accompagne dans l'avion les élèves effectuant des sauts en ouverture automatique ou n'ayant pas encore déjà
-démontré leurs aptitudes au respect de la sécurité à bord de l'aéronef et lors du largage.
+Un moniteur accompagne dans l'aéronef les élèves effectuant des sauts en ouverture automatique ou n'ayant pas encore démontré
+leurs aptitudes au respect de la sécurité à bord de l'aéronef et lors du largage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
@@ -50705,20 +50688,21 @@ _Cite_:
   - Code du sport. - art. L212-1 (V)
 
 
-###### Article A322-162
+###### Article A322-161
 
-Les séances de sauts définies au 3° des articles A. 322-150 et A. 322-151 ainsi qu'à l'article A. 322-152 sont encadrées au
-minimum au sol par un parachutiste, pratiquant autonome, qui coordonne, en liaison avec le pilote, les conditions générales
-du largage et, en vol, par un parachutiste, pratiquant autonome, qui veille à la sécurité du largage.
+Les séances de sauts définies au 3° des articles A. 322-150 et A. 322-151 ainsi qu'à l'article A. 322-152 nécessitent au
+minimum la présence de deux parachutistes autonomes désignés, l'un au sol, l'autre en vol, qui coordonnent, en liaison avec
+le pilote, les conditions générales du largage. Toutefois, le moniteur tandem peut assurer seul, en vol, la sécurité de son
+largage. 
 
-A bord de l'aéronef, en chute libre et sous voilure, le moniteur tandem ne peut se voir confier une autre mission
-d'encadrement.
+A bord de l'aéronef, en chute libre et sous voilure, le moniteur tandem ne peut se voir confier aucune autre mission que
+celle d'enseignement dispensé à son élève.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
@@ -50728,53 +50712,89 @@ _Cite_:
 
 ##### Paragraphe 6 : Les moyens matériels<a id=492></a>
 
-###### Article A322-163
+###### Article A322-162
 
 Les moyens techniques sont adaptés à la nature de l'activité, au niveau et au nombre des pratiquants.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A322-164
-
-Outre les prescriptions de l'article R. 322-4, tout établissement dispose des moyens matériels suivants : 
-
-1° Un plan ou une vue aérienne de la zone d'atterrissage permettant de repérer les obstacles éventuels situés aux abords de
-la zone d'atterrissage ; 
-
-2° Une manche à air ou une flamme indiquant le vent ; 
-
-3° Une liaison radio sol-air ; 
-
-4° Un anémomètre ; 
-
-5° Un moyen d'alerte des secours.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. R322-4 (V)
+  - Code du sport. - art. A322-150 (V)
+  - Code du sport. - art. A322-152 (V)
 
 
-###### Article A322-165
+###### Article A322-163
 
-Outre les documents prévus à l'article R. 322-1, le plan ou la vue aérienne de la zone d'atterrissage est affiché en un lieu
-visible de tous.
+Tout établissement dispose des moyens matériels suivants : 
+
+1° Un plan ou une vue aérienne de la zone d'atterrissage permettant de repérer les obstacles éventuels situés aux abords de
+la zone d'atterrissage. Celui-ci doit être affiché en un lieu visible de tous les pratiquants ; 
+
+2° Une manche à air ou une flamme indiquant le vent ; 
+
+3° Une liaison radio sol-air avec le pilote de l'aéronef ; 
+
+4° Un anémomètre ; 
+
+5° Un moyen d'alerte des secours ; 
+
+6° Une paire de jumelles binoculaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
+
+
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=493></a>
+
+###### Article A322-164
+
+Outre le préfet du département, l'exploitant de l'établissement informe, sous quarante-huit heures, le ministre chargé des
+sports de tout accident grave survenu dans l'établissement, en précisant l'identité de la victime, les circonstances et le
+lieu de l'accident. 
+
+Un accident mortel ou un accident corporel grave de parachutisme donne lieu à une enquête, déclenchée par le ministre chargé
+des sports ou par le préfet du département du lieu de l'accident. Un expert est désigné pour effectuer les investigations
+nécessaires sur place et rédiger un rapport de première information.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R322-4
+
+
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=494></a>
+
+##### Sous-paragraphe 1er : Les séances de vol<a id=495></a>
+
+###### Article A322-165
+
+Pour la pratique de la chute libre en soufflerie, les limitations d'âge, de poids et de taille des pratiquants sont définies
+par l'exploitant de l'établissement en fonction des caractéristiques de la machine. Toutefois l'âge du pratiquant ne peut
+être inférieur à cinq ans. 
+
+L'exploitant de l'établissement informe les pratiquants, préalablement au début de l'activité, des pathologies pouvant
+présenter des contre-indications. 
+
+Les pratiquants mineurs doivent pouvoir justifier d'une autorisation de leurs représentants légaux.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -50782,54 +50802,52 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R322-1 (V)
+  - Code du sport. - art. R322-1
 
-
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=493></a>
 
 ###### Article A322-166
 
-Outre le préfet, l'exploitant de l'établissement informe, sous quarante-huit heures, le ministre chargé des sports de tout
-accident grave survenu dans l'établissement, en précisant l'identité de la victime, les circonstances et le lieu de
-l'accident.
+L'organisation des séances de vol est adaptée à la nature de l'entraînement, au niveau et au nombre des pratiquants. 
 
-Un accident mortel ou un accident corporel grave de parachutisme donne lieu à une enquête, déclenchée par le ministre chargé
-des sports ou par le préfet du département du lieu de l'accident. Un sachant est désigné pour effectuer les investigations
-nécessaires sur place et rédiger un rapport de première information.
+1° Pour tous les types d'activités, un opérateur doit être présent hors de la veine d'air ; 
+
+2° Pour tous les types d'activités, un moniteur doit être présent dans la veine d'air ou à proximité permettant une
+intervention immédiate ; 
+
+3° Pour tout pratiquant dont la phase d'apprentissage le requiert, un moniteur doit être présent dans la veine d'air.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. A322-171 (VD)
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=494></a>
-
-##### Sous-paragraphe 1 : Les séances de vol<a id=495></a>
-
 ###### Article A322-167
 
-L'organisation des séances de vol est adaptée à la nature de l'entraînement et au niveau des pratiquants.
+Les pratiquants autonomes doivent avoir démontré les aptitudes suivantes : 
 
-Les séances de vol encadrées sont de deux types :
+- avoir la maîtrise de l'entrée et de la sortie du flux d'air ; 
 
-1° Les séances encadrées dans la veine d'air qui concernent des pratiquants débutants jusqu'à ce qu'ils soient autonomes ou
-des pratiquants qui étudient de nouvelles techniques de vol (de groupe, à grande vitesse, etc.) ;
+- avoir la maîtrise de la stabilité sur les axes de lacet et de roulis ; 
 
-2° Les séances encadrées hors veine d'air qui concernent des pratiquants autonomes qui étudient de nouvelles techniques de
-vol pour lesquelles la surveillance et l'encadrement peut se faire hors veine d'air. Le moniteur doit pouvoir voir ce qui se
-passe dans la veine d'air et entrer rapidement dans le flux si nécessaire.
+- avoir la maîtrise des dérapages avant, arrière et latéraux ; 
+
+- avoir la maîtrise des rotations autour de l'axe de lacet ; 
+
+- avoir la maîtrise des variations de hauteur ; 
+
+- avoir la maîtrise du retour face sol.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -50838,154 +50856,80 @@ _Cité par_:
 
 ###### Article A322-168
 
-Les séances de vol non encadrées concernent les pratiquants autonomes.
+L'autonomie est attestée par un certificat, délivré par un moniteur, comportant la date, le nom et le prénom du pratiquant.
+Ce certificat comporte également le nom, le prénom, les qualifications et la signature du moniteur. Un suivi des pratiquants
+renseigné sur un carnet de vol, atteste de leur niveau de pratique et des techniques maîtrisées.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 28 février 2008 - art. (V)
+  - Arrêté du 25 mars 2016 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. A322-175 (VT)
 
 
-###### Article A322-169
-
-Les pratiquants autonomes doivent avoir démontré les aptitudes suivantes :
-
-― maîtrise de l'entrée et de la sortie du flux d'air ;
-
-― maîtrise de la stabilité sur les axes de lacet, tangage et roulis ;
-
-― maîtrise des dérapages avant, arrière et latéraux ;
-
-― maîtrise des rotations autour de l'axe de lacet ;
-
-― maîtrise des variations de hauteur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A322-170
-
-L'autonomie est attestée par un certificat, délivré par un moniteur, comportant la date, le nom et le prénom du pratiquant.
-Ce certificat comporte également le nom, le prénom, les qualifications et la signature du moniteur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-
 ##### Sous-paragraphe 2 :  Les machines<a id=496></a>
 
-###### Article A322-171
+###### Article A322-169
 
 Les machines utilisées par les exploitants sont adaptées à la nature des activités proposées. Leurs conceptions et
 réalisations doivent permettre l'intervention des secours extérieurs.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A322-172
-
-Les dispositifs de conduite et d'arrêt d'urgence seront séparés de l'espace réservé aux pratiquants mais accessibles aisément
-aux moniteurs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2016 - art. 1
-
-
-###### Article A322-173
-
-Lors de l'ouverture au public, un opérateur doit pouvoir intervenir à la conduite des machines.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Arrêté du 25 mars 2016 - art. 1
 
 
 ##### Sous-paragraphe 3 : Les équipements<a id=497></a>
 
-###### Article A322-174
+###### Article A322-170
 
-Les pratiquants doivent être munis au minimum :
+Les pratiquants doivent être munis au minimum : 
 
-1° D'une combinaison monopièce interdisant le départ intempestif d'éléments solides dans le flux d'air ;
+1° D'une combinaison mono pièce interdisant le départ intempestif d'éléments solides dans le flux d'air ; 
 
 2° D'un casque à coque dure.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Arrêté du 25 mars 2016 - art. 1
 
 
 ##### Sous-paragraphe 4 : L'encadrement<a id=498></a>
 
-###### Article A322-175
+###### Article A322-171
 
-L'encadrement est adapté à la nature de l'activité, au niveau et au nombre des pratiquants. 
-
-Pour les séances de vol encadrées telles que définies au 1° de l'article A. 322-167 et au 2° de l'article A. 322-167,
+Pour les séances de vol telles que définies aux 1° et 2° de l'article A. 322-166 et au 2° de l'article A. 322-166,
 l'encadrement comprend au minimum : 
 
-1° Un opérateur habilité par l'exploitant à la conduite de la machine ; 
+1° Un moniteur titulaire d'un diplôme, titre à finalité professionnelle ou certificat de qualification, requis par l'article
+L. 212-1, permettant l'enseignement de la chute libre en soufflerie, qui encadre dans la veine d'air ou à l'entrée de la
+veine d'air. 
 
-2° Un moniteur titulaire d'un diplôme, titre à finalité professionnelle ou certificat de qualification, requis par l'article
-L. 212-1, permettant l'enseignement de la chute libre en soufflerie, ayant reçu de l'exploitant une formation adaptée aux
-spécificités de la machine qui ne saurait être inférieure à 50 heures. 
+2° Un opérateur habilité par l'exploitant à la conduite de la machine dès lors que la conception de l'installation ou
+l'organisation des séances de vol ne permet pas au moniteur d'avoir accès aux dispositifs de conduite et d'arrêt d'urgence. 
 
-Pour les séances de vols telles que définies à l'article A. 322-168, la surveillance comprend au minimum un opérateur
-habilité par l'exploitant à la conduite de la machine.
-
-L'opérateur à la machine doit être capable d'alerter les secours et de prodiguer les premiers soins en attente des services
-de secours.
+L'opérateur à la machine doit être capable d'alerter les secours et de prodiguer les premiers soins en attente de l'arrivée
+des services de secours. Il doit être titulaire au moins de l'unité d'enseignement " prévention et secours civiques de niveau
+1 (PSC 1) " ou équivalent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté du 28 février 2008 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Arrêté du 25 mars 2016 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A322-167
-  - Code du sport. - art. A322-168
-  - Code du sport. - art. L212-1
+  - Code du sport. - art. A322-166 (V)
+  - Code du sport. - art. L212-1 (V)
 
 
 ##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=499></a>
