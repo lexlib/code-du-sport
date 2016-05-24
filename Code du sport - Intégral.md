@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-05-15
+Version Consolidée au 2016-05-25
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -389,12 +389,12 @@ Version Consolidée au 2016-05-15
                 - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43)](#386)
                 - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#387)
             - [Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport (art. A212-46 à A212-47)](#388)
-            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52)](#389)
+            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52-1)](#389)
               - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-48)](#390)
-              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52)](#391)
-            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57)](#392)
+              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52-1)](#391)
+            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57-1)](#392)
               - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-53)](#393)
-              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57)](#394)
+              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57-1)](#394)
             - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#395)
               - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#396)
               - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#397)
@@ -41938,6 +41938,19 @@ _Cite_:
   - Code du sport. - art. D212-37
 
 
+###### Article A212-49-1
+
+L'avis consultatif du directeur technique national mentionné à l'article R. 212-10-12 est exigé pour l'habilitation des
+organismes de formation préparant à la spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse, de l'éducation
+populaire et du sport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 2 mai 2016 - art. 1
+
+
 ###### Article A212-50
 
 La spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est organisée
@@ -42040,6 +42053,42 @@ _Modifié par_:
   - Arrêté du 21 décembre 2015 - art. 3
 
 
+###### Article A212-52-1
+
+Pour l'inscription dans une formation préparant à la spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse,
+de l'éducation populaire et du sport, le dossier du candidat mentionné à l'article A. 212-36 est complété par la production
+de l'attestation "prévention et secours civiques de niveau 1" (PSC 1) ou de l'une des attestations suivantes :
+
+- "attestation de formation aux premiers secours" (AFPS) ;
+
+- "premiers secours en équipe de niveau 1" (PSE 1) en cours de validité ;
+
+- "premiers secours en équipe de niveau 2" (PSE 2) en cours de validité ;
+
+- "attestation de formation aux gestes et soins d'urgence" (AFGSU) de niveau 1 ou de niveau 2 en cours de validité ;
+
+- "certificat de sauveteur secouriste du travail (STT)" en cours de validité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 décembre 2007 - art. 3 (V)
+  - Arrêté du 1er juillet 2008 - art. 4 (V)
+  - Arrêté du 1er juillet 2008 - art. Annexe III (V)
+  - Arrêté du 29 juin 2009 - art. 3 (V)
+  - Arrêté du 6 mars 2017 - art. 2
+  - Arrêté du 1er février 2018 - art. 2
+  - Arrêté du 1er février 2018 - art. 4
+  - Arrêté du 1er février 2018 - art. 8
+  - Arrêté du 6 mars 2018 - art. 3 (VD)
+  - Arrêté du 6 mars 2018 - art. 1
+
+_Créé par_:
+
+  - Arrêté du 2 mai 2016 - art. 1
+
+
 ##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=392></a>
 
 ##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=393></a>
@@ -42098,6 +42147,19 @@ _Cité par_:
 _Cite_:
 
   - Code du sport. - art. D212-53
+
+
+###### Article A212-54-1
+
+L'avis consultatif du directeur technique national mentionné à l'article R. 212-10-12 est exigé pour l'habilitation des
+organismes de formation préparant à la spécialité "performance sportive" du diplôme d'Etat supérieur de la jeunesse, de
+l'éducation populaire et du sport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 2 mai 2016 - art. 2
 
 
 ###### Article A212-55
@@ -42186,6 +42248,36 @@ _Cité par_:
 _Modifié par_:
 
   - Arrêté du 21 décembre 2015 - art. 4
+
+
+###### Article A212-57-1
+
+Pour l'inscription dans une formation préparant à la spécialité "performance sportive" du diplôme d'Etat supérieur de la
+jeunesse, de l'éducation populaire et du sport, le dossier du candidat mentionné à l'article A. 212-36 est complété par la
+production de l'attestation "prévention et secours civiques de niveau 1" (PSC 1) ou de l'une des attestations suivantes :
+
+- "attestation de formation aux premiers secours" (AFPS) ;
+
+- "premiers secours en équipe de niveau 1" (PSE 1) en cours de validité ;
+
+- "premiers secours en équipe de niveau 2" (PSE 2) en cours de validité ;
+
+- "attestation de formation aux gestes et soins d'urgence" (AFGSU) de niveau 1 ou de niveau 2 en cours de validité ;
+
+- "certificat de sauveteur secouriste du travail (STT)" en cours de validité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 décembre 2007 - art. 3 (V)
+  - Arrêté du 29 juin 2009 - art. 3 (V)
+  - Arrêté du 6 mars 2017 - art. 2
+  - Arrêté du 6 mars 2018 - art. 1
+
+_Créé par_:
+
+  - Arrêté du 2 mai 2016 - art. 2
 
 
 ##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=395></a>
