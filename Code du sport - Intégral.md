@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -55512,302 +55512,328 @@ _Cite_:
 
 (Article A. 212-1 du code du sport) 
 
-A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur 
+A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur
 
 <table border="1">
-  <thead>
+  <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 INTITULÉ DU DIPLÔME
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-CONDITIONS D'EXERCICE 
+CONDITIONS D'EXERCICE
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
 LIMITES DES CONDITIONS D'EXERCICE
 
-</td>
+</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-DEUG "sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous". 
+DEUG "sciences et techniques des activités physiques et sportives".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
-de loisir. 
+de loisir.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des pratiques compétitives. 
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques". 
+DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Encadrement des activités physiques ou sportives auprès de personnes souffrant de déficiences intellectuelles et de troubles
-psychiques. 
+psychiques.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Toute activité physique ou sportive visant l'amélioration de l'intégration sociale. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-DEUST "activités physiques et sportives et inadaptations sociales". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales. 
-
-</td>
-      <td valign="top" align="left">
-
-Toute activité physique ou sportive visant l'amélioration de l'intégration sociale. 
+Toute activité physique ou sportive visant l'amélioration de l'intégration sociale.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-DEUST "action, commercialisation des services sportifs". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des pratiques physiques liées aux loisirs. 
+DEUST "activités physiques et sportives et inadaptations sociales".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales.
+
+</td>
+      <td align="left">
+
+Toute activité physique ou sportive visant l'amélioration de l'intégration sociale.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+DEUST "action, commercialisation des services sportifs".
+
+</td>
+      <td align="left">
+
+Encadrement des pratiques physiques liées aux loisirs.
+
+</td>
+      <td align="left">
 
 Toute pratique sportive de loisir auprès de tout public, à l'exclusion des personnes ayant un handicap, une déficience
-intellectuelle ou un trouble psychique. 
+intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "manager de club sportif". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement des activités physiques ou sportives. 
+DEUST "manager de club sportif".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives.
+
+</td>
+      <td align="left">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des personnes ayant un handicap, une déficience
-intellectuelle ou un trouble psychique. 
+intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-DEUST "métiers de la forme". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
+DEUST "métiers de la forme".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé. 
+Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
+
+Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement des activités physiques ou sportives de publics seniors. 
+DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives de publics seniors.
+
+</td>
+      <td align="left">
 
 Toute activité sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique
-des publics seniors. 
+des publics seniors.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "animation et gestion des activités physiques, sportives ou culturelles". 
+DEUST "animation et gestion des activités physiques, sportives ou culturelles".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Animation auprès de tout public par la découverte des activités physiques, sportives ou culturelles et par l'initiation à ces
-activités. 
+activités.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Animation auprès de tout public, à l'exclusion : 
 
 - des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble
 psychique ;
 
-- des pratiques compétitives. 
+- des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle "santé, option vieillissement et activités physiques adaptées". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement des activités physiques ou sportives de publics seniors. 
+Licence professionnelle mention "santé, vieillissement et activités physiques adaptées" (licence professionnelle "santé",
+option "vieillissement et activités physiques adaptées").
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique
-des publics seniors. 
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement de toute activité physique ou sportive adaptée à la prévention du vieillissement, visant à entretenir et à
+améliorer la condition physique des publics seniors.
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Licence professionnelle "activités sportives", option "remise en forme et loisirs sportifs associés : responsable d'équipe de
+projets".
+
+</td>
+      <td align="left">
+
+Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
+
+Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Licence professionnelle "activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de
-projets". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
+Licence professionnelle mention "intervention sociale : développement social et médiation par le sport" (licence
+professionnelle "activités sportives", spécialité "développement social et médiation par le sport").
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Toute activité physique des métiers de la forme, liée au développement et à l'entretien du bien-être et de la santé. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport". 
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Encadrement et animation auprès de tout public, des activités physiques et sportives. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation auprès de tout public, à l'exclusion : 
+A l'exclusion : 
 
 - des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble
 psychique ;
 
-- des pratiques compétitives. 
+- des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle activités sportives, spécialité "métiers de la forme". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme. 
+Licence professionnelle mention "métiers de la forme" (licence professionnelle "activités sportives", spécialité "métiers de
+la forme").
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle "animation, gestion et organisation des activités physiques ou sportives". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de loisir dans la ou les discipline (s) mentionnée
-(s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation. 
+Licence professionnelle mention "animation, gestion et organisation des activités physiques ou sportives" (licence
+professionnelle "animation, gestion et organisation des activités physiques ou sportives").
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Enseignement auprès de tout public dans la ou les discipline(s) mentionnée(s) dans l'annexe descriptive au diplôme visée à
+l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice.
+
+</td>
+      <td align="left">
+
+A l'exclusion des pratiques compétitives.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "éducation et
+motricité" (licence "éducation et motricité", filière "sciences et techniques des activités physiques et sportives").
+
+</td>
+      <td align="left">
+
+Encadrement, enseignement et animation des activités physiques ou sportives auprès de tout public à un niveau d'initiation,
+d'entretien ou de loisir.
+
+</td>
+      <td align="left">
+
+A l'exclusion des pratiques compétitives.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "entraînement sportif (licence
+"entraînement sportif", filière "sciences et techniques des activités physiques et sportives").
+
+</td>
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement de tout public à des fins d'amélioration de la performance ou de développement personnel dans la ou les
+disciplines mentionnées dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur
+l'attestation délivrée par le président de l'université certificatrice.
+
+</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Licence "éducation et motricité" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes. 
+Licence mention sciences et techniques des activités physiques et sportives , parcours type activité physique adaptée et
+santé (licence activité physique adaptée et santé , filière sciences et techniques des activités physiques et sportives ).
 
 </td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Licence "entraînement sportif" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td valign="top" align="left">
-
-Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les)
-discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation. 
-
-</td>
-      <td valign="top" align="left">
-    </td></tr>
-    <tr>
-      <td valign="top" align="left">
-
-Licence "activité physique adaptée et santé" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td align="left" valign="top">
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
 
 Encadrement des activités physiques ou sportives à destination de différents publics dans une perspective de prévention-santé
-ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique. 
+ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique.
 
 </td>
-      <td align="left" valign="top">
-    </td></tr>
+    </tr>
   </tbody>
 </table>
 
@@ -55844,12 +55870,12 @@ LIMITES DES CONDITIONS D'EXERCICE
 BEES du 3e degré, toutes options.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement de l'activité visée par l'option considérée, dans tout établissement.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -55858,7 +55884,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêt
 d'alpinisme.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
 type nordique excluant tout accident de terrain et situés en moyenne montagne. 
@@ -55907,7 +55933,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du brevet national de pisteur-secouriste 2e degré ou option ski alpin 2e
 degré ou option ski nordique 2e degré.
@@ -55921,7 +55947,7 @@ type nordique excluant tout accident de terrain et situés en moyenne montagne.
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion : 
 
@@ -55950,7 +55976,7 @@ Animation de groupes et enseignement des connaissances et savoir-faire propres �
 Prérogatives conférées aux titulaires du BEES option "ski alpin" ou "ski nordique" selon la spécialité.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion : 
 
@@ -55983,7 +56009,7 @@ techniques de l'alpinisme.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme, option "moyenne montagne tropicale" assorti du CQC "encadrement du canyon en
 milieu tropical".
@@ -55997,12 +56023,12 @@ Encadrement de personnes dans les canyons situés en milieu tropical.
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montagnard".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement de l'activité VTT en milieu montagnard.
 
@@ -56044,7 +56070,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT
 
@@ -56062,7 +56088,7 @@ Initiation au bicross, avec les prérogatives et dans les conditions prévues pa
 l'organisation et aux conditions de préparation et de délivrance du BAPAAT.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -56070,7 +56096,7 @@ l'organisation et aux conditions de préparation et de délivrance du BAPAAT.
 Escalade.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation à l'escalade, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
 
@@ -56282,20 +56308,20 @@ modifié.
       <td>
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Randonnée équestre et brevet d'études professionnelles agricoles, option "activités hippiques, support technique "randonnée
 équestre".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité
 "accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques", et fixant
 les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -56342,7 +56368,7 @@ Mentions de la spécialité "activités équestres"
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Equitation
 
@@ -56352,10 +56378,10 @@ Equitation
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tourisme équestre
 
@@ -56369,7 +56395,7 @@ de randonnées pour tout public et sur tout itinéraire.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Equitation western
 
@@ -56387,13 +56413,13 @@ Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de comp
 Equitation de tradition et de travail
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de
 travail.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td>
@@ -56418,7 +56444,7 @@ BP JEPS, spécialité "activités nautiques".
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions monovalentes de la spécialité "activités nautiques"
 
@@ -56436,7 +56462,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 disciplines associées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56480,7 +56506,7 @@ l'activité aménagé et ouvert.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Glisse aérotractée.
 
@@ -56505,13 +56531,13 @@ l'activité.
 Motonautisme.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en
 motonautisme.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activités de jet, bateau à moteur, engins tractés, pour tout public et sur tout lieu de pratique de l'activité.
 
@@ -56523,13 +56549,13 @@ Activités de jet, bateau à moteur, engins tractés, pour tout public et sur to
 Ski nautique et disciplines associées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en ski
 nautique et disciplines associées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses) pour tout public et
 sur tout lieu de pratique de l'activité.
@@ -56542,12 +56568,12 @@ sur tout lieu de pratique de l'activité.
 Surf.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en surf.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activités de surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard) pour tout public et sur tout lieu de
 pratique de l'activité.
@@ -56555,7 +56581,7 @@ pratique de l'activité.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Voile.
 
@@ -56565,7 +56591,7 @@ Voile.
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Activités de multicoque, dériveur, croisière (jusqu'à 12 milles nautiques d'un abri) et planche à voile pour tout public et
 sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un abri, possibilité d'encadrer en croisière au
@@ -56574,7 +56600,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions plurivalentes de la spécialité "activités nautiques"
 
@@ -56588,7 +56614,7 @@ Groupe A
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Aviron de mer
 
@@ -56599,7 +56625,7 @@ Encadrement et animation d'activités de découverte et d'initiation incluant le
 mer.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
 
@@ -56659,7 +56685,7 @@ Encadrement et animation d'activités de découverte et d'initiation incluant le
 kayak "eau calme, mer et vagues".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e catégorie sur des parcours connus et reconnus,
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.
@@ -56691,7 +56717,7 @@ Sur tout support (à l'exception des activités tractées), sur des parcours éc
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D
 
@@ -56703,13 +56729,13 @@ Groupe D
 Croisière côtière.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière
 côtière.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sur des voiliers autres que les embarcations légères de plaisance, pour tout public jusqu'à 12 milles nautiques d'un abri.
 Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
@@ -56718,25 +56744,25 @@ possédant les diplômes requis.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Multicoques et dériveurs.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en
 multicoques et dériveurs.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Planche à voile.
 
@@ -56747,7 +56773,7 @@ Encadrement et animation d'activités de découverte et d'initiation incluant le
 voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour tout public et sur tout lieu de pratique de l'activité.
 
@@ -56778,7 +56804,7 @@ Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F
 
@@ -56838,7 +56864,7 @@ de l'activité.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe G
 
@@ -56997,14 +57023,14 @@ BP JEPS, spécialité "sport automobile".
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "sport automobile"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Circuit.
 
@@ -57032,7 +57058,7 @@ compétition en karting.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Perfectionnement du pilotage.
 
@@ -57051,7 +57077,7 @@ compétition en perfectionnement du pilotage.
 Rallye
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
 compétition en rallye.
@@ -57079,12 +57105,12 @@ compétition en tout-terrain.
 BP JEPS, spécialité "activités physiques pour tous".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation à destination de différents publics à travers notamment la découverte des activités physiques.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
 handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.
@@ -57281,7 +57307,7 @@ BP JEPS, spécialité "vol libre"
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "vol libre"
 
@@ -57301,12 +57327,12 @@ Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'aut
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Deltaplane.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en deltaplane.
 
@@ -57319,7 +57345,7 @@ Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'aut
 BP JEPS, spécialité "activités aquatiques et de la natation".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et
 enseignement des différentes nages. 
@@ -57327,7 +57353,7 @@ enseignement des différentes nages.
 Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
 en cours de validité.
@@ -57340,7 +57366,7 @@ en cours de validité.
 BP JEPS, spécialité "escrime".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles
 d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition.
@@ -57349,7 +57375,7 @@ d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de comp
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 BP JEPS, spécialité "plongée subaquatique".
 
@@ -57378,7 +57404,7 @@ BP JEPS, spécialité "parachutisme".
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"
 
@@ -57404,18 +57430,18 @@ parachutisme.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Progression accompagnée en chute libre.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies
 aux articles A. 322-147 et suivants du code du sport.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
 parachutisme.
@@ -57442,7 +57468,7 @@ parachutisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BP JEPS, spécialité "activités du cyclisme".
 
@@ -57452,14 +57478,14 @@ BP JEPS, spécialité "activités du cyclisme".
 Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion de toute pratique compétitive.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités du cyclisme"
 
@@ -57476,7 +57502,7 @@ BMX.
 Préparation et mise en œuvre de cycles d'apprentissage en BMX.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td>
@@ -57530,18 +57556,18 @@ Mentions de la spécialité "lutte et disciplines associées"
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Lutte.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
 compétition régionale en lutte.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -57549,7 +57575,7 @@ compétition régionale en lutte.
 Sambo.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
 compétition régionale en sambo.
@@ -57558,7 +57584,7 @@ compétition régionale en sambo.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Grappling.
 
@@ -57572,12 +57598,12 @@ compétition régionale en grappling.
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lutte bretonne (gouren).
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
 compétition régionale en lutte bretonne (gouren).
@@ -57586,12 +57612,12 @@ compétition régionale en lutte bretonne (gouren).
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BP JEPS, spécialité "judo-jujitsu".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics.
 Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers
@@ -57615,18 +57641,18 @@ d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 BP JEPS, spécialité "patinage sur glace".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -57634,13 +57660,13 @@ d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace
 BP JEPS, spécialité "rugby à XV".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td>
@@ -57656,7 +57682,7 @@ Encadrement et animation de l'activité golf.
       <td align="center">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".
 
@@ -57668,7 +57694,7 @@ volley) pour tous les publics. Conduite de cycles d'apprentissage, d'enseignemen
 niveaux de compétition.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="center" colspan="3">
@@ -57683,13 +57709,13 @@ Unités capitalisables complémentaires (UCC) et certificats de spécialisation 
 UCC "aviron de mer".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de
 mer.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
 
@@ -57724,7 +57750,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 kayak, eau calme, mer et vagues.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour tout public, en eau calme et en mer, dans la limite de la navigation en 6e catégorie sur des parcours connus et
 reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.
@@ -57767,7 +57793,7 @@ Sur tout support (à l'exception des activités tractées), sur des parcours éc
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 UCC "croisière côtière".
 
@@ -57778,7 +57804,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 côtière.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri.
 Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
@@ -58153,7 +58179,7 @@ Découverte, animation et initiation jusqu'au premier niveau de compétition en 
       <td align="center">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CS "athlétisme et disciplines associées".
 
@@ -58164,7 +58190,7 @@ Encadrement et conduite de séances de découverte et d'initiation des différen
 disciplines associées.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion de toute pratique compétitive.
 
@@ -58176,13 +58202,13 @@ A l'exclusion de toute pratique compétitive.
 CS "activités d'escalade".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
 escalade.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs
 limités aux "secteurs découverte" (2) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ;
@@ -58214,7 +58240,7 @@ en cours de validité.
 CS "accompagnement et intégration des personnes en situation de handicap".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation des activités physiques ou sportives : 
 
@@ -58224,7 +58250,7 @@ une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de 
 - auprès de groupes constitués exclusivement de ces publics.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée : 
 
@@ -58295,7 +58321,7 @@ Conduite de cycles d'animation en tir à l'arc.
 CS "croisière".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites de navigation du
 ou des voilier(s) utilisé(s) jusqu'à 200 milles nautiques d'un abri.
@@ -58369,7 +58395,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 </th>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité "perfectionnement sportif", toutes mentions.
 
@@ -58388,12 +58414,12 @@ Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport
 mentions.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -58406,14 +58432,14 @@ DE JEPS, spécialité "perfectionnement sportif", mention "canyonisme".
 Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme."
 
@@ -58427,7 +58453,7 @@ sécurité définies aux articles A. 322-147 et suivants du code du sport.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DES JEPS, spécialité "performance sportive", mention "parachutisme".
 
@@ -58438,7 +58464,7 @@ Enseignement, animation, encadrement du parachutisme ou entraînement de ses pra
 sécurité définies aux articles A. 322-147 et suivants du code du sport.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td>
@@ -58477,7 +58503,7 @@ Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels".
 
@@ -58496,12 +58522,12 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "escalade".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
 
@@ -58519,7 +58545,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 DES JEPS, spécialité "performance sportive", mention "escalade".
 
@@ -58529,7 +58555,7 @@ DES JEPS, spécialité "performance sportive", mention "escalade".
 Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. 
 
@@ -58540,7 +58566,7 @@ A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premie
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "spéléologie".
 
@@ -58550,14 +58576,14 @@ DE JEPS, spécialité "perfectionnement sportif", mention "spéléologie".
 Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS
 
@@ -58577,7 +58603,7 @@ Enseignement, animation, encadrement du baby et du mini-volley.
       <td>
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CS "sauvetage et sécurité en milieu aquatique".
 
@@ -58587,7 +58613,7 @@ CS "sauvetage et sécurité en milieu aquatique".
 Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
 en cours de validité.
@@ -58645,7 +58671,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 </th>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'Etat de ski-moniteur national de ski alpin.
 
@@ -58657,7 +58683,7 @@ des classes de la progression du ski alpin et de ses activités dérivées défi
 l'emploi du Conseil supérieur des sports de montagne.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de
 l'alpinisme. 
@@ -58679,7 +58705,7 @@ l'ensemble des classes de la progression du ski nordique de fond et de ses activ
 la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -58703,14 +58729,14 @@ Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski
 Entraînement aux pratiques de compétition dans les disciplines précitées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne enneigée".
 
@@ -58722,7 +58748,7 @@ assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs val
 important.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion : 
 
@@ -58751,7 +58777,7 @@ assimilées en moyenne montagne ainsi que dans les régions à climat tropical e
 précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion : 
 
@@ -58803,14 +58829,14 @@ Aide-moniteur d'entraînement physique, militaire et sportif.
 Participation à l'animation des activités physiques ou sportives. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Moniteur d'entraînement physique, militaire et sportif. 
 
@@ -58821,7 +58847,7 @@ Animation auprès de tout public des activités physiques ou sportives à des fi
 développement et de maintien des capacités physiques individuelles. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
 handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. 
@@ -58829,17 +58855,17 @@ handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psy
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Moniteur-chef d'entraînement physique, militaire et sportif. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et coordination auprès de tout public des activités physiques ou sportives. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
 handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. 
@@ -58871,7 +58897,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Animateur poney délivré jusqu'au 1er septembre 2012. 
 
@@ -58881,7 +58907,7 @@ Animateur poney délivré jusqu'au 1er septembre 2012.
 Initiation au poney dans tout établissement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres, ou
 du brevet d'Etat d'éducateur sportif du 2e degré, option équitation, ou du brevet professionnel de la jeunesse, de
@@ -58910,20 +58936,20 @@ A l'exclusion des pratiques compétitives de niveau amateur et plus.
 Accompagnateur de tourisme équestre. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours
 identifiés. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
   </tbody>
 </table>
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table cellpadding="0" border="1" width="720">
+<table cellpadding="0" width="720" border="1">
   <tbody>
     <tr>
       <td width="157">
@@ -58943,14 +58969,28 @@ LIMITES DES CONDITIONS D'EXERCICE
 </td>
     </tr>
     <tr>
-      <td width="157" valign="top">
+      <td valign="top" width="157">
 
 Moniteur de football. 
 
 </td>
-      <td width="315" valign="top">
+      <td valign="top" width="315">
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football jusqu'au niveau régional.
+
+</td>
+      <td valign="top" width="276">
+    </td></tr>
+    <tr>
+      <td valign="top" width="157">
+
+Entraîneur de football. 
+
+</td>
+      <td width="315" valign="top">
+
+Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les
+publics mineurs. 
 
 </td>
       <td width="276" valign="top">
@@ -58958,32 +58998,18 @@ Conduite de cycles d'apprentissage et entraînement de la pratique du football j
     <tr>
       <td width="157" valign="top">
 
-Entraîneur de football. 
+Entraîneur formateur de football. 
 
 </td>
       <td valign="top" width="315">
 
-Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les
-publics mineurs. 
-
-</td>
-      <td valign="top" width="276">
-    </td></tr>
-    <tr>
-      <td valign="top" width="157">
-
-Entraîneur formateur de football. 
-
-</td>
-      <td width="315" valign="top">
-
 Encadrement et entraînement de joueurs de haut niveau en football dans une structure de préformation ou de formation. 
 
 </td>
-      <td valign="top" width="276">
+      <td width="276" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="157">
+      <td width="157" valign="top">
 
 Entraîneur professionnel de football.
 
@@ -58993,7 +59019,7 @@ Entraîneur professionnel de football.
 Encadrement et entraînement de joueurs de haut niveau en football dans un club professionnel.
 
 </td>
-      <td width="276" valign="top">
+      <td valign="top" width="276">
     </td></tr>
   </tbody>
 </table>
@@ -59025,7 +59051,7 @@ LIMITES DES CONDITIONS D'EXERCICE
   </tbody>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Certificat de qualification professionnelle (CQP) "animateur-soigneur assistant". 
 
@@ -59072,7 +59098,7 @@ CQP "organisateur de randonnées équestres".
 Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
   </tbody>
 </table>
@@ -59101,19 +59127,19 @@ LIMITES DES CONDITIONS D'EXERCICE
   </tbody>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un
 permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1
 du code de la route.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion de toute activité d'enseignement ou d'entraînement. 
 
@@ -59139,7 +59165,7 @@ Sur des parcours connus et reconnus.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur de tir à l'arc". 
 
@@ -59149,7 +59175,7 @@ CQP "animateur de tir à l'arc".
 Encadrement en autonomie du tir à l'arc, par la découverte et l'animation. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de 12 pratiquants ; 
 
@@ -59163,7 +59189,7 @@ Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "assistant moniteur de voile". </td>
       <td valign="top" align="left">
@@ -59171,7 +59197,7 @@ CQP "assistant moniteur de voile". </td>
 Animation et initiation à la pratique de la voile. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un titulaire d'une certification professionnelle des activités physiques ou sportives de niveau IV ou
 supérieur, le nombre des titulaires du CQP AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de
@@ -59208,18 +59234,18 @@ passage des pommeaux bleu, vert, rouge, blanc et jaune.
       <td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP animateur de savate, option "savate forme". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de passage des
 grades : kangourous, gants bleu, vert et rouge. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -59233,14 +59259,14 @@ Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvr
 kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 16 ans.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques". 
 
@@ -59263,7 +59289,7 @@ Activité exercée à titre secondaire.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur des activités gymniques", mention "activités d'éveil gymnique pour la petite enfance". 
 
@@ -59286,12 +59312,12 @@ Activité exercée à titre secondaire.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur des activités gymniques", mention "activités gymniques d'expression et d'entretien". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien : 
 
@@ -59306,19 +59332,19 @@ Encadrement en autonomie, par la découverte et l'initiation, des activités gym
 - stretching. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activité exercée à titre secondaire. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "animateur des activités gymniques", mention "activités gymniques d'expression". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie, par la découverte et l'initiation des activités gymniques d'expression : 
 
@@ -59331,12 +59357,12 @@ rythmique ;
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et d'expression". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression : 
 
@@ -59349,7 +59375,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 - activités d'expression. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sans recours à des appareils de musculation. 
 
@@ -59360,7 +59386,7 @@ Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition". </td>
       <td align="left" valign="top">
@@ -59374,7 +59400,7 @@ Encadrement en autonomie par la découverte et l'animation des jeux sportifs et 
 - jeux de ballons, petits et grands terrains. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des pratiques compétitives. 
 
@@ -59387,12 +59413,12 @@ Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur de tennis". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum. L'assistant moniteur de tennis bénéficie du
 suivi pédagogique d'un référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur. 
@@ -59409,7 +59435,7 @@ A l'exclusion des cours individuels.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "éducateur de grimpe d'arbres". 
 
@@ -59431,12 +59457,12 @@ Dans la limite de 8 pratiquants.
 CQP "technicien sportif régional de basket-ball". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activité exercée à titre secondaire ; 
 
@@ -59457,18 +59483,18 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur char à voile". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char
 tracté). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de
 titulaires du CQP "assistant moniteur char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ; 
@@ -59482,7 +59508,7 @@ Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant professeur arts martiaux". 
 
@@ -59494,7 +59520,7 @@ chinois internes, arts martiaux chinois externes, arts énergétiques chinois, j
 kendo et disciplines associées, taekwondo et disciplines associées). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents ; 
 
@@ -59510,18 +59536,18 @@ cours de validité.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur motonautique". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à
 moteur (VNM). 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous l'autorité d'un référent, le titulaire du CQP encadre : 
 
@@ -59543,7 +59569,7 @@ A l'exclusion du temps scolaire contraint pour le public scolaire.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de roller skating" option "patinage artistique et danse". 
 
@@ -59569,7 +59595,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating" option "course". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". 
@@ -59577,7 +59603,7 @@ in line hockey", "roller acrobatique".
 Encadrement en autonomie de la course jusqu'aux premiers niveaux de compétition inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -59591,14 +59617,14 @@ Dans tous espaces.
 CQP "moniteur de roller skating", option "rink-hockey". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux de compétition
 inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -59607,7 +59633,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de roller skating", option "roller in line hockey". 
 
@@ -59628,12 +59654,12 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de roller skating", option "roller acrobatique". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du roller acrobatique jusqu'aux premiers niveaux de
@@ -59654,7 +59680,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating", option "skateboard". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie du skateboard jusqu'aux premiers niveaux de compétition inclus. 
 
@@ -59673,7 +59699,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating", option "roller randonnée".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique", "roller randonnée". 
@@ -59681,7 +59707,7 @@ in line hockey", "roller acrobatique", "roller randonnée".
 Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : 
 
@@ -59697,12 +59723,12 @@ Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux 
 CQP "moniteur d'aviron". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de compétition inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants. Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans
 le cas où la zone d'évolution est un périmètre calme, abrité et délimité. 
@@ -59791,7 +59817,7 @@ Encadrement en autonomie du tir sportif à des fins de découverte et d'initiati
 de compétition. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. 
 
@@ -59822,13 +59848,13 @@ Encadrement en autonomie de séances collectives en badminton, de l'initiation j
 CQP "moniteur de football américain et de flag". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers
 niveaux de compétition. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des championnats nationaux.
 
@@ -59850,7 +59876,7 @@ Encadrement en autonomie de séances d'entraînement en cheerleading pour tout p
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". 
 
@@ -59862,7 +59888,7 @@ propulsée à la pagaie dans les conditions techniques et de sécurité définie
 sport.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion du raft. 
 
@@ -59876,7 +59902,7 @@ Jusqu'en classe II incluse, avec des passages de classe III non successifs.
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation propulsée à
 la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.
@@ -59906,7 +59932,7 @@ Encadrement en autonomie de séances d'entraînement en rugby à XV des catégor
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur de patinoire", option "hockey sur glace".
 
@@ -59929,13 +59955,13 @@ ans.
 CQP "animateur d'athlétisme", option "école d'athlé". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités de découverte et d'initiation de l'athlétisme,
 jusqu'au premier niveau de compétition
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de moins de seize ans. 
 
@@ -59949,13 +59975,13 @@ Dans la limite de vingt pratiquants.
 CQP "animateur d'athlétisme", option "athlé loisirs". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour
 tout public pratiquant l'athlétisme loisirs, dont la marche nordique. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des pratiques compétitives
 
@@ -59974,7 +60000,7 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 100 m haies, 110 m haies et 400 m haies. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -59983,12 +60009,12 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "technicien sportif d'athlétisme", option "sauts". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : longueur, hauteur, triple saut et perche. 
@@ -60003,12 +60029,12 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "lancers". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national dans les spécialités de l'option : "disque, poids, marteau et javelot". 
@@ -60035,7 +60061,7 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -60044,19 +60070,19 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "technicien sportif d'athlétisme", option "fond/hors stade". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et
 disciplines hors stade (courses sur route, cross-country, courses à pied en nature). 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -60076,7 +60102,7 @@ Encadrement en autonomie de séances collectives et individuelles d'activités d
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -60105,7 +60131,7 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP moniteur d'escrime, option "épée". 
 
@@ -60130,13 +60156,13 @@ A l'exclusion du temps scolaire contraint.
 CQP moniteur d'escrime, option "sabre". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'escrime sportive au sabre par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 20 pratiquants. 
 
@@ -60150,7 +60176,7 @@ A l'exclusion du temps scolaire contraint.
 CQP moniteur d'escrime, option "artistique". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie des activités de l'escrime artistique par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
@@ -60196,13 +60222,13 @@ LIMITES DES CONDITIONS D'EXERCICE
 Diplôme de masseur-kinésithérapeute. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités
 physiques et sportives déclarés. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans le respect de la législation et de la déontologie de la kinésithérapie. 
 
@@ -60229,11 +60255,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 janvier 2016 - art. 1
-
-_Cite_:
-
-  - Code de l'éducation - art. D123-13
+  - Arrêté du 18 avril 2016 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
