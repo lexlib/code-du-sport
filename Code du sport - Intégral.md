@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -56399,302 +56399,328 @@ _Cite_:
 
 (Article A. 212-1 du code du sport) 
 
-A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur 
+A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur
 
 <table border="1">
-  <thead>
+  <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 INTITULÉ DU DIPLÔME
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-CONDITIONS D'EXERCICE 
+CONDITIONS D'EXERCICE
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
 LIMITES DES CONDITIONS D'EXERCICE
 
-</td>
+</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUG "sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous". 
+DEUG "sciences et techniques des activités physiques et sportives".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
-de loisir. 
+de loisir.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des pratiques compétitives. 
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques". 
+DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Encadrement des activités physiques ou sportives auprès de personnes souffrant de déficiences intellectuelles et de troubles
-psychiques. 
+psychiques.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité physique ou sportive visant l'amélioration de l'intégration sociale. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-DEUST "activités physiques et sportives et inadaptations sociales". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales. 
-
-</td>
-      <td align="left" valign="top">
-
-Toute activité physique ou sportive visant l'amélioration de l'intégration sociale. 
+Toute activité physique ou sportive visant l'amélioration de l'intégration sociale.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "action, commercialisation des services sportifs". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des pratiques physiques liées aux loisirs. 
+DEUST "activités physiques et sportives et inadaptations sociales".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales.
+
+</td>
+      <td align="left">
+
+Toute activité physique ou sportive visant l'amélioration de l'intégration sociale.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+DEUST "action, commercialisation des services sportifs".
+
+</td>
+      <td align="left">
+
+Encadrement des pratiques physiques liées aux loisirs.
+
+</td>
+      <td align="left">
 
 Toute pratique sportive de loisir auprès de tout public, à l'exclusion des personnes ayant un handicap, une déficience
-intellectuelle ou un trouble psychique. 
+intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "manager de club sportif". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des activités physiques ou sportives. 
+DEUST "manager de club sportif".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives.
+
+</td>
+      <td align="left">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des personnes ayant un handicap, une déficience
-intellectuelle ou un trouble psychique. 
+intellectuelle ou un trouble psychique.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "métiers de la forme". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
+DEUST "métiers de la forme".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé. 
+Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
+
+Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des activités physiques ou sportives de publics seniors. 
+DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement des activités physiques ou sportives de publics seniors.
+
+</td>
+      <td align="left">
 
 Toute activité sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique
-des publics seniors. 
+des publics seniors.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-DEUST "animation et gestion des activités physiques, sportives ou culturelles". 
+DEUST "animation et gestion des activités physiques, sportives ou culturelles".
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Animation auprès de tout public par la découverte des activités physiques, sportives ou culturelles et par l'initiation à ces
-activités. 
+activités.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Animation auprès de tout public, à l'exclusion : 
 
 - des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble
 psychique ;
 
-- des pratiques compétitives. 
+- des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle "santé, option vieillissement et activités physiques adaptées". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement des activités physiques ou sportives de publics seniors. 
+Licence professionnelle mention "santé, vieillissement et activités physiques adaptées" (licence professionnelle "santé",
+option "vieillissement et activités physiques adaptées").
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique
-des publics seniors. 
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement de toute activité physique ou sportive adaptée à la prévention du vieillissement, visant à entretenir et à
+améliorer la condition physique des publics seniors.
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Licence professionnelle "activités sportives", option "remise en forme et loisirs sportifs associés : responsable d'équipe de
+projets".
+
+</td>
+      <td align="left">
+
+Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
+
+Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle "activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de
-projets". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. 
+Licence professionnelle mention "intervention sociale : développement social et médiation par le sport" (licence
+professionnelle "activités sportives", spécialité "développement social et médiation par le sport").
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Toute activité physique des métiers de la forme, liée au développement et à l'entretien du bien-être et de la santé. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport". 
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Encadrement et animation auprès de tout public, des activités physiques et sportives. 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et animation auprès de tout public, à l'exclusion : 
+A l'exclusion : 
 
 - des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble
 psychique ;
 
-- des pratiques compétitives. 
+- des pratiques compétitives.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle activités sportives, spécialité "métiers de la forme". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme. 
+Licence professionnelle mention "métiers de la forme" (licence professionnelle "activités sportives", spécialité "métiers de
+la forme").
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme.
+
+</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence professionnelle "animation, gestion et organisation des activités physiques ou sportives". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de loisir dans la ou les discipline (s) mentionnée
-(s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation. 
+Licence professionnelle mention "animation, gestion et organisation des activités physiques ou sportives" (licence
+professionnelle "animation, gestion et organisation des activités physiques ou sportives").
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Enseignement auprès de tout public dans la ou les discipline(s) mentionnée(s) dans l'annexe descriptive au diplôme visée à
+l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice.
+
+</td>
+      <td align="left">
+
+A l'exclusion des pratiques compétitives.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "éducation et
+motricité" (licence "éducation et motricité", filière "sciences et techniques des activités physiques et sportives").
+
+</td>
+      <td align="left">
+
+Encadrement, enseignement et animation des activités physiques ou sportives auprès de tout public à un niveau d'initiation,
+d'entretien ou de loisir.
+
+</td>
+      <td align="left">
+
+A l'exclusion des pratiques compétitives.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "entraînement sportif (licence
+"entraînement sportif", filière "sciences et techniques des activités physiques et sportives").
+
+</td>
+      <td align="left">
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
+
+Encadrement de tout public à des fins d'amélioration de la performance ou de développement personnel dans la ou les
+disciplines mentionnées dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur
+l'attestation délivrée par le président de l'université certificatrice.
+
+</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence "éducation et motricité" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes. 
+Licence mention sciences et techniques des activités physiques et sportives , parcours type activité physique adaptée et
+santé (licence activité physique adaptée et santé , filière sciences et techniques des activités physiques et sportives ).
 
 </td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Licence "entraînement sportif" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td align="left" valign="top">
-
-Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les)
-discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation. 
-
-</td>
-      <td align="left" valign="top">
-    </td></tr>
-    <tr>
-      <td align="left" valign="top">
-
-Licence "activité physique adaptée et santé" filière "sciences et techniques des activités physiques et sportives". 
-
-</td>
-      <td align="left" valign="top">
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou
+de loisir. 
 
 Encadrement des activités physiques ou sportives à destination de différents publics dans une perspective de prévention-santé
-ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique. 
+ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique.
 
 </td>
-      <td align="left" valign="top">
-    </td></tr>
+    </tr>
   </tbody>
 </table>
 
@@ -61116,11 +61142,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 22 janvier 2016 - art. 1
-
-_Cite_:
-
-  - Code de l'éducation - art. D123-13
+  - Arrêté du 18 avril 2016 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
