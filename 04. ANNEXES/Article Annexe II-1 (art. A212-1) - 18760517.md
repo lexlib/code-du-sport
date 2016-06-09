@@ -4715,7 +4715,7 @@ Diplôme de masseur-kinésithérapeute.
       <td align="left" valign="top">
 
 Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités
-physiques et sportives déclarés. 
+physiques et sportives.
 
 </td>
       <td align="left" valign="top">
@@ -4745,4 +4745,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 18 avril 2016 - art. 1
+  - Arrêté du 26 mai 2016 - art. 8
