@@ -6,13 +6,13 @@ PRATIQUANTS CONTRE RÉMUNÉRATION
 A déposer à la direction départementale de la cohésion sociale (ou direction départementale de la cohésion sociale et de la
 protection des populations) du département d'exercice ou de l'exercice principal.
 
-I. - Etat civil.
+I.-Etat civil.
 
 Nom de naissance :
 
 Nom d'usage :
 
-Prénom(s) :
+Prénom (s) :
 
 Date et lieu de naissance :
 
@@ -20,7 +20,7 @@ Nationalité :
 
 Pour les personnes nées à l'étranger, noms et prénoms du père et de la mère :
 
-II. - Coordonnées
+II.-Coordonnées
 
 Adresse :
 
@@ -32,7 +32,7 @@ Télécopie :
 
 Courriel :
 
-III. - Qualification.
+III.-Qualification.
 
 Pour les titulaires de qualifications françaises (diplômes, titres à finalité professionnelle, certificats de qualification
 professionnelle) :
@@ -77,7 +77,7 @@ chargé des sports après avis d'une commission.
 
 Par ailleurs, les personnes titulaires de qualifications soumises à recyclage doivent être à jour de cette obligation.
 
-IV. - Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation).
+IV.-Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation).
 
 Pour les salariés :
 
@@ -124,11 +124,11 @@ Adresse du lieu d'exercice principal :
 
 Date de début d'exercice :
 
-Nota. - Doivent être jointes à cette déclaration :
+Nota.-Doivent être jointes à cette déclaration :
 
-- une photographie d'identité ;
+- une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005 ;
 
-- une copie d'une pièce d'identité ;
+- une copie d'une pièce d'identité en cours de validité ;
 
 - une copie de chacun des diplômes, titres ou certificats invoqués et, le cas échéant, de l'attestation de révision en cours
 de validité pour les qualifications soumises à l'obligation de recyclage ;
@@ -142,10 +142,8 @@ situation pédagogique et toute pièce justifiant du tutorat (convention de stag
 
 - une déclaration sur l'honneur attestant l'exactitude des informations figurant dans la déclaration.
 
-L'intéressé(e) doit toujours être en mesure de présenter à l'autorité administrative un certificat médical de non-contre-
-indication à la pratique et à l'encadrement des activités physiques ou sportives de moins d'un an. Il doit également être en
-mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité professionnelle et
-certificats de qualification professionnelle attestant de sa qualification.
+Il doit également être en mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité
+professionnelle et certificats de qualification professionnelle attestant de sa qualification.
 
 Toute personne procédant à cette déclaration fera l'objet d'une demande d'extrait de casier judiciaire (bulletin n° 2) auprès
 du service du casier judiciaire national, conformément à l'article 776 du code de procédure pénale. Le fichier judiciaire
@@ -154,27 +152,27 @@ code.
 
 DÉCLARATION SUR L'HONNEUR
 
-Je soussigné(e), éducateur(trice) sportif(ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'article L. 212-1
-du code du sport, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une condamnation
-m'interdisant l'exercice de ces fonctions, en application de l'article L. 212-9 du même code.
+Je soussigné (e), éducateur (trice) sportif (ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'article L.
+212-1 du code du sport, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une
+condamnation m'interdisant l'exercice de ces fonctions, en application de l'article L. 212-9 du même code.
 
 J'atteste l'exactitude des informations portées dans la présente déclaration.
 
 Date et signature
 
-_(1) Rayer la mention inutile.  _
+_(1) Rayer la mention inutile._
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 203
-  - Code du sport. - art. D212-52
-  - Code du sport. - art. L212-1
-
 _Modifié par_:
 
-  - Arrêté du 23 octobre 2013 - art. 2
+  - Arrêté du 26 mai 2016 - art. 9
+
+_Cite_:
+
+  - Code de procédure pénale - art. 776 (M)
+  - Code du sport. - art. L212-1 (V)
+  - Code du sport. - art. R212-84 (M)
 
 _Cité par_:
 
