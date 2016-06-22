@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-06-10
+Version Consolidée au 2016-06-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -60744,28 +60744,41 @@ Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.
     <tr>
       <td align="left" valign="top">
 
-CQP "assistant professeur arts martiaux". 
-
-</td>
+CQP "assistant professeur arts martiaux" délivré jusqu'au 31 août 2016. </td>
       <td align="left" valign="top">
 
-Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux
+Encadrement en autonomie jusqu'au premier niveau de compétition, dans la mention considérée (aïkido, aïkibudo, arts martiaux
 chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées,
-kendo et disciplines associées, taekwondo et disciplines associées). 
+kendo et disciplines associées, taekwondo et disciplines associées). </td>
+      <td align="left" valign="top">
+
+Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents. 
+
+A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents. 
+
+A l'exclusion du temps scolaire contraint. 
+
+A l'exclusion du secteur du tourisme.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP "moniteur d'arts martiaux"
 
 </td>
       <td align="left" valign="top">
 
-Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents ; 
+Encadrement en autonomie jusqu'au premier niveau de compétition ou jusqu'au premier niveau de grade, dan ou équivalent pour
+les disciplines sans compétition, dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux
+chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées,
+taekwondo et disciplines associées). 
 
-A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents ; 
+</td>
+      <td align="left" valign="top">
 
-A l'exclusion du temps scolaire contraint ; 
-
-A l'exclusion du secteur du tourisme ; 
-
-Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en
-cours de validité. 
+A l'exclusion du temps scolaire contraint.
 
 </td>
     </tr>
@@ -61424,6 +61437,20 @@ A l'exclusion du temps scolaire contraint.
 
 </td>
     </tr>
+    <tr>
+      <td align="left" valign="top">
+
+CQP "animateur d'escalade sur structure artificielle". 
+
+</td>
+      <td align="left" valign="top">
+
+Encadrement en autonomie des activités d'escalade sur structure artificielle d'escalade pour tout public, de l'initiation
+jusqu'aux premiers niveaux de compétition.
+
+</td>
+      <td align="left" valign="top">
+    </td></tr>
   </tbody>
 </table>
 
@@ -61489,7 +61516,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 26 mai 2016 - art. 8
+  - Arrêté du 23 mai 2016 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
