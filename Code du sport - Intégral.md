@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-07-17
+Version Consolidée au 2016-07-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -43526,17 +43526,19 @@ _Cite_:
 
 ###### Article A212-52
 
-Les situations d'évaluation certificative doivent comporter au minimum :
+La situation d'évaluation certificative des unités capitalisables transversales quelle que soit la spécialité (UC1 et UC2)
+est réalisée au moyen d'un document écrit personnel de vingt pages au maximum et d'une soutenance orale suivie d'un
+entretien. 
 
-- une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
-des unités capitalisables de la spécialité et de la mention (UC 3 et UC 4) ;
+Dans les conditions fixées par le directeur régional de la jeunesse des sports et de la cohésion sociale ou par le directeur
+de la jeunesse, des sports et de la cohésion sociale, le candidat transmet au directeur ou à l'organisme de formation un
+document écrit personnel de vingt pages au maximum retraçant une expérience de conception et de coordination de la mise en
+œuvre de programmes de perfectionnement sportif dans le champ disciplinaire défini dans la mention assortie de son
+évaluation. Ce document fait l'objet d'une soutenance orale par le candidat pendant une durée de 20 minutes au maximum suivie
+d'un entretien d'une durée de 40 minutes au maximum permettant de vérifier l'acquisition des compétences par le jury
+mentionné à l'article R. 212-10-1. Le candidat peut, lors de la soutenance, utiliser un support vidéo. 
 
-- la production d'un document écrit personnel retraçant une expérience de conception et de coordination de la mise en œuvre
-de programmes de perfectionnement sportif dans le champ disciplinaire défini dans la mention assortie de son évaluation et
-soutenu devant une commission du jury mentionnée à l'article précédent, qui permettra l'évaluation des unités capitalisables
-transversales (UC 1 et UC 2).
-
-Le processus de certification doit permettre l'évaluation distincte de chaque unité capitalisable.
+Cette situation d'évaluation certificative permet l'évaluation distincte des unités capitalisables UC1 et UC2.
 
 **Liens relatifs à cet article**
 
@@ -43588,7 +43590,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 3
+  - Arrêté du 12 juillet 2016 - art. 1
+
+
+###### Article A212-52 bis
+
+La situation d'évaluation certificative des unités capitalisables de la mention (UC3 et UC4) comporte une ou deux épreuves
+dont l'une au moins consiste en une mise en situation professionnelle d'encadrement. Cette situation d'évaluation
+certificative permet l'évaluation distincte des unités capitalisables UC3 et UC4.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 1er juillet 2008 - art. 5 bis (VD)
+  - Arrêté du 15 mars 2010 - art. 6 bis (V)
+  - Arrêté du 26 mai 2010 - art. 6 (V)
+  - Arrêté du 8 août 2011 - art. 6 bis (V)
+
+_Créé par_:
+
+  - Arrêté du 12 juillet 2016 - art. 1
 
 
 ###### Article A212-52-1
@@ -43776,16 +43798,19 @@ _Cite_:
 
 ###### Article A212-57
 
-Les situations d'évaluation certificative doivent comporter, au minimum :
+La situation d'évaluation certificative des unités capitalisables transversales quelle que soit la spécialité (UC1 et UC2)
+est réalisée au moyen d'un document écrit personnel de vingt pages au maximum et d'une soutenance orale suivie d'un
+entretien. 
 
-- une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
-des unités capitalisables de la spécialité et de la mention (UC 3 et UC 4) ;
+Dans les conditions fixées par le directeur régional de la jeunesse des sports et de la cohésion sociale ou par le directeur
+de la jeunesse, des sports et de la cohésion sociale, le candidat transmet au directeur ou à l'organisme de formation un
+document écrit personnel de vingt pages au maximum retraçant une expérience de conception et de coordination de la mise en
+œuvre de programmes de performance sportive dans le champ disciplinaire défini dans la mention assortie de son évaluation. Ce
+document fait l'objet d'une soutenance orale par le candidat pendant une durée de 20 minutes au maximum suivie d'un entretien
+d'une durée de 40 minutes au maximum permettant de vérifier l'acquisition des compétences par le jury mentionné à l'article
+R. 212-10-1. Le candidat peut, lors de la soutenance, utiliser un support vidéo. 
 
-- la production d'un document écrit personnel retraçant une expérience de direction de projet sportif assortie de son
-évaluation, et soutenu devant une commission du jury mentionnée à l'article précédent qui permettra l'évaluation des unités
-capitalisables transversales (UC 1 et UC 2).
-
-Le processus de certification doit permettre l'évaluation distincte de chaque unité capitalisable.
+Cette situation d'évaluation certificative permet l'évaluation distincte des unités capitalisables UC1 et UC2.
 
 **Liens relatifs à cet article**
 
@@ -43825,11 +43850,37 @@ _Cité par_:
   - Arrêté du 8 août 2019 - art. 5
   - Arrêté du 24 décembre 2019 - art. 5
   - Arrêté du 20 janvier 2020 - art. 5
-  - Code du sport. - art. A212-58 (Ab)
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 4
+  - Arrêté du 12 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code du sport. - art. R212-10-1
+
+
+###### Article A212-57 bis
+
+La situation d'évaluation certificative des unités capitalisables de la mention (UC3 et UC4) comporte une ou deux épreuves
+dont l'une au moins consiste en une mise en situation professionnelle d'encadrement. Cette situation d'évaluation
+certificative permet l'évaluation distincte des unités capitalisables UC3 et UC4.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 1 juillet 2008 - art. 6 bis (V)
+  - Arrêté du 1er juillet 2008 - art. 6 bis (V)
+  - Arrêté du 18 décembre 2008 - art. 6 bis (V)
+  - Arrêté du 15 mars 2010 - art. 6 bis (V)
+  - Arrêté du 25 janvier 2011 - art. 5 (V)
+  - Arrêté du 25 janvier 2011 - art. Annexe II (V)
+  - Arrêté du 6 juillet 2011 - art. 4 bis (V)
+
+_Créé par_:
+
+  - Arrêté du 12 juillet 2016 - art. 2
 
 
 ###### Article A212-57-1
