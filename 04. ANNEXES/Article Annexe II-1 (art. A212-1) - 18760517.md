@@ -441,7 +441,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -652,7 +652,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -711,7 +711,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -831,7 +831,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe A</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D</td>
     </tr>
@@ -1004,7 +1004,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G</td>
     </tr>
@@ -1029,7 +1029,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -1189,7 +1189,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -1241,7 +1241,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
       <td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités sports collectifs"</td>
     </tr>
@@ -1316,7 +1316,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -1444,7 +1444,7 @@ Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</
 A l'exclusion de toute pratique compétitive.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités du cyclisme"</td>
     </tr>
@@ -1594,7 +1594,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -2217,7 +2217,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -2531,7 +2531,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -3755,6 +3755,20 @@ jusqu'aux premiers niveaux de compétition.
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie pour tout public, dans les conditions techniques
+et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des
+installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie assorti de la qualification complémentaire vol 3 D en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie pour
+tout public, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et
+le respect des capacités d'accueil des installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -3820,4 +3834,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 4 août 2016 - art. 1
+  - Arrêté du 19 septembre 2016 - art. 1
