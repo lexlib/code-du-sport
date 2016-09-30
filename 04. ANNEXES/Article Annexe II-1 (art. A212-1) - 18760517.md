@@ -3755,6 +3755,20 @@ jusqu'aux premiers niveaux de compétition.
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie pour tout public, dans les conditions techniques
+et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des
+installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie assorti de la qualification complémentaire vol 3 D en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie pour
+tout public, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et
+le respect des capacités d'accueil des installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -3820,4 +3834,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 4 août 2016 - art. 1
+  - Arrêté du 19 septembre 2016 - art. 1
