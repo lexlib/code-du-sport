@@ -441,7 +441,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -652,7 +652,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -826,7 +826,7 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe D</td>
     </tr>
@@ -948,7 +948,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe E</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F</td>
     </tr>
@@ -1004,7 +1004,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G</td>
     </tr>
@@ -1029,7 +1029,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -1316,7 +1316,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -1444,7 +1444,7 @@ Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</
 A l'exclusion de toute pratique compétitive.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités du cyclisme"</td>
     </tr>
@@ -3755,6 +3755,20 @@ jusqu'aux premiers niveaux de compétition.
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie pour tout public, dans les conditions techniques
+et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des
+installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
+    <tr>
+      <td>CQP " moniteur de vol à plat en soufflerie assorti de la qualification complémentaire vol 3 D en soufflerie ".</td>
+      <td>Encadrement en autonomie des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie pour
+tout public, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et
+le respect des capacités d'accueil des installations.</td>
+      <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -3820,4 +3834,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 4 août 2016 - art. 1
+  - Arrêté du 19 septembre 2016 - art. 1
