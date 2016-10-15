@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -23505,8 +23505,8 @@ _Cite_:
 
 ###### Article D212-18
 
-Les options professionnelles sont créées par arrêté du ministre chargé des sports, après consultation du Conseil national de
-l'éducation populaire et de la jeunesse et après avis de la Commission professionnelle consultative des métiers du sport et
+Les options professionnelles sont créées par arrêté du ministre chargé des sports, après consultation du Conseil
+d'orientation des politiques de jeunesse et après avis de la Commission professionnelle consultative des métiers du sport et
 de l'animation.
 
 **Liens relatifs à cet article**
@@ -23518,11 +23518,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2016-1377 du 12 octobre 2016 - art. 16 (V)
+
+_Abrogé par_:
+
+  - Décret n°2019-144 du 26 février 2019 - art. 2
 
 _Cité par_:
 
-  - Code du sport. - art. D212-12 (V)
+  - Code du sport. - art. D212-12 (VD)
 
 
 ###### Article D212-19
