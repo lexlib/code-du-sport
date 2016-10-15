@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -23358,20 +23358,23 @@ _Cite_:
 
 ###### Article D212-18
 
-Les options professionnelles sont créées par arrêté du ministre chargé des sports, après consultation du Conseil national de
-l'éducation populaire et de la jeunesse et après avis de la Commission professionnelle consultative des métiers du sport et
+Les options professionnelles sont créées par arrêté du ministre chargé des sports, après consultation du Conseil
+d'orientation des politiques de jeunesse et après avis de la Commission professionnelle consultative des métiers du sport et
 de l'animation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 8 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
   - Décret n°93-53 du 12 janvier 1993 - art. 8 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2016-1377 du 12 octobre 2016 - art. 16 (V)
 
 _Cité par_:
 
