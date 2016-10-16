@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-10-16
+Version Consolidée au 2016-10-17
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -28235,14 +28235,21 @@ précédente, au sein de la même fédération.
 
 ###### Article D231-1-3
 
-Sous réserve des dispositions des articles D. 231-1-4 et D. 231-1-5, la présentation d'un certificat médical d'absence de
-contre-indication est exigée tous les trois ans.
+Sous  réserve des dispositions des articles D. 231-1-4 et D. 231-1-5, la  présentation d'un certificat médical d'absence de
+contre-indication  datant de moins d'un an est exigée : 
+
+1° Tous les  trois ans lorsqu'elle permet la participation aux compétitions  organisées par la fédération sportive qui la
+délivre ; 
+
+2° Selon une fréquence déterminée par les fédérations après avis de  leur commission médicale prévue au 2.4.2 de l'annexe
+I-5, qui ne peut  être inférieure à une fréquence d'une fois tous les trois ans, lorsque  la licence ne permet pas la
+participation aux compétitions.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-1286 du 29 septembre 2016 - art. 13
+  - Décret n°2016-1387 du 12 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -28251,18 +28258,18 @@ _Cité par_:
 
 ###### Article D231-1-4
 
-A compter du 1er juillet 2017, le sportif renseigne, entre chaque renouvellement triennal, un questionnaire de santé dont le
-contenu est précisé par arrêté du ministre chargé des sports. 
+A compter du 1er juillet 2017, lorsqu'un certificat médical n'est pas exigé pour le renouvellement de la licence, le sportif
+renseigne un questionnaire de santé dont le contenu est précisé par arrêté du ministre chargé des sports. 
 
-Il atteste auprès de la fédération que chacune des rubriques du questionnaire donne lieu à une réponse négative. A défaut, il
-est tenu de produire un nouveau certificat médical attestant de l'absence de contre-indication pour obtenir le renouvellement
-de la licence.
+Le sportif ou son représentant légal atteste auprès de la fédération que chacune des rubriques du questionnaire donne lieu à
+une réponse négative. A défaut, il est tenu de produire un nouveau certificat médical attestant de l'absence de contre-
+indication pour obtenir le renouvellement de la licence.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-1286 du 29 septembre 2016 - art. 13
+  - Décret n°2016-1387 du 12 octobre 2016 - art. 2
 
 _Cité par_:
 
