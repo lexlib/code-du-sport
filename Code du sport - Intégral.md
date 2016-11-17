@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-11-01
+Version Consolidée au 2016-11-18
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -6130,7 +6130,8 @@ Est un sportif au sens du présent titre toute personne qui participe ou se pré
 
 1° Soit à une manifestation sportive organisée par une fédération agréée ou autorisée par une fédération délégataire ; 
 
-2° Soit à une manifestation sportive soumise à une procédure de déclaration ou d'autorisation prévue par le présent code ; 
+2° Soit à une manifestation sportive donnant lieu à une remise de prix en argent ou en nature, alors même qu'elle n'est pas
+organisée par une fédération agréée ou autorisée par une fédération délégataire ;
 
 3° Soit à une manifestation sportive internationale.
 
@@ -6138,7 +6139,7 @@ Est un sportif au sens du présent titre toute personne qui participe ou se pré
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 3
+  - Loi n°2016-1528 du 15 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -6782,8 +6783,8 @@ A cet effet :
 a) Pendant les manifestations sportives organisées par les fédérations agréées ou autorisées par les fédérations
 délégataires ; 
 
-b) Pendant les manifestations sportives soumises à une procédure de déclaration ou d'autorisation prévue par le présent
-code ; 
+b) Pendant les manifestations sportives donnant lieu à une remise de prix en argent ou en nature, alors même qu'elles ne sont
+pas organisées par une fédération agréée ou autorisées par une fédération délégataire ;
 
 c) Pendant les manifestations sportives internationales mentionnées à l'article L. 230-2 ; 
 
@@ -6874,6 +6875,7 @@ _Cité par_:
   - Code du sport. - art. L232-15 (VD)
   - Code du sport. - art. L232-16 (V)
   - Code du sport. - art. L232-2 (V)
+  - Code du sport. - art. L232-21 (V)
   - Code du sport. - art. L232-22 (VD)
   - Code du sport. - art. L232-23 (M)
   - Code du sport. - art. L241-1 (VD)
@@ -6885,7 +6887,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 8
+  - Loi n°2016-1528 du 15 novembre 2016 - art. 2
 
 _Anciens textes_:
 
@@ -6895,12 +6897,11 @@ _Anciens textes_:
 _Cite_:
 
   - Code du sport. - art. L230-2
-  - Code du sport. - art. L230-3
+  - Code du sport. - art. L230-3 (V)
   - Code du sport. - art. L232-10
   - Code du sport. - art. L232-10-1
-  - Code du sport. - art. L232-17 (VD)
-  - Code du sport. - art. L232-21 (VD)
-  - Code du sport. - art. L232-23-4 (VD)
+  - Code du sport. - art. L232-17
+  - Code du sport. - art. L232-23-4
   - Code du sport. - art. L232-9
 
 
@@ -7400,10 +7401,9 @@ _Cite_:
 
 ###### Article L232-12-1
 
-S'agissant des sportifs mentionnés aux 1° à 3° de l'article L. 232-15, les prélèvements biologiques mentionnés au premier
-alinéa de l'article L. 232-12 peuvent avoir pour objet d'établir le profil des paramètres pertinents dans l'urine ou le sang
-de ces sportifs aux fins de mettre en évidence l'utilisation d'une substance ou méthode interdite en vertu de l'article L.
-232-9. 
+Les prélèvements biologiques mentionnés au premier alinéa de l'article L. 232-12 peuvent avoir pour objet d'établir le profil
+des paramètres pertinents dans l'urine ou le sang d'un sportif aux fins de mettre en évidence l'utilisation d'une substance
+ou d'une méthode interdite en vertu de l'article L. 232-9. 
 
 Les renseignements ainsi recueillis peuvent faire l'objet, dans des conditions fixées par décret en Conseil d'Etat, d'un
 traitement informatisé par l'Agence française de lutte contre le dopage dans le respect des dispositions de la loi n° 78-17
@@ -7415,17 +7415,16 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
   - Code du sport. - art. L232-12
-  - Code du sport. - art. L232-15
   - Code du sport. - art. L232-9
-
-_Créé par_:
-
-  - Loi n°2012-348 du 12 mars 2012 - art. 4 (V)
 
 _Cité par_:
 
   - Décret n°2013-1317 du 27 décembre 2013 (V)
   - Code du sport. - art. L232-22-1 (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-1528 du 15 novembre 2016 - art. 3
 
 
 ###### Article L232-13
@@ -8293,13 +8292,13 @@ dopage, peut prononcer :
 
 a) Un avertissement ; 
 
-b) Une interdiction temporaire ou définitive de participer aux manifestations sportives autorisées par une fédération
-délégataire ou organisées par une fédération agréée ainsi qu'aux entraînements y préparant organisés par une fédération
-agréée ou l'un des membres de celle-ci ; 
+b) Une interdiction temporaire ou définitive de participer à toute manifestation sportive donnant lieu à une remise de prix
+en argent ou en nature, de même qu'aux manifestations sportives autorisées par une fédération délégataire ou organisées par
+une fédération agréée ainsi qu'aux entraînements y préparant organisés par une fédération agréée ou l'un des membres de
+celle-ci ; 
 
 c) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions et manifestations sportives autorisées par une fédération délégataire ou organisées par une fédération
-agréée ainsi qu'aux entraînements y préparant ; 
+des manifestations sportives et des entraînements mentionnés au b du présent 1° ; 
 
 d) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 ; 
 
@@ -8315,8 +8314,7 @@ par l'article L. 232-23-3-1 ;
 a) Un avertissement ; 
 
 b) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions et manifestations sportives autorisées par une fédération délégataire ou organisées par une fédération
-agréée ainsi qu'aux entraînements y préparant ; 
+des manifestations sportives et des entraînements mentionnés au b du 1° du présent I ; 
 
 c) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 ; 
 
@@ -8365,7 +8363,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 20
+  - Loi n°2016-1528 du 15 novembre 2016 - art. 2
 
 _Anciens textes_:
 
@@ -8374,6 +8372,7 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code du sport. - art. L212-1 (V)
   - Code du sport. - art. L232-10
   - Code du sport. - art. L232-14-5
   - Code du sport. - art. L232-15
