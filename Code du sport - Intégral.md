@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-12-22
+Version Consolidée au 2016-12-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -3988,14 +3988,15 @@ _Codifié par_:
 ###### Article L212-7
 
 Les fonctions mentionnées au premier alinéa de l'article L. 212-1 peuvent être exercées sur le territoire national par les
-ressortissants des Etats membres de la Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen
-qui sont qualifiés pour les exercer dans l'un de ces Etats. 
+ressortissants des Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen, qui
+sont qualifiés pour les exercer dans l'un de ces Etats. 
 
-Ces fonctions peuvent également être exercées de façon temporaire et occasionnelle par tout ressortissant légalement établi
-dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
-Toutefois, lorsque l'activité concernée ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement, le
-prestataire doit l'avoir exercée dans cet Etat pendant au moins deux années au cours des dix années qui précèdent la
-prestation. 
+Ces fonctions peuvent également être exercées, de façon temporaire et occasionnelle, par tout ressortissant légalement établi
+dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Toutefois
+lorsque l'activité concernée ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement, le prestataire
+doit l'avoir exercée, dans un ou plusieurs Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique
+européen, à temps plein pendant au moins une année ou à temps partiel pendant une durée totale équivalente, au cours des dix
+années qui précèdent la prestation. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment les conditions auxquelles cet
 exercice est soumis lorsqu'il existe une différence substantielle de niveau entre la qualification dont les intéressés se
@@ -4004,13 +4005,15 @@ prévalent et celle requise en application du I de l'article L. 212-1.
 Ce décret précise notamment la liste des activités dont l'encadrement, même occasionnel, peut être subordonné, si la sécurité
 des personnes l'exige compte tenu de l'environnement spécifique et des conditions dans lesquelles elles sont pratiquées, au
 contrôle préalable de l'aptitude technique des demandeurs et de leur connaissance du milieu naturel, des règles de sécurité
-et des dispositifs de secours.
+et des dispositifs de secours. 
+
+Ce décret précise également les conditions et les modalités de l'accès partiel à la profession d'éducateur sportif.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 22
+  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 19
 
 _Cité par_:
 
@@ -4029,7 +4032,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du sport. - art. L212-1
+  - Code du sport. - art. L212-1 (V)
 
 
 ###### Article L212-8
@@ -5623,10 +5626,10 @@ L. 222-22, par les ressortissants d'un Etat membre de l'Union européenne ou d'u
 1° Lorsqu'ils sont qualifiés pour l'exercer dans l'un des Etats mentionnés au premier alinéa du présent article dans lequel
 la profession ou la formation d'agent sportif est réglementée ; 
 
-2° Ou lorsqu'ils ont exercé à plein temps pendant deux ans au cours des dix années précédentes la profession d'agent sportif
-dans l'un des Etats mentionnés au premier alinéa dans lequel ni la profession ni la formation d'agent sportif ne sont
-réglementées et qu'ils sont titulaires d'une attestation de compétence ou d'un titre de formation délivré par l'autorité
-compétente de l'Etat d'origine. 
+2° Ou lorsqu'ils ont exercé, au cours des dix années précédentes, pendant au moins une année à temps plein ou pendant une
+durée totale équivalente à temps partiel, la profession d'agent sportif dans un des Etats mentionnés au premier alinéa dans
+lequel ni la profession ni la formation d'agent sportif ne sont réglementées et qu'ils sont titulaires d'une ou plusieurs
+attestations de compétence ou d'un titre de formation délivré par l'autorité compétente de l'Etat d'origine 
 
 Un décret en Conseil d'Etat fixe les conditions auxquelles est soumis l'exercice de l'activité d'agent sportif par les
 ressortissants de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir sur
@@ -5636,8 +5639,9 @@ prévalent et les exigences requises pour l'obtention de la licence visée à l'
 L'activité d'agent sportif peut également être exercée de façon temporaire et occasionnelle par les ressortissants légalement
 établis dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen dans le
 respect de l'article L. 222-11. Toutefois, lorsque ni l'activité concernée ni la formation permettant de l'exercer ne sont
-réglementées dans l'Etat membre d'établissement, ses ressortissants doivent l'avoir exercée pendant au moins deux années au
-cours des dix années qui précèdent son exercice sur le territoire national. 
+réglementées dans l'Etat membre d'établissement, ses ressortissants doivent l'avoir exercée pendant au moins une année à
+temps plein ou à temps partiel pendant une durée totale équivalente, au cours des dix années qui précèdent son exercice sur
+le territoire national. 
 
 Les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
 doivent, préalablement à l'exercice de l'activité d'agent sportif sur le territoire national, y compris temporaire et
@@ -5646,9 +5650,9 @@ Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-626 du 9 juin 2010 - art. 1
+  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 20
 
 _Cité par_:
 
