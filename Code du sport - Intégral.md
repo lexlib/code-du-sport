@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2016-12-31
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -322,236 +322,237 @@ Version Consolidée au 2016-12-24
             - [Sous-section 5 : Homologation des circuits. (art. R331-35 à R331-44)](#319)
             - [Sous-section 6 : Dispositions pénales. (art. R331-45)](#320)
           - [Section 6 : Organisation de manifestations publiques de sports de combat (art. R331-46 à R331-54)](#321)
-        - [Chapitre II : Sécurité des manifestations sportives (art. R332-1 à R332-13)](#322)
+        - [Chapitre II : Sécurité des manifestations sportives (art. R332-1 à R332-20)](#322)
           - [Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive (art. R332-1 à R332-9)](#323)
           - [Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive (art. R332-10 à R332-13)](#324)
-        - [Chapitre III : Retransmission des manifestations sportives (art. R333-1 à R333-4)](#325)
-          - [Section 1 : Droit d'exploitation (art. R333-1 à R333-3)](#326)
-          - [Section 2 :  Liberté de diffusion (art. R333-4)](#327)
-        - [Chapitre IV : Dispositions relatives aux paris sportifs (art. R333-5 à R333-14)](#328)
-          - [Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4 (art. R333-5 à R333-9)](#329)
-          - [Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4 (art. R333-10 à R333-14)](#330)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. R411-1 à R429-1)](#331)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. R411-1 à R411-28)](#332)
-        - [Chapitre unique (art. R411-1 à R411-28)](#333)
-          - [Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées (art. R411-1)](#334)
-          - [Section 2 : Missions et fonctionnement du Centre national pour le développement du sport (art. R411-2 à R411-28)](#335)
-            - [Sous-section 1 : Dispositions générales (art. R411-2)](#336)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R*411-4 à R411-23)](#337)
-              - [Paragraphe 1 : Dispositions générales (art. R*411-4 à R411-11)](#338)
-              - [Paragraphe 2 : Organisation territoriale (art. R411-12 à R411-21)](#339)
-              - [Paragraphe 3 : Dispositions particulières à la Corse (art. R411-22)](#340)
-              - [Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer (art. R411-23)](#341)
-            - [Sous-section 3 : Régime financier et comptable (art. R411-24 à R411-28)](#342)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. R421-1 à R429-1)](#343)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. R421-1 à R421-4)](#344)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. R422-1 à R422-3)](#345)
-        - [Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna (art. R423-1)](#346)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R424-1)](#347)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#348)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#349)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#350)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. R428-1)](#351)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. R429-1)](#352)
-  - [Partie réglementaire - Arrêtés (art. A112-0 à A429-1)](#353)
-    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-0 à A142-32)](#354)
-      - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-0 à A114-7)](#355)
-        - [Chapitre II : Etablissements publics nationaux (art. A112-0 à A112-10)](#356)
-          - [Section unique : Le Musée national du sport (art. A112-0 à A112-10)](#357)
-            - [Sous-section unique : Contrôle budgétaire (art. A112-1 à A112-10)](#358)
-        - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive (art. A114-1 à A114-7)](#359)
-          - [Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration (art. A114-1 à A114-3)](#360)
-          - [Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel (art. A114-4 à A114-7)](#361)
-      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#362)
-        - [Chapitre Ier : Associations sportives (art. A121-1)](#363)
-        - [Chapitre II : Sociétés sportives (art. A122-1)](#364)
-      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-1 à A131-6)](#365)
-        - [Chapitre Ier : Fédérations sportives (art. A131-1 à A131-6)](#366)
-      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#367)
-        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#368)
-        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#369)
-          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#370)
-          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#371)
-            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#372)
-          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#373)
-    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-4)](#374)
-      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#375)
-        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-63-1)](#376)
-          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#377)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#378)
-          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-43 à A211-49-1)](#379)
-            - [Sous-section 2 : Contrôle budgétaire (art. A211-43 à A211-49-1)](#380)
-          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63-1)](#381)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#382)
-            - [Sous-section 2 : Contrôle budgétaire (art. A211-57 à A211-63-1)](#383)
-        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#384)
-          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-14)](#385)
-            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#386)
-            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#387)
-              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#388)
-              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#389)
-              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#390)
-              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#391)
-            - [Sous-section 2 bis : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires (art. A212-17 à A212-45)](#392)
-              - [Paragraphe 1 : Le jury (art. A212-17 à A212-28)](#393)
-              - [Paragraphe 2 : L'habilitation (art. A212-29 à A212-34)](#394)
-              - [Paragraphe 3 : Les modalités de la formation (art. A212-35 à A212-45)](#395)
-                - [Sous-Paragraphe 1 : Les conditions d'inscription des candidats (art. A212-35 à A212-39)](#396)
-                - [Sous-Paragraphe 2 : L'harmonisation nationale (art. A212-40)](#397)
-                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43)](#398)
-                - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#399)
-            - [Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. A212-46 à A212-47-4)](#400)
-              - [Paragraphe 1: Spécialité “ animateur ” (art. A212-46)](#401)
-              - [Paragraphe 2 : Spécialité “ éducateur sportif ” (art. A212-47 à A212-47-4)](#402)
-            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52-1)](#403)
-              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-48)](#404)
-              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52-1)](#405)
-            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57-1)](#406)
-              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-53)](#407)
-              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57-1)](#408)
-            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#409)
-              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#410)
-              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#411)
-              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#412)
-              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#413)
-              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-120 à A212-128)](#414)
-                - [Sous-paragraphe 1 : Partie commune (art. A212-120 à A212-121)](#415)
-                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#416)
-              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#417)
-              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#418)
-              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#419)
-              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#420)
-              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#421)
-              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#422)
-            - [Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne (art. A212-168 à A212-175)](#423)
-            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#424)
-            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#425)
-          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#426)
-            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#427)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#428)
-              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#429)
-                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#430)
-                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#431)
-              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#432)
-                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#433)
-                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#434)
-              - [Paragraphe 3  Plongée subaquatique (art. A212-193 à A212-198)](#435)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-193)](#436)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-194)](#437)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-195 à A212-197)](#438)
-                - [Sous-paragraphe 4 : Conditions d'exercice. (art. A212-198)](#439)
-              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#440)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#441)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#442)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#443)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#444)
-              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#445)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#446)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#447)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#448)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#449)
-              - [Paragraphe 7 : Alpinisme-Guide de haute montagne. (art. A212-221 à A212-228)](#450)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-221)](#451)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#452)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#453)
-                - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#454)
-      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#455)
-        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#456)
-          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#457)
-      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-3 à A231-4)](#458)
-        - [Chapitre Ier : Suivi médical des sportifs (art. A231-3 à A231-4)](#459)
-          - [Section 2 : Sportifs inscrits sur liste (art. A231-3 à A231-4)](#460)
-            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#461)
-            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#462)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#463)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#464)
-        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#465)
-          - [Section 1 : Dispositions communes (art. A312-1)](#466)
-          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#467)
-          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#468)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#469)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#470)
-          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#471)
-            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#472)
-            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#473)
-          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#474)
-            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#475)
-            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#476)
-              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#477)
-              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#478)
-              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#479)
-              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#480)
-              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#481)
-            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#482)
-              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#483)
-              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#484)
-              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#485)
-              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#486)
-            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#487)
-          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#488)
-            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#489)
-            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#490)
-            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#491)
-              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#492)
-              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#493)
-              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#494)
-            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#495)
-          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#496)
-            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#497)
-            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#498)
-            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#499)
-            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#500)
-            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#501)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#502)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#503)
-            - [Paragraphe 1 : Champ d'application (art. A322-147)](#504)
-            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#505)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#506)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#507)
-            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#508)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#509)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#510)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#511)
-              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#512)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#513)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#514)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#515)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#516)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#517)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#518)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#519)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#520)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#521)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#522)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#523)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#524)
-            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#525)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#526)
-          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#527)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#528)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#529)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#530)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#531)
-        - [Chapitre unique (art. A411-1 à A411-10)](#532)
-          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#533)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#534)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#535)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#536)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#537)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#538)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#539)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#540)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#541)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#542)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#543)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#544)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#545)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#546)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#547)
-      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#548)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#549)
-      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-21)](#550)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#551)
+          - [Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1 (art. R332-14 à R332-20)](#325)
+        - [Chapitre III : Retransmission des manifestations sportives (art. R333-1 à R333-4)](#326)
+          - [Section 1 : Droit d'exploitation (art. R333-1 à R333-3)](#327)
+          - [Section 2 :  Liberté de diffusion (art. R333-4)](#328)
+        - [Chapitre IV : Dispositions relatives aux paris sportifs (art. R333-5 à R333-14)](#329)
+          - [Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4 (art. R333-5 à R333-9)](#330)
+          - [Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4 (art. R333-10 à R333-14)](#331)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. R411-1 à R429-1)](#332)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. R411-1 à R411-28)](#333)
+        - [Chapitre unique (art. R411-1 à R411-28)](#334)
+          - [Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées (art. R411-1)](#335)
+          - [Section 2 : Missions et fonctionnement du Centre national pour le développement du sport (art. R411-2 à R411-28)](#336)
+            - [Sous-section 1 : Dispositions générales (art. R411-2)](#337)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R*411-4 à R411-23)](#338)
+              - [Paragraphe 1 : Dispositions générales (art. R*411-4 à R411-11)](#339)
+              - [Paragraphe 2 : Organisation territoriale (art. R411-12 à R411-21)](#340)
+              - [Paragraphe 3 : Dispositions particulières à la Corse (art. R411-22)](#341)
+              - [Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer (art. R411-23)](#342)
+            - [Sous-section 3 : Régime financier et comptable (art. R411-24 à R411-28)](#343)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. R421-1 à R429-1)](#344)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. R421-1 à R421-4)](#345)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. R422-1 à R422-3)](#346)
+        - [Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna (art. R423-1)](#347)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R424-1)](#348)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#349)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#350)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#351)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. R428-1)](#352)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. R429-1)](#353)
+  - [Partie réglementaire - Arrêtés (art. A112-0 à A429-1)](#354)
+    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-0 à A142-32)](#355)
+      - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-0 à A114-7)](#356)
+        - [Chapitre II : Etablissements publics nationaux (art. A112-0 à A112-10)](#357)
+          - [Section unique : Le Musée national du sport (art. A112-0 à A112-10)](#358)
+            - [Sous-section unique : Contrôle budgétaire (art. A112-1 à A112-10)](#359)
+        - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive (art. A114-1 à A114-7)](#360)
+          - [Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration (art. A114-1 à A114-3)](#361)
+          - [Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel (art. A114-4 à A114-7)](#362)
+      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#363)
+        - [Chapitre Ier : Associations sportives (art. A121-1)](#364)
+        - [Chapitre II : Sociétés sportives (art. A122-1)](#365)
+      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-1 à A131-6)](#366)
+        - [Chapitre Ier : Fédérations sportives (art. A131-1 à A131-6)](#367)
+      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#368)
+        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#369)
+        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#370)
+          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#371)
+          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#372)
+            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#373)
+          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#374)
+    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-4)](#375)
+      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#376)
+        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-63-1)](#377)
+          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#378)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#379)
+          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-43 à A211-49-1)](#380)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-43 à A211-49-1)](#381)
+          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63-1)](#382)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#383)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-57 à A211-63-1)](#384)
+        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#385)
+          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-14)](#386)
+            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#387)
+            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#388)
+              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#389)
+              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#390)
+              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#391)
+              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#392)
+            - [Sous-section 2 bis : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires (art. A212-17 à A212-45)](#393)
+              - [Paragraphe 1 : Le jury (art. A212-17 à A212-28)](#394)
+              - [Paragraphe 2 : L'habilitation (art. A212-29 à A212-34)](#395)
+              - [Paragraphe 3 : Les modalités de la formation (art. A212-35 à A212-45)](#396)
+                - [Sous-Paragraphe 1 : Les conditions d'inscription des candidats (art. A212-35 à A212-39)](#397)
+                - [Sous-Paragraphe 2 : L'harmonisation nationale (art. A212-40)](#398)
+                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43)](#399)
+                - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#400)
+            - [Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. A212-46 à A212-47-4)](#401)
+              - [Paragraphe 1: Spécialité “ animateur ” (art. A212-46)](#402)
+              - [Paragraphe 2 : Spécialité “ éducateur sportif ” (art. A212-47 à A212-47-4)](#403)
+            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52-1)](#404)
+              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-48)](#405)
+              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52-1)](#406)
+            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57-1)](#407)
+              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-53)](#408)
+              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57-1)](#409)
+            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#410)
+              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#411)
+              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#412)
+              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#413)
+              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#414)
+              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-120 à A212-128)](#415)
+                - [Sous-paragraphe 1 : Partie commune (art. A212-120 à A212-121)](#416)
+                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#417)
+              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#418)
+              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#419)
+              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#420)
+              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#421)
+              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#422)
+              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#423)
+            - [Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne (art. A212-168 à A212-175)](#424)
+            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#425)
+            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#426)
+          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#427)
+            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#428)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#429)
+              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#430)
+                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#431)
+                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#432)
+              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#433)
+                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#434)
+                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#435)
+              - [Paragraphe 3  Plongée subaquatique (art. A212-193 à A212-198)](#436)
+                - [Sous-paragraphe 1 : Déclaration. (art. A212-193)](#437)
+                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-194)](#438)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-195 à A212-197)](#439)
+                - [Sous-paragraphe 4 : Conditions d'exercice. (art. A212-198)](#440)
+              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#441)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#442)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#443)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#444)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#445)
+              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#446)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#447)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#448)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#449)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#450)
+              - [Paragraphe 7 : Alpinisme-Guide de haute montagne. (art. A212-221 à A212-228)](#451)
+                - [Sous-paragraphe 1 : Déclaration. (art. A212-221)](#452)
+                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#453)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#454)
+                - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#455)
+      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#456)
+        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#457)
+          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#458)
+      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-3 à A231-4)](#459)
+        - [Chapitre Ier : Suivi médical des sportifs (art. A231-3 à A231-4)](#460)
+          - [Section 2 : Sportifs inscrits sur liste (art. A231-3 à A231-4)](#461)
+            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#462)
+            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#463)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#464)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#465)
+        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#466)
+          - [Section 1 : Dispositions communes (art. A312-1)](#467)
+          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#468)
+          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#469)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#470)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#471)
+          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#472)
+            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#473)
+            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#474)
+          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#475)
+            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#476)
+            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#477)
+              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#478)
+              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#479)
+              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#480)
+              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#481)
+              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#482)
+            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#483)
+              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#484)
+              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#485)
+              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#486)
+              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#487)
+            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#488)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#489)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#490)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#491)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#492)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#493)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#494)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#495)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#496)
+          - [Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés (art. A322-116 à A322-140)](#497)
+            - [Paragraphe 1 : Déclaration (art. A322-117 à A322-122)](#498)
+            - [Paragraphe 2 : Conditions à respecter (art. A322-123 à A322-124)](#499)
+            - [Paragraphe 3 : Mesures de sécurité générale (art. A322-125 à A322-130)](#500)
+            - [Paragraphe 4 : Mesures d'hygiène générale (art. A322-131 à A322-134)](#501)
+            - [Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie (art. A322-135 à A322-140)](#502)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#503)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#504)
+            - [Paragraphe 1 : Champ d'application (art. A322-147)](#505)
+            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#506)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#507)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#508)
+            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#509)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#510)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#511)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#512)
+              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#513)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#514)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#515)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#516)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#517)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#518)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#519)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#520)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#521)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#522)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#523)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#524)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#525)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#526)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#527)
+          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#528)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#529)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#530)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#531)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#532)
+        - [Chapitre unique (art. A411-1 à A411-10)](#533)
+          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#534)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#535)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#536)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#537)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#538)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#539)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#540)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#541)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#542)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#543)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#544)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#545)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#546)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#547)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#548)
+      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#549)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#550)
+      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-21)](#551)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#552)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -37949,9 +37950,205 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-#### Chapitre III : Retransmission des manifestations sportives<a id=325></a>
+##### Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1<a id=325></a>
 
-##### Section 1 : Droit d'exploitation<a id=326></a>
+###### Article R332-14
+
+Le traitement automatisé de données à caractère personnel, relatives aux manquements aux dispositions des conditions
+générales de vente ou du règlement intérieur concernant la sécurité, que peut mettre en œuvre tout organisateur de
+manifestations sportives à but lucratif mentionné à l'article L. 332-1 est soumis aux conditions suivantes. 
+
+Ce traitement a pour finalité de contribuer à la sécurité des manifestations sportives en permettant aux organisateurs de
+refuser ou d'annuler la délivrance de titres d'accès à ces manifestations ou en refuser l'accès aux personnes qui ont
+contrevenu ou contreviennent aux dispositions des conditions générales de vente ou du règlement intérieur relatives à la
+sécurité de ces manifestations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L332-1 (V)
+
+_Cité par_:
+
+  - Code du sport. - art. R332-15 (V)
+  - Code du sport. - art. R332-18 (V)
+  - Code du sport. - art. R332-20 (V)
+
+
+###### Article R332-15
+
+Seules peuvent être enregistrées dans le traitement prévu à l'article R. 332-14 les données à caractère personnel et
+informations suivantes : 
+
+1° Données d'identification : nom ; prénom ; date et lieu de naissance ; adresse ou lieu de résidence ; adresse
+électronique ; numéro de téléphone ; numéro de carte d'abonnement et photographie associée, le cas échéant ; 
+
+2° Motifs de l'enregistrement constituant un manquement aux dispositions des conditions générales de vente ou du règlement
+intérieur concernant la sécurité des manifestations sportives, notamment ceux tirés des faits suivants : 
+
+a) Acte de provocation à la haine ou à la violence dans l'enceinte sportive ou à ses abords immédiats ; 
+
+b) Acte de nature à compromettre la sécurité des personnes et des biens dans l'enceinte sportive ou à ses abords immédiats
+lors de la manifestation sportive ; 
+
+c) Accès à l'enceinte sportive en état d'ivresse manifeste ou sous l'influence manifeste de produits stupéfiants ;
+introduction et consommation de boissons alcooliques et/ ou de produits stupéfiants dans l'enceinte sportive ; 
+
+d) Introduction dans l'enceinte sportive de tout objet pouvant constituer une arme ou mettre en péril la sécurité des
+personnes et des biens ; 
+
+3° Décisions prises : 
+
+a) Nature de la mesure : suspension, résiliation ou impossibilité de souscrire un nouvel abonnement ; refus de vente d'un
+titre d'accès ; annulation d'un tel titre ; refus d'accès à une enceinte sportive ; 
+
+b) Date de la décision ; 
+
+c) Durée de la mesure. 
+
+Ces données sont enregistrées par les personnes chargées de la sécurité sous l'autorité de l'organisateur de manifestations
+sportives à but lucratif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R332-14 (V)
+
+_Cité par_:
+
+  - Code du sport. - art. R332-16 (V)
+  - Code du sport. - art. R332-17 (V)
+
+
+###### Article R332-16
+
+Les données et informations à caractère personnel mentionnées à l'article R. 332-15 sont conservées pendant une durée qui ne
+peut excéder dix-huit mois à compter de leur enregistrement. Au terme de ce délai, ces données sont effacées automatiquement
+des traitements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R332-15 (V)
+
+
+###### Article R332-17
+
+I.-Ont accès à tout ou partie des données à caractère personnel et informations mentionnées à l'article R. 332-15, dans le
+cadre de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées, les employés individuellement
+désignés par le responsable du traitement et relevant des services chargés de la sécurité, de la billetterie, des affaires
+juridiques et de l'organisation des manifestations sportives. 
+
+II.-Peuvent être destinataires, dans le cadre de leurs attributions et dans la limite du besoin d'en connaître, de tout ou
+partie des mêmes données et informations : 
+
+1° Les agents du service central du renseignement territorial (SCRT) et de la division nationale de lutte contre le
+hooliganisme (DNLH) de la direction centrale de la sécurité publique (DCSP), individuellement désignés et dûment habilités
+par leur chef de service ; 
+
+2° Les agents des directions départementales de la sécurité publique, individuellement désignés et dûment habilités par le
+directeur départemental ; 
+
+3° Les fonctionnaires de la préfecture de police relevant de la direction de la sécurité de proximité de l'agglomération
+parisienne, de la direction de l'ordre public et de la circulation et de la direction du renseignement, individuellement
+désignés et dûment habilités par leur directeur ; 
+
+4° Les militaires des groupements de gendarmerie départementale, des régions de gendarmerie et de la sous-direction de
+l'anticipation opérationnelle (SDAO) de la direction générale de la gendarmerie nationale, individuellement désignés et
+dûment habilités, respectivement par le commandant de groupement, le commandant de région de gendarmerie ou le sous-directeur
+de l'anticipation opérationnelle ; 
+
+5° Les employés des fédérations sportives délégataires et des ligues professionnelles, relevant des services chargés de la
+sécurité, de la billetterie, des affaires juridiques et de l'organisation des manifestations sportives individuellement
+désignés et dûment habilités par leur président, pour les besoins liés aux rencontres organisées par ces organismes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R332-15 (V)
+
+
+###### Article R332-18
+
+Le responsable du traitement procède à l'information des personnes concernées par affichage, envoi ou remise d'un document,
+ou par tout autre moyen équivalent, en indiquant l'identité du responsable de traitement, la finalité poursuivie par le
+traitement, le caractère obligatoire des réponses, les conséquences éventuelles d'un défaut de réponse, les destinataires des
+données, la durée de conservation et les modalités d'exercice des droits des personnes concernées. 
+
+Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 ne s'applique pas au traitement mentionné à l'article
+R. 332-14. 
+
+Les droits d'accès et de rectification prévus par les articles 39 et 40 de la loi du 6 janvier 1978 s'exercent directement
+auprès du responsable de traitement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
+  - Code du sport. - art. R332-14 (V)
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+
+###### Article R332-19
+
+Les  créations, modifications et consultations font l'objet d'un  enregistrement comprenant l'identification du consultant
+ainsi que la  date, l'heure et l'objet de la consultation. Les informations relatives  aux consultations sont conservées dans
+le traitement pendant une durée  qui ne peut excéder trois ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+
+###### Article R332-20
+
+Les traitements de données à caractère personnel mentionnés à l'article R. 332-14 mis en œuvre par les organisateurs de
+manifestations sportives à but lucratif font l'objet d'une déclaration auprès de la Commission nationale de l'informatique et
+des libertés suivant les modalités prévues par les dispositions de l'article 23 de la loi n° 78-17 du 6 janvier 1978 relative
+à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 23 (V)
+  - Code du sport. - art. R332-14 (V)
+
+_Créé par_:
+
+  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+
+#### Chapitre III : Retransmission des manifestations sportives<a id=326></a>
+
+##### Section 1 : Droit d'exploitation<a id=327></a>
 
 ###### Article R333-1
 
@@ -38052,7 +38249,7 @@ _Cite_:
   - Code du sport. - art. R333-2
 
 
-##### Section 2 :  Liberté de diffusion<a id=327></a>
+##### Section 2 :  Liberté de diffusion<a id=328></a>
 
 ###### Article R333-4
 
@@ -38077,9 +38274,9 @@ _Cite_:
   - Code du sport. - art. L333-7
 
 
-#### Chapitre IV : Dispositions relatives aux paris sportifs<a id=328></a>
+#### Chapitre IV : Dispositions relatives aux paris sportifs<a id=329></a>
 
-##### Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4<a id=329></a>
+##### Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4<a id=330></a>
 
 ###### Article R333-5
 
@@ -38181,7 +38378,7 @@ _Créé par_:
   - Décret n°2016-760 du 8 juin 2016 - art. 2
 
 
-##### Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4<a id=330></a>
+##### Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4<a id=331></a>
 
 ###### Article R333-10
 
@@ -38272,13 +38469,13 @@ _Créé par_:
   - Décret n°2016-760 du 8 juin 2016 - art. 2
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=331></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=332></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=332></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=333></a>
 
-#### Chapitre unique<a id=333></a>
+#### Chapitre unique<a id=334></a>
 
-##### Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées<a id=334></a>
+##### Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées<a id=335></a>
 
 ###### Article R411-1
 
@@ -38301,9 +38498,9 @@ _Cité par_:
   - Code du sport. - art. R131-16 (V)
 
 
-##### Section 2 : Missions et fonctionnement du Centre national pour le développement du sport<a id=335></a>
+##### Section 2 : Missions et fonctionnement du Centre national pour le développement du sport<a id=336></a>
 
-##### Sous-section 1 : Dispositions générales<a id=336></a>
+##### Sous-section 1 : Dispositions générales<a id=337></a>
 
 ###### Article R411-2
 
@@ -38355,9 +38552,9 @@ _Cité par_:
   - Code du sport. - art. R427-1 (V)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=337></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=338></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=338></a>
+##### Paragraphe 1 : Dispositions générales<a id=339></a>
 
 ###### Article R*411-4
 
@@ -38691,7 +38888,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Paragraphe 2 : Organisation territoriale<a id=339></a>
+##### Paragraphe 2 : Organisation territoriale<a id=340></a>
 
 ###### Article R411-12
 
@@ -38890,7 +39087,7 @@ _Cite_:
   - Code du sport. - art. R411-6
 
 
-##### Paragraphe 3 : Dispositions particulières à la Corse<a id=340></a>
+##### Paragraphe 3 : Dispositions particulières à la Corse<a id=341></a>
 
 ###### Article R411-22
 
@@ -38922,7 +39119,7 @@ _Modifié par_:
   - Décret n°2012-509 du 18 avril 2012 - art. 10
 
 
-##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer<a id=341></a>
+##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer<a id=342></a>
 
 ###### Article R411-23
 
@@ -38957,7 +39154,7 @@ _Modifié par_:
   - Décret n°2016-191 du 24 février 2016 - art. 4
 
 
-##### Sous-section 3 : Régime financier et comptable<a id=342></a>
+##### Sous-section 3 : Régime financier et comptable<a id=343></a>
 
 ###### Article R411-24
 
@@ -39073,9 +39270,9 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=343></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=344></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=344></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=345></a>
 
 ###### Article R421-1
 
@@ -39148,7 +39345,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=345></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=346></a>
 
 ###### Article R422-1
 
@@ -39208,7 +39405,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (V)
 
 
-#### Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna<a id=346></a>
+#### Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna<a id=347></a>
 
 ###### Article R423-1
 
@@ -39247,7 +39444,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=347></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=348></a>
 
 ###### Article R424-1
 
@@ -39285,7 +39482,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=348></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=349></a>
 
 ###### Article R425-1
 
@@ -39323,7 +39520,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=349></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=350></a>
 
 ###### Article R426-1
 
@@ -39356,7 +39553,7 @@ _Cite_:
   - Code du sport. - art. R411-24
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=350></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=351></a>
 
 ###### Article R427-1
 
@@ -39389,7 +39586,7 @@ _Cite_:
   - Code du sport. - art. R411-24
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=351></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=352></a>
 
 ###### Article R428-1
 
@@ -39407,7 +39604,7 @@ _Créé par_:
   - Décret n°2016-191 du 24 février 2016 - art. 5
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=352></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=353></a>
 
 ###### Article R429-1
 
@@ -39425,15 +39622,15 @@ _Créé par_:
   - Décret n°2016-191 du 24 février 2016 - art. 5
 
 
-# Partie réglementaire - Arrêtés<a id=353></a>
+# Partie réglementaire - Arrêtés<a id=354></a>
 
-## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES<a id=354></a>
+## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES<a id=355></a>
 
-### TITRE Ier :  PERSONNES PUBLIQUES<a id=355></a>
+### TITRE Ier :  PERSONNES PUBLIQUES<a id=356></a>
 
-#### Chapitre II : Etablissements publics nationaux<a id=356></a>
+#### Chapitre II : Etablissements publics nationaux<a id=357></a>
 
-##### Section unique : Le Musée national du sport<a id=357></a>
+##### Section unique : Le Musée national du sport<a id=358></a>
 
 ###### Article A112-0
 
@@ -39446,7 +39643,7 @@ _Créé par_:
   - Arrêté du 1er juin 2015 - art. 2
 
 
-##### Sous-section unique : Contrôle budgétaire<a id=358></a>
+##### Sous-section unique : Contrôle budgétaire<a id=359></a>
 
 ###### Article A112-1
 
@@ -39711,9 +39908,9 @@ _Cité par_:
   - Code du sport. - art. A112-8 (V)
 
 
-#### Chapitre IV : Les centres de ressources, d'expertise et de performance sportive<a id=359></a>
+#### Chapitre IV : Les centres de ressources, d'expertise et de performance sportive<a id=360></a>
 
-##### Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration<a id=360></a>
+##### Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration<a id=361></a>
 
 ###### Article A114-1
 
@@ -39786,7 +39983,7 @@ _Cite_:
   - Code du sport. - art. R114-7
 
 
-##### Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel<a id=361></a>
+##### Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel<a id=362></a>
 
 ###### Article A114-4
 
@@ -39873,9 +40070,9 @@ _Créé par_:
   - Arrêté du 13 septembre 2016 - art. 1
 
 
-### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=362></a>
+### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=363></a>
 
-#### Chapitre Ier : Associations sportives<a id=363></a>
+#### Chapitre Ier : Associations sportives<a id=364></a>
 
 ###### Article A121-1
 
@@ -39902,7 +40099,7 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-#### Chapitre II : Sociétés sportives<a id=364></a>
+#### Chapitre II : Sociétés sportives<a id=365></a>
 
 ###### Article A122-1
 
@@ -39925,9 +40122,9 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=365></a>
+### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=366></a>
 
-#### Chapitre Ier : Fédérations sportives<a id=366></a>
+#### Chapitre Ier : Fédérations sportives<a id=367></a>
 
 ###### Article A131-1
 
@@ -40114,9 +40311,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=367></a>
+### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=368></a>
 
-#### Chapitre Ier : Le Comité national olympique et sportif français<a id=368></a>
+#### Chapitre Ier : Le Comité national olympique et sportif français<a id=369></a>
 
 ###### Article A141-1
 
@@ -40135,9 +40332,9 @@ _Cite_:
   - Code du sport. - art. R141-4 (V)
 
 
-#### Chapitre II : Autres organismes de concertation<a id=369></a>
+#### Chapitre II : Autres organismes de concertation<a id=370></a>
 
-##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=370></a>
+##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=371></a>
 
 ###### Article A142-0
 
@@ -40154,9 +40351,9 @@ _Cite_:
   - Code du sport. - art. R142-8
 
 
-##### Section 2 : Le Conseil supérieur des sports de montagne<a id=371></a>
+##### Section 2 : Le Conseil supérieur des sports de montagne<a id=372></a>
 
-##### Sous-section 1  La commission de la formation et de l'emploi<a id=372></a>
+##### Sous-section 1  La commission de la formation et de l'emploi<a id=373></a>
 
 ###### Article A142-5
 
@@ -40491,7 +40688,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=373></a>
+##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=374></a>
 
 ###### Article A142-20
 
@@ -40910,15 +41107,15 @@ _Modifié par_:
   - Arrêté du 10 juin 2009 - art. 1
 
 
-## LIVRE II : ACTEURS DU SPORT<a id=374></a>
+## LIVRE II : ACTEURS DU SPORT<a id=375></a>
 
-### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=375></a>
+### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=376></a>
 
-#### Chapitre Ier : Formation aux professions du sport<a id=376></a>
+#### Chapitre Ier : Formation aux professions du sport<a id=377></a>
 
-##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=377></a>
+##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=378></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=378></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=379></a>
 
 ###### Article A211-1
 
@@ -41009,9 +41206,9 @@ _Cite_:
   - Code du sport. - art. D211-4
 
 
-##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=379></a>
+##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=380></a>
 
-##### Sous-section 2 : Contrôle budgétaire<a id=380></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=381></a>
 
 ###### Article A211-43
 
@@ -41283,9 +41480,9 @@ _Cité par_:
   - Code du sport. - art. A211-48 (V)
 
 
-##### Section 4 : L'Ecole nationale des sports de montagne<a id=381></a>
+##### Section 4 : L'Ecole nationale des sports de montagne<a id=382></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=382></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=383></a>
 
 ###### Article A211-50
 
@@ -41416,7 +41613,7 @@ _Cite_:
   - Code du sport. - art. D211-57
 
 
-##### Sous-section 2 : Contrôle budgétaire<a id=383></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=384></a>
 
 ###### Article A211-57
 
@@ -41690,11 +41887,11 @@ _Cité par_:
   - Code du sport. - art. A211-62 (V)
 
 
-#### Chapitre II : Enseignement du sport contre rémunération<a id=384></a>
+#### Chapitre II : Enseignement du sport contre rémunération<a id=385></a>
 
-##### Section 1 : Obligation de qualification<a id=385></a>
+##### Section 1 : Obligation de qualification<a id=386></a>
 
-##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=386></a>
+##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=387></a>
 
 ###### Article A212-1
 
@@ -41738,7 +41935,7 @@ _Modifié par_:
   - Arrêté du 22 janvier 2016 - art. 2
 
 
-##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=387></a>
+##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=388></a>
 
 ###### Article A212-2
 
@@ -41783,7 +41980,7 @@ _Cité par_:
   - Code du sport. - art. A212-2 (V)
 
 
-##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=388></a>
+##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=389></a>
 
 ###### Article A212-4
 
@@ -41904,7 +42101,7 @@ _Cité par_:
   - Code du sport. - art. A212-5 (V)
 
 
-##### Paragraphe 2 : Délivrance du diplôme<a id=389></a>
+##### Paragraphe 2 : Délivrance du diplôme<a id=390></a>
 
 ###### Article A212-9
 
@@ -42041,7 +42238,7 @@ _Cité par_:
   - Code du sport. - art. A212-7 (V)
 
 
-##### Paragraphe 3 : Dispositions transitoires<a id=390></a>
+##### Paragraphe 3 : Dispositions transitoires<a id=391></a>
 
 ###### Article A212-15
 
@@ -42085,7 +42282,7 @@ _Cite_:
   - Code du sport. - art. D212-11 (V)
 
 
-##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=391></a>
+##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=392></a>
 
 ###### Article A212-16-1
 
@@ -42174,9 +42371,9 @@ _Créé par_:
   - Arrêté du 24 décembre 2008 - art. 2
 
 
-##### Sous-section 2 bis : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires<a id=392></a>
+##### Sous-section 2 bis : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires<a id=393></a>
 
-##### Paragraphe 1 : Le jury<a id=393></a>
+##### Paragraphe 1 : Le jury<a id=394></a>
 
 ###### Article A212-17
 
@@ -42426,7 +42623,7 @@ _Cite_:
   - Code du sport. - art. R212-10-2
 
 
-##### Paragraphe 2 : L'habilitation<a id=394></a>
+##### Paragraphe 2 : L'habilitation<a id=395></a>
 
 ###### Article A212-29
 
@@ -42570,9 +42767,9 @@ _Cite_:
   - Code du sport. - art. R212-10-8
 
 
-##### Paragraphe 3 : Les modalités de la formation<a id=395></a>
+##### Paragraphe 3 : Les modalités de la formation<a id=396></a>
 
-##### Sous-Paragraphe 1 : Les conditions d'inscription des candidats<a id=396></a>
+##### Sous-Paragraphe 1 : Les conditions d'inscription des candidats<a id=397></a>
 
 ###### Article A212-35
 
@@ -42716,7 +42913,7 @@ _Cite_:
   - Code du sport. - art. R212-10-13
 
 
-##### Sous-Paragraphe 2 : L'harmonisation nationale<a id=397></a>
+##### Sous-Paragraphe 2 : L'harmonisation nationale<a id=398></a>
 
 ###### Article A212-40
 
@@ -42760,7 +42957,7 @@ _Cite_:
   - Code du sport. - art. R212-10-18
 
 
-##### Sous-Paragraphe 3 : La validation des acquis de l'expérience<a id=398></a>
+##### Sous-Paragraphe 3 : La validation des acquis de l'expérience<a id=399></a>
 
 ###### Article A212-41
 
@@ -42860,7 +43057,7 @@ _Cite_:
   - Code du sport. - art. R212-7
 
 
-##### Sous-Paragraphe 4 : Les personnes en situation de handicap<a id=399></a>
+##### Sous-Paragraphe 4 : Les personnes en situation de handicap<a id=400></a>
 
 ###### Article A212-44
 
@@ -42911,9 +43108,9 @@ _Cite_:
   - Code du sport. - art. A212-44 (V)
 
 
-##### Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport<a id=400></a>
+##### Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport<a id=401></a>
 
-##### Paragraphe 1: Spécialité “ animateur ”<a id=401></a>
+##### Paragraphe 1: Spécialité “ animateur ”<a id=402></a>
 
 ###### Article A212-46
 
@@ -42927,7 +43124,7 @@ _Modifié par_:
   - Arrêté du 27 avril 2016 - art. 1
 
 
-##### Paragraphe 2 : Spécialité “ éducateur sportif ”<a id=402></a>
+##### Paragraphe 2 : Spécialité “ éducateur sportif ”<a id=403></a>
 
 ###### Article A212-47
 
@@ -43062,9 +43259,9 @@ _Créé par_:
   - Arrêté du 27 avril 2016 - art. 1
 
 
-##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=403></a>
+##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=404></a>
 
-##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=404></a>
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=405></a>
 
 ###### Article A212-48
 
@@ -43082,7 +43279,7 @@ _Cite_:
   - Code du sport. - art. D212-35
 
 
-##### Paragraphe 2 : Spécialité “perfectionnement sportif”<a id=405></a>
+##### Paragraphe 2 : Spécialité “perfectionnement sportif”<a id=406></a>
 
 ###### Article A212-49
 
@@ -43293,9 +43490,9 @@ _Créé par_:
   - Arrêté du 2 mai 2016 - art. 1
 
 
-##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=406></a>
+##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=407></a>
 
-##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=407></a>
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=408></a>
 
 ###### Article A212-53
 
@@ -43313,7 +43510,7 @@ _Cité par_:
   - Code du sport. - art. A212-54 (M)
 
 
-##### Paragraphe 2 : Spécialité "performance sportive"<a id=408></a>
+##### Paragraphe 2 : Spécialité "performance sportive"<a id=409></a>
 
 ###### Article A212-54
 
@@ -43515,9 +43712,9 @@ _Créé par_:
   - Arrêté du 2 mai 2016 - art. 2
 
 
-##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=409></a>
+##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=410></a>
 
-##### Paragraphe 1 : Présentation du diplôme<a id=410></a>
+##### Paragraphe 1 : Présentation du diplôme<a id=411></a>
 
 ###### Article A212-102
 
@@ -43728,7 +43925,7 @@ _Cite_:
   - Code du sport. - art. A212-104 (V)
 
 
-##### Paragraphe 2 : Conditions et formalités d'inscription<a id=411></a>
+##### Paragraphe 2 : Conditions et formalités d'inscription<a id=412></a>
 
 ###### Article A212-108
 
@@ -43910,7 +44107,7 @@ _Cité par_:
   - Code du sport. - art. Annexe II-10 (art. A212-167) (V)
 
 
-##### Paragraphe 3 : Composition du jury<a id=412></a>
+##### Paragraphe 3 : Composition du jury<a id=413></a>
 
 ###### Article A212-112
 
@@ -44095,7 +44292,7 @@ _Cite_:
   - Code du sport. - art. D212-73 (V)
 
 
-##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=413></a>
+##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=414></a>
 
 ###### Article A212-115
 
@@ -44122,9 +44319,9 @@ _Cite_:
   - Code du sport. - art. D212-70 (V)
 
 
-##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=414></a>
+##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=415></a>
 
-##### Sous-paragraphe 1 : Partie commune<a id=415></a>
+##### Sous-paragraphe 1 : Partie commune<a id=416></a>
 
 ###### Article A212-120
 
@@ -44203,7 +44400,7 @@ _Cite_:
   - Code du sport. - art. A212-120 (V)
 
 
-##### Sous-paragraphe 2 : Partie spécifique<a id=416></a>
+##### Sous-paragraphe 2 : Partie spécifique<a id=417></a>
 
 ###### Article A212-122
 
@@ -44461,7 +44658,7 @@ _Cite_:
   - Code du sport. - art. A212-127 (V)
 
 
-##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=417></a>
+##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=418></a>
 
 ###### Article A212-129
 
@@ -44754,7 +44951,7 @@ _Cite_:
   - Code du sport. - art. A212-129 (V)
 
 
-##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=418></a>
+##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=419></a>
 
 ###### Article A212-140
 
@@ -45053,7 +45250,7 @@ _Cite_:
   - Code du sport. - art. A212-138 (V)
 
 
-##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=419></a>
+##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=420></a>
 
 ###### Article A212-151
 
@@ -45229,7 +45426,7 @@ _Cite_:
   - Code du sport. - art. A212-144 (V)
 
 
-##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=420></a>
+##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=421></a>
 
 ###### Article A212-158
 
@@ -45350,7 +45547,7 @@ _Cité par_:
   - Code du sport. - art. A212-111 (V)
 
 
-##### Paragraphe 10 : Dispositions générales<a id=421></a>
+##### Paragraphe 10 : Dispositions générales<a id=422></a>
 
 ###### Article A212-163
 
@@ -45479,7 +45676,7 @@ _Cite_:
   - Code du sport. - art. Annexe II-11 (V)
 
 
-##### Paragraphe 11 : Validation des acquis de l'expérience<a id=422></a>
+##### Paragraphe 11 : Validation des acquis de l'expérience<a id=423></a>
 
 ###### Article 212-167-1
 
@@ -45596,7 +45793,7 @@ _Créé par_:
   - Arrêté du 24 décembre 2008 - art. 8
 
 
-##### Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne<a id=423></a>
+##### Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne<a id=424></a>
 
 ###### Article A212-168
 
@@ -45765,7 +45962,7 @@ _Modifié par_:
   - Arrêté du 11 janvier 2013 - art. 2
 
 
-##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=424></a>
+##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=425></a>
 
 ###### Article A212-175-10
 
@@ -45783,7 +45980,7 @@ _Anciens textes_:
   - Code du sport. - art. A212-175-2 (T)
 
 
-##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=425></a>
+##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=426></a>
 
 ###### Article A212-175-11
 
@@ -45859,9 +46056,9 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art. 1
 
 
-##### Section 2 : Obligation de déclaration d'activité<a id=426></a>
+##### Section 2 : Obligation de déclaration d'activité<a id=427></a>
 
-##### Sous-section 1 : Principes<a id=427></a>
+##### Sous-section 1 : Principes<a id=428></a>
 
 ###### Article A212-176
 
@@ -46004,11 +46201,11 @@ _Cite_:
   - Code du sport. - art. R212-86 (V)
 
 
-##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.<a id=428></a>
+##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.<a id=429></a>
 
-##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=429></a>
+##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=430></a>
 
-##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=430></a>
+##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=431></a>
 
 ###### Article A212-182
 
@@ -46049,7 +46246,7 @@ _Cite_:
   - Code du sport. - art. R212-88
 
 
-##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=431></a>
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=432></a>
 
 ###### Article A212-182-2
 
@@ -46068,9 +46265,9 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Paragraphe 2 : Ski<a id=432></a>
+##### Paragraphe 2 : Ski<a id=433></a>
 
-##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=433></a>
+##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=434></a>
 
 ###### Article A212-183
 
@@ -46290,7 +46487,7 @@ _Modifié par_:
   - Arrêté du 31 octobre 2014 - art. 2
 
 
-##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=434></a>
+##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=435></a>
 
 ###### Article A212-192-1
 
@@ -46489,9 +46686,9 @@ _Modifié par_:
   - Arrêté du 31 octobre 2014 - art. 2
 
 
-##### Paragraphe 3  Plongée subaquatique<a id=435></a>
+##### Paragraphe 3  Plongée subaquatique<a id=436></a>
 
-##### Sous-paragraphe 1 : Déclaration.<a id=436></a>
+##### Sous-paragraphe 1 : Déclaration.<a id=437></a>
 
 ###### Article A212-193
 
@@ -46512,7 +46709,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=437></a>
+##### Sous-paragraphe 2 : Différence substantielle.<a id=438></a>
 
 ###### Article A212-194
 
@@ -46535,7 +46732,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=438></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=439></a>
 
 ###### Article A212-195
 
@@ -46609,7 +46806,7 @@ _Cite_:
   - Code du sport. - art. A212-96
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice.<a id=439></a>
+##### Sous-paragraphe 4 : Conditions d'exercice.<a id=440></a>
 
 ###### Article A212-198
 
@@ -46635,9 +46832,9 @@ _Cite_:
   - Code du sport. - art. A322-71
 
 
-##### Paragraphe 5 : Parachutisme<a id=440></a>
+##### Paragraphe 5 : Parachutisme<a id=441></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=441></a>
+##### Sous-paragraphe 1 : Déclaration<a id=442></a>
 
 ###### Article A212-209
 
@@ -46658,7 +46855,7 @@ _Cite_:
   - Code du sport. - art. R212-92 (V)
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=442></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=443></a>
 
 ###### Article A212-210
 
@@ -46686,7 +46883,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=443></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=444></a>
 
 ###### Article A212-211
 
@@ -46751,7 +46948,7 @@ _Créé par_:
   - Arrêté du 21 décembre 2009 - art. 1
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=444></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=445></a>
 
 ###### Article A212-214
 
@@ -46776,9 +46973,9 @@ _Modifié par_:
   - Arrêté du 7 janvier 2014 - art. 3
 
 
-##### Paragraphe 6 : Spéléologie<a id=445></a>
+##### Paragraphe 6 : Spéléologie<a id=446></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=446></a>
+##### Sous-paragraphe 1 : Déclaration<a id=447></a>
 
 ###### Article A212-215
 
@@ -46811,7 +47008,7 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=447></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=448></a>
 
 ###### Article A212-216
 
@@ -46833,7 +47030,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=448></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=449></a>
 
 ###### Article A212-217
 
@@ -46896,7 +47093,7 @@ _Modifié par_:
   - Décret n°2016-152 du 11 février 2016 - art. 4
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=449></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=450></a>
 
 ###### Article A212-220
 
@@ -46913,9 +47110,9 @@ _Modifié par_:
   - Arrêté du 3 février 2016 - art. 5
 
 
-##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=450></a>
+##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=451></a>
 
-##### Sous-paragraphe 1 : Déclaration.<a id=451></a>
+##### Sous-paragraphe 1 : Déclaration.<a id=452></a>
 
 ###### Article A212-221
 
@@ -46941,7 +47138,7 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=452></a>
+##### Sous-paragraphe 2 : Différence substantielle.<a id=453></a>
 
 ###### Article A212-222
 
@@ -47006,7 +47203,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=453></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=454></a>
 
 ###### Article A212-225
 
@@ -47074,7 +47271,7 @@ _Créé par_:
   - Arrêté du 18 janvier 2010 - art. 1
 
 
-##### Sous-paragraphe 4 :  Conditions d'exercice.<a id=454></a>
+##### Sous-paragraphe 4 :  Conditions d'exercice.<a id=455></a>
 
 ###### Article A212-228
 
@@ -47096,11 +47293,11 @@ _Créé par_:
   - Arrêté du 18 janvier 2010 - art. 1
 
 
-### TITRE II : SPORTIFS<a id=455></a>
+### TITRE II : SPORTIFS<a id=456></a>
 
-#### Chapitre II : Sport professionnel<a id=456></a>
+#### Chapitre II : Sport professionnel<a id=457></a>
 
-##### Section unique  Agents sportifs<a id=457></a>
+##### Section unique  Agents sportifs<a id=458></a>
 
 ###### Article A222-1
 
@@ -47274,13 +47471,13 @@ _Cite_:
   - Code du sport. - art. L222-17
 
 
-### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=458></a>
+### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=459></a>
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=459></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=460></a>
 
-##### Section 2 : Sportifs inscrits sur liste<a id=460></a>
+##### Section 2 : Sportifs inscrits sur liste<a id=461></a>
 
-##### Sous-section 1 : Sportifs de haut niveau<a id=461></a>
+##### Sous-section 1 : Sportifs de haut niveau<a id=462></a>
 
 ###### Article A231-3
 
@@ -47323,7 +47520,7 @@ _Cite_:
   - Code du sport. - art. R221-2
 
 
-##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=462></a>
+##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=463></a>
 
 ###### Article A231-4
 
@@ -47353,13 +47550,13 @@ _Cite_:
   - Code du sport. - art. L221-2 (V)
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=463></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=464></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=464></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=465></a>
 
-#### Chapitre II : Equipements sportifs<a id=465></a>
+#### Chapitre II : Equipements sportifs<a id=466></a>
 
-##### Section 1 : Dispositions communes<a id=466></a>
+##### Section 1 : Dispositions communes<a id=467></a>
 
 ###### Article A312-1
 
@@ -47389,7 +47586,7 @@ _Cite_:
   - Code du sport. - art. R312-4
 
 
-##### Section 2 : Installations fixes<a id=467></a>
+##### Section 2 : Installations fixes<a id=468></a>
 
 ###### Article A312-2
 
@@ -47608,7 +47805,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-3 (V)
 
 
-##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=468></a>
+##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=469></a>
 
 ###### Article A312-10
 
@@ -47687,13 +47884,13 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=469></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=470></a>
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=470></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=471></a>
 
-##### Section 1 : Dispositions générales<a id=471></a>
+##### Section 1 : Dispositions générales<a id=472></a>
 
-##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=472></a>
+##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=473></a>
 
 ###### Article A322-1
 
@@ -47736,7 +47933,7 @@ _Cite_:
   - Code du sport. - art. L322-1
 
 
-##### Paragraphe 2 : Information des pratiquants<a id=473></a>
+##### Paragraphe 2 : Information des pratiquants<a id=474></a>
 
 ###### Article A322-3
 
@@ -47755,9 +47952,9 @@ _Cite_:
   - Code du sport. - art. R322-1
 
 
-##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=474></a>
+##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=475></a>
 
-##### Sous-section préliminaire : Dispositions communes<a id=475></a>
+##### Sous-section préliminaire : Dispositions communes<a id=476></a>
 
 ###### Article A322-3-1
 
@@ -47904,9 +48101,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=476></a>
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=477></a>
 
-##### Paragraphe 1 : Obligation de déclaration<a id=477></a>
+##### Paragraphe 1 : Obligation de déclaration<a id=478></a>
 
 ###### Article A322-4
 
@@ -47979,7 +48176,7 @@ _Cite_:
   - Code de la santé publique - art. L1332-5 (V)
 
 
-##### Paragraphe 2 : Obligation de surveillance<a id=478></a>
+##### Paragraphe 2 : Obligation de surveillance<a id=479></a>
 
 ###### Article A322-8
 
@@ -48076,7 +48273,7 @@ _Cite_:
   - Code du sport. - art. A322-8 (V)
 
 
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=479></a>
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=480></a>
 
 ###### Article A322-12
 
@@ -48227,7 +48424,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=480></a>
+##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=481></a>
 
 ###### Article A322-18
 
@@ -48246,7 +48443,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=481></a>
+##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=482></a>
 
 ###### Article A322-19
 
@@ -48677,9 +48874,9 @@ _Cité par_:
   - Code du sport. - art. A322-40 (V)
 
 
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=482></a>
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=483></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=483></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=484></a>
 
 ###### Article A322-42
 
@@ -48725,7 +48922,7 @@ _Cité par_:
   - Code du sport. - art. A322-53 (VT)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=484></a>
+##### Paragraphe 2 : Conditions de pratique<a id=485></a>
 
 ###### Article A322-44
 
@@ -48746,7 +48943,7 @@ _Cité par_:
   - Code du sport. - art. A322-58 (VT)
 
 
-##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=485></a>
+##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=486></a>
 
 ###### Article A322-45
 
@@ -48839,7 +49036,7 @@ _Modifié par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=486></a>
+##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=487></a>
 
 ###### Article A322-48
 
@@ -48926,7 +49123,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=487></a>
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=488></a>
 
 ###### Article A322-64
 
@@ -49143,7 +49340,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=488></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=489></a>
 
 ###### Article A322-71
 
@@ -49171,7 +49368,7 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
-##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=489></a>
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=490></a>
 
 ###### Article A322-72
 
@@ -49465,7 +49662,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=490></a>
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=491></a>
 
 ###### Article A322-82
 
@@ -49621,9 +49818,9 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=491></a>
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=492></a>
 
-##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=492></a>
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=493></a>
 
 ###### Article A322-90
 
@@ -49735,7 +49932,7 @@ _Modifié par_:
   - Arrêté du 5 janvier 2012 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières au nitrox<a id=493></a>
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=494></a>
 
 ###### Article A322-95
 
@@ -49756,7 +49953,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
 
 
-##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=494></a>
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=495></a>
 
 ###### Article A322-96
 
@@ -49799,7 +49996,7 @@ _Cite_:
   - Code du sport. - art. A322-78 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=495></a>
+##### Sous-section 4 : Dispositions diverses<a id=496></a>
 
 ###### Article A322-98
 
@@ -49906,7 +50103,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
-##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=496></a>
+##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés<a id=497></a>
 
 ###### Article A322-116
 
@@ -49925,7 +50122,7 @@ _Cité par_:
   - Code du sport. - art. A322-123 (VT)
 
 
-##### Paragraphe 1 : Déclaration<a id=497></a>
+##### Paragraphe 1 : Déclaration<a id=498></a>
 
 ###### Article A322-117
 
@@ -50033,7 +50230,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Conditions à respecter<a id=498></a>
+##### Paragraphe 2 : Conditions à respecter<a id=499></a>
 
 ###### Article A322-123
 
@@ -50065,7 +50262,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 3 : Mesures de sécurité générale<a id=499></a>
+##### Paragraphe 3 : Mesures de sécurité générale<a id=500></a>
 
 ###### Article A322-125
 
@@ -50174,7 +50371,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Mesures d'hygiène générale<a id=500></a>
+##### Paragraphe 4 : Mesures d'hygiène générale<a id=501></a>
 
 ###### Article A322-131
 
@@ -50245,7 +50442,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=501></a>
+##### Paragraphe 5 : Mesures concernant l'entretien  en l'état de la cavalerie<a id=502></a>
 
 ###### Article A322-135
 
@@ -50355,7 +50552,7 @@ _Abrogé par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=502></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=503></a>
 
 ###### Article A322-142
 
@@ -50457,9 +50654,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=503></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=504></a>
 
-##### Paragraphe 1 : Champ d'application<a id=504></a>
+##### Paragraphe 1 : Champ d'application<a id=505></a>
 
 ###### Article A322-147
 
@@ -50479,7 +50676,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 2 : Les séances de saut<a id=505></a>
+##### Paragraphe 2 : Les séances de saut<a id=506></a>
 
 ###### Article A322-148
 
@@ -50670,7 +50867,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=506></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=507></a>
 
 ###### Article A322-155
 
@@ -50708,7 +50905,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=507></a>
+##### Paragraphe 4 : Les équipements<a id=508></a>
 
 ###### Article A322-157
 
@@ -50762,7 +50959,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=508></a>
+##### Paragraphe 5 : L'encadrement<a id=509></a>
 
 ###### Article A322-159
 
@@ -50824,7 +51021,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=509></a>
+##### Paragraphe 6 : Les moyens matériels<a id=510></a>
 
 ###### Article A322-162
 
@@ -50866,7 +51063,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=510></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=511></a>
 
 ###### Article A322-164
 
@@ -50889,9 +51086,9 @@ _Cite_:
   - Code du sport. - art. R322-4
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=511></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=512></a>
 
-##### Sous-paragraphe 1er : Les séances de vol<a id=512></a>
+##### Sous-paragraphe 1er : Les séances de vol<a id=513></a>
 
 ###### Article A322-165
 
@@ -50985,7 +51182,7 @@ _Cité par_:
   - Code du sport. - art. A322-175 (VT)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=513></a>
+##### Sous-paragraphe 2 :  Les machines<a id=514></a>
 
 ###### Article A322-169
 
@@ -50999,7 +51196,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=514></a>
+##### Sous-paragraphe 3 : Les équipements<a id=515></a>
 
 ###### Article A322-170
 
@@ -51016,7 +51213,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=515></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=516></a>
 
 ###### Article A322-171
 
@@ -51046,7 +51243,7 @@ _Cite_:
   - Code du sport. - art. L212-1 (V)
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=516></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=517></a>
 
 ###### Article A322-176
 
@@ -51087,13 +51284,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=517></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=518></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=518></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=519></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=519></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=520></a>
 
-##### Sous-section 1 : Dispositions générales<a id=520></a>
+##### Sous-section 1 : Dispositions générales<a id=521></a>
 
 ###### Article A331-1
 
@@ -51112,7 +51309,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=521></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=522></a>
 
 ###### Article A331-2
 
@@ -51239,7 +51436,7 @@ _Cite_:
   - Code du sport. - art. R331-9-1
 
 
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=522></a>
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=523></a>
 
 ###### Article A331-17
 
@@ -51442,7 +51639,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=523></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=524></a>
 
 ###### Article A331-22
 
@@ -51496,9 +51693,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=524></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=525></a>
 
-##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=525></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=526></a>
 
 ###### Article A331-25
 
@@ -51519,7 +51716,7 @@ _Cite_:
   - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=526></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=527></a>
 
 ###### Article A331-32
 
@@ -51542,7 +51739,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=527></a>
+##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=528></a>
 
 ###### Article A331-33
 
@@ -51658,9 +51855,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-28 (VD)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=528></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=529></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=529></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=530></a>
 
 ###### Article A331-37
 
@@ -51770,13 +51967,13 @@ _Cite_:
   - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=530></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=531></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=531></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=532></a>
 
-#### Chapitre unique<a id=532></a>
+#### Chapitre unique<a id=533></a>
 
-##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=533></a>
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=534></a>
 
 ###### Article A411-1
 
@@ -52042,9 +52239,9 @@ _Cité par_:
   - Code du sport. - art. A411-8 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=534></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=535></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=535></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=536></a>
 
 ###### Article A421-1
 
@@ -52160,7 +52357,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=536></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=537></a>
 
 ###### Article A422-1
 
@@ -52193,7 +52390,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=537></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=538></a>
 
 ###### Article A423-1
 
@@ -52308,7 +52505,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=538></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=539></a>
 
 ###### Article A424-1
 
@@ -52409,7 +52606,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=539></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=540></a>
 
 ###### Article A425-1
 
@@ -52538,7 +52735,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=540></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=541></a>
 
 ###### Article A426-1
 
@@ -52560,7 +52757,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=541></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=542></a>
 
 ###### Article A427-1
 
@@ -52582,7 +52779,7 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=542></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=543></a>
 
 ###### Article A428-1
 
@@ -52609,7 +52806,7 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=543></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=544></a>
 
 ###### Article A429-1
 
@@ -52636,11 +52833,11 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-# ANNEXES<a id=544></a>
+# ANNEXES<a id=545></a>
 
-## Annexes partie réglementaire - Décrets<a id=545></a>
+## Annexes partie réglementaire - Décrets<a id=546></a>
 
-### Annexes I<a id=546></a>
+### Annexes I<a id=547></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -54217,7 +54414,7 @@ _Créé par_:
   - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
-### Annexes II<a id=547></a>
+### Annexes II<a id=548></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -55646,7 +55843,7 @@ _Cite_:
   - Code du sport. - art. R241-14 (V)
 
 
-### Annexes III<a id=548></a>
+### Annexes III<a id=549></a>
 
 ###### Article Annexe III-3 (art. R322-27)
 
@@ -56150,9 +56347,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=549></a>
+## Annexes partie réglementaire - Arrêtés<a id=550></a>
 
-### Annexes II<a id=550></a>
+### Annexes II<a id=551></a>
 
 ###### Article Annexe I-0-1 (art. A114-3)
 
@@ -66639,7 +66836,7 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art.
 
 
-### Annexes III<a id=551></a>
+### Annexes III<a id=552></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
