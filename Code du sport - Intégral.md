@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -6784,10 +6784,9 @@ _Cite_:
 
 ###### Article L232-5
 
-I.-L'Agence française de lutte contre le dopage, autorité publique indépendante dotée de la personnalité morale, définit et
-met en oeuvre les actions de lutte contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage, avec les
-organismes reconnus par celle-ci et disposant de compétences analogues aux siennes et avec les fédérations sportives
-internationales. 
+I.-L'Agence française de lutte contre le dopage, autorité publique indépendante, définit et met en oeuvre les actions de
+lutte contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage, avec les organismes reconnus par celle-
+ci et disposant de compétences analogues aux siennes et avec les fédérations sportives internationales. 
 
 A cet effet : 
 
@@ -6799,7 +6798,7 @@ a) Pendant les manifestations sportives organisées par les fédérations agré�
 délégataires ; 
 
 b) Pendant les manifestations sportives donnant lieu à une remise de prix en argent ou en nature, alors même qu'elles ne sont
-pas organisées par une fédération agréée ou autorisées par une fédération délégataire ;
+pas organisées par une fédération agréée ou autorisées par une fédération délégataire ; 
 
 c) Pendant les manifestations sportives internationales mentionnées à l'article L. 230-2 ; 
 
@@ -6847,8 +6846,6 @@ l'Etat, notamment lors de l'élaboration de la liste des substances ou méthodes
 14° Elle peut être consultée par les fédérations sportives sur les questions relevant de ses compétences ; 
 
 15° Elle adresse aux fédérations sportives des recommandations dans les matières relevant de ses compétences ; 
-
-16° Elle remet chaque année un rapport d'activité au Gouvernement et au Parlement. Ce rapport est rendu public. 
 
 Les missions de l'agence sont exercées par le collège, sauf disposition contraire. 
 
@@ -6902,7 +6899,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1528 du 15 novembre 2016 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 25
 
 _Anciens textes_:
 
@@ -6912,7 +6909,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code du sport. - art. L230-2
-  - Code du sport. - art. L230-3 (V)
+  - Code du sport. - art. L230-3
   - Code du sport. - art. L232-10
   - Code du sport. - art. L232-10-1
   - Code du sport. - art. L232-17
@@ -6926,7 +6923,7 @@ Le collège de l'Agence française de lutte contre le dopage comprend neuf membr
 
 1° Trois membres des juridictions administrative et judiciaire :
 
-- un conseiller d'Etat, président, désigné par le vice-président du Conseil d'Etat ;
+- un conseiller d'Etat, désigné par le vice-président du Conseil d'Etat ;
 
 - un conseiller à la Cour de cassation, désigné par le premier président de cette cour, qui exerce les attributions du
 président en cas d'absence ou d'empêchement de celui-ci ;
@@ -6952,35 +6949,32 @@ de l'article L. 221-2, désignée par le président du Comité national olympiqu
 - une personnalité désignée par le président du Comité consultatif national d'éthique pour les sciences de la vie et de la
 santé. 
 
-Le président du collège, président de l'agence, est nommé pour six ans. 
+Le président du collège, président de l'agence, est nommé pour six ans par décret du Président de la République parmi les
+membres du collège. 
 
-Le mandat des membres du collège de l'agence est de six ans. Il n'est pas révocable et peut être renouvelé une fois. Il n'est
-pas interrompu par les règles concernant la limite d'âge éventuellement applicables aux intéressés. Un membre, dont
-l'empêchement est constaté par le collège de l'agence statuant à la majorité des deux tiers de ses membres, est déclaré
-démissionnaire d'office. 
+Le mandat des membres du collège de l'agence est de six ans. Il est renouvelable une fois. Il n'est pas interrompu par les
+règles concernant la limite d'âge éventuellement applicables aux intéressés. 
 
 Les membres du collège de l'agence prêtent serment dans des conditions fixées par décret.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
 
 _Cité par_:
 
   - Décret n°2006-1204 du 29 septembre 2006 - art. 1 (Ab)
   - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1 (V)
   - Code du sport. - art. L232-7 (VD)
-  - Code du sport. - art. L232-7-1 (M)
+  - Code du sport. - art. L232-7-1 (V)
   - Code du sport. - art. L241-1 (VD)
   - Code du sport. - art. R232-10 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 25
 
 _Anciens textes_:
 
@@ -6991,27 +6985,23 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du sport. - art. L221-2 (V)
+  - Code du sport. - art. L221-2
 
 
 ###### Article L232-7
 
-Le collège de l'agence se renouvelle par tiers tous les deux ans. En cas de vacance survenant plus de six mois avant
-l'expiration du mandat, il est pourvu à la nomination d'un nouveau membre dont le mandat expire à la date à laquelle aurait
-expiré le mandat de la personne qu'il remplace. Le sexe du remplaçant est déterminé de manière à réduire, autant qu'il est
-possible, l'écart entre le nombre total de femmes et le nombre total d'hommes parmi les neuf membres du collège et la
-personnalité mentionnée au 1° du II de l'article L. 241-1.
+Le collège de l'agence se renouvelle par tiers tous les deux ans. En cas de vacance, le  sexe du remplaçant est déterminé de
+manière à réduire, autant qu'il est possible, l'écart entre le nombre total de femmes et le nombre total d'hommes parmi les
+neuf membres du collège et la personnalité mentionnée au 1° du II de l'article L. 241-1.
 
 Le collège de l'agence ne peut délibérer que lorsque six au moins de ses membres sont présents. Le président a voix
 prépondérante en cas de partage égal des voix. 
 
-Le collège de l'agence établit son règlement intérieur. 
-
 Le collège de l'agence peut délibérer en formation disciplinaire composée d'au moins quatre membres et présidée par l'un des
 membres mentionnés au 1° de l'article L. 232-6 du présent code. 
 
-Les membres et les agents de l'agence sont tenus au secret professionnel dans les conditions et sous les peines prévues à
-l'article 226-13 du code pénal.
+Les agents de l'agence sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article 226-13
+du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -7021,7 +7011,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1
+  - Loi n°2017-55 du 20 janvier 2017 - art. 25
 
 _Cite_:
 
@@ -7039,7 +7029,7 @@ _Anciens textes_:
 ###### Article L232-7-1
 
 I.-La fixation du nombre de femmes et d'hommes à désigner lors de chaque renouvellement, ainsi que le tirage au sort prévu au
-quatrième alinéa du présent article, interviennent six mois avant l'échéance des mandats, de telle sorte :
+quatrième alinéa du présent article, interviennent six mois avant l'échéance des mandats, de telle sorte : 
 
 - que l'écart entre le nombre de femmes et le nombre d'hommes désignés lors ce renouvellement soit au plus égal à un ;
 
@@ -7051,51 +7041,35 @@ Le tirage au sort est réalisé, concomitamment à la fixation du nombre de femm
 déterminer, parmi les autorités mentionnées du quatrième au treizième alinéas de l'article L. 232-6 et au 3° du II de
 l'article L. 241-1 participant à ce renouvellement, celles qui désignent une femme et celles qui désignent un homme. 
 
-II.-Toutefois : 
-
-1° Lorsque le renouvellement partiel inclut le président du collège, celui-ci est désigné au préalable. Il est alors procédé,
-dans les conditions prévues au I, à la désignation des autres membres par les autres autorités appelées à prendre part à ce
-renouvellement ; 
-
-2° Dans le cas où une autorité souhaite renouveler le mandat d'un membre sortant, elle le désigne au préalable. Il est alors
-procédé, dans les conditions prévues au I, au besoin par tirage au sort, à la désignation des autres membres par les autres
-autorités appelées à prendre part à ce renouvellement.
+II.-Toutefois, dans le cas où une autorité souhaite renouveler le mandat d'un membre sortant, elle le désigne au préalable.
+Il est alors procédé, dans les conditions prévues au I du présent article, au besoin par tirage au sort, à la désignation des
+autres membres par les autres autorités appelées à prendre part à ce renouvellement
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1
+  - Loi n°2017-55 du 20 janvier 2017 - art. 25
 
 _Cite_:
 
-  - Code du sport. - art. L232-6
+  - Code du sport. - art. L232-6 (V)
   - Code du sport. - art. L241-1
 
 
 ###### Article L232-8
 
-L'Agence française de lutte contre le dopage dispose de l'autonomie financière. 
-
-Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables à sa gestion.
-
-L'Agence française de lutte contre le dopage peut recruter des agents contractuels de droit public et des salariés de droit
-privé. 
-
 Pour l'accomplissement de ses missions, l'agence peut faire appel à des experts ou à des personnes qualifiées.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 25
 
 _Anciens textes_:
 
