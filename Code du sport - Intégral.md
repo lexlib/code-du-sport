@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-02-13
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -136,7 +136,7 @@ Version Consolidée au 2017-01-29
           - [Section 2 : Fédérations agréées (art. R131-3 à R131-24)](#133)
             - [Sous-section 1 : Délivrance et retrait de l'agrément (art. R131-3 à R131-10)](#134)
             - [Sous-section 2 : Compétences des fédérations agréées (art. R131-13 à R131-15)](#135)
-            - [Sous-section 3 : Missions de conseillers techniques sportifs auprès des fédérations sportives (art. R131-16 à R131-24)](#136)
+            - [Sous-section 3 : Missions de conseillers techniques sportifs auprès des fédérations sportives (art. D131-23-1 à R131-24)](#136)
           - [Section 3 : Fédérations délégataires (art. R131-25 à R131-47)](#137)
             - [Sous-section 1 : Délivrance et retrait de la délégation (art. R131-25 à R131-31)](#138)
             - [Sous-section 2 : Compétences des fédérations délégataires (art. R131-32 à R131-36)](#139)
@@ -16246,6 +16246,29 @@ _Cite_:
 
 
 ##### Sous-section 3 : Missions de conseillers techniques sportifs auprès des fédérations sportives<a id=136></a>
+
+###### Article D131-23-1
+
+Sans préjudice des indemnités mentionnées à l'article R. 131-21, une indemnité peut être versée au conseiller technique
+sportif, dans la limite d'un montant annuel fixé dans la convention-cadre mentionnée à l'article R. 131-23, soit par la
+fédération sportive auprès de laquelle il exerce, soit par ses organes nationaux, régionaux ou départementaux. Dans ce
+dernier cas, la fédération sportive définit et met en place les moyens par lesquels elle est régulièrement tenue informée des
+montants directement versés à ce titre par ses organes nationaux, régionaux ou départementaux. 
+
+L'indemnité mentionnée au premier alinéa est soumise au régime de cotisations et contributions sociales prévu pour les
+indemnités versées par l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-172 du 10 février 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R131-21
+  - Code du sport. - art. R131-23
+
 
 ###### Article R131-16
 
