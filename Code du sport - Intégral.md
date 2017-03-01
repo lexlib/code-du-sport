@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-02-13
+Version Consolidée au 2017-03-02
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L141-7)](#2)
@@ -57383,7 +57383,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -57594,7 +57594,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -57801,7 +57801,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe B</td>
     </tr>
@@ -57831,7 +57831,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe C</td>
     </tr>
@@ -57847,7 +57847,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe D</td>
     </tr>
@@ -57906,7 +57906,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F</td>
     </tr>
@@ -57946,7 +57946,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe G</td>
     </tr>
@@ -58057,7 +58057,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -58131,7 +58131,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -58183,7 +58183,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
       <td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités sports collectifs"</td>
     </tr>
@@ -58258,7 +58258,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -58331,7 +58331,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -58386,7 +58386,7 @@ Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</
 A l'exclusion de toute pratique compétitive.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités du cyclisme"</td>
     </tr>
@@ -58536,7 +58536,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -59001,6 +59001,81 @@ CS "roller".</td>
 Conduite de cycles de découverte, d'initiation et d'apprentissage en roller.</td>
       <td align="center">
     </td></tr>
+  </tbody>
+</table>
+
+C.3.1. Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité “éducateur sportif”
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+INTITULÉ DU DIPLÔME</th>
+      <th>
+
+CONDITIONS D'EXERCICE</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités physiques pour tous".</td>
+      <td align="justify">
+
+Animation à destination de différents publics à travers notamment la découverte des activités physiques.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités gymniques", option "activités gymniques acrobatiques".</td>
+      <td align="justify">
+
+Encadrement en sécurité des activités de découverte et d'animation des activités gymniques.
+
+Conduite de cycles d'apprentissage des activités gymniques.
+
+Entraînement des activités gymniques acrobatiques, jusqu'au premier niveau de compétition fédéral.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités gymniques", option "gymnastique rythmique".</td>
+      <td align="justify">
+
+Encadrement en sécurité des activités de découverte et d'animation des activités gymniques.
+
+Conduite de cycles d'apprentissage des activités gymniques.
+
+Entraînement de la gymnastique rythmique, jusqu'au premier niveau de compétition fédéral.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "cours collectifs".</td>
+      <td align="justify">
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectif.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "haltérophilie, musculation".</td>
+      <td align="justify">
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie,
+jusqu'au premier niveau de compétition fédéral.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -59548,6 +59623,38 @@ Encadrement et entraînement de joueurs de haut niveau en football dans un club 
   </tbody>
 </table>
 
+D-4. Titre à finalité professionnelle délivré par la Fédération française de natation
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+INTITULÉ DU TITRE</th>
+      <th>
+
+CONDITIONS D'EXERCICE</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Moniteur sportif de natation.</td>
+      <td align="left">
+
+Encadrement en autonomie de séances d'apprentissage de la natation et de séances d'entraînement en natation jusqu'au niveau
+régional.</td>
+      <td align="left">
+
+A l'exclusion du temps scolaire contraint.
+
+A l'exclusion de la surveillance des lieux de pratique.</td>
+    </tr>
+  </tbody>
+</table>
+
 E. - Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-
@@ -59967,6 +60074,28 @@ A l'exclusion des équipes évoluant :
 Dans la limite de 2 équipes ;
 
 A l'exclusion du temps scolaire contraint.
+
+</td>
+    </tr>
+    <tr>
+      <td>CQP "technicien sportif de basket-ball".</td>
+      <td>Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et
+départemental.</td>
+      <td>Activité exercée à titre secondaire.
+
+A l'exclusion des équipes évoluant :
+
+- en pro A et en pro B ;
+
+- en nationale masculine 1 et nationale masculine 2 ;
+
+- en ligue féminine ;
+
+- en nationale féminine 1 et nationale féminine 2.
+
+Dans la limite de 2 équipes.
+
+- à l'exclusion du temps scolaire contraint.
 
 </td>
     </tr>
@@ -60711,6 +60840,12 @@ tout public, dans les conditions techniques et de sécurité définies aux artic
 le respect des capacités d'accueil des installations.</td>
       <td>Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes.</td>
     </tr>
+    <tr>
+      <td>CQP "moniteur en sport adapté".</td>
+      <td>Encadrement en autonomie des activités en sport adapté aux personnes en situation de handicap mental ou psychique,
+de l'initiation jusqu'au premier niveau de compétition fédéral.</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -60721,7 +60856,7 @@ F. - Diplômes délivrés par le ministère chargé de la santé
     <tr>
       <td>
 
-INTITULÉ DU CERTIFICAT
+INTITULÉ DU DIPLÔME
 
 </td>
       <td>
@@ -60776,7 +60911,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 19 septembre 2016 - art. 1
+  - Arrêté du 21 février 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
