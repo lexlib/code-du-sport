@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -57640,7 +57640,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -57699,7 +57699,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -57814,12 +57814,12 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -57877,7 +57877,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe C</td>
     </tr>
@@ -57936,7 +57936,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E</td>
     </tr>
@@ -57952,7 +57952,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F</td>
     </tr>
@@ -58017,7 +58017,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -58103,7 +58103,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -58476,7 +58476,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -59594,7 +59594,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -60023,7 +60023,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 - renforcement musculaire ;
 
-- techniques douces :
+- techniques douces ;
 
 - activités d'expression.
 
@@ -60032,38 +60032,22 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
-      <td align="left">
-
-CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
-      <td align="left">
-
-Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+      <td align="left">CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
+      <td align="left">Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
 
 - arts et éducation par les activités physiques d'opposition ;
 
 - jeux de raquettes ;
 
-- jeux de ballons, petits et grands terrains.
-
-</td>
-      <td align="left">
-
-A l'exclusion des pratiques compétitives.
+- jeux de ballons, petits et grands terrains.</td>
+      <td align="left">A l'exclusion des pratiques compétitives.
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
       <td align="left">
@@ -60957,7 +60941,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 février 2017 - art. 1
+  - Arrêté du 15 mars 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
