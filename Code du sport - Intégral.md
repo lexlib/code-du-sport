@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -58350,7 +58350,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -58409,7 +58409,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -58529,7 +58529,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -58813,7 +58813,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -58887,7 +58887,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -58939,7 +58939,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
       <td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités sports collectifs"</td>
     </tr>
@@ -59087,7 +59087,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -59990,7 +59990,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -60304,7 +60304,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -60733,7 +60733,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 - renforcement musculaire ;
 
-- techniques douces :
+- techniques douces ;
 
 - activités d'expression.
 
@@ -60742,38 +60742,22 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
-      <td align="left">
-
-CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
-      <td align="left">
-
-Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+      <td align="left">CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
+      <td align="left">Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
 
 - arts et éducation par les activités physiques d'opposition ;
 
 - jeux de raquettes ;
 
-- jeux de ballons, petits et grands terrains.
-
-</td>
-      <td align="left">
-
-A l'exclusion des pratiques compétitives.
+- jeux de ballons, petits et grands terrains.</td>
+      <td align="left">A l'exclusion des pratiques compétitives.
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
       <td align="left">
@@ -61667,7 +61651,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 février 2017 - art. 1
+  - Arrêté du 15 mars 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
