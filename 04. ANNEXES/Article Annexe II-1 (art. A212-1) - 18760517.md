@@ -3035,7 +3035,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 - renforcement musculaire ;
 
-- techniques douces :
+- techniques douces ;
 
 - activités d'expression.
 
@@ -3044,38 +3044,22 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
-      <td align="left">
-
-CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
-      <td align="left">
-
-Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+      <td align="left">CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
+      <td align="left">Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
 
 - arts et éducation par les activités physiques d'opposition ;
 
 - jeux de raquettes ;
 
-- jeux de ballons, petits et grands terrains.
-
-</td>
-      <td align="left">
-
-A l'exclusion des pratiques compétitives.
+- jeux de ballons, petits et grands terrains.</td>
+      <td align="left">A l'exclusion des pratiques compétitives.
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
       <td align="left">
@@ -3969,4 +3953,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 février 2017 - art. 1
+  - Arrêté du 15 mars 2017 - art. 1
