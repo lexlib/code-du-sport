@@ -831,7 +831,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -889,7 +889,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe C</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe D</td>
     </tr>
@@ -948,7 +948,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe E</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F</td>
     </tr>
@@ -1029,7 +1029,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -1241,7 +1241,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
       <td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités sports collectifs"</td>
     </tr>
@@ -1488,7 +1488,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -3035,7 +3035,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 - renforcement musculaire ;
 
-- techniques douces :
+- techniques douces ;
 
 - activités d'expression.
 
@@ -3044,38 +3044,22 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
-      <td align="left">
-
-CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
-      <td align="left">
-
-Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+      <td align="left">CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition".</td>
+      <td align="left">Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
 
 - arts et éducation par les activités physiques d'opposition ;
 
 - jeux de raquettes ;
 
-- jeux de ballons, petits et grands terrains.
-
-</td>
-      <td align="left">
-
-A l'exclusion des pratiques compétitives.
+- jeux de ballons, petits et grands terrains.</td>
+      <td align="left">A l'exclusion des pratiques compétitives.
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-</td>
+A l'exclusion des cours individuels.</td>
     </tr>
     <tr>
       <td align="left">
@@ -3969,4 +3953,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 février 2017 - art. 1
+  - Arrêté du 15 mars 2017 - art. 1
