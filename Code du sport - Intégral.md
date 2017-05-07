@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-05-05
+Version Consolidée au 2017-05-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -31970,21 +31970,22 @@ _Modifié par_:
 ###### Article D232-72
 
 L'autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite, prévue à l'article L. 232-2, est
-délivrée par l'Agence française de lutte contre le dopage lorsque les conditions suivantes sont remplies : 
+délivrée par l'Agence française de lutte contre le dopage lorsque chacune des conditions suivantes est remplie par
+prépondérance des probabilités remplies :
 
 1° Le sportif subit un préjudice de santé significatif si la substance ou la méthode interdite ne peut lui être administrée,
-lors de la prise en charge d'un état pathologique aigu ou chronique ; 
+lors de la prise en charge d'un état pathologique aigu ou chronique ;
 
 2° L'utilisation à des fins thérapeutiques de la substance ou de la méthode interdite n'est susceptible de produire aucune
 amélioration de la performance autre que celle attribuable au retour à un état de santé normal après le traitement
-thérapeutique d'un état pathologique avéré ; 
+thérapeutique d'un état pathologique avéré ;
 
 3° Il n'existe aucune autre solution thérapeutique permettant l'utilisation d'une substance ou d'une méthode qui ne sont pas
-interdites ; 
+interdites ;
 
 4° La nécessité d'utiliser une substance ou une méthode interdite n'est pas une conséquence partielle ou totale de
 l'utilisation sans autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite au moment de
-cette utilisation. 
+cette utilisation.
 
 En dehors de tout état pathologique avéré, l'utilisation d'une substance ou d'une méthode interdite afin d'augmenter les
 niveaux d'hormones endogènes d'un sportif ne peut donner lieu à l'octroi d'une autorisation d'usage à des fins
@@ -31992,17 +31993,13 @@ thérapeutiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+  - Décret n°2017-845 du 5 mai 2017 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. L232-2
-
-_Anciens textes_:
-
-  - Code du sport. - art. R232-72 (T)
 
 
 ###### Article D232-73
