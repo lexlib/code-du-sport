@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-06-23
+Version Consolidée au 2017-07-28
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -60411,23 +60411,122 @@ Entraînement de la gymnastique rythmique, jusqu'au premier niveau de compétiti
       <td align="justify">
 
 BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "cours collectifs".</td>
-      <td align="justify">
-
-Découverte d'activités de loisir et d'animation des activités de la forme.
+      <td align="justify">Découverte d'activités de loisir et d'animation des activités de la forme.
 
 Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectif.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">
-
-BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "haltérophilie, musculation".</td>
-      <td align="justify">
-
-Découverte d'activités de loisir et d'animation des activités de la forme.
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "haltérophilie,
+musculation".</td>
+      <td align="justify">Découverte d'activités de loisir et d'animation des activités de la forme.
 
 Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie,
 jusqu'au premier niveau de compétition fédéral.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+BP JEPS, spécialité "éducateur sportif", mention "activités équestres", toutes options.</td>
+      <td align="justify">Animation et enseignement des activités équestres pout tout public, de tout niveau et dans tout
+établissement.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "golf".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en golf, jusqu'au premier niveau de
+compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "lutte et disciplines associées".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en lutte et disciplines associées,
+jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "judo-jujitsu".</td>
+      <td align="justify">Encadrement, initiation, préparation aux grades du 1er au 4e dan et conduite de cycles
+d'apprentissage en judo-jujitsu, jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ épée".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
+de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ sabre".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
+de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "sabre/ épée".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
+de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "boxe".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en boxe, jusqu'au premier niveau de
+compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "sports de contact et disciplines associées".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en sports de contact et disciplines
+associées, jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "activités de la savate", option "boxe
+française".</td>
+      <td align="justify">Encadrement des activités de découverte et d'initiation des activités de la savate. Encadrement,
+initiation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition fédérale en savate, boxe française.</
+td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "activités de la savate", option "canne de combat
+et bâton".</td>
+      <td align="justify">Encadrement des activités de découverte et d'initiation des activités de la savate. Encadrement,
+initiation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition fédérale en canne de combat et
+bâton.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "patinage sur glace".</td>
+      <td align="justify">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation.
+Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "en scaphandre" (option A).</td>
+      <td align="left">Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique en
+scaphandre, dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
+
+Encadrement en autonomie de la randonnée subaquatique.</td>
+      <td align="left">Pour la plongée subaquatique en scaphandre :
+
+- sous la responsabilité d'un directeur de plongée au sens de l'annexe III-15-a de l'article A. 322-72 du code du sport, à
+l'exclusion du plongeur niveau 5, du DPE et du moniteur 2 étoiles CMAS, sauf dans le cas où la plongée se déroule dans une
+piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;
+
+- dans la limite de 20 mètres pour l'enseignement ;
+
+- dans la limite de 40 mètres pour l'encadrement de la plongée en exploration.
+
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
+    </tr>
+    <tr>
+      <td>BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
+      <td align="left">Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique
+sans scaphandre, y compris la randonnée aquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de
+sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+      <td align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
   </tbody>
 </table>
@@ -60509,6 +60608,14 @@ DE JEPS, spécialité "perfectionnement sportif", mention "plongée subaquatique
 Enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions
 techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
       <td>
+
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
+    </tr>
+    <tr>
+      <td>DE JEPS, spécialité "perfectionnement sportif", mention "activités de plongée subaquatique".</td>
+      <td>Enseignement, animation, encadrement des activités de plongée subaquatique ou entraînement de leurs pratiquants,
+dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+      <td>Dans la limite de 40 mètres pour l'encadrement de l'enseignement et de l'exploration.
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
@@ -60630,6 +60737,19 @@ CS "cerf-volant".</td>
 Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant.</td>
       <td>
     </td></tr>
+    <tr>
+      <td align="center" colspan="3">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
+    </tr>
+    <tr>
+      <td>Certificat complémentaire "plongée profonde et tutorat".</td>
+      <td>Enseignement, animation, encadrement des activités de plongée subaquatique ou entraînement de leurs pratiquants,
+dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+      <td>Dans la limite de 60 mètres pour l'encadrement de l'enseignement et de la plongée en exploration.
+
+Au-delà de 60 mètres pour l'encadrement de l'enseignement et de l'exploration en plongée aux mélanges autres que l'air, s'il
+est assorti des qualifications complémentaires, dans les conditions prévues aux articles A. 322-71 et suivants du code du
+sport.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -62248,7 +62368,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 15 mars 2017 - art. 1
+  - Arrêté du 13 juillet 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
