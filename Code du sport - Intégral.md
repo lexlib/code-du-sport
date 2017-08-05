@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-07-28
+Version Consolidée au 2017-08-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -29905,8 +29905,11 @@ Le collège de l'agence arrête son règlement intérieur, lequel fixe notamment
 les modalités de délibération.
 
 Tout membre du collège qui, sans justification, n'a pas assisté à trois séances consécutives peut être déclaré démissionnaire
-d'office par le collège statuant à la majorité des deux tiers de ses membres, après avoir été mis en mesure de présenter des
-observations. Le président en informe l'autorité de nomination ainsi que le ministre chargé des sports.
+d'office, après avoir été mis en demeure de présenter ses observations.
+
+Le collège se prononce à la majorité des trois quarts de ses membres autres que l'intéressé.
+
+Le président informe de la démission d'office l'autorité de nomination ainsi que le ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
@@ -29917,7 +29920,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1235 du 3 août 2017 - art. 2
 
 
 ###### Article R232-13
@@ -29939,19 +29946,34 @@ _Codifié par_:
 
 ###### Article R232-14
 
-Sur proposition du président, le collège de l'agence nomme le secrétaire général, le directeur du département des contrôles
-et le directeur du département des analyses. Il fixe leur rémunération et les éventuelles indemnités dont ils bénéficient.
+Le secrétaire général de l'Agence est nommé par le président après avis du collège. Sa rémunération y compris, le cas
+échéant, ses indemnités sont fixées suivant la même procédure.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 4 du décret n°2006-1204 du 29 septembre 2006 relatif à l'organisation et au fonctionnement de l'Agence française de lutte contre le dopage
   - Décret n°2006-1204 du 29 septembre 2006 - art. 4 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1235 du 3 août 2017 - art. 3
+
+
+###### Article R232-14-1
+
+Sur proposition du président, le collège de l'Agence nomme le directeur du département des contrôles et le directeur du
+département des analyses. Il fixe leur rémunération y compris, le cas échéant, leurs indemnités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1235 du 3 août 2017 - art. 4
 
 
 ###### Article R232-15
@@ -30413,7 +30435,7 @@ _Codifié par_:
 
 ###### Article R232-32
 
-Lorsque les créances de l'agence, autres que la subvention de l'Etat mentionnée à l'article L. 232-8, n'ont pu être
+Lorsque les créances de l'agence, autres que la subvention de l'Etat mentionnée au 1° de l'article R. 232-27, n'ont pu être
 recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet d'états
 rendus exécutoires par le président de l'agence. Les états exécutoires peuvent être notifiés aux débiteurs par lettre
 recommandée avec demande d'avis de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction
@@ -30427,11 +30449,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1235 du 3 août 2017 - art. 5
 
 _Cite_:
 
-  - Code du sport. - art. L232-8 (V)
+  - Code du sport. - art. R232-27 (V)
 
 
 ###### Article R232-33
@@ -33395,15 +33421,15 @@ _Cite_:
 
 L'intéressé peut être représenté par une personne qu'il mandate à cet effet. Il peut également être assisté par une ou
 plusieurs personnes de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, sur
-sa demande, de l'aide d'un interprète aux frais de l'agence.
+sa demande, de l'aide d'un interprète aux frais de l'agence. 
 
 L'intéressé, la ou les personnes investies de l'autorité parentale ou le représentant légal et, le cas échéant, le défenseur
-peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie.
+peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie. 
 
-Le document formulant les griefs retenus à l'encontre du sportif doit mentionner la possibilité pour l'intéressé, d'une part,
-de demander par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours à compter de sa réception,
-qu'il soit procédé à ses frais à l'analyse de l'échantillon B, conformément aux dispositions prévues par l' article R.
-232-64. Le délai de cinq jours est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole.
+Le document formulant les griefs retenus à l'encontre du sportif doit mentionner la possibilité pour l'intéressé de demander
+par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours à compter de sa réception, qu'il soit
+procédé à ses frais à l'analyse de l'échantillon B, conformément aux dispositions prévues par l'article R. 232-64. Le délai
+de cinq jours est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole.
 
 **Liens relatifs à cet article**
 
@@ -33418,11 +33444,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 29
+  - Décret n°2017-1235 du 3 août 2017 - art. 6
 
 _Cite_:
 
-  - Code du sport. - art. R232-64
+  - Code du sport. - art. R232-64 (V)
 
 
 ###### Article R232-92
