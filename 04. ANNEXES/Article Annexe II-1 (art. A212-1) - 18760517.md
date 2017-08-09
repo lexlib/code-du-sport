@@ -441,7 +441,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -652,7 +652,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -711,7 +711,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -826,7 +826,7 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe B</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D</td>
     </tr>
@@ -948,7 +948,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E</td>
     </tr>
@@ -1004,7 +1004,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe G</td>
     </tr>
@@ -1444,7 +1444,7 @@ Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</
 A l'exclusion de toute pratique compétitive.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités du cyclisme"</td>
     </tr>
@@ -1488,7 +1488,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -2134,7 +2134,7 @@ jusqu'au premier niveau de compétition fédéral.</td>
       <td align="justify">
 
 BP JEPS, spécialité "éducateur sportif", mention "activités équestres", toutes options.</td>
-      <td align="justify">Animation et enseignement des activités équestres pout tout public, de tout niveau et dans tout
+      <td align="justify">Animation et enseignement des activités équestres pour tout public, de tout niveau et dans tout
 établissement.</td>
       <td align="left">
     </td></tr>
@@ -2227,10 +2227,10 @@ piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td>BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
+      <td>BP JEPS spécialité "éducateur sportif" , mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
       <td align="left">Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique
-sans scaphandre, y compris la randonnée aquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de
-sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et
+de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
       <td align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
   </tbody>
@@ -2726,7 +2726,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -4073,4 +4073,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 13 juillet 2017 - art. 1
+  - Arrêté du 28 juillet 2017 - art. 1
