@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-08-06
+Version Consolidée au 2017-08-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -58079,7 +58079,7 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -58142,7 +58142,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe C</td>
     </tr>
@@ -58158,7 +58158,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D</td>
     </tr>
@@ -58201,7 +58201,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E</td>
     </tr>
@@ -58282,7 +58282,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -58442,7 +58442,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -58642,7 +58642,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -58741,7 +58741,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -58847,7 +58847,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -59387,7 +59387,7 @@ jusqu'au premier niveau de compétition fédéral.</td>
       <td align="justify">
 
 BP JEPS, spécialité "éducateur sportif", mention "activités équestres", toutes options.</td>
-      <td align="justify">Animation et enseignement des activités équestres pout tout public, de tout niveau et dans tout
+      <td align="justify">Animation et enseignement des activités équestres pour tout public, de tout niveau et dans tout
 établissement.</td>
       <td align="left">
     </td></tr>
@@ -59480,10 +59480,10 @@ piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td>BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
+      <td>BP JEPS spécialité "éducateur sportif" , mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
       <td align="left">Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique
-sans scaphandre, y compris la randonnée aquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de
-sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et
+de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
       <td align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
   </tbody>
@@ -59652,7 +59652,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -61326,7 +61326,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 13 juillet 2017 - art. 1
+  - Arrêté du 28 juillet 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
