@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-08-06
+Version Consolidée au 2017-08-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -60318,7 +60318,7 @@ jusqu'au premier niveau de compétition fédéral.</td>
       <td align="justify">
 
 BP JEPS, spécialité "éducateur sportif", mention "activités équestres", toutes options.</td>
-      <td align="justify">Animation et enseignement des activités équestres pout tout public, de tout niveau et dans tout
+      <td align="justify">Animation et enseignement des activités équestres pour tout public, de tout niveau et dans tout
 établissement.</td>
       <td align="left">
     </td></tr>
@@ -60411,10 +60411,10 @@ piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td>BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
+      <td>BP JEPS spécialité "éducateur sportif" , mention "plongée subaquatique", option "sans scaphandre" (option B).</td>
       <td align="left">Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique
-sans scaphandre, y compris la randonnée aquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de
-sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
+sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et
+de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
       <td align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
   </tbody>
@@ -62257,7 +62257,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 13 juillet 2017 - art. 1
+  - Arrêté du 28 juillet 2017 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
