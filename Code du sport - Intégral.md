@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-08-12
+Version Consolidée au 2017-08-14
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -218,115 +218,115 @@ Version Consolidée au 2017-08-12
               - [Paragraphe 7 : Reconnaissance des diplômes étrangers (art. D212-84-1 à R212-84)](#215)
           - [Section 2 : Obligation de déclaration d'activité (art. R212-85 à R212-94-4)](#216)
             - [Sous-section 1 : Personnes titulaires des diplômes, titres à finalité professionnelle ou certificats de qualification requis (art. R212-85 à R212-87)](#217)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art.  à R212-87)](#218)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de  l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. R212-88 à R212-91)](#219)
-            - [Sous-section 3 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services (art.  à R212-91)](#220)
-            - [Sous-section 3 : Ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services (art. R212-92 à R212-94)](#221)
-            - [Sous-section 4 : Carte professionnelle européenne des guides de montagne (art. R212-94-1 à R212-94-3)](#222)
-            - [Sous-section 5 : Mécanisme d'alertes (art. R212-94-4)](#223)
-          - [Section 3 : Police des activités d'enseignement (art. D212-95)](#224)
-      - [TITRE II : SPORTIFS (art. D221-2-1 à D224-13)](#225)
-        - [Chapitre Ier : Sport de haut niveau (art. D221-2-1 à D221-27)](#226)
-          - [Section 1 : Acteurs (art. D221-2-1 à R221-16)](#227)
-            - [Sous-section 1 : Inscription sur la liste des sportifs de haut niveau (art. D221-2-1 à R221-8)](#228)
-            - [Sous-section 2 : Inscription sur la liste des entraîneurs de haut niveau (art. R221-9)](#229)
-            - [Sous-section 3 : Inscription sur la liste des arbitres et juges sportifs de haut niveau (art. R221-10)](#230)
-            - [Sous-section 4 : Inscription sur les listes des sportifs Espoirs et des collectifs nationaux (art. R221-11 à R221-13)](#231)
-            - [Sous-section 5 : Suspension, retrait des listes et interdiction d'inscription sur ces listes (art. R221-14 à R221-16)](#232)
-          - [Section 2 : Les projets de performances fédéraux (art. R221-17 à R221-24)](#233)
-          - [Section 3 : Autres mesures relatives aux sportifs de haut niveau (art. D221-27)](#234)
-        - [Chapitre II : Sport professionnel (art. R222-1 à R222-42)](#235)
-          - [Section 1 : Commissions des agents sportifs et délégués aux agents sportifs (art. R222-1 à R222-6)](#236)
-          - [Section 2 : Commission interfédérale des agents sportifs (art. R222-7 à R222-9)](#237)
-          - [Section 3 : Licence d'agent sportif (art. R222-10 à R222-20)](#238)
-            - [Sous-section 1 : Dispositions générales (art. R222-10 à R222-13)](#239)
-            - [Sous-section 2 : Examen de la licence d'agent sportif (art. R222-14 à R222-18)](#240)
-            - [Sous-section 3 : Formation préalable à la délivrance de la licence d'agent sportif et formation continue (art. R222-19 à R222-20)](#241)
-          - [Section 4 : Exercice de la profession d'agent sportif par les ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen (art. R222-21 à R222-30)](#242)
-            - [Sous-section 1 : Dispositions communes (art. R222-21)](#243)
-            - [Sous-section 2 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. R222-22 à R222-27)](#244)
-            - [Sous-section 3 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de service (art. R222-28 à R222-30)](#245)
-          - [Section 5 : Contrôle (art. R222-31 à R222-37)](#246)
-            - [Sous-section 1 : Obligations de transmission pesant sur l'agent sportif (art. R222-31 à R222-33)](#247)
-            - [Sous-section 2 : Transmission d'informations par d'autres personnes (art. R222-34 à R222-36)](#248)
-            - [Sous-section 3 : Rémunération des agents sportifs (art. R222-37)](#249)
-          - [Section 6 : Sanctions disciplinaires (art. R222-38 à R222-42)](#250)
-        - [Chapitre IV : Supporters (art. D224-1 à D224-13)](#251)
-          - [Section 1 : L'Instance nationale du supportérisme (art. D224-1 à D224-4)](#252)
-          - [Section 2 : Relations entre les associations et sociétés sportives et leurs supporters (art. D224-5 à D224-8)](#253)
-          - [Section 3 : Agrément des associations de supporters (art. D224-9 à D224-13)](#254)
-      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. R231-1 à D232-103)](#255)
-        - [Chapitre Ier : Suivi médical des sportifs (art. R231-1 à R231-11)](#256)
-          - [Section 1 : Certificat médical (art. R231-1 à D231-1-5)](#257)
-            - [Sous-section 1 : Surveillance médicale des sportifs professionnels (art. R231-1)](#258)
-            - [Sous-section 2 : Certificat médical et questionnaire de santé (art. D231-1-1 à D231-1-5)](#259)
-          - [Section 2 : Rôle des fédérations sportives (art. R231-2 à R231-11)](#260)
-        - [Chapitre II : Lutte contre le dopage (art. D232-1 à D232-103)](#261)
-          - [Section 1 : Prévention (art. D232-1 à D232-9)](#262)
-          - [Section 2 : Agence française de lutte contre le dopage (art. R232-10 à R232-41-11)](#263)
-            - [Sous-section 1 : Organisation administrative (art. R232-10 à R232-19)](#264)
-            - [Sous-section 2 : Statut des membres, agents et collaborateurs de l'agence (art. D232-20 à R232-26)](#265)
-            - [Sous-section 3 : Régime budgétaire et comptable (art. R232-27 à R232-41)](#266)
-            - [Sous-Section 4 -  Traitement automatisé de données à caractère personnel visant à mettre en œuvre l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15 (art. R232-41-1 à R232-41-9)](#267)
-            - [Sous-section 5 : Transmission de documents par voie électronique (art. R232-41-10 à R232-41-11)](#268)
-          - [Section 3 : Agissements interdits et contrôles (art. R232-41-13 à R232-85-9)](#269)
-            - [Sous-section préliminaire : Interdiction de recourir aux services d'une personne qui a fait l'objet d'une sanction en matière de lutte contre le dopage (art. R232-41-13 à R232-41-16)](#270)
-            - [Sous-section 1 : Organisation des contrôles (art. R232-42 à R232-71)](#271)
-              - [Paragraphe 1 : Principes. (art. R232-42 à R232-44)](#272)
-              - [Paragraphe 2 : Examens et prélèvements autorisés. (art. D232-47 à R232-67)](#273)
-              - [Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 232-15 (art. R232-67-1 à R232-67-15)](#274)
-              - [Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles. (art. R232-68 à R232-71)](#275)
-            - [Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques (art. D232-72 à R232-85-1)](#276)
-            - [Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs" (art. R232-85-2 à R232-85-9)](#277)
-          - [Section 4 : Sanctions administratives (art. R232-86 à R232-98-1)](#278)
-            - [Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées (art. R232-86 à R232-87-1)](#279)
-            - [Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R232-88 à R232-98-1)](#280)
-          - [Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes (art. D232-99 à D232-103)](#281)
-      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. R241-1 à R241-26)](#282)
-        - [Chapitre unique (art. R241-1 à R241-26)](#283)
-          - [Section 1 : Contrôles et prélèvements (art. R241-1 à R241-12)](#284)
-          - [Section 2 : Procédure disciplinaire devant les fédérations sportives agréées (art. R241-13 à R241-14)](#285)
-          - [Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R241-15 à R241-26)](#286)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. R311-1 à R333-14)](#287)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. R311-1 à D312-26)](#288)
-        - [Chapitre Ier : Sports de nature (art. R311-1 à R311-3)](#289)
-          - [Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature (art. R311-1 à R311-3)](#290)
-        - [Chapitre II : Equipements sportifs (art. D312-1 à D312-26)](#291)
-          - [Section 1 : Dispositions communes (art. D312-1 à R312-7)](#292)
-            - [Sous-section 1 : Schéma de services collectifs du sport (art. D312-1)](#293)
-            - [Sous-section 2 : Déclaration des équipements sportifs (art. R312-2 à R312-7)](#294)
-          - [Section 2 : Installations fixes (art. R312-8 à R312-15)](#295)
-          - [Section 3 : Installations provisoires (art. R312-16 à R312-21)](#296)
-          - [Section 4 : La Commission nationale de sécurité des enceintes sportives (art. R312-22 à R312-25)](#297)
-          - [Section 5 : Commission consultative départementale de sécurité et d'accessibilité (art. D312-26)](#298)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. D321-1 à R322-43)](#299)
-        - [Chapitre Ier : Obligation d'assurance (art. D321-1 à D321-5)](#300)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. R322-4 à R322-43)](#301)
-          - [Section 1 : Dispositions générales (art. R322-4 à R322-10)](#302)
-            - [Sous-section 2 : Obligations générales (art. R322-4 à R322-7)](#303)
-            - [Sous-section 3 : Rôle du préfet du département (art. R322-8 à R322-10)](#304)
-          - [Section 2 : Etablissements de natation et d'activités aquatiques (art. D322-11 à R322-18)](#305)
-          - [Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball (art. R322-19 à R322-26)](#306)
-          - [Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. R322-27 à R322-38)](#307)
-          - [Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique (art. R322-39 à R322-43)](#308)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. D331-1 à R333-14)](#309)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. D331-1 à R331-54)](#310)
-          - [Section 1 : Rôle des fédérations (art. D331-1 à D331-2)](#311)
-          - [Section 2 : Autorisation et déclaration préalable (art. R331-3 à R331-4)](#312)
-          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. D331-5)](#313)
-          - [Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. R331-6 à R331-17-2)](#314)
-            - [Sous-section 1 : Dispositions générales (art. R331-6 à R331-7)](#315)
-            - [Sous-section 2 : Obligation déclarative (art. R331-8)](#316)
-            - [Sous-section 3 : Délivrance de l'autorisation (art. R331-9 à R331-13)](#317)
-            - [Sous-section 4 : Dispositions communes aux manifestations soumises à déclaration ou à autorisation (art. R331-14 à R331-17-1)](#318)
-            - [Sous-section 5 : Dispositions pénales (art. R331-17-2)](#319)
-          - [Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur (art. R331-18 à R331-45)](#320)
-            - [Sous-section 1 : Dispositions générales. (art. R331-18 à R331-21)](#321)
-            - [Sous-section 2 : Obligation déclarative. (art. R331-22)](#322)
-            - [Sous-section 3 : Délivrance de l'autorisation. (art. R331-23 à R331-28)](#323)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de  l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. R212-88 à R212-91)](#218)
+            - [Sous-section 3 : Ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services (art. R212-92 à R212-94)](#219)
+            - [Sous-section 4 : Carte professionnelle européenne des guides de montagne (art. R212-94-1 à R212-94-3)](#220)
+            - [Sous-section 5 : Mécanisme d'alertes (art. R212-94-4)](#221)
+          - [Section 3 : Police des activités d'enseignement (art. D212-95)](#222)
+      - [TITRE II : SPORTIFS (art. D221-2-1 à D224-13)](#223)
+        - [Chapitre Ier : Sport de haut niveau (art. D221-2-1 à D221-27)](#224)
+          - [Section 1 : Acteurs (art. D221-2-1 à R221-16)](#225)
+            - [Sous-section 1 : Inscription sur la liste des sportifs de haut niveau (art. D221-2-1 à R221-8)](#226)
+            - [Sous-section 2 : Inscription sur la liste des entraîneurs de haut niveau (art. R221-9)](#227)
+            - [Sous-section 3 : Inscription sur la liste des arbitres et juges sportifs de haut niveau (art. R221-10)](#228)
+            - [Sous-section 4 : Inscription sur les listes des sportifs Espoirs et des collectifs nationaux (art. R221-11 à R221-13)](#229)
+            - [Sous-section 5 : Suspension, retrait des listes et interdiction d'inscription sur ces listes (art. R221-14 à R221-16)](#230)
+          - [Section 2 : Les projets de performances fédéraux (art. R221-17 à R221-24)](#231)
+          - [Section 3 : Autres mesures relatives aux sportifs de haut niveau (art. D221-27)](#232)
+        - [Chapitre II : Sport professionnel (art. R222-1 à R222-42)](#233)
+          - [Section 1 : Commissions des agents sportifs et délégués aux agents sportifs (art. R222-1 à R222-6)](#234)
+          - [Section 2 : Commission interfédérale des agents sportifs (art. R222-7 à R222-9)](#235)
+          - [Section 3 : Licence d'agent sportif (art. R222-10 à R222-20)](#236)
+            - [Sous-section 1 : Dispositions générales (art. R222-10 à R222-13)](#237)
+            - [Sous-section 2 : Examen de la licence d'agent sportif (art. R222-14 à R222-18)](#238)
+            - [Sous-section 3 : Formation préalable à la délivrance de la licence d'agent sportif et formation continue (art. R222-19 à R222-20)](#239)
+          - [Section 4 : Exercice de la profession d'agent sportif par les ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen (art. R222-21 à R222-30)](#240)
+            - [Sous-section 1 : Dispositions communes (art. R222-21)](#241)
+            - [Sous-section 2 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. R222-22 à R222-27)](#242)
+            - [Sous-section 3 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de service (art. R222-28 à R222-30)](#243)
+          - [Section 5 : Contrôle (art. R222-31 à R222-37)](#244)
+            - [Sous-section 1 : Obligations de transmission pesant sur l'agent sportif (art. R222-31 à R222-33)](#245)
+            - [Sous-section 2 : Transmission d'informations par d'autres personnes (art. R222-34 à R222-36)](#246)
+            - [Sous-section 3 : Rémunération des agents sportifs (art. R222-37)](#247)
+          - [Section 6 : Sanctions disciplinaires (art. R222-38 à R222-42)](#248)
+        - [Chapitre IV : Supporters (art. D224-1 à D224-13)](#249)
+          - [Section 1 : L'Instance nationale du supportérisme (art. D224-1 à D224-4)](#250)
+          - [Section 2 : Relations entre les associations et sociétés sportives et leurs supporters (art. D224-5 à D224-8)](#251)
+          - [Section 3 : Agrément des associations de supporters (art. D224-9 à D224-13)](#252)
+      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. R231-1 à D232-103)](#253)
+        - [Chapitre Ier : Suivi médical des sportifs (art. R231-1 à R231-11)](#254)
+          - [Section 1 : Certificat médical (art. R231-1 à D231-1-5)](#255)
+            - [Sous-section 1 : Surveillance médicale des sportifs professionnels (art. R231-1)](#256)
+            - [Sous-section 2 : Certificat médical et questionnaire de santé (art. D231-1-1 à D231-1-5)](#257)
+          - [Section 2 : Rôle des fédérations sportives (art. R231-2 à R231-11)](#258)
+        - [Chapitre II : Lutte contre le dopage (art. D232-1 à D232-103)](#259)
+          - [Section 1 : Prévention (art. D232-1 à D232-9)](#260)
+          - [Section 2 : Agence française de lutte contre le dopage (art. R232-10 à R232-41-11)](#261)
+            - [Sous-section 1 : Organisation administrative (art. R232-10 à R232-19)](#262)
+            - [Sous-section 2 : Statut des membres, agents et collaborateurs de l'agence (art. D232-20 à R232-26)](#263)
+            - [Sous-section 3 : Régime budgétaire et comptable (art. R232-27 à R232-41)](#264)
+            - [Sous-Section 4 -  Traitement automatisé de données à caractère personnel visant à mettre en œuvre l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15 (art. R232-41-1 à R232-41-9)](#265)
+            - [Sous-section 5 : Transmission de documents par voie électronique (art. R232-41-10 à R232-41-11)](#266)
+          - [Section 3 : Agissements interdits et contrôles (art. R232-41-13 à R232-85-9)](#267)
+            - [Sous-section préliminaire : Interdiction de recourir aux services d'une personne qui a fait l'objet d'une sanction en matière de lutte contre le dopage (art. R232-41-13 à R232-41-16)](#268)
+            - [Sous-section 1 : Organisation des contrôles (art. R232-42 à R232-71)](#269)
+              - [Paragraphe 1 : Principes. (art. R232-42 à R232-44)](#270)
+              - [Paragraphe 2 : Examens et prélèvements autorisés. (art. D232-47 à R232-67)](#271)
+              - [Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 232-15 (art. R232-67-1 à R232-67-15)](#272)
+              - [Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles. (art. R232-68 à R232-71)](#273)
+            - [Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques (art. D232-72 à R232-85-1)](#274)
+            - [Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs" (art. R232-85-2 à R232-85-9)](#275)
+          - [Section 4 : Sanctions administratives (art. R232-86 à R232-98-1)](#276)
+            - [Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées (art. R232-86 à R232-87-1)](#277)
+            - [Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R232-88 à R232-98-1)](#278)
+          - [Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes (art. D232-99 à D232-103)](#279)
+      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. R241-1 à R241-26)](#280)
+        - [Chapitre unique (art. R241-1 à R241-26)](#281)
+          - [Section 1 : Contrôles et prélèvements (art. R241-1 à R241-12)](#282)
+          - [Section 2 : Procédure disciplinaire devant les fédérations sportives agréées (art. R241-13 à R241-14)](#283)
+          - [Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R241-15 à R241-26)](#284)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. R311-1 à R333-14)](#285)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. R311-1 à D312-26)](#286)
+        - [Chapitre Ier : Sports de nature (art. R311-1 à R311-3)](#287)
+          - [Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature (art. R311-1 à R311-3)](#288)
+        - [Chapitre II : Equipements sportifs (art. D312-1 à D312-26)](#289)
+          - [Section 1 : Dispositions communes (art. D312-1 à R312-7)](#290)
+            - [Sous-section 1 : Schéma de services collectifs du sport (art. D312-1)](#291)
+            - [Sous-section 2 : Déclaration des équipements sportifs (art. R312-2 à R312-7)](#292)
+          - [Section 2 : Installations fixes (art. R312-8 à R312-15)](#293)
+          - [Section 3 : Installations provisoires (art. R312-16 à R312-21)](#294)
+          - [Section 4 : La Commission nationale de sécurité des enceintes sportives (art. R312-22 à R312-25)](#295)
+          - [Section 5 : Commission consultative départementale de sécurité et d'accessibilité (art. D312-26)](#296)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. D321-1 à R322-43)](#297)
+        - [Chapitre Ier : Obligation d'assurance (art. D321-1 à D321-5)](#298)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. R322-4 à R322-43)](#299)
+          - [Section 1 : Dispositions générales (art. R322-4 à R322-10)](#300)
+            - [Sous-section 2 : Obligations générales (art. R322-4 à R322-7)](#301)
+            - [Sous-section 3 : Rôle du préfet du département (art. R322-8 à R322-10)](#302)
+          - [Section 2 : Etablissements de natation et d'activités aquatiques (art. D322-11 à R322-18)](#303)
+          - [Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball (art. R322-19 à R322-26)](#304)
+          - [Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. R322-27 à R322-38)](#305)
+          - [Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique (art. R322-39 à R322-43)](#306)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. D331-1 à R333-14)](#307)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. D331-1 à R331-54)](#308)
+          - [Section 1 : Rôle des fédérations (art. D331-1 à D331-2)](#309)
+          - [Section 2 : Autorisation et déclaration préalable (art. R331-3 à R331-4-1)](#310)
+          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. D331-5)](#311)
+          - [Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. R331-6 à R331-17-2)](#312)
+            - [Sous-section 1 : Dispositions générales (art. R331-6 à R331-7)](#313)
+            - [Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance (art. R331-8)](#314)
+            - [Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance (art. R331-9 à R331-11)](#315)
+            - [Sous-section 4 : Dispositions communes aux manifestations soumises à déclaration ou à autorisation (art.  à R331-11)](#316)
+            - [Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives (art. R331-14 à R331-17-1)](#317)
+            - [Sous-section 5 : Dispositions pénales (art. R331-17-2)](#318)
+          - [Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur (art. R331-18 à R331-45-1)](#319)
+            - [Sous-section 1 : Dispositions générales. (art. R331-18 à R331-21)](#320)
+            - [Sous-section 2 : Obligation déclarative. (art. R331-22 à R331-22-1)](#321)
+            - [Sous-section 3 : Délivrance de l'autorisation. (art.  à R331-22-1)](#322)
+            - [Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation (art. R331-23 à R331-28)](#323)
             - [Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation. (art. R331-30 à R331-34)](#324)
             - [Sous-section 5 : Homologation des circuits. (art. R331-35 à R331-44)](#325)
-            - [Sous-section 6 : Dispositions pénales. (art. R331-45)](#326)
+            - [Sous-section 6 : Dispositions pénales. (art. R331-45 à R331-45-1)](#326)
           - [Section 6 : Organisation de manifestations publiques de sports de combat (art. R331-46 à R331-54)](#327)
         - [Chapitre II : Sécurité des manifestations sportives (art. R332-1 à R332-20)](#328)
           - [Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive (art. R332-1 à R332-9)](#329)
@@ -25646,9 +25646,7 @@ _Cite_:
   - Code du sport. - art. R212-85
 
 
-##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=218></a>
-
-##### Sous-section 2 : Ressortissants d'un Etat membre de  l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=219></a>
+##### Sous-section 2 : Ressortissants d'un Etat membre de  l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=218></a>
 
 ###### Article R212-88
 
@@ -25983,9 +25981,7 @@ _Cite_:
   - Code du sport. - art. L212-7
 
 
-##### Sous-section 3 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services<a id=220></a>
-
-##### Sous-section 3 : Ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services<a id=221></a>
+##### Sous-section 3 : Ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services<a id=219></a>
 
 ###### Article R212-92
 
@@ -26182,7 +26178,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-section 4 : Carte professionnelle européenne des guides de montagne<a id=222></a>
+##### Sous-section 4 : Carte professionnelle européenne des guides de montagne<a id=220></a>
 
 ###### Article R212-94-1
 
@@ -26302,7 +26298,7 @@ _Cite_:
   - Code du sport. - art. R212-94-1 (V)
 
 
-##### Sous-section 5 : Mécanisme d'alertes<a id=223></a>
+##### Sous-section 5 : Mécanisme d'alertes<a id=221></a>
 
 ###### Article R212-94-4
 
@@ -26328,7 +26324,7 @@ _Créé par_:
   - Décret n°2017-1270 du 9 août 2017 - art. 1
 
 
-##### Section 3 : Police des activités d'enseignement<a id=224></a>
+##### Section 3 : Police des activités d'enseignement<a id=222></a>
 
 ###### Article D212-95
 
@@ -26348,13 +26344,13 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-### TITRE II : SPORTIFS<a id=225></a>
+### TITRE II : SPORTIFS<a id=223></a>
 
-#### Chapitre Ier : Sport de haut niveau<a id=226></a>
+#### Chapitre Ier : Sport de haut niveau<a id=224></a>
 
-##### Section 1 : Acteurs<a id=227></a>
+##### Section 1 : Acteurs<a id=225></a>
 
-##### Sous-section 1 : Inscription sur la liste des sportifs de haut niveau<a id=228></a>
+##### Sous-section 1 : Inscription sur la liste des sportifs de haut niveau<a id=226></a>
 
 ###### Article D221-2-1
 
@@ -26652,7 +26648,7 @@ _Cite_:
   - Code du sport. - art. R221-4
 
 
-##### Sous-section 2 : Inscription sur la liste des entraîneurs de haut niveau<a id=229></a>
+##### Sous-section 2 : Inscription sur la liste des entraîneurs de haut niveau<a id=227></a>
 
 ###### Article R221-9
 
@@ -26682,7 +26678,7 @@ _Modifié par_:
   - Décret n°2013-289 du 4 avril 2013 - art. 2
 
 
-##### Sous-section 3 : Inscription sur la liste des arbitres et juges sportifs de haut niveau<a id=230></a>
+##### Sous-section 3 : Inscription sur la liste des arbitres et juges sportifs de haut niveau<a id=228></a>
 
 ###### Article R221-10
 
@@ -26716,7 +26712,7 @@ _Cite_:
   - Code du sport. - art. L221-2
 
 
-##### Sous-section 4 : Inscription sur les listes des sportifs Espoirs et des collectifs nationaux<a id=231></a>
+##### Sous-section 4 : Inscription sur les listes des sportifs Espoirs et des collectifs nationaux<a id=229></a>
 
 ###### Article R221-11
 
@@ -26795,7 +26791,7 @@ _Modifié par_:
   - Décret n°2016-1286 du 29 septembre 2016 - art. 9
 
 
-##### Sous-section 5 : Suspension, retrait des listes et interdiction d'inscription sur ces listes<a id=232></a>
+##### Sous-section 5 : Suspension, retrait des listes et interdiction d'inscription sur ces listes<a id=230></a>
 
 ###### Article R221-14
 
@@ -26940,7 +26936,7 @@ _Modifié par_:
   - Décret n°2013-289 du 4 avril 2013 - art. 2
 
 
-##### Section 2 : Les projets de performances fédéraux<a id=233></a>
+##### Section 2 : Les projets de performances fédéraux<a id=231></a>
 
 ###### Article R221-17
 
@@ -27123,7 +27119,7 @@ _Créé par_:
   - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
 
-##### Section 3 : Autres mesures relatives aux sportifs de haut niveau<a id=234></a>
+##### Section 3 : Autres mesures relatives aux sportifs de haut niveau<a id=232></a>
 
 ###### Article D221-27
 
@@ -27153,9 +27149,9 @@ _Créé par_:
   - Décret n°2016-1287 du 29 septembre 2016 - art. 2
 
 
-#### Chapitre II : Sport professionnel<a id=235></a>
+#### Chapitre II : Sport professionnel<a id=233></a>
 
-##### Section 1 : Commissions des agents sportifs et délégués aux agents sportifs<a id=236></a>
+##### Section 1 : Commissions des agents sportifs et délégués aux agents sportifs<a id=234></a>
 
 ###### Article R222-1
 
@@ -27380,7 +27376,7 @@ _Cité par_:
   - Code du sport. - art. R222-9 (V)
 
 
-##### Section 2 : Commission interfédérale des agents sportifs<a id=237></a>
+##### Section 2 : Commission interfédérale des agents sportifs<a id=235></a>
 
 ###### Article R222-7
 
@@ -27483,9 +27479,9 @@ _Cite_:
   - Code du sport. - art. R222-6
 
 
-##### Section 3 : Licence d'agent sportif<a id=238></a>
+##### Section 3 : Licence d'agent sportif<a id=236></a>
 
-##### Sous-section 1 : Dispositions générales<a id=239></a>
+##### Sous-section 1 : Dispositions générales<a id=237></a>
 
 ###### Article R222-10
 
@@ -27598,7 +27594,7 @@ _Modifié par_:
   - Décret n°2011-686 du 16 juin 2011 - art. 1
 
 
-##### Sous-section 2 : Examen de la licence d'agent sportif<a id=240></a>
+##### Sous-section 2 : Examen de la licence d'agent sportif<a id=238></a>
 
 ###### Article R222-14
 
@@ -27764,7 +27760,7 @@ _Cité par_:
   - Code du sport. - art. R222-15 (V)
 
 
-##### Sous-section 3 : Formation préalable à la délivrance de la licence d'agent sportif et formation continue<a id=241></a>
+##### Sous-section 3 : Formation préalable à la délivrance de la licence d'agent sportif et formation continue<a id=239></a>
 
 ###### Article R222-19
 
@@ -27815,9 +27811,9 @@ _Cité par_:
   - Code du sport. - art. R222-38 (V)
 
 
-##### Section 4 : Exercice de la profession d'agent sportif par les ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen<a id=242></a>
+##### Section 4 : Exercice de la profession d'agent sportif par les ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen<a id=240></a>
 
-##### Sous-section 1 : Dispositions communes<a id=243></a>
+##### Sous-section 1 : Dispositions communes<a id=241></a>
 
 ###### Article R222-21
 
@@ -27841,7 +27837,7 @@ _Modifié par_:
   - Décret n°2017-1270 du 9 août 2017 - art. 2
 
 
-##### Sous-section 2 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=244></a>
+##### Sous-section 2 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=242></a>
 
 ###### Article R222-22
 
@@ -28011,7 +28007,7 @@ _Cite_:
   - Code du sport. - art. R222-19
 
 
-##### Sous-section 3 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de service<a id=245></a>
+##### Sous-section 3 : Ressortissant d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de service<a id=243></a>
 
 ###### Article R222-28
 
@@ -28096,9 +28092,9 @@ _Cite_:
   - Code du sport. - art. R222-29 (V)
 
 
-##### Section 5 : Contrôle<a id=246></a>
+##### Section 5 : Contrôle<a id=244></a>
 
-##### Sous-section 1 : Obligations de transmission pesant sur l'agent sportif<a id=247></a>
+##### Sous-section 1 : Obligations de transmission pesant sur l'agent sportif<a id=245></a>
 
 ###### Article R222-31
 
@@ -28189,7 +28185,7 @@ _Cite_:
   - Code du sport. - art. R222-32
 
 
-##### Sous-section 2 : Transmission d'informations par d'autres personnes<a id=248></a>
+##### Sous-section 2 : Transmission d'informations par d'autres personnes<a id=246></a>
 
 ###### Article R222-34
 
@@ -28265,7 +28261,7 @@ _Cite_:
   - Code du sport. - art. L222-5
 
 
-##### Sous-section 3 : Rémunération des agents sportifs<a id=249></a>
+##### Sous-section 3 : Rémunération des agents sportifs<a id=247></a>
 
 ###### Article R222-37
 
@@ -28284,7 +28280,7 @@ _Cite_:
   - Code du sport. - art. L222-17
 
 
-##### Section 6 : Sanctions disciplinaires<a id=250></a>
+##### Section 6 : Sanctions disciplinaires<a id=248></a>
 
 ###### Article R222-38
 
@@ -28429,9 +28425,9 @@ _Cite_:
   - Code du sport. - art. L222-19
 
 
-#### Chapitre IV : Supporters<a id=251></a>
+#### Chapitre IV : Supporters<a id=249></a>
 
-##### Section 1 : L'Instance nationale du supportérisme<a id=252></a>
+##### Section 1 : L'Instance nationale du supportérisme<a id=250></a>
 
 ###### Article D224-1
 
@@ -28563,7 +28559,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R133-3 (V)
 
 
-##### Section 2 : Relations entre les associations et sociétés sportives et leurs supporters<a id=253></a>
+##### Section 2 : Relations entre les associations et sociétés sportives et leurs supporters<a id=251></a>
 
 ###### Article D224-5
 
@@ -28639,7 +28635,7 @@ _Créé par_:
   - Décret n°2016-957 du 12 juillet 2016 - art. 1
 
 
-##### Section 3 : Agrément des associations de supporters<a id=254></a>
+##### Section 3 : Agrément des associations de supporters<a id=252></a>
 
 ###### Article D224-9
 
@@ -28755,13 +28751,13 @@ _Créé par_:
   - Décret n°2016-957 du 12 juillet 2016 - art. 1
 
 
-### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=255></a>
+### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=253></a>
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=256></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=254></a>
 
-##### Section 1 : Certificat médical<a id=257></a>
+##### Section 1 : Certificat médical<a id=255></a>
 
-##### Sous-section 1 : Surveillance médicale des sportifs professionnels<a id=258></a>
+##### Sous-section 1 : Surveillance médicale des sportifs professionnels<a id=256></a>
 
 ###### Article R231-1
 
@@ -28779,7 +28775,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2016-1286 du 29 septembre 2016 - art. 13
 
 
-##### Sous-section 2 : Certificat médical et questionnaire de santé<a id=259></a>
+##### Sous-section 2 : Certificat médical et questionnaire de santé<a id=257></a>
 
 ###### Article D231-1-1
 
@@ -28910,7 +28906,7 @@ _Cite_:
   - Code du sport. - art. L231-2-3
 
 
-##### Section 2 : Rôle des fédérations sportives<a id=260></a>
+##### Section 2 : Rôle des fédérations sportives<a id=258></a>
 
 ###### Article R231-2
 
@@ -29061,9 +29057,9 @@ _Anciens textes_:
   - Code de la santé publique - art. R3621-9 (Ab)
 
 
-#### Chapitre II : Lutte contre le dopage<a id=261></a>
+#### Chapitre II : Lutte contre le dopage<a id=259></a>
 
-##### Section 1 : Prévention<a id=262></a>
+##### Section 1 : Prévention<a id=260></a>
 
 ###### Article D232-1
 
@@ -29342,9 +29338,9 @@ _Abrogé par_:
   - Décret n°2017-723 du 2 mai 2017 - art. 1
 
 
-##### Section 2 : Agence française de lutte contre le dopage<a id=263></a>
+##### Section 2 : Agence française de lutte contre le dopage<a id=261></a>
 
-##### Sous-section 1 : Organisation administrative<a id=264></a>
+##### Sous-section 1 : Organisation administrative<a id=262></a>
 
 ###### Article R232-10
 
@@ -29656,7 +29652,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Sous-section 2 : Statut des membres, agents et collaborateurs de l'agence<a id=265></a>
+##### Sous-section 2 : Statut des membres, agents et collaborateurs de l'agence<a id=263></a>
 
 ###### Article D232-20
 
@@ -29849,7 +29845,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Sous-section 3 : Régime budgétaire et comptable<a id=266></a>
+##### Sous-section 3 : Régime budgétaire et comptable<a id=264></a>
 
 ###### Article R232-27
 
@@ -30241,7 +30237,7 @@ _Modifié par_:
   - Décret n°2010-406 du 26 avril 2010 - art. 38
 
 
-##### Sous-Section 4 -  Traitement automatisé de données à caractère personnel visant à mettre en œuvre l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15<a id=267></a>
+##### Sous-Section 4 -  Traitement automatisé de données à caractère personnel visant à mettre en œuvre l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15<a id=265></a>
 
 ###### Article R232-41-1
 
@@ -30478,7 +30474,7 @@ _Créé par_:
   - Décret n°2013-1317 du 27 décembre 2013 - art. 1
 
 
-##### Sous-section 5 : Transmission de documents par voie électronique<a id=268></a>
+##### Sous-section 5 : Transmission de documents par voie électronique<a id=266></a>
 
 ###### Article R232-41-10
 
@@ -30521,9 +30517,9 @@ _Créé par_:
   - Décret n°2016-83 du 29 janvier 2016 - art. 8
 
 
-##### Section 3 : Agissements interdits et contrôles<a id=269></a>
+##### Section 3 : Agissements interdits et contrôles<a id=267></a>
 
-##### Sous-section préliminaire : Interdiction de recourir aux services d'une personne qui a fait l'objet d'une sanction en matière de lutte contre le dopage<a id=270></a>
+##### Sous-section préliminaire : Interdiction de recourir aux services d'une personne qui a fait l'objet d'une sanction en matière de lutte contre le dopage<a id=268></a>
 
 ###### Article R232-41-13
 
@@ -30589,9 +30585,9 @@ _Créé par_:
   - Décret n°2016-83 du 29 janvier 2016 - art. 9
 
 
-##### Sous-section 1 : Organisation des contrôles<a id=271></a>
+##### Sous-section 1 : Organisation des contrôles<a id=269></a>
 
-##### Paragraphe 1 : Principes.<a id=272></a>
+##### Paragraphe 1 : Principes.<a id=270></a>
 
 ###### Article R232-42
 
@@ -30705,7 +30701,7 @@ _Cite_:
   - Code du sport. - art. L232-5
 
 
-##### Paragraphe 2 : Examens et prélèvements autorisés.<a id=273></a>
+##### Paragraphe 2 : Examens et prélèvements autorisés.<a id=271></a>
 
 ###### Article D232-47
 
@@ -31578,7 +31574,7 @@ _Cite_:
   - Code du sport. - art. L232-5 (V)
 
 
-##### Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 232-15<a id=274></a>
+##### Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 232-15<a id=272></a>
 
 ###### Article R232-67-1
 
@@ -31934,7 +31930,7 @@ _Modifié par_:
   - Décret n°2016-83 du 29 janvier 2016 - art. 18
 
 
-##### Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles.<a id=275></a>
+##### Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles.<a id=273></a>
 
 ###### Article R232-68
 
@@ -32092,7 +32088,7 @@ _Modifié par_:
   - Décret n°2016-83 du 29 janvier 2016 - art. 23
 
 
-##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques<a id=276></a>
+##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques<a id=274></a>
 
 ###### Article D232-72
 
@@ -32484,7 +32480,7 @@ _Cite_:
   - Code du sport. - art. L232-9
 
 
-##### Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs"<a id=277></a>
+##### Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs"<a id=275></a>
 
 ###### Article R232-85-2
 
@@ -32704,9 +32700,9 @@ _Créé par_:
   - Décret n°2015-1609 du 7 décembre 2015 - art. 1
 
 
-##### Section 4 : Sanctions administratives<a id=278></a>
+##### Section 4 : Sanctions administratives<a id=276></a>
 
-##### Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées<a id=279></a>
+##### Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées<a id=277></a>
 
 ###### Article R232-86
 
@@ -32788,7 +32784,7 @@ _Créé par_:
   - Décret n°2016-84 du 29 janvier 2016 - art. 3
 
 
-##### Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=280></a>
+##### Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=278></a>
 
 ###### Article R232-88
 
@@ -33184,7 +33180,7 @@ _Créé par_:
   - Décret n°2016-84 du 29 janvier 2016 - art. 8
 
 
-##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes<a id=281></a>
+##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes<a id=279></a>
 
 ###### Article D232-99
 
@@ -33312,11 +33308,11 @@ _Cite_:
   - Code du sport. - art. L232-20
 
 
-### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=282></a>
+### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=280></a>
 
-#### Chapitre unique<a id=283></a>
+#### Chapitre unique<a id=281></a>
 
-##### Section 1 : Contrôles et prélèvements<a id=284></a>
+##### Section 1 : Contrôles et prélèvements<a id=282></a>
 
 ###### Article R241-1
 
@@ -33684,7 +33680,7 @@ _Cité par_:
   - Code du sport. - art. Annexe II-3 à l'article R241-12 (V)
 
 
-##### Section 2 : Procédure disciplinaire devant les fédérations sportives agréées<a id=285></a>
+##### Section 2 : Procédure disciplinaire devant les fédérations sportives agréées<a id=283></a>
 
 ###### Article R241-13
 
@@ -33748,7 +33744,7 @@ _Cite_:
   - Code du sport. - art. L241-3 (V)
 
 
-##### Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=286></a>
+##### Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=284></a>
 
 ###### Article R241-15
 
@@ -34037,13 +34033,13 @@ _Cite_:
   - Code du sport R241-4 à R241-7
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=287></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=285></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=288></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=286></a>
 
-#### Chapitre Ier : Sports de nature<a id=289></a>
+#### Chapitre Ier : Sports de nature<a id=287></a>
 
-##### Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature<a id=290></a>
+##### Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature<a id=288></a>
 
 ###### Article R311-1
 
@@ -34120,11 +34116,11 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-#### Chapitre II : Equipements sportifs<a id=291></a>
+#### Chapitre II : Equipements sportifs<a id=289></a>
 
-##### Section 1 : Dispositions communes<a id=292></a>
+##### Section 1 : Dispositions communes<a id=290></a>
 
-##### Sous-section 1 : Schéma de services collectifs du sport<a id=293></a>
+##### Sous-section 1 : Schéma de services collectifs du sport<a id=291></a>
 
 ###### Article D312-1
 
@@ -34151,7 +34147,7 @@ _Cité par_:
   - Code du sport. - art. R421-1 (V)
 
 
-##### Sous-section 2 : Déclaration des équipements sportifs<a id=294></a>
+##### Sous-section 2 : Déclaration des équipements sportifs<a id=292></a>
 
 ###### Article R312-2
 
@@ -34320,7 +34316,7 @@ _Cite_:
   - Code du sport. - art. R312-4 (V)
 
 
-##### Section 2 : Installations fixes<a id=295></a>
+##### Section 2 : Installations fixes<a id=293></a>
 
 ###### Article R312-8
 
@@ -34563,7 +34559,7 @@ _Cite_:
   - Code du sport. - art. L111-3 (V)
 
 
-##### Section 3 : Installations provisoires<a id=296></a>
+##### Section 3 : Installations provisoires<a id=294></a>
 
 ###### Article R312-16
 
@@ -34698,7 +34694,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 4 : La Commission nationale de sécurité des enceintes sportives<a id=297></a>
+##### Section 4 : La Commission nationale de sécurité des enceintes sportives<a id=295></a>
 
 ###### Article R312-22
 
@@ -34869,7 +34865,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 5 : Commission consultative départementale de sécurité et d'accessibilité<a id=298></a>
+##### Section 5 : Commission consultative départementale de sécurité et d'accessibilité<a id=296></a>
 
 ###### Article D312-26
 
@@ -34893,9 +34889,9 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=299></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=297></a>
 
-#### Chapitre Ier : Obligation d'assurance<a id=300></a>
+#### Chapitre Ier : Obligation d'assurance<a id=298></a>
 
 ###### Article D321-1
 
@@ -35060,11 +35056,11 @@ _Cite_:
   - Code du sport. - art. D321-4 (V)
 
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=301></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=299></a>
 
-##### Section 1 : Dispositions générales<a id=302></a>
+##### Section 1 : Dispositions générales<a id=300></a>
 
-##### Sous-section 2 : Obligations générales<a id=303></a>
+##### Sous-section 2 : Obligations générales<a id=301></a>
 
 ###### Article R322-4
 
@@ -35190,7 +35186,7 @@ _Cité par_:
   - Code du sport. - art. R322-9 (M)
 
 
-##### Sous-section 3 : Rôle du préfet du département<a id=304></a>
+##### Sous-section 3 : Rôle du préfet du département<a id=302></a>
 
 ###### Article R322-8
 
@@ -35282,7 +35278,7 @@ _Cite_:
   - Code du sport. - art. R322-9 (V)
 
 
-##### Section 2 : Etablissements de natation et d'activités aquatiques<a id=305></a>
+##### Section 2 : Etablissements de natation et d'activités aquatiques<a id=303></a>
 
 ###### Article D322-11
 
@@ -35483,7 +35479,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball<a id=306></a>
+##### Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball<a id=304></a>
 
 ###### Article R322-19
 
@@ -35790,7 +35786,7 @@ _Cite_:
   - Code du sport. - art. R322-25-1
 
 
-##### Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=307></a>
+##### Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=305></a>
 
 ###### Article R322-27
 
@@ -36224,7 +36220,7 @@ _Cite_:
   - Code du sport. - art. R322-37
 
 
-##### Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique<a id=308></a>
+##### Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique<a id=306></a>
 
 ###### Article R322-39
 
@@ -36329,11 +36325,11 @@ _Cite_:
   - Code du travail - art. R4461-21
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=309></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=307></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=310></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=308></a>
 
-##### Section 1 : Rôle des fédérations<a id=311></a>
+##### Section 1 : Rôle des fédérations<a id=309></a>
 
 ###### Article D331-1
 
@@ -36393,7 +36389,7 @@ _Cite_:
   - Code du sport. - art. L331-1 (V)
 
 
-##### Section 2 : Autorisation et déclaration préalable<a id=312></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=310></a>
 
 ###### Article R331-3
 
@@ -36461,7 +36457,31 @@ _Cite_:
   - Code de la sécurité intérieure - art. R211-22
 
 
-##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=313></a>
+###### Article R331-4-1
+
+Toute compétition, rencontre, démonstration ou manifestation publique autre que celles prévues aux articles R. 331-4, R.
+331-6, R. 331-20 et R. 331-46, dans une discipline sportive pour laquelle aucune fédération n'a reçu délégation et qui n'est
+pas organisée par une fédération sportive agréée, fait l'objet d'une déclaration à l'autorité administrative un mois au moins
+avant la date de la manifestation prévue.
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports fixe la composition et les modalités de dépôt
+des dossiers de déclaration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 2
+
+_Cite_:
+
+  - Code du sport. - art. R331-20 (V)
+  - Code du sport. - art. R331-4
+  - Code du sport. - art. R331-46
+  - Code du sport. - art. R331-6 (V)
+
+
+##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=311></a>
 
 ###### Article D331-5
 
@@ -36481,24 +36501,20 @@ _Cite_:
   - Code du sport. - art. L331-9 (V)
 
 
-##### Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=314></a>
+##### Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=312></a>
 
-##### Sous-section 1 : Dispositions générales<a id=315></a>
+##### Sous-section 1 : Dispositions générales<a id=313></a>
 
 ###### Article R331-6
 
-Les  manifestations sportives qui constituent des épreuves, courses ou  compétitions comportant un chronométrage et qui se
-déroulent en totalité  ou en partie sur une voie publique ou ouverte à la circulation publique  sont soumises à
-autorisation. 
+Sont soumises à déclaration les manifestations sportives qui se déroulent en totalité ou en partie sur une voie publique ou
+ouverte à la circulation publique ou sur ses dépendances et qui :
 
-Les manifestations sportives qui se déroulent dans le respect du code de la route et  qui n'imposent à leurs participants
-qu'un ou plusieurs points de  rassemblement ou de contrôle, à l'exclusion d'un horaire fixé à l'avance  et de tout classement
-en fonction notamment soit de la plus grande  vitesse réalisée, soit d'une moyenne imposée, sur une partie quelconque  du
-parcours, ne sont pas soumises à l'autorisation prévue à l'alinéa  précédent. 
+1° Soit constituent des épreuves, courses ou compétitions comportant un chronométrage, un classement, en fonction notamment
+soit de la plus grande vitesse réalisée soit d'une moyenne imposée, ou un horaire fixé à l'avance ;
 
-Sont toutefois soumises à déclaration  les manifestations sportives visées au précédent alinéa prévoyant la  circulation
-groupée, en un point déterminé de la voie publique ou de ses  dépendances, de plus de 75 piétons, de plus de 50 cycles ou
-autres  véhicules ou engins non motorisés et de plus de 25 chevaux ou autres  animaux.
+2° Soit constituent des manifestations sans classement, sans chronométrage et sans horaire fixé à l'avance comptant plus de
+cent participants.
 
 **Liens relatifs à cet article**
 
@@ -36522,22 +36538,23 @@ _Cité par_:
   - Code du sport. - art. ANNEXE III-21-1 (V)
   - Code du sport. - art. R331-13 (Ab)
   - Code du sport. - art. R331-17-2 (V)
+  - Code du sport. - art. R331-4-1 (V)
   - Code du sport. - art. R331-7 (V)
   - Code du sport. - art. R331-8 (V)
   - Code du sport. - art. R331-9 (VD)
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 3
 
 
 ###### Article R331-7
 
 Dans les disciplines pour lesquelles elles ont obtenu délégation, les fédérations délégataires édictent les règles techniques
-et de sécurité applicables aux manifestations mentionnées à l'article R. 331-6.
+et de sécurité applicables aux manifestations mentionnées à l'article R. 331-6. 
 
-Le règlement particulier des manifestations soumises à autorisation ou déclaration respecte ces règles techniques et de
-sécurité.
+Le règlement particulier de ces manifestations respecte ces règles techniques et de sécurité qui ne peuvent faire l'objet
+d'adaptation sur le fondement de l'article L. 131-7.
 
 **Liens relatifs à cet article**
 
@@ -36551,7 +36568,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 4
 
 _Cité par_:
 
@@ -36563,18 +36580,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R331-6
+  - Code du sport. - art. L131-7 (V)
+  - Code du sport. - art. R331-6 (V)
 
 
-##### Sous-section 2 : Obligation déclarative<a id=316></a>
+##### Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance<a id=314></a>
 
 ###### Article R331-8
 
-L'organisateur  d'une manifestation soumise à déclaration dépose un dossier de  déclaration, au plus tard un mois avant la
-date de l'événement auprès du  préfet territorialement compétent. 
+L'organisateur d'une manifestation mentionnée au 2° de l'article R. 331-6 dépose une déclaration, au plus tard un mois avant
+la date de l'événement, auprès du préfet territorialement compétent. 
 
-Un arrêté  conjoint du ministre de l'intérieur et du ministre chargé des sports  fixe la composition et les modalités de
-dépôt des dossiers de  déclaration.
+Pour les manifestations se déroulant à l'intérieur du territoire d'une seule commune, la déclaration est faite auprès du
+maire ou, à Paris, du préfet de police. 
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports fixe la composition et les modalités de dépôt
+des dossiers de déclaration.
 
 **Liens relatifs à cet article**
 
@@ -36588,18 +36609,42 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 5
 
 _Cité par_:
 
   - Code du sport. - art. A331-2 (VD)
 
+_Cite_:
 
-##### Sous-section 3 : Délivrance de l'autorisation<a id=317></a>
+  - Code du sport. - art. R331-6 (V)
+
+
+##### Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance<a id=315></a>
 
 ###### Article R331-9
 
-L'autorisation prévue à l'article R. 331-6 peut être délivrée à toute personne physique ou morale.
+L'organisateur d'une manifestation sportive avec classement, chronométrage ou horaire fixé à l'avance doit recueillir l'avis
+de la fédération délégataire concernée préalablement au dépôt de son dossier de déclaration auprès de l'autorité
+administrative compétente.
+
+La fédération rend son avis, qui doit être motivé au regard des règles techniques et de sécurité mentionnées à l'article R.
+331-7, dans un délai d'un mois à compter de la date de réception de la demande d'avis.
+
+Cet avis est communiqué par tout moyen, y compris par voie électronique, à l'organisateur et, en cas d'avis défavorable, à
+l'autorité administrative compétente.
+
+Faute d'avoir été émis dans le délai d'un mois, l'avis est réputé favorable.
+
+Il est dérogé à l'obligation de recueillir cet avis :
+
+1° Lorsque la manifestation est organisée par des membres de la fédération délégataire chargée de rendre l'avis et que cette
+manifestation est inscrite au calendrier de la fédération mentionné au 1° de l'article R. 131-26 ;
+
+2° Lorsque la manifestation est organisée par une fédération agréée ou un de ses membres et qu'il existe, dans la discipline
+faisant l'objet de la manifestation, une convention annuelle conclue entre cette fédération et la fédération délégataire
+concernée et portant sur la mise en œuvre par la fédération agréée des règles techniques et de sécurité édictées par la
+fédération délégataire.
 
 **Liens relatifs à cet article**
 
@@ -36613,7 +36658,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 6
 
 _Cité par_:
 
@@ -36623,53 +36668,33 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R331-6
-
-
-###### Article R331-9-1
-
-Toute personne souhaitant organiser une manifestation soumise à autorisation doit recueillir l'avis de la fédération
-délégataire concernée. Celle-ci rend un avis motivé au regard des règles techniques et de sécurité mentionnées à l'article R.
-331-7. 
-
-Cet avis est communiqué par tout moyen à l'organisateur et au préfet de chacun des départements traversés par la
-manifestation. 
-
-Il est réputé rendu dans un délai d'un mois à compter de la réception de la demande par la fédération. 
-
-Un arrêté du ministre chargé des sports détermine les modalités de publication de cet avis.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2017-1279 du 9 août 2017 - art. 6
-
-_Cité par_:
-
-  - Code du sport. - art. A331-5 (V)
-
-_Cite_:
-
-  - Code du sport. - art. R331-7
+  - Code du sport. - art. R131-26 (V)
+  - Code du sport. - art. R331-7 (V)
 
 
 ###### Article R331-10
 
-L'organisateur  d'une manifestation soumise à autorisation adresse une demande  d'autorisation au préfet de chacun des
-départements traversés par la  manifestation. 
+L'organisateur d'une manifestation avec classement, chronométrage ou horaire fixé à l'avance dépose une déclaration,
+accompagnée, le cas échéant, de l'avis motivé mentionné à l'article R. 331-9, auprès :
 
-Si la manifestation concerne vingt départements ou plus, le dossier est également adressé au ministre de l'intérieur. 
+1° Du maire ou, à Paris, du préfet de police, si la manifestation se déroule sur le territoire d'une seule commune ;
 
-La demande doit parvenir trois mois au moins avant la date prévue pour  le déroulement de la manifestation. Ce délai est
-réduit à deux mois  lorsque la manifestation doit se dérouler dans le cadre d'un seul  département. 
+2° Du préfet de département, si la manifestation se déroule sur le territoire de plusieurs communes situées dans un même
+département ;
 
-Un arrêté conjoint du ministre de  l'intérieur et du ministre chargé des sports fixe la composition et les  modalités de
-dépôt des dossiers de demande d'autorisation.
+3° Du préfet de chacun des départements parcourus par la manifestation, si celle-ci se déroule sur le territoire de plusieurs
+départements et, également, du ministre de l'intérieur si le nombre de ces départements est de vingt ou plus ;
+
+4° Du préfet du département d'entrée en France, si la manifestation est en provenance de l'étranger. Les dispositions des 2°
+et 3° sont applicables à une telle manifestation si elle se déroule également sur le territoire d'un ou de plusieurs
+départements autres que le département d'entrée en France.
+
+La déclaration doit parvenir à l'autorité administrative compétente deux mois au moins avant la date prévue pour le
+déroulement de la manifestation. Ce délai est porté à trois mois lorsque la manifestation se déroule sur le territoire de
+plusieurs départements.
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports fixe la composition et les modalités de dépôt
+du dossier de déclaration.
 
 **Liens relatifs à cet article**
 
@@ -36677,30 +36702,29 @@ _Anciens textes_:
 
   - Décret n°55-1366 du 18 octobre 1955 - art. 5 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
-
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
   - Code du sport. - art. A331-25 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 6
+
+_Cite_:
+
+  - Code du sport. - art. R331-9 (V)
+
 
 ###### Article R331-11
 
-Dès réception d'une demande d'autorisation, le préfet saisit pour avis les autorités locales investies du pouvoir de police. 
+Dès réception du dossier de déclaration, l'autorité administrative compétente saisit pour avis les autorités locales
+investies du pouvoir de police de la circulation. Si le préfet est l'autorité administrative compétente, il peut également
+saisir pour avis la commission départementale de la sécurité routière.
 
-Sauf dans le cas prévu au troisième alinéa, l'autorisation est délivrée  par le préfet, qui peut consulter pour avis la
-commission  départementale de sécurité routière et prescrire dans l'acte  d'autorisation des mesures complémentaires de
-celles prévues par  l'organisateur, dans l'intérêt de la circulation ou de la sécurité  publique. 
-
-Si la manifestation se déroule sur  vingt départements ou plus, l'autorisation est délivrée par le ministre  de l'intérieur,
-sur l'avis du préfet de chaque département traversé,  après que celui-ci a consulté la commission départementale de sécurité
-routière. Les commissions départementales peuvent recommander et le  ministre prescrire des mesures complémentaires, dans les
-conditions  prévues au deuxième alinéa. 
-
-La décision d'autorisation est publiée ou affichée et notifiée à l'auteur de la demande.
+Il peut être prescrit par cette autorité administrative des mesures complémentaires de celles prévues par l'organisateur
+lorsque ces dernières lui semblent insuffisantes pour garantir la sécurité des usagers de la route, des participants et des
+spectateurs, pour assurer des conditions de circulation satisfaisantes et pour préserver la sécurité publique.
 
 **Liens relatifs à cet article**
 
@@ -36714,7 +36738,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 6
 
 _Cité par_:
 
@@ -36723,78 +36747,9 @@ _Cité par_:
   - Code du sport. - art. R331-17-2 (V)
 
 
-###### Article R331-12
+##### Sous-section 4 : Dispositions communes aux manifestations soumises à déclaration ou à autorisation<a id=316></a>
 
-L'autorisation prévue au deuxième alinéa de l'article R. 331-11 est délivrée par arrêté du préfet du département du lieu de
-départ. 
-
-Pour les manifestations sportives en provenance de l'étranger, l'autorisation est délivrée par le préfet du département
-d'entrée en France. 
-
-Lorsque le parcours couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des départements
-traversés. 
-
-Dans le cas où la manifestation comporte plusieurs points de départ situés dans des départements différents, l'autorisation
-est délivrée par le préfet du département du siège de l'organisateur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1366 du 18 octobre 1955 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2017-1279 du 9 août 2017 - art. 6
-
-_Cite_:
-
-  - Code du sport. - art. R331-11
-
-
-###### Article R331-13
-
-L'autorisation  peut être suspendue ou rapportée à tout moment s'il apparaît que les  conditions de sécurité ne se trouvent
-plus réunies ou que  l'organisateur, malgré la mise en demeure qui lui en est faite par  l'autorité administrative, ne
-respecte plus ou ne fait plus respecter  par les participants et les spectateurs des dispositions prévues par le  règlement
-particulier de la manifestation en vue de leur protection.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1366 du 18 octobre 1955 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2017-1279 du 9 août 2017 - art. 6
-
-_Cité par_:
-
-  - Code du sport. - art. A331-13 (VT)
-
-_Cite_:
-
-  - Code du sport. - art. R331-6
-
-
-##### Sous-section 4 : Dispositions communes aux manifestations soumises à déclaration ou à autorisation<a id=318></a>
+##### Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives<a id=317></a>
 
 ###### Article R331-14
 
@@ -36902,24 +36857,25 @@ _Créé par_:
   - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 
-##### Sous-section 5 : Dispositions pénales<a id=319></a>
+##### Sous-section 5 : Dispositions pénales<a id=318></a>
 
 ###### Article R331-17-2
 
-Le fait d'organiser sans la déclaration ou l'autorisation préalables prévues à l'article R. 331-6 une manifestation sportive
-est puni des peines prévues pour les contraventions de la cinquième classe. 
+Le fait d'organiser sans la déclaration prévue à l'article R. 331-6 une manifestation sportive est puni des peines prévues
+pour les contraventions de la cinquième classe. 
 
-Est puni des peines prévues pour les contraventions de la cinquième classe le fait, par l'organisateur, de ne pas respecter
-ou de ne pas faire respecter les prescriptions figurant dans l'autorisation administrative qui lui a été délivrée. 
+Est puni des peines prévues pour les contraventions de la cinquième classe le fait, par l'organisateur, de fournir de faux
+renseignements lors de la déclaration ou, le cas échéant, de ne pas respecter les mesures complémentaires prescrites en
+application de l'article R. 331-11. 
 
 Est puni de l'amende prévue pour les contraventions de la troisième classe le fait de participer sciemment à une
-manifestation sportive non autorisée alors qu'elle était soumise à autorisation en application de l'article R. 331-6.
+manifestation sportive non déclarée alors qu'elle était soumise à déclaration en application de l'article R. 331-6.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 8
 
 _Cité par_:
 
@@ -36927,45 +36883,71 @@ _Cité par_:
 
 _Cite_:
 
+  - Code du sport. - art. R331-11
   - Code du sport. - art. R331-6
 
 
-##### Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur<a id=320></a>
+##### Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur<a id=319></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=321></a>
+##### Sous-section 1 : Dispositions générales.<a id=320></a>
 
 ###### Article R331-18
 
-Les concentrations de véhicules terrestres à moteur se déroulant sur les voies ouvertes à la circulation publique sont
-soumises à déclaration lorsqu'elles comptent moins de 200 véhicules automobiles ou moins de 400 véhicules à moteur de deux à
-quatre roues, y compris les véhicules d'accompagnement. Au-delà, elles sont soumises à autorisation.
+Pour l'application de la présente section, on entend par :
 
-Pour l'application de la présente section, on entend par " concentration " un rassemblement comportant la participation de
-véhicules terrestres à moteur, qui se déroule sur la voie publique dans le respect du code de la route, qui impose aux
-participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement.
+1° “ Concentration ” : un rassemblement comportant la participation de véhicules terrestres à moteur, qui se déroule sur la
+voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou
+plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement, temps imposé ou chronométrage ;
 
-Les manifestations comportant la participation de véhicules terrestres à moteur qui se déroulent sur des circuits, terrains
-ou parcours, tels que définis à l'article R. 331-21 sont soumises à autorisation.
+2° “ Manifestation ” : le regroupement d'un ou de plusieurs véhicules terrestres à moteur et d'un ou de plusieurs pilotes ou
+pratiquants visant à présenter, de façon organisée pour les spectateurs, un sport mécanique sous ses différentes formes. Sans
+préjudice des dispositions de l'article L. 411-7 du code de la route, toute compétition ou démonstration est assimilée à une
+manifestation. A l'exclusion des essais et entraînements à la compétition, tout événement motorisé qui comporte au moins un
+classement, un temps imposé ou un chronométrage, même sur une distance réduite, est également regardé comme une
+manifestation ;
 
-Pour l'application de la présente section, on entend par " manifestation " le regroupement de véhicules terrestres à moteur
-et d'un ou de plusieurs pilotes ou pratiquants visant à présenter, de façon organisée pour les spectateurs, un sport
-mécanique sous ses différentes formes.
+3° “ Compétition ” : toute épreuve organisée dans le cadre d'une manifestation, dont l'objectif est l'obtention des meilleurs
+résultats possibles ;
 
-Toute concentration qui comporte au moins un chronométrage, même sur une distance réduite, est regardée comme une
-manifestation.
+4° “ Démonstration ” : toute manifestation ayant pour objet la présentation, en mouvement, des capacités de vitesse ou de
+maniabilité de véhicules terrestres à moteur, sans qu'elle constitue un entraînement ou une compétition ;
 
-Les circuits sont soumis à homologation dans les conditions définies à la sous-section 5 de la présente section.
+5° “ Essai ou entraînement à la compétition ” : une préparation ou un test, préalable ou non à une compétition, destiné à
+évaluer ou à améliorer les performances du conducteur ou du véhicule ;
+
+6° “ Spectateur ” : toute personne qui assiste, à titre onéreux ou non, à une manifestation sans participer directement à
+celle-ci, notamment à son organisation ;
+
+7° “ Circuit ” : un itinéraire fermé qui peut être parcouru plusieurs fois sans être quitté. Il ne peut emprunter que des
+voies fermées, de manière permanente ou temporaire, à la circulation publique. Son tracé est délimité par tout moyen. Son
+revêtement peut être de différentes natures. Un même circuit peut comporter plusieurs natures de revêtement ;
+
+8° “ Terrain ” : un espace d'évolution non ouvert à la circulation publique sur lequel il n'existe pas de parcours défini et
+où sont pratiquées des disciplines pour lesquelles le chronométrage ne constitue qu'un élément accessoire du classement,
+telles que trial ou franchissement ;
+
+9° “ Parcours ” : un itinéraire non fermé, allant d'un point de départ à un point d'arrivée distinct ou non, empruntant des
+voies non ouvertes ou temporairement fermées à la circulation publique et sur lequel le départ est donné individuellement aux
+concurrents. Le départ peut également être donné à plusieurs concurrents, dans la limite maximale de deux automobiles et cinq
+motocyclettes ;
+
+10° “ Parcours de liaison ” : un itinéraire non fermé, allant d'un point de départ à un point d'arrivée distinct, reliant,
+dans le cadre d'une manifestation, des circuits, terrains ou parcours, et empruntant des voies ouvertes à la circulation
+publique sur lesquelles les participants respectent le code ;
+
+11° “ Essai industriel ” : tout essai effectué par ou pour le compte de professionnels de la conception ou de la construction
+de véhicules motorisés ou de leurs équipements, visant à l'amélioration d'un produit destiné à la vente ou à la
+commercialisation et qui ne correspond pas aux essais ou entraînements à la compétition définis au 5°.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 1er du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 1 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -36985,15 +36967,20 @@ _Cité par_:
   - Code du sport. - art. R331-20 (V)
   - Code du sport. - art. R331-45 (M)
 
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 9
+
 _Cite_:
 
-  - Code du sport. - art. R331-21 (V)
+  - Code de la route. - art. L411-7
 
 
 ###### Article R331-19
 
 Dans les disciplines pour lesquelles elles ont obtenu délégation, les fédérations sportives mentionnées à l'article L. 131-16
-édictent les règles techniques et de sécurité applicables aux événements mentionnés à l'article R. 331-18.
+édictent les règles techniques et de sécurité applicables aux événements et aux sites de pratique mentionnés à l'article R.
+331-18.
 
 Dans les autres disciplines, les règles techniques et de sécurité applicables aux mêmes événements sont édictées par arrêté
 conjoint du ministre de l'intérieur et du ministre chargé des sports.
@@ -37002,12 +36989,15 @@ conjoint du ministre de l'intérieur et du ministre chargé des sports.
 
 _Anciens textes_:
 
-  - Art. 2 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 2 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 10
 
 _Cité par_:
 
@@ -37023,53 +37013,64 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. L131-16 (V)
-  - Code du sport. - art. R331-18 (V)
+  - Code du sport. - art. L131-16
+  - Code du sport. - art. R331-18
 
 
 ###### Article R331-20
 
-Sur les circuits, terrains ou parcours, des zones réservées aux personnes qui assistent à une manifestation sans participer à
-son organisation doivent être délimitées par l'organisateur et être conformes aux règles techniques et de sécurité.
+Les concentrations de véhicules terrestres à moteur se déroulant sur les voies ouvertes à la circulation publique sont
+soumises à déclaration.
+
+Ne sont toutefois pas soumises à déclaration les concentrations de moins de cinquante véhicules.
+
+Les manifestations comportant la participation de véhicules terrestres à moteur qui se déroulent sur des circuits permanents
+homologués sont soumises à déclaration.
+
+Les manifestations comportant la participation de véhicules terrestres à moteur qui se déroulent sur des circuits non
+permanents, terrains ou parcours tels que définis à l'article R. 331-18 sont soumises à autorisation.
+
+Sont également soumises à autorisation les manifestations qui se déroulent sur un circuit homologué mais dans une discipline
+différente de celle prévue par l'homologation, sur un terrain ou un parcours tracé sur une partie d'un circuit permanent,
+pour les besoins de la manifestation.
+
+Les circuits sont soumis à homologation dans les conditions définies à la sous-section 5 de la présente section.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 3 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 3 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (VT)
   - Code de l'environnement - art. R362-1 (V)
   - Code de la route. - art. R411-29 (V)
+  - Code du sport. - art. R331-4-1 (V)
   - Code du sport. - art. R331-45 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 11
+
+_Cite_:
+
+  - Code du sport. - art. R331-18
 
 
 ###### Article R331-21
 
-Pour l'application de la présente section  :
+Sur les circuits, terrains ou parcours, des zones réservées aux spectateurs doivent être délimitées par l'organisateur
+technique et être conformes aux règles techniques et de sécurité. 
 
-1° Un " circuit " est un itinéraire fermé qui peut être parcouru plusieurs fois sans être quitté. Il ne peut emprunter que
-des voies fermées, de manière permanente ou temporaire, à la circulation publique. Son tracé est délimité par des bordures,
-talus ou bandes de rives ou par tout autre moyen. Son revêtement peut être de différentes natures, telles qu'asphalte, béton,
-terre naturelle ou traitée, herbe, piste cendrée, glace. Un même circuit peut comporter plusieurs natures de revêtement ;
-
-2° Un " terrain " est un espace d'évolution non ouvert à la circulation publique sur lequel il n'existe pas de parcours
-défini et où sont pratiquées des disciplines pour lesquelles le chronométrage ne constitue qu'un élément accessoire du
-classement, telles que trial ou franchissement ;
-
-3° Un " parcours " est un itinéraire non fermé, allant d'un point de départ à un point d'arrivée distinct, empruntant des
-voies non ouvertes ou temporairement fermées à la circulation publique et sur lequel le départ est donné individuellement aux
-concurrents ;
-
-4° Un " parcours de liaison " est un itinéraire non fermé, allant d'un point de départ à un point d'arrivée distinct,
-empruntant des voies ouvertes à la circulation publique sur lesquelles les participants respectent le code de la route.
+L'organisateur technique de la manifestation met en œuvre les moyens humains et matériels nécessaires afin d'informer les
+spectateurs des zones qui leur sont réservées et de ce que l'accès à toute autre zone leur est strictement interdit,
+conformément aux plans détaillés prévus à l'article R. 331-26 et aux règles techniques et de sécurité.
 
 **Liens relatifs à cet article**
 
@@ -37080,7 +37081,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -37093,92 +37094,149 @@ _Cité par_:
   - Code du sport. - art. R331-37 (V)
   - Code du sport. - art. R331-45 (V)
 
+_Modifié par_:
 
-##### Sous-section 2 : Obligation déclarative.<a id=322></a>
+  - Décret n°2017-1279 du 9 août 2017 - art. 12
+
+
+##### Sous-section 2 : Obligation déclarative.<a id=321></a>
 
 ###### Article R331-22
 
 L'organisateur d'une concentration soumise à déclaration doit déposer un dossier de déclaration au plus tard deux mois avant
 la date de l'événement auprès du préfet territorialement compétent.
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports détermine la composition du dossier et les
-modalités de son dépôt.
+L'organisateur d'une manifestation sportive sur un circuit permanent homologué est soumis à la même obligation. Sa
+déclaration est accompagnée, le cas échéant, de l'avis motivé mentionné à l'article R. 331-22-1.
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports détermine la composition et les modalités de
+dépôt du dossier de déclaration.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°2006-554 du 16 mai 2006 - art. 5 (Ab)
-  - Art. 5 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 13
+
+_Cite_:
+
+  - Code du sport. - art. R331-22-1
 
 _Cité par_:
 
   - Code du sport. - art. R331-23 (V)
 
 
-##### Sous-section 3 : Délivrance de l'autorisation.<a id=323></a>
+###### Article R331-22-1
+
+L'organisateur d'une manifestation sportive sur un circuit permanent homologué doit recueillir l'avis de la fédération
+délégataire concernée, préalablement au dépôt de son dossier de déclaration auprès de l'autorité administrative.
+
+La fédération rend son avis, qui doit être motivé au regard des règles techniques et de sécurité de la discipline, dans un
+délai d'un mois à compter de la réception de la demande d'avis.
+
+Cet avis est communiqué par tout moyen à l'organisateur et, en cas d'avis défavorable, à l'autorité administrative.
+
+Faute d'avoir été émis dans le délai d'un mois, l'avis est réputé favorable.
+
+Il est dérogé à l'obligation de recueillir cet avis :
+
+1° Lorsque la manifestation est organisée par des membres de la fédération délégataire chargée de rendre l'avis et que cette
+manifestation est inscrite au calendrier de la fédération mentionné au 1° de l'article R. 131-26 ;
+
+2° Lorsque la manifestation est organisée par une fédération agréée ou un de ses membres et qu'il existe, dans la discipline
+faisant l'objet de la manifestation, une convention annuelle conclue entre cette fédération et la fédération délégataire
+concernée et portant sur la mise en œuvre par la fédération agréée des règles techniques et de sécurité édictées par la
+fédération délégataire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 14
+
+_Cité par_:
+
+  - Code du sport. - art. A331-17 (V)
+  - Code du sport. - art. A331-18 (V)
+  - Code du sport. - art. R331-22 (V)
+
+_Cite_:
+
+  - Code du sport. - art. R131-26
+
+
+##### Sous-section 3 : Délivrance de l'autorisation.<a id=322></a>
+
+##### Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation<a id=323></a>
 
 ###### Article R331-23
 
-Seules peuvent être autorisées les concentrations et manifestations organisées par :
+La déclaration d'une concentration doit être effectuée auprès du préfet du département du lieu de la concentration.
 
-1° Une fédération sportive ou ses organes nationaux, régionaux ou départementaux et les groupements sportifs qui lui sont
-affiliés ;
-
-2° Des personnes physiques ou morales autres que celles mentionnées au l°, après avis du directeur départemental de la
-jeunesse, des sports et de la vie associative, qui vérifie notamment le respect par le règlement particulier de la
-concentration ou de la manifestation des règles techniques et de sécurité mentionnées à l'article R. 331-19.
+Si la concentration se déroule sur le territoire de plusieurs départements, la déclaration est adressée simultanément au
+préfet de chacun des départements parcourus et, également, au ministre de l'intérieur si le nombre de ces départements est de
+vingt ou plus. Dans ce dernier cas, le délai prévu au premier alinéa de l'article R. 331-22 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 6 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 6 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 15
 
 _Cite_:
 
-  - Code du sport. - art. R331-19 (V)
+  - Code du sport. - art. R331-22
 
 
 ###### Article R331-24
 
-L'organisateur d'une concentration soumise à autorisation ou d'une manifestation doit présenter au préfet du département du
-lieu de la manifestation une demande d'autorisation.
+L'organisateur d'une manifestation soumise à autorisation doit présenter au préfet du département du lieu de la manifestation
+une demande d'autorisation.
 
-Si la concentration ou la manifestation se déroule sur moins de vingt départements, la demande d'autorisation est adressée
-simultanément au préfet de chacun des départements traversés. Si elle se déroule sur vingt départements ou plus, elle est
-adressée en même temps au ministre de l'intérieur.
+Si la manifestation se déroule sur le territoire de plusieurs départements, la demande d'autorisation est adressée
+simultanément au préfet de chacun des départements parcourus et, également, au ministre de l'intérieur si le nombre de ces
+départements est de vingt ou plus.
 
-La demande doit parvenir au plus tard trois mois au moins avant la date prévue pour le déroulement de la concentration ou de
-la manifestation. Si la manifestation a lieu sur un circuit homologué, ce délai est réduit à deux mois.
+La demande doit parvenir au plus tard trois mois au moins avant la date prévue pour le déroulement de la manifestation.
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports détermine la composition du dossier de la
-demande et les modalités de son dépôt.
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports détermine la composition et les modalités de
+dépôt du dossier de demande d'autorisation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
   - Code du sport. - art. R331-25 (VT)
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 15
 
 
 ###### Article R331-24-1
@@ -37212,18 +37270,21 @@ Dès réception d'une demande d'autorisation, le préfet saisit pour avis les au
 Sauf dans le cas prévu au quatrième alinéa, l'autorisation est délivrée par le préfet après avis de la commission
 départementale de sécurité routière. Celle-ci peut recommander des prescriptions s'ajoutant à celles prévues par les
 organisateurs. Le préfet peut en outre prescrire des mesures complémentaires dans l'intérêt de la circulation, de la sécurité
-ou de la tranquillité publiques, et de l'environnement. 
+ou de la tranquillité publiques, et de l'environnement. Pour les manifestations se déroulant sur des terrains ou des
+parcours, le préfet annexe à son arrêté d'autorisation les plans détaillés des zones réservées aux spectateurs prévues à
+l'article R. 331-21. Toute zone non réservée est interdite aux spectateurs. 
 
 Si la manifestation se déroule sur des terrains ou des parcours fermés de manière permanente à la circulation publique et non
 soumis à la procédure prévue à l'article L. 421-2 du code de l'urbanisme, le préfet peut en outre consulter les services de
 l'Etat compétents en matière d'environnement ainsi que toute personne ou organisme consultatif dont le concours lui paraît
-utile.L'autorisation délivrée pour ces manifestations vaut autorisation au titre du deuxième alinéa de l'article L. 362-3 du
+utile. L'autorisation délivrée pour ces manifestations vaut autorisation au titre du deuxième alinéa de l'article L. 362-3 du
 code de l'environnement. 
 
 Si la manifestation se déroule sur vingt départements ou plus, l'autorisation est délivrée par le ministre de l'intérieur sur
 l'avis du préfet de chaque département traversé après que celui-ci a consulté la commission départementale de sécurité
 routière. Les commissions départementales peuvent recommander et le ministre prescrire des mesures complémentaires dans les
-conditions prévues au deuxième alinéa. 
+conditions prévues au deuxième alinéa. Le ministre annexe à son arrêté d'autorisation les plans détaillés prévus au deuxième
+alinéa. 
 
 La décision d'autorisation est publiée et notifiée à l'auteur de la demande.
 
@@ -37238,10 +37299,6 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
-
-  - Décret n°2011-269 du 15 mars 2011 - art. 1
-
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (VT)
@@ -37253,6 +37310,10 @@ _Cité par_:
   - Code du sport. - art. R331-37 (V)
   - Code du sport. - art. R331-45 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 16
+
 _Cite_:
 
   - Code de l'urbanisme - art. L421-2
@@ -37262,22 +37323,22 @@ _Cite_:
 ###### Article R331-26-1
 
 L'autorisation prévue au deuxième alinéa de l'article R. 331-26 est délivrée par arrêté du préfet du département du lieu de
-départ. 
+départ.
 
-Pour les concentrations ou manifestations sportives en provenance de l'étranger, l'autorisation est délivrée par le préfet du
-département d'entrée en France. 
+Pour les manifestations sportives en provenance de l'étranger, l'autorisation est délivrée par le préfet du département
+d'entrée en France.
 
 Lorsque le parcours couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des départements
-traversés. 
+traversés.
 
 Dans le cas où la manifestation comporte plusieurs points de départ situés dans des départements différents, l'autorisation
 est délivrée par le préfet du département du siège de l'organisateur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-312 du 5 mars 2012 - art. 4
+  - Décret n°2017-1279 du 9 août 2017 - art. 17
 
 _Cite_:
 
@@ -37286,20 +37347,23 @@ _Cite_:
 
 ###### Article R331-27
 
-Toute concentration ou manifestation autorisée ne peut débuter qu'après la production par l'organisateur technique à
-l'autorité qui a délivré l'autorisation ou à son représentant d'une attestation écrite précisant que toutes les prescriptions
-mentionnées dans l'autorisation ont été respectées.
+Toute manifestation autorisée ne peut débuter qu'après la production par l'organisateur technique à l'autorité qui a délivré
+l'autorisation ou à son représentant d'une attestation écrite précisant que toutes les prescriptions mentionnées dans
+l'autorisation ont été respectées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 9 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 9 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 17
 
 
 ###### Article R331-28
@@ -37434,48 +37498,28 @@ _Codifié par_:
 
 ###### Article R331-35
 
-Tout circuit sur lequel se déroulent des compétitions, essais ou entraînements à la compétition et démonstrations doit faire
-l'objet d'une homologation préalable.
-
-Pour l'application de la présente sous-section, on entend par :
-
-1° " Compétition " toute épreuve organisée dans le cadre d'une manifestation, dont l'objectif est l'obtention des meilleurs
-résultats possibles ;
-
-2° " Essai ou entraînement à la compétition " une préparation ou un test, préalable ou non à une compétition, destiné à
-évaluer ou à améliorer les performances du conducteur ou du véhicule ;
-
-3° " Démonstration " toute manifestation ayant pour objet la présentation, en mouvement, des capacités de vitesse ou de
-maniabilité de véhicules terrestres à moteur, sans qu'elle constitue un entraînement ou une compétition.
+Tout circuit sur lequel se déroulent des activités comportant la participation de véhicules terrestres à moteur doit faire
+l'objet d'une homologation préalable. 
 
 Les conditions de sécurité correspondant à ces types d'activité sont définies par les règles techniques et de sécurité
-prévues à l'article R. 331-19.
+prévues à l'article R. 331-19. 
 
 Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports détermine la composition du dossier de demande
-d'homologation et les modalités de son dépôt.
+d'homologation et les modalités de son dépôt. 
 
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+Sans préjudice des dispositions des articles L. 213-1 et suivants du code de la route, les dispositions du présent article ne
+s'appliquent pas aux circuits qui sont réservés de manière exclusive à des essais industriels, à la préparation du permis de
+conduire ou à l'enseignement de la sécurité routière.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°2006-554 du 16 mai 2006 - art. 14 (Ab)
-  - Art. 14 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -37486,9 +37530,14 @@ _Cité par_:
   - Décret n°2015-628 du 5 juin 2015 - art. (V)
   - Code du sport. - art. R331-45-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 18
+
 _Cite_:
 
-  - Code du sport. - art. R331-19 (V)
+  - Code du sport. - art. R331-19
+  - Code de la route. - art. L213-1
 
 
 ###### Article R331-36
@@ -37525,38 +37574,32 @@ _Codifié par_:
 L'homologation est accordée pour une durée de quatre ans :
 
 1° Par le ministre de l'intérieur, après visite sur place et avis de la Commission nationale d'examen des circuits de
-vitesse, lorsque la vitesse des véhicules peut dépasser 200 km/h en un point quelconque du circuit ;
+vitesse, lorsque la vitesse des véhicules peut dépasser 200 km/ h en un point quelconque du circuit ;
 
 2° Par le préfet du département, après visite et avis de la commission départementale de sécurité routière, dans les autres
 cas.
 
-Une nouvelle homologation est nécessaire lorsque le tracé du circuit fait l'objet d'une modification.
+Le ministre et le préfet annexent à leur arrêté d'homologation le plan-masse du circuit, qui comprend notamment les plans
+détaillés des zones réservées aux spectateurs prévues à l'article R. 331-21. Toute zone non réservée est strictement
+interdite aux spectateurs.
 
-L'autorisation du préfet prévue à l'article R. 331-26 vaut homologation du circuit non permanent sur lequel se déroule une
-manifestation, pour la seule durée de celle-ci.
+Une modification de l'homologation est nécessaire lorsque les caractéristiques du circuit font l'objet d'une évolution,
+notamment celles figurant sur le plan-masse. La modification de l'homologation est accordée après avis, précédé le cas
+échéant d'une visite sur place, de la commission compétente, dans les conditions prévues aux 1° et 2° du présent article.
 
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+L'autorisation du préfet prévue à l'article R. 331-26 vaut homologation d'un circuit non permanent sur lequel se déroule une
+manifestation, pour la seule durée de celle-ci. Cette autorisation ne permet pas d'homologuer temporairement un circuit
+permanent.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 16 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 16 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -37566,9 +37609,14 @@ _Cité par_:
   - Code de la route. - art. R411-12 (V)
   - Code du sport. - art. Annexe III-23 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 19
+
 _Cite_:
 
-  - Code du sport. - art. R331-26 (V)
+  - Code du sport. - art. R331-21
+  - Code du sport. - art. R331-26
 
 
 ###### Article R331-38
@@ -37577,35 +37625,24 @@ La Commission nationale d'examen des circuits de vitesse comprend huit membres :
 
 1° Trois membres désignés par le ministre de l'intérieur ;
 
-2° Deux membres désignés par les ministres chargés de l'équipement et des transports ;
+2° Un membre désigné par le ministre chargé de l'écologie ;
 
-3° Un membre désigné par le ministre chargé des sports ;
+3° Un membre désigné par le ministre chargé des transports ;
 
-4° Un membre proposé par la Fédération française du sport automobile ;
+4° Un membre désigné par le ministre chargé des sports ;
 
-5° Un membre proposé par la Fédération française de motocyclisme.
+5° Un membre proposé par la Fédération française du sport automobile ;
+
+6° Un membre proposé par la Fédération française de motocyclisme.
 
 Les membres de la commission et son président, choisi parmi eux, sont nommés par le ministre de l'intérieur pour un mandat de
 trois ans renouvelable.
 
 Chaque titulaire a un suppléant nommé dans les mêmes conditions, qui le remplace en cas d'empêchement.
 
-Le rapporteur de la commission est choisi par le président parmi les membres désignés par les ministres chargés de
-l'équipement et des transports.
+Le rapporteur technique de la commission est désigné parmi ses membres par le président.
 
 Le secrétariat de la commission est assuré par le ministère de l'intérieur.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -37615,7 +37652,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-773 du 8 juillet 2010 - art. 3
+  - Décret n°2017-1279 du 9 août 2017 - art. 20
 
 
 ###### Article R331-39
@@ -37628,35 +37665,26 @@ La commission a notamment pour missions :
 2° De déterminer les aménagements à réaliser par les organisateurs pour assurer notamment la protection des spectateurs
 assistant à une manifestation, compte tenu de la nature de celle-ci ainsi que du nombre et du type des véhicules engagés ;
 
-3° De proposer, le cas échéant, la modification des dispositions qu'elle estime incompatibles avec les nécessités de la
-sécurité et de la tranquillité publiques.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+3° De proposer, le cas échéant, les dispositions qu'elle estime justifiées par les nécessités de la sécurité et de la
+tranquillité publiques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 18 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 18 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 21
 
 _Cite_:
 
-  - Code du sport. - art. R331-19 (V)
+  - Code du sport. - art. R331-19
 
 
 ###### Article R331-40
@@ -37664,31 +37692,26 @@ _Cite_:
 La commission entend les représentants des autorités et services locaux intéressés ainsi que le propriétaire et le
 gestionnaire du circuit.
 
-Elle peut demander une expertise aux services compétents des ministères chargés de l'équipement et des transports et procéder
-à l'audition de toute personne dont le concours lui paraît utile.
+Elle peut demander une expertise aux services compétents de l'Etat, ainsi qu'à toute personne ou organisme dont le concours
+lui paraît utile ou procéder à leur audition.
 
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+Elle peut faire diligenter par un ou plusieurs de ses membres une expertise ponctuelle sur un circuit. En cas de modification
+d'une homologation, dans les conditions prévues à l'avant-dernier alinéa de l'article R. 331-37, ce déplacement vaut visite
+sur place de la commission.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 19 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 19 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 22
 
 
 ###### Article R331-41
@@ -37800,36 +37823,27 @@ _Cite_:
 L'autorité qui a délivré l'homologation peut, à tout moment, vérifier ou faire vérifier le respect des conditions ayant
 permis l'homologation.
 
-L'homologation peut être rapportée, après audition du gestionnaire, si la commission compétente a constaté qu'une ou
-plusieurs des conditions qu'elle avait imposées ne sont pas respectées.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale d'examen des circuits de vitesse).
-
-Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
-renouvelée jusqu'au 8 juin 2015.
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
-renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+L'homologation peut être rapportée ou suspendue pour une durée maximale de six mois, après audition du gestionnaire, si la
+commission compétente a constaté qu'une ou plusieurs des conditions qu'elle avait imposées ne sont pas respectées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°2006-554 du 16 mai 2006 - art. 23 (Ab)
-  - Art. 23 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (VT)
   - Code du sport. - art. Annexe III-23 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 23
 
 
 ##### Sous-section 6 : Dispositions pénales.<a id=326></a>
@@ -37838,26 +37852,36 @@ _Cité par_:
 
 Hors le cas, sanctionné par l'article L. 411-7 du code de la route, de l'organisation sans autorisation de courses de
 véhicules terrestres à moteur sur les voies ouvertes à la circulation publique, le fait d'organiser sans la déclaration ou
-l'autorisation préalables prévues à l'article R. 331-18 du présent code une concentration ou une manifestation de véhicules
-terrestres à moteur est puni des peines prévues pour les contraventions de la cinquième classe.
+l'autorisation préalables prévues à l'article R. 331-20 du présent code une concentration ou une manifestation de véhicules
+terrestres à moteur est puni des peines prévues pour les contraventions de la cinquième classe. 
+
+Est puni des mêmes peines le fait, pour un organisateur, de fournir de faux renseignements lors d'une déclaration ou d'une
+demande d'autorisation. 
 
 Est puni des peines prévues pour les contraventions de la cinquième classe le fait, par l'organisateur, de ne pas respecter
-ou de ne pas faire respecter les prescriptions figurant dans l'autorisation administrative qui lui a été délivrée.
+ou de ne pas faire respecter les prescriptions figurant dans l'autorisation administrative qui lui a été délivrée. 
 
-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait de participer à une concentration ou une
-manifestation, comportant la participation de véhicules à moteur, non autorisée alors qu'elle était soumise à autorisation en
-application de l'article R. 331-18 du présent code.
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait de participer à une manifestation,
+comportant la participation de véhicules à moteur, non autorisée alors qu'elle était soumise à autorisation en application de
+l'article R. 331-20 du présent code. 
+
+Le fait pour tout spectateur d'une manifestation de contrevenir aux indications prévues par l'organisateur technique
+conformément à l'article R. 331-21 et mettant en œuvre les mesures de sécurité édictées en vertu de l'article R. 331-26 est
+puni de l'amende prévue pour les contraventions de la quatrième classe
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 24 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
   - Décret n°2006-554 du 16 mai 2006 - art. 24 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 24
 
 _Cité par_:
 
@@ -37865,8 +37889,33 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. R331-18 (V)
+  - Code du sport. - art. R331-20 (V)
+  - Code du sport. - art. R331-21 (V)
+  - Code du sport. - art. R331-26 (V)
   - Code de la route. - art. L411-7 (M)
+
+
+###### Article R331-45-1
+
+Le fait d'exploiter un circuit qui ne bénéficie pas de l'homologation prévue à l'article R. 331-35 est puni des peines
+prévues pour les contraventions de la 5e classe. 
+
+Est puni de l'amende prévue pour les contraventions de la 4e classe le fait, par le gestionnaire du circuit, de ne pas
+respecter une ou plusieurs des conditions ayant permis l'homologation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1279 du 9 août 2017 - art. 25
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R48-1 (VT)
+
+_Cite_:
+
+  - Code du sport. - art. R331-35
 
 
 ##### Section 6 : Organisation de manifestations publiques de sports de combat<a id=327></a>
