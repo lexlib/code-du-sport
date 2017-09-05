@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-09-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -470,7 +470,7 @@ Version Consolidée au 2017-09-01
           - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#467)
       - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-4)](#468)
         - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-4)](#469)
-          - [Section 1 : Certificat médical (art. A231-1)](#470)
+          - [Section 1 : Certificat médical (art. A231-1 à A231-2)](#470)
           - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#471)
             - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#472)
             - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#473)
@@ -48207,6 +48207,22 @@ _Cite_:
 
   - Code du sport. - art. D231-1-5
   - Code du sport. - art. L231-2-3
+
+
+###### Article A231-2
+
+Le questionnaire de santé prévu à l'article D. 231-1-4 figure en annexe II-22.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 5 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe II-22(art. A231-2) (V)
+  - Code du sport. - art. D231-1-4
 
 
 ##### Section 2 : Rôle des fédérations sportives<a id=471></a>
