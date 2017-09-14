@@ -1,4 +1,4 @@
-# Article Annexe II-22(art. A231-1)
+# Article Annexe II-22(art. A231-2)
 
 Renouvellement de licence d'une fédération sportive
 
@@ -151,9 +151,9 @@ Certificat médical à fournir. Consultez un médecin et présentez-lui ce quest
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 20 avril 2017 - art. 2
+  - Arrêté du 5 septembre 2017 - art. 2
 
 _Cité par_:
 
