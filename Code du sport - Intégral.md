@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-09-15
+Version Consolidée au 2017-10-13
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -468,101 +468,100 @@ Version Consolidée au 2017-09-15
       - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#465)
         - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#466)
           - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#467)
-      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art.  à A231-4)](#468)
-        - [Chapitre Ier : Suivi médical des sportifs (art.  à A231-4)](#469)
-          - [Section 1 : Certificat médical (art.  à A222-6)](#470)
-          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#471)
-          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#472)
-            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#473)
-            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#474)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#475)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#476)
-        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#477)
-          - [Section 1 : Dispositions communes (art. A312-1)](#478)
-          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#479)
-          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#480)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#481)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#482)
-          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#483)
-            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#484)
-            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#485)
-          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#486)
-            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#487)
-            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#488)
-              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#489)
-              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#490)
-              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#491)
-              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#492)
-              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#493)
-            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#494)
-              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#495)
-              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#496)
-              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#497)
-              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#498)
-            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#499)
-          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#500)
-            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#501)
-            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#502)
-            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#503)
-              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#504)
-              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#505)
-              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#506)
-            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#507)
-          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#508)
-            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#509)
-            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#510)
-            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#511)
-            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#512)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#513)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#514)
-            - [Paragraphe 1 : Champ d'application (art. A322-147)](#515)
-            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#516)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#517)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#518)
-            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#519)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#520)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#521)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#522)
-              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#523)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#524)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#525)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#526)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#527)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#528)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#529)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#530)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#531)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#532)
-            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#533)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#534)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#535)
-            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#536)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#537)
-          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#538)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#539)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#540)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#541)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#542)
-        - [Chapitre unique (art. A411-1 à A411-10)](#543)
-          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#544)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#545)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#546)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#547)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#548)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#549)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#550)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#551)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#552)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#553)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#554)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#555)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#556)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#557)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#558)
-      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#559)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#560)
-      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#561)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#562)
+      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-4)](#468)
+        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-4)](#469)
+          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#470)
+          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#471)
+            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#472)
+            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#473)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#474)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#475)
+        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#476)
+          - [Section 1 : Dispositions communes (art. A312-1)](#477)
+          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#478)
+          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#479)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#480)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#481)
+          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#482)
+            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#483)
+            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#484)
+          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#485)
+            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#486)
+            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#487)
+              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#488)
+              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#489)
+              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#490)
+              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#491)
+              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#492)
+            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#493)
+              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#494)
+              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#495)
+              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#496)
+              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#497)
+            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#498)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#499)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#500)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#501)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#502)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#503)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#504)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#505)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#506)
+          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#507)
+            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#508)
+            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#509)
+            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#510)
+            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#511)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#512)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#513)
+            - [Paragraphe 1 : Champ d'application (art. A322-147)](#514)
+            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#515)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#516)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#517)
+            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#518)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#519)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#520)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#521)
+              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#522)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#523)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#524)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#525)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#526)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#527)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#528)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#529)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#530)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#531)
+            - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#532)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#533)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#534)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#535)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#536)
+          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#537)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#538)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#539)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#540)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#541)
+        - [Chapitre unique (art. A411-1 à A411-10)](#542)
+          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#543)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#544)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#545)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#546)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#547)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#548)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#549)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#550)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#551)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#552)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#553)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#554)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#555)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#556)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#557)
+      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#558)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#559)
+      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#560)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#561)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -49043,9 +49042,7 @@ _Cite_:
 
 #### Chapitre Ier : Suivi médical des sportifs<a id=469></a>
 
-##### Section 1 : Certificat médical<a id=470></a>
-
-##### Section 1 : Certificat médical et questionnaire de santé<a id=471></a>
+##### Section 1 : Certificat médical et questionnaire de santé<a id=470></a>
 
 ###### Article A231-1
 
@@ -49162,9 +49159,9 @@ _Cite_:
   - Code du sport. - art. D231-1-4
 
 
-##### Section 2 : Rôle des fédérations sportives<a id=472></a>
+##### Section 2 : Rôle des fédérations sportives<a id=471></a>
 
-##### Sous-section 1 : Sportifs de haut niveau<a id=473></a>
+##### Sous-section 1 : Sportifs de haut niveau<a id=472></a>
 
 ###### Article A231-3
 
@@ -49207,7 +49204,7 @@ _Cite_:
   - Code du sport. - art. R221-2
 
 
-##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=474></a>
+##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=473></a>
 
 ###### Article A231-4
 
@@ -49237,13 +49234,13 @@ _Cite_:
   - Code du sport. - art. L221-2 (V)
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=475></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=474></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=476></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=475></a>
 
-#### Chapitre II : Equipements sportifs<a id=477></a>
+#### Chapitre II : Equipements sportifs<a id=476></a>
 
-##### Section 1 : Dispositions communes<a id=478></a>
+##### Section 1 : Dispositions communes<a id=477></a>
 
 ###### Article A312-1
 
@@ -49273,7 +49270,7 @@ _Cite_:
   - Code du sport. - art. R312-4
 
 
-##### Section 2 : Installations fixes<a id=479></a>
+##### Section 2 : Installations fixes<a id=478></a>
 
 ###### Article A312-2
 
@@ -49492,7 +49489,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-3 (V)
 
 
-##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=480></a>
+##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=479></a>
 
 ###### Article A312-10
 
@@ -49571,13 +49568,13 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=481></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=480></a>
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=482></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=481></a>
 
-##### Section 1 : Dispositions générales<a id=483></a>
+##### Section 1 : Dispositions générales<a id=482></a>
 
-##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=484></a>
+##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=483></a>
 
 ###### Article A322-1
 
@@ -49620,7 +49617,7 @@ _Cite_:
   - Code du sport. - art. L322-1
 
 
-##### Paragraphe 2 : Information des pratiquants<a id=485></a>
+##### Paragraphe 2 : Information des pratiquants<a id=484></a>
 
 ###### Article A322-3
 
@@ -49639,9 +49636,9 @@ _Cite_:
   - Code du sport. - art. R322-1
 
 
-##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=486></a>
+##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=485></a>
 
-##### Sous-section préliminaire : Dispositions communes<a id=487></a>
+##### Sous-section préliminaire : Dispositions communes<a id=486></a>
 
 ###### Article A322-3-1
 
@@ -49788,9 +49785,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=488></a>
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=487></a>
 
-##### Paragraphe 1 : Obligation de déclaration<a id=489></a>
+##### Paragraphe 1 : Obligation de déclaration<a id=488></a>
 
 ###### Article A322-4
 
@@ -49863,7 +49860,7 @@ _Cite_:
   - Code de la santé publique - art. L1332-5 (V)
 
 
-##### Paragraphe 2 : Obligation de surveillance<a id=490></a>
+##### Paragraphe 2 : Obligation de surveillance<a id=489></a>
 
 ###### Article A322-8
 
@@ -49960,7 +49957,7 @@ _Cite_:
   - Code du sport. - art. A322-8 (V)
 
 
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=491></a>
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=490></a>
 
 ###### Article A322-12
 
@@ -50111,7 +50108,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=492></a>
+##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=491></a>
 
 ###### Article A322-18
 
@@ -50130,7 +50127,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=493></a>
+##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=492></a>
 
 ###### Article A322-19
 
@@ -50561,9 +50558,9 @@ _Cité par_:
   - Code du sport. - art. A322-40 (V)
 
 
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=494></a>
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=493></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=495></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=494></a>
 
 ###### Article A322-42
 
@@ -50610,7 +50607,7 @@ _Cité par_:
   - Code du sport. - art. A322-53 (VT)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=496></a>
+##### Paragraphe 2 : Conditions de pratique<a id=495></a>
 
 ###### Article A322-44
 
@@ -50631,7 +50628,7 @@ _Cité par_:
   - Code du sport. - art. A322-58 (VT)
 
 
-##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=497></a>
+##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=496></a>
 
 ###### Article A322-45
 
@@ -50724,7 +50721,7 @@ _Modifié par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=498></a>
+##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=497></a>
 
 ###### Article A322-48
 
@@ -50811,7 +50808,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=499></a>
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=498></a>
 
 ###### Article A322-64
 
@@ -51028,7 +51025,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=500></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=499></a>
 
 ###### Article A322-71
 
@@ -51057,7 +51054,7 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
-##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=501></a>
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=500></a>
 
 ###### Article A322-72
 
@@ -51352,7 +51349,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=502></a>
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=501></a>
 
 ###### Article A322-82
 
@@ -51508,9 +51505,9 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=503></a>
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=502></a>
 
-##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=504></a>
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=503></a>
 
 ###### Article A322-90
 
@@ -51622,7 +51619,7 @@ _Modifié par_:
   - Arrêté du 5 janvier 2012 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières au nitrox<a id=505></a>
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=504></a>
 
 ###### Article A322-95
 
@@ -51643,7 +51640,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
 
 
-##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=506></a>
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=505></a>
 
 ###### Article A322-96
 
@@ -51686,7 +51683,7 @@ _Cite_:
   - Code du sport. - art. A322-78 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=507></a>
+##### Sous-section 4 : Dispositions diverses<a id=506></a>
 
 ###### Article A322-98
 
@@ -51793,9 +51790,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
-##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=508></a>
+##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=507></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=509></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=508></a>
 
 ###### Article A322-116
 
@@ -51817,7 +51814,7 @@ _Cite_:
   - Code du sport. - art. L322-2 (V)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=510></a>
+##### Paragraphe 2 : Conditions de pratique<a id=509></a>
 
 ###### Article A322-117
 
@@ -51859,7 +51856,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=511></a>
+##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=510></a>
 
 ###### Article A322-120
 
@@ -51898,7 +51895,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Dispositions relatives aux installations<a id=512></a>
+##### Paragraphe 4 : Dispositions relatives aux installations<a id=511></a>
 
 ###### Article A322-123
 
@@ -51940,7 +51937,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=513></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=512></a>
 
 ###### Article A322-142
 
@@ -52042,9 +52039,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=514></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=513></a>
 
-##### Paragraphe 1 : Champ d'application<a id=515></a>
+##### Paragraphe 1 : Champ d'application<a id=514></a>
 
 ###### Article A322-147
 
@@ -52065,7 +52062,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 2 : Les séances de saut<a id=516></a>
+##### Paragraphe 2 : Les séances de saut<a id=515></a>
 
 ###### Article A322-148
 
@@ -52256,7 +52253,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=517></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=516></a>
 
 ###### Article A322-155
 
@@ -52294,7 +52291,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=518></a>
+##### Paragraphe 4 : Les équipements<a id=517></a>
 
 ###### Article A322-157
 
@@ -52348,7 +52345,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=519></a>
+##### Paragraphe 5 : L'encadrement<a id=518></a>
 
 ###### Article A322-159
 
@@ -52410,7 +52407,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=520></a>
+##### Paragraphe 6 : Les moyens matériels<a id=519></a>
 
 ###### Article A322-162
 
@@ -52452,7 +52449,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=521></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=520></a>
 
 ###### Article A322-164
 
@@ -52475,9 +52472,9 @@ _Cite_:
   - Code du sport. - art. R322-4
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=522></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=521></a>
 
-##### Sous-paragraphe 1er : Les séances de vol<a id=523></a>
+##### Sous-paragraphe 1er : Les séances de vol<a id=522></a>
 
 ###### Article A322-165
 
@@ -52572,7 +52569,7 @@ _Cité par_:
   - Code du sport. - art. A322-175 (VT)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=524></a>
+##### Sous-paragraphe 2 :  Les machines<a id=523></a>
 
 ###### Article A322-169
 
@@ -52586,7 +52583,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=525></a>
+##### Sous-paragraphe 3 : Les équipements<a id=524></a>
 
 ###### Article A322-170
 
@@ -52603,7 +52600,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=526></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=525></a>
 
 ###### Article A322-171
 
@@ -52633,7 +52630,7 @@ _Cite_:
   - Code du sport. - art. L212-1 (V)
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=527></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=526></a>
 
 ###### Article A322-176
 
@@ -52674,13 +52671,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=528></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=527></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=529></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=528></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=530></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=529></a>
 
-##### Sous-section 1 : Dispositions générales<a id=531></a>
+##### Sous-section 1 : Dispositions générales<a id=530></a>
 
 ###### Article A331-1
 
@@ -52699,7 +52696,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=532></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=531></a>
 
 ###### Article A331-2
 
@@ -52826,7 +52823,7 @@ _Cite_:
   - Code du sport. - art. R331-9-1
 
 
-##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=533></a>
+##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur<a id=532></a>
 
 ###### Article A331-17
 
@@ -53029,7 +53026,7 @@ _Cite_:
   - Code du sport. - art. R331-19 (V)
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=534></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=533></a>
 
 ###### Article A331-22
 
@@ -53083,9 +53080,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=535></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=534></a>
 
-##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=536></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=535></a>
 
 ###### Article A331-25
 
@@ -53106,7 +53103,7 @@ _Cite_:
   - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=537></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=536></a>
 
 ###### Article A331-32
 
@@ -53129,7 +53126,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=538></a>
+##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=537></a>
 
 ###### Article A331-33
 
@@ -53245,9 +53242,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-28 (VD)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=539></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=538></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=540></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=539></a>
 
 ###### Article A331-37
 
@@ -53357,13 +53354,13 @@ _Cite_:
   - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=541></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=540></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=542></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=541></a>
 
-#### Chapitre unique<a id=543></a>
+#### Chapitre unique<a id=542></a>
 
-##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=544></a>
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=543></a>
 
 ###### Article A411-1
 
@@ -53629,9 +53626,9 @@ _Cité par_:
   - Code du sport. - art. A411-8 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=545></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=544></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=546></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=545></a>
 
 ###### Article A421-1
 
@@ -53747,7 +53744,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=547></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=546></a>
 
 ###### Article A422-1
 
@@ -53781,7 +53778,7 @@ _Modifié par_:
   - Arrêté du 6 avril 2017 - art. 1
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=548></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=547></a>
 
 ###### Article A423-1
 
@@ -53896,7 +53893,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=549></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=548></a>
 
 ###### Article A424-1
 
@@ -53997,7 +53994,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=550></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=549></a>
 
 ###### Article A425-1
 
@@ -54126,7 +54123,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=551></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=550></a>
 
 ###### Article A426-1
 
@@ -54148,7 +54145,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=552></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=551></a>
 
 ###### Article A427-1
 
@@ -54170,7 +54167,7 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=553></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=552></a>
 
 ###### Article A428-1
 
@@ -54197,7 +54194,7 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=554></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=553></a>
 
 ###### Article A429-1
 
@@ -54224,11 +54221,11 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-# ANNEXES<a id=555></a>
+# ANNEXES<a id=554></a>
 
-## Annexes partie réglementaire - Décrets<a id=556></a>
+## Annexes partie réglementaire - Décrets<a id=555></a>
 
-### Annexes I<a id=557></a>
+### Annexes I<a id=556></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -55814,7 +55811,7 @@ _Créé par_:
   - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
-### Annexes II<a id=558></a>
+### Annexes II<a id=557></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -57281,7 +57278,7 @@ _Cite_:
   - Code du sport. - art. R241-14
 
 
-### Annexes III<a id=559></a>
+### Annexes III<a id=558></a>
 
 ###### Article Annexe III-3 (art. R322-27)
 
@@ -57785,9 +57782,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=560></a>
+## Annexes partie réglementaire - Arrêtés<a id=559></a>
 
-### Annexes II<a id=561></a>
+### Annexes II<a id=560></a>
 
 ###### Article Annexe I-0-1 (art. A114-3)
 
@@ -67315,1192 +67312,1273 @@ _Créé par_:
 
 ###### Article Annexe II-21
 
-CAHIER DES CHARGES  
+CAHIER DES CHARGES
 
-A. - Clauses générales à tous les environnements spécifiques 
+A. - Clauses générales à tous les environnements spécifiques
 
 Clause 1. - L'établissement met en œuvre la formation professionnelle en environnement spécifique dans le respect de mesures
-de sécurité particulières. 
+de sécurité particulières.
 
-L'établissement s'engage à garantir la sécurité de l'encadrement, des pratiquants et des tiers. 
+L'établissement s'engage à garantir la sécurité de l'encadrement, des pratiquants et des tiers.
 
-Clause 2. - L'établissement assure dans son activité un niveau élevé de qualité. 
+Clause 2. - L'établissement assure dans son activité un niveau élevé de qualité.
 
-L'établissement : 
+L'établissement :
 
-- garantit l'égalité de traitement des stagiaires ; 
+- garantit l'égalité de traitement des stagiaires ;
 
-- favorise la féminisation des pratiques ; 
+- favorise la féminisation des pratiques ;
 
-- propose une information de qualité sur l'orientation et le parcours de formation des stagiaires ; 
+- propose une information de qualité sur l'orientation et le parcours de formation des stagiaires ;
 
-- favorise l'insertion professionnelle et l'accès à l'emploi ; 
+- favorise l'insertion professionnelle et l'accès à l'emploi ;
 
-- favorise l'accueil et l'intégration des personnes en situation de handicap dans les formations ; 
+- favorise l'accueil et l'intégration des personnes en situation de handicap dans les formations ;
 
 - porte une attention particulière aux lieux d'alternance ainsi qu'aux qualifications et à l'expérience professionnelle des
-tuteurs ; 
+tuteurs ;
 
-- dispose d'une équipe pédagogique compétente organisée autour d'un coordonnateur spécialiste de la discipline. 
+- dispose d'une équipe pédagogique compétente organisée autour d'un coordonnateur spécialiste de la discipline.
 
 Clause 3. - L'établissement organise, dirige et contrôle directement la mise en œuvre des formations professionnelles dans la
-discipline sportive considérée. 
+discipline sportive considérée.
 
-Conformément à l'article L. 212-2 du code du sport : 
+Conformément à l'article L. 212-2 du code du sport :
 
 - l'établissement est seul compétent pour assurer les formations en environnement spécifique pour lesquelles il a été
-habilité et dont il est totalement responsable ; 
+habilité et dont il est totalement responsable ;
 
 - les conventions conclues avec les partenaires de droit privé ne peuvent en aucun cas être constitutives d'une délégation du
-service public au sens de l'article L. 1411-1 du code général des collectivités territoriales. 
+service public au sens de l'article L. 1411-1 du code général des collectivités territoriales.
 
 Conformément à l'article R. 212-8 du code du sport, l'établissement peut passer des conventions pour la mise en œuvre d'une
 partie de la formation, sous réserve qu'il en conserve les prérogatives d'organisation et de contrôle notamment pour les
-actions relevant du face-à-face pédagogique et tenant à la sécurité des publics. 
+actions relevant du face-à-face pédagogique et tenant à la sécurité des publics.
 
 Clause 4. - L'établissement contribue à la mise en œuvre par l'Etat des règles relatives à la libre prestation de service et
-au libre établissement. 
+au libre établissement.
 
 L'établissement apporte son concours à la mise en œuvre des épreuves d'aptitude et tests européens dans la discipline
-sportive considérée par ses moyens humains et matériels. 
+sportive considérée par ses moyens humains et matériels.
 
-Clause 5. - L'établissement appuie son action sur un réseau de partenaires. 
+Clause 5. - L'établissement appuie son action sur un réseau de partenaires.
 
-L'établissement : 
+L'établissement :
 
-- collabore avec la direction technique nationale intéressée à la discipline ; 
+- collabore avec la direction technique nationale intéressée à la discipline ;
 
-- recherche des partenariats avec la fédération délégataire ; 
+- recherche des partenariats avec la fédération délégataire ;
 
 - recherche des complémentarités possibles avec les autres établissements du réseau, notamment par la mutualisation des
-ressources ; 
+ressources ;
 
-- collabore, en tant que de besoin, avec les acteurs de l'environnement spécifique déterminé. 
+- collabore, en tant que de besoin, avec les acteurs de l'environnement spécifique déterminé.
 
 Clause 6. - L'établissement participe sous l'égide de la direction des sports au comité de coordination de la discipline en
-environnement spécifique pour laquelle il organise des formations. 
+environnement spécifique pour laquelle il organise des formations.
 
 L'établissement est membre du comité de coordination particulier à chaque discipline en environnement spécifique. Ce comité
-de coordination : 
+de coordination :
 
-- est animé par la direction des sports ; 
+- est animé par la direction des sports ;
 
-- se réunit au moins une fois par an ; 
+- se réunit au moins une fois par an ;
 
 - est composé de représentants de la direction des sports, de représentants des établissements inscrits sur la liste pour la
 discipline considérée, du directeur régional de la jeunesse, des sports et de la cohésion sociale de la région d'implantation
-des établissements concernés ou son représentant et du directeur technique national de la discipline ou son représentant ; 
+des établissements concernés ou son représentant et du directeur technique national de la discipline ou son représentant ;
 
-- peut solliciter en tant que de besoin toute personne compétente sur les questions traitées ; 
+- peut solliciter en tant que de besoin toute personne compétente sur les questions traitées ;
 
-- peut s'organiser en commissions spécialisées qui lui rendent compte ; 
+- peut s'organiser en commissions spécialisées qui lui rendent compte ;
 
 - a pour objet l'harmonisation des formations, la production d'une réflexion sur la discipline, l'élaboration d'un bilan
-quantitatif et qualitatif annuel dans l'environnement spécifique, une vision prospective sur la discipline ; 
+quantitatif et qualitatif annuel dans l'environnement spécifique, une vision prospective sur la discipline ;
 
 - concourt à la mutualisation des ressources au sein du réseau, notamment au partage des connaissances et au transfert des
-informations et bonnes pratiques autour de la discipline sportive ; 
+informations et bonnes pratiques autour de la discipline sportive ;
 
-- concourt à l'optimisation de l'offre nationale de formation dans la discipline sportive ; 
+- concourt à l'optimisation de l'offre nationale de formation dans la discipline sportive ;
 
 - organise des réunions nationales sur la discipline sportive, auxquelles participent et collaborent les établissements du
-réseau et la (ou les) fédération (s) sportive (s) et le (s) syndicat (s) professionnel (s) ; 
+réseau et la (ou les) fédération (s) sportive (s) et le (s) syndicat (s) professionnel (s) ;
 
 - entretient des relations avec les agents placés auprès de la ou des fédérations sportives concernées et de la direction
-technique nationale. 
+technique nationale.
 
 Clause 7. - L'établissement inscrit son action dans une démarche de développement durable et de protection de
-l'environnement. 
+l'environnement.
 
-L'établissement : 
+L'établissement :
 
 - forme les stagiaires aux enjeux et dispositions relatifs à la protection de l'environnement dans le champ de la discipline
-sportive ; 
+sportive ;
 
-- veille à la préservation environnementale dans le cadre de la mise en place des formations dans la discipline sportive ; 
+- veille à la préservation environnementale dans le cadre de la mise en place des formations dans la discipline sportive ;
 
-- s'inscrit dans une politique de développement durable prise en ses trois piliers économique, social et environnemental ; 
+- s'inscrit dans une politique de développement durable prise en ses trois piliers économique, social et environnemental ;
 
-- s'assure du respect des obligations de protection des espaces naturels supports de l'activité. 
+- s'assure du respect des obligations de protection des espaces naturels supports de l'activité.
 
-Clause 8. - L'établissement assimile et entretient en son sein la culture propre à la discipline sportive considérée. 
+Clause 8. - L'établissement assimile et entretient en son sein la culture propre à la discipline sportive considérée.
 
-L'établissement démontre qu'il partage la culture propre à l'environnement spécifique déterminé. 
+L'établissement démontre qu'il partage la culture propre à l'environnement spécifique déterminé.
 
-B. - Clauses particulières de la plongée subaquatique 
+B. - Clauses particulières de la plongée subaquatique
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose de l'équipe pédagogique suivante : 
+dispose de l'équipe pédagogique suivante :
 
-- la coordination technique et pédagogique des formations en plongée subaquatique est assurée par un personnel d'Etat : 
+- la coordination technique et pédagogique des formations en plongée subaquatique est assurée par un personnel d'Etat :
 
-- justifiant d'un BEES 2 ou d'un DESJEPS de la discipline ; 
+- justifiant d'un BEES 2 ou d'un DESJEPS de la discipline ;
 
-- soit formateur titulaire ou contractuel permanent de l'établissement ; 
+- soit formateur titulaire ou contractuel permanent de l'établissement ;
 
 - soit cadre technique sportif (CTS) de la discipline, dont la lettre de mission précise les modalités d'intervention sous
-l'autorité fonctionnelle du chef d'établissement ; 
+l'autorité fonctionnelle du chef d'établissement ;
 
 - la formation en centre est assurée par des formateurs désignés par le directeur de l'établissement après avis du
-coordonnateur de la formation. 
+coordonnateur de la formation.
 
-Clause 2. - L'établissement s'assure du suivi médical régulier et conforme aux exigences légales des agents permanents. 
+Clause 2. - L'établissement s'assure du suivi médical régulier et conforme aux exigences légales des agents permanents.
 
 Clause 3. - L'établissement se situe dans un bassin géographique disposant de sites de pratique proches du lieu de mise en
-œuvre de la formation et adaptés aux besoins en profondeur correspondant à la formation et au diplôme visé. 
+œuvre de la formation et adaptés aux besoins en profondeur correspondant à la formation et au diplôme visé.
 
-Il s'engage à ce que l'organisation de la majeure partie des plongées soit effectuée en milieu marin. 
+Il s'engage à ce que l'organisation de la majeure partie des plongées soit effectuée en milieu marin.
 
 Clause 4. - L'établissement s'assure que le matériel technique utilisé pour la formation est adapté aux besoins de la
-formation, convenablement entretenu et conforme aux normes en vigueur. 
+formation, convenablement entretenu et conforme aux normes en vigueur.
 
 Ainsi, le bateau de plongée utilisé doit permettre aux stagiaires de s'exercer à son maniement dans le respect de la
-réglementation. 
+réglementation.
 
-De même, l'établissement a accès à des équipements nitrox conformément aux normes en vigueur. 
+De même, l'établissement a accès à des équipements nitrox conformément aux normes en vigueur.
 
 Clause 5. - L'établissement conclut des partenariats et conventions limités à des objectifs précis de formation et précisant
-les moyens de contrôle et d'évaluation. 
+les moyens de contrôle et d'évaluation.
 
-Clause 6. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 6. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
 
 L'établissement garantit un suivi des stagiaires sur les structures d'accueil en alternance au moyen d'une visite pédagogique
-au minimum pour chaque stagiaire durant la formation. 
+au minimum pour chaque stagiaire durant la formation.
 
 La coopération entre les établissements et services doit aboutir à un réseau opérationnel qui permette de visiter les
-différents lieux d'alternance lorsque la structure d'alternance est éloignée du lieu de la formation. 
+différents lieux d'alternance lorsque la structure d'alternance est éloignée du lieu de la formation.
 
 Les stagiaires doivent être placés en situation en entreprise au cours d'une période d'affluence du public permettant
-l'acquisition des compétences nécessaires pour sécuriser la pratique dans ces contraintes. 
+l'acquisition des compétences nécessaires pour sécuriser la pratique dans ces contraintes.
 
 Une charte d'alternance précise pour chaque stagiaire la répartition détaillée du temps de formation en centre et en
-entreprise. 
+entreprise.
 
-L'établissement met en œuvre une formation à la fonction tutorale, d'une journée minimum : 
+L'établissement met en œuvre une formation à la fonction tutorale, d'une journée minimum :
 
-- explicitant les attendus du stage en entreprise ; 
+- explicitant les attendus du stage en entreprise ;
 
-- présentant le cursus de formation ; 
+- présentant le cursus de formation ;
 
-- permettant des échanges de retour d'expérience entre les partenaires ; 
+- permettant des échanges de retour d'expérience entre les partenaires ;
 
-- harmonisant les certifications lorsqu'elles se déroulent en entreprise. 
+- harmonisant les certifications lorsqu'elles se déroulent en entreprise.
 
 L'établissement veille à une collaboration entre les formateurs et les tuteurs en vue de garantir une grande qualité dans les
-formations. 
+formations.
 
-L'établissement recueille auprès de chaque tuteur un rapport rédigé de fin de formation. 
+L'établissement recueille auprès de chaque tuteur un rapport rédigé de fin de formation.
 
-Clause 7. - L'établissement participe au comité de coordination piloté par la direction des sports. 
+Les tuteurs disposent des qualifications exigées par l'arrêté du diplôme correspondant à la formation dispensée par
+l'établissement.
+
+Clause 7. - L'établissement participe au comité de coordination piloté par la direction des sports.
 
 Clause 8. - L'établissement met en pratique les principes validés par le comité de coordination afin d'assurer un service
 public de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre pédagogique, des
-certifications, des techniques et pratiques enseignées, des technologies mobilisées. 
+certifications, des techniques et pratiques enseignées, des technologies mobilisées.
 
-C. - Clauses particulières du canoë-kayak 
+C. - Clauses particulières du canoë-kayak
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose d'une équipe pédagogique. 
+dispose d'une équipe pédagogique.
 
-L'équipe pédagogique est constituée autour d'un coordonnateur pédagogique et technique qui a qualité de personnel technique
-et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant l'encadrement de la discipline canoë kayak
-en environnement spécifique. 
+Le coordonnateur et l'équipe pédagogique disposent des qualifications prévues dans l'arrêté de diplôme. Dans le cas où
+l'arrêté de diplôme ne le précise pas l'équipe pédagogique est constituée autour d'un coordonnateur pédagogique et technique
+qui a qualité de personnel technique et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant
+l'encadrement de la discipline canoë kayak en environnement spécifique.
 
 A titre exceptionnel la fonction de coordination pourra être confiée à un professeur de sport titulaire d'un DESJEPS ou d'un
-BEES 2e degré dans la discipline. 
+BEES 2e degré dans la discipline.
 
-L'établissement recherche l'expertise dans la constitution et le fonctionnement de l'équipe pédagogique. 
+L'établissement recherche l'expertise dans la constitution et le fonctionnement de l'équipe pédagogique.
 
-L'établissement associe la direction technique nationale à l'ingénierie de formation. 
+L'établissement associe la direction technique nationale à l'ingénierie de formation.
 
-Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par : 
+Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
 
 - un contexte et une proximité géographique de nature à ancrer la discipline dans le milieu naturel visé par l'environnement
-spécifique ; 
+spécifique ;
 
-- un milieu naturel adéquat et un contexte professionnel en lien avec les diplômes de l'environnement spécifique. 
+- un milieu naturel adéquat et un contexte professionnel en lien avec les diplômes de l'environnement spécifique.
 
-Clause 3. - L'établissement dispose du matériel technique principal nécessaire à la formation des stagiaires. 
+Clause 3. - L'établissement dispose du matériel technique principal nécessaire à la formation des stagiaires.
 
 L'établissement doit pouvoir présenter au stagiaire une variété de matériel dans le respect des règles déontologiques, afin
-de le sensibiliser à la connaissance du matériel, à sa gestion et à son entretien. 
+de le sensibiliser à la connaissance du matériel, à sa gestion et à son entretien.
 
-Clause 4. - L'établissement prend en charge la gestion des équipements de protection individuelle. 
+Clause 4. - L'établissement prend en charge la gestion des équipements de protection individuelle.
 
 Les équipements de protection individuelle constituent un élément fondamental de la culture de l'activité canoë-kayak et leur
-connaissance doit être intégrée à la formation. 
+connaissance doit être intégrée à la formation.
 
-Clause 5. - L'établissement conclut des partenariats et conventions. 
+Clause 5. - L'établissement conclut des partenariats et conventions.
 
-L'établissement est responsable de l'ensemble de la formation habilitée et doit en conserver la totale maîtrise. 
+L'établissement est responsable de l'ensemble de la formation habilitée et doit en conserver la totale maîtrise.
 
 L'établissement conclut des partenariats avec d'autres établissements publics avec la ou les fédérations, les organismes
-professionnels du secteur d'activité. 
+professionnels du secteur d'activité.
 
-Ces conventions de partenariats portent notamment sur le matériel, les lieux de pratique, les compétences à rechercher. 
+Ces conventions de partenariats portent notamment sur le matériel, les lieux de pratique, les compétences à rechercher.
 
 L'établissement est site de référence pour les partenaires et les services régaliens, notamment pour des consultations, des
-expertises. 
+expertises.
 
 Clause 6. - L'établissement doit être en capacité d'organiser la mobilité géographique des stagiaires en adéquation avec les
-lieux et les périodes de pratique de la formation. 
+lieux et les périodes de pratique de la formation.
 
-Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
 
-L'établissement : 
+L'établissement :
 
 - démontre qu'il a une proximité avec les structures d'alternance en en constituant la liste et en ayant connaissance de leur
-capacité d'accueil ainsi que de la disponibilité des tuteurs ; 
+capacité d'accueil ainsi que de la disponibilité des tuteurs ;
 
 - assure la mise en place du suivi des stagiaires sur les structures d'accueil en alternance et réalise au moins une fois
 durant la formation une visite sur site. La coopération entre les établissements et services du ministère chargé des sports
 doit aboutir à un réseau opérationnel permettant de visiter les différents lieux d'alternance lorsque le site de la structure
-d'accueil est éloigné du lieu de la formation ; 
+d'accueil est éloigné du lieu de la formation ;
 
 - s'assure de la qualité du tutorat en mettant en place une formation à la fonction tutorale en début de formation sous la
 forme d'une journée d'information portant sur les attendus du stage en entreprise, de présentation du cursus de formation,
-d'échange entre les partenaires de retour d'expérience et d'harmonisation des certifications qui se déroulent en
-entreprise ; 
+d'échange entre les partenaires de retour d'expérience et d'harmonisation des certifications qui se déroulent en entreprise ;
 
-- vérifie que les tuteurs sont titulaires d'un DEJEPS, DESJEPS ou d'une qualification complémentaire en eaux vives assortie
-de l'ensemble des compétences attendues par rapport au diplôme préparé ; 
+- vérifie que les tuteurs disposent de la qualification prévue dans l'arrêté de diplôme. Dans le cas où l'arrêté ne le
+précise pas l'établissement vérifie que les tuteurs sont titulaires d'un DEJEPS, DESJEPS ou d'une qualification
+complémentaire en eaux vives assortie de l'ensemble des compétences attendues par rapport au diplôme préparé ;
 
 - organise la collaboration entre les formateurs et les tuteurs afin de veiller à l'information des tuteurs et au partage des
 expériences dont ils sont porteurs, dans le but de rechercher une grande qualité dans les formations et un échange de
-pratique sur le plan national ; 
+pratique sur le plan national ;
 
-- rend obligatoire la rédaction d'un rapport de fin de formation des stagiaires par les tuteurs. 
+- rend obligatoire la rédaction d'un rapport de fin de formation des stagiaires par les tuteurs.
 
 Clause 8. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 9. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
-un service public de formation de qualité. 
+un service public de formation de qualité.
 
 L'établissement participe à l'harmonisation des modalités de sélection, des exigences préalables de mise en situation
-pédagogique et des certifications notamment. 
+pédagogique et des certifications notamment.
 
-L'établissement participe à l'organisation des tests d'entrée par la présence de personnels spécialistes de la discipline. 
+L'établissement participe à l'organisation des tests d'entrée par la présence de personnels spécialistes de la discipline.
 
 L'établissement veille en propre à l'accompagnement des stagiaires vers l'acquisition des exigences préalables à la mise en
-situation par des mises en situation concrètes avec du public sur des sites de pratiques adaptés. 
+situation par des mises en situation concrètes avec du public sur des sites de pratiques adaptés.
 
-L'établissement veille à la progression des mises en situation des stagiaires. 
+L'établissement veille à la progression des mises en situation des stagiaires.
 
-L'établissement participe à l'élaboration d'une liste nationale d'experts proposée aux DRJSCS pour l'organisation des jurys. 
+L'établissement participe à l'élaboration d'une liste nationale d'experts proposée aux DRJSCS pour l'organisation des jurys.
 
-D. - Clauses particulières des glisses aérotractées 
+D. - Clauses particulières des glisses aérotractées
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose d'une équipe pédagogique. 
+dispose d'une équipe pédagogique.
 
 L'équipe pédagogique est organisée autour du coordonnateur pédagogique et technique qui a la qualité de personnel technique
-et pédagogique, titulaire d'un DEJEPS ou d'un DESJEPS de la discipline. 
+et pédagogique, titulaire d'un DEJEPS ou d'un DESJEPS de la discipline.
 
 A titre transitoire, l'établissement peut confier la coordination pédagogique et technique de la formation en glisses
 aérotractées à un personnel technique et pédagogique de l'établissement reconnu pour sa compétence dans la discipline et
-s'appuyant sur une équipe constituée de personnels contractuels de l'établissement en lien avec la fédération délégataire. 
+s'appuyant sur une équipe constituée de personnels contractuels de l'établissement en lien avec la fédération délégataire.
 
-La démarche pédagogique est établie par le coordonnateur et les formateurs de l'établissement. 
+La démarche pédagogique est établie par le coordonnateur et les formateurs de l'établissement.
 
-L'établissement met en œuvre la formation dans sa totalité en permettant la diversité des pratiques. 
+L'établissement met en œuvre la formation dans sa totalité en permettant la diversité des pratiques.
 
-Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par : 
+Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
 
 - un contexte et une proximité géographique immédiate de nature à permettre aux stagiaires de bénéficier d'une mise en place
-rapide du matériel en fonction de la météo ; 
+rapide du matériel en fonction de la météo ;
 
-- son adaptabilité pour la mise en place des séances ; 
+- son adaptabilité pour la mise en place des séances ;
 
 - une certaine mobilité géographique en raison des lieux de pratique afin de faire varier les exigences de pratiques liées à
 des milieux littoraux différents (phénomène de marée, eau chaude/ eau froide...), aux évolutions météorologiques, au milieu
-de pratique (étang, mer). 
+de pratique (étang, mer).
 
-Clause 3. - L'établissement dispose du matériel technique nécessaire principal. 
+Clause 3. - L'établissement dispose du matériel technique nécessaire principal.
 
 L'établissement dispose d'un éventail de matériel adapté au niveau de diplôme et au niveau de progression pour toute sorte de
 pratique et de public : matériel de glisses aérotractées nautiques utile aux phases de découverte, initiation et
 perfectionnement ; matériel de glisses aérotractées terrestres utile aux phases de découverte, initiation et
-perfectionnement. 
+perfectionnement.
 
-L'établissement peut être propriétaire de ce matériel ou recourir à des conventions de location. 
+L'établissement peut être propriétaire de ce matériel ou recourir à des conventions de location.
 
-L'établissement sensibilise le stagiaire à la gestion de ce matériel tout au long du parcours de formation. 
+L'établissement sensibilise le stagiaire à la gestion de ce matériel tout au long du parcours de formation.
 
-Clause 4. - L'établissement doit respecter les taux d'encadrement ainsi déterminés : 
+Clause 4. - L'établissement doit respecter les taux d'encadrement ainsi déterminés :
 
 - définis par le coordonnateur pédagogique et technique de la formation lorsqu'il s'agit de mettre en pratique la technique
-entre stagiaires ; 
+entre stagiaires ;
 
 - un formateur encadrant de l'établissement pour un maximum de quatre binômes de stagiaires lorsque la mise en situation
-pédagogique s'effectue en présence d'un public. 
+pédagogique s'effectue en présence d'un public.
 
 Clause 5. - L'établissement doit s'engager a minima à respecter les recommandations fédérales relatives à la sécurité des
-stagiaires : 
+stagiaires :
 
 - notamment en ce qui concerne le casque, le gilet de flottabilité et les systèmes de sécurité des ailes permettant la
-réduction de la traction et la désolidarisation ; 
+réduction de la traction et la désolidarisation ;
 
-- l'établissement s'assure que leur utilisation est en lien avec les besoins des situations rencontrées lors de la
-formation. 
+- l'établissement s'assure que leur utilisation est en lien avec les besoins des situations rencontrées lors de la formation.
 
-Clause 6. - L'établissement conclut des partenariats dans le but d'enrichir la formation. 
+Clause 6. - L'établissement conclut des partenariats dans le but d'enrichir la formation.
 
 L'établissement peut recruter des vacataires pour des semaines de formation particulières définies dans un planning et
-organisées par le coordonnateur. Ces vacataires sont dans un lien de subordination par rapport à l'établissement. 
+organisées par le coordonnateur. Ces vacataires sont dans un lien de subordination par rapport à l'établissement.
 
 L'établissement peut passer convention avec la fédération délégataire, un autre établissement public ou une organisation
-professionnelle pour un nombre de jours défini en vu d'échanges de pratiques professionnelles. 
+professionnelle pour un nombre de jours défini en vu d'échanges de pratiques professionnelles.
 
 Les conventions de partenariats peuvent aussi être mises en place avec les entreprises qui possèdent du matériel ou qui
-développent des matériels nouveaux pour la discipline dans le cadre de l'innovation. 
+développent des matériels nouveaux pour la discipline dans le cadre de l'innovation.
 
-Clause 7. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance : 
+Clause 7. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance :
 
 - en veillant à ce que toute école de glisses aérotractées (professionnelle ou associative) souhaitant accueillir un
-stagiaire en alternance respecte les règles techniques édictées par la fédération délégataire ; 
+stagiaire en alternance respecte les règles techniques édictées par la fédération délégataire ;
 
 - en veillant à ce que chaque stagiaire soit effectivement en formation l'été et non pas en situation de quasi-emploi en
-raison de l'affluence des publics ; 
+raison de l'affluence des publics ;
 
 - en établissant une fiche descriptive des modalités d'accueil d'un moniteur en formation dans l'entreprise qui doit
-permettre au stagiaire de contractualiser avec plus de visibilité ; 
+permettre au stagiaire de contractualiser avec plus de visibilité ;
 
-- en organisant les relations avec les tuteurs par : 
+- en organisant les relations avec les tuteurs par :
 
-- la mise en place d'une formation de  primo-tuteur . Les tuteurs ont l'obligation de suivre cette formation avant
+- la mise en place d'une formation de primo-tuteur . Les tuteurs ont l'obligation de suivre cette formation avant
 d'accueillir des stagiaires. Le contenu est défini sur la base de mises à jour et rappels des notions de sécurité,
 d'organisation de la formation, des certifications préparées par le stagiaire, des modalités de formation et des contenus de
-formation ; 
+formation ;
 
-- la rédaction d'une charte de l'alternance fixant les modalités de collaboration entre l'établissement et les tuteurs ; 
+- la rédaction d'une charte de l'alternance fixant les modalités de collaboration entre l'établissement et les tuteurs ;
 
 - l'obligation pour les tuteurs d'effectuer a minima un bilan intermédiaire et un final avec le stagiaire en alternance. Au
 cours de la formation en entreprise et lors des bilans, les tuteurs doivent informer les centres de formation des
-problématiques rencontrées ; 
+problématiques rencontrées ;
 
-- l'obligation de les impliquer dans la certification ; 
+- l'obligation de les impliquer dans la certification ;
 
-- leur participation pour partie à la formation cadre des DEJEPS ; 
+- leur participation pour partie à la formation cadre des DEJEPS ;
 
-- l'organisation des bilans de la saison de tutorat (Méditerranée/ océan). 
+- l'organisation des bilans de la saison de tutorat (Méditerranée/ océan).
 
 Clause 8. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 9. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des modalités de sélection, des exigences préalables de
-mises en situation pédagogique et de certifications notamment. 
+mises en situation pédagogique et de certifications notamment.
 
-E. - Clauses particulières du surf de mer 
+E. - Clauses particulières du surf de mer
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose de l'équipe pédagogique suivante : 
+dispose de l'équipe pédagogique suivante :
 
 - la coordination des formations en surf de mer est assurée par des cadres techniques personnels d'Etat et des spécialistes
-de la discipline titulaires d'un BEES 2 option  surf de mer  ou d'un DEJEPS ou d'un DESJEPS mention  surf de mer  titulaires
-affectés dans l'établissement ou contractuels permanents de l'établissement ; 
+de la discipline titulaires d'un BEES 2 option surf de mer ou d'un DEJEPS ou d'un DESJEPS mention surf de mer titulaires
+affectés dans l'établissement ou contractuels permanents de l'établissement ;
 
 - à titre exceptionnel l'établissement peut disposer d'un personnel technique et pédagogique ou d'un spécialiste de la
 discipline, titulaire d'un diplôme de surf de niveau IV (BEES ou BPJEPS) avec une expérience de formation de cadre ou en voie
-d'acquisition du DEJEPS ou du DESJEPS mention  surf de mer  s'appuyant sur le coordonnateur. 
+d'acquisition du DEJEPS ou du DESJEPS mention surf de mer s'appuyant sur le coordonnateur.
 
-Clause 2. - L'établissement démontre son inscription dans un bassin géographique en : 
+Clause 2. - L'établissement démontre son inscription dans un bassin géographique en :
 
-- recherchant une proximité entre le site de la formation et les lieux de pratique du surf ; 
+- recherchant une proximité entre le site de la formation et les lieux de pratique du surf ;
 
 - démontrant que le stagiaire en fin de formation est en mesure d'appréhender les différentes situations au regard de la
 complexité liée au milieu mer et océan. Ainsi, pour un établissement situé en métropole, il doit organiser une partie de la
-formation sur la façade atlantique. 
+formation sur la façade atlantique.
 
 Clause 3. - L'établissement doit démontrer qu'il dispose du matériel technique principal nécessaire à la formation des
-stagiaires. 
+stagiaires.
 
-L'établissement doit varier les types de matériel et de supports tout au long de la formation des stagiaires. 
+L'établissement doit varier les types de matériel et de supports tout au long de la formation des stagiaires.
 
 Ce matériel peut être propriété de l'établissement ou si ce n'est pas le cas, l'établissement doit en disposer par convention
-auprès de tiers. Ces conventions devant alors être communiquées lors du dépôt du dossier. 
+auprès de tiers. Ces conventions devant alors être communiquées lors du dépôt du dossier.
 
 L'établissement dispose de matériel de sauvetage conforme et doit fournir un plan d'organisation des secours. L'établissement
-doit s'engager à mettre en place des procédures d'organisation des secours sur les lieux de pratique. 
+doit s'engager à mettre en place des procédures d'organisation des secours sur les lieux de pratique.
 
-Clause 4. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 4. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
 
-L'établissement doit : 
+L'établissement doit :
 
-- assurer le suivi des stagiaires sur les structures d'accueil en alternance avec au moins une visite durant la formation ; 
+- assurer le suivi des stagiaires sur les structures d'accueil en alternance avec au moins une visite durant la formation ;
 
 - veiller à ce que le stagiaire soit en situation en entreprise sur la période d'affluence du public (notamment en juillet et
-août en métropole), ce qui lui permet de démontrer sa capacité à sécuriser la pratique dans ces contraintes ; 
+août en métropole), ce qui lui permet de démontrer sa capacité à sécuriser la pratique dans ces contraintes ;
 
-- mettre en place une formation des tuteurs ; 
+- mettre en place une formation des tuteurs ;
 
 - s'engager à fixer dans une charte de l'alternance les rôles et engagements des différents acteurs. Cette charte engage la
-structure d'accueil à être une école de surf repérée pour : 
+structure d'accueil à être une école de surf repérée pour :
 
-- la qualité d'accueil des publics ; 
+- la qualité d'accueil des publics ;
 
-- la sécurité d'encadrement des publics ; 
+- la sécurité d'encadrement des publics ;
 
-- les compétences techniques, sportives, pédagogiques et d'animation de l'enseignant ; 
+- les compétences techniques, sportives, pédagogiques et d'animation de l'enseignant ;
 
 - la capacité de la structure à proposer au stagiaire l'ensemble du cursus pédagogique concerné (de l'initiation jusqu'au
-premier niveau de compétition) ; 
+premier niveau de compétition) ;
 
 - la capacité à accueillir les stagiaires en situation d'enseignement sur une durée de quatre-cent-vingt heures minimales,
-qui doit être fixée dans la charte ; 
+qui doit être fixée dans la charte ;
 
-- être attentif à conventionner avec des structures d'alternance ouvertes au minimum six mois par an ; 
+- être attentif à conventionner avec des structures d'alternance ouvertes au minimum six mois par an ;
 
 - vérifier que ces tuteurs possèdent un diplôme au moins équivalent au diplôme visé par la formation et aient exercé au moins
-deux saisons d'activité ; 
+deux saisons d'activité ;
 
 - respecter le principe d'une seule structure d'alternance pour un même stagiaire, sauf à titre dérogatoire pour des
-stagiaires à profil très particulier ; 
+stagiaires à profil très particulier ;
 
 - organiser la collaboration entre les formateurs et les tuteurs afin de déterminer les capacités d'accueil des structures,
 de veiller à l'information des tuteurs et aux partages des expériences dont ils sont porteurs, pour la qualité de la
-formation et l'échange de pratiques au plan national ; 
+formation et l'échange de pratiques au plan national ;
 
-- veiller à la rédaction par le tuteur du rapport de fin de formation des stagiaires. Ce rapport est obligatoire. 
+- veiller à la rédaction par le tuteur du rapport de fin de formation des stagiaires. Ce rapport est obligatoire.
 
 Clause 5. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 6. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des modalités de sélection, des exigences préalables de
 mises en situation pédagogique et de certification. Les tests d'exigences préalables à l'entrée en formation sont mis en
-place par la direction technique nationale. 
+place par la direction technique nationale.
 
 L'établissement doit aussi s'engager à faire participer les stagiaires à des séquences de formation communes précisées par
-l'instance de coordination, en présence de la direction technique nationale et de la Fédération française de surf. 
+l'instance de coordination, en présence de la direction technique nationale et de la Fédération française de surf.
 
-F. - Clauses particulières du vol libre 
+F. - Clauses particulières du vol libre
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose d'une équipe pédagogique. 
+dispose d'une équipe pédagogique.
 
 La coordination des formations doit être réalisée par un coordonnateur pédagogique et technique, agent du ministère chargé
-des sports, titulaire du BEES 2e degré mention  vol libre  ou, à défaut, du DEJEPS  perfectionnement sportif mention
-parapente ou deltaplane  ou du DESJEPS  performance sportive mention parapente ou deltaplane . 
+des sports, titulaire du BEES 2e degré mention vol libre ou, à défaut, du DEJEPS perfectionnement sportif mention parapente
+ou deltaplane ou du DESJEPS performance sportive mention parapente ou deltaplane .
 
 Dans le cas où aucun agent titulaire affecté à l'établissement ne serait en possession des qualifications précitées,
 l'établissement peut confier la coordination pédagogique à un agent contractuel, recruté spécifiquement pour cette mission et
 faisant consensus dans le milieu par ses compétences techniques et pédagogiques. Dans cette situation, la possession du BEES
-2e degré  vol libre  ou du DESJEPS mention  parapente  est impérative. 
+2e degré vol libre ou du DESJEPS mention parapente est impérative.
 
-L'établissement peut engager des formateurs : 
+L'établissement peut engager des formateurs :
 
 - pour les séquences de formation en salle il fera appel aux personnes qu'il considère les plus compétentes pour transmettre
-les connaissances et compétences liées au diplôme visé ; 
+les connaissances et compétences liées au diplôme visé ;
 
 - pour les séquences de formation sur le terrain portant spécifiquement sur les activités du vol libre, les formateurs
-encadrants seront nécessairement titulaires de l'un des diplômes suivants : BEES 2e degré  vol libre , DEJEPS
-perfectionnement sportif mention parapente ou deltaplane  ou DES  performance sportive mention parapente ou deltaplane . 
+encadrants seront nécessairement titulaires de l'un des diplômes suivants : BEES 2e degré vol libre , DEJEPS perfectionnement
+sportif mention parapente ou deltaplane ou DES performance sportive mention parapente ou deltaplane .
 
 Les agents titulaires du ministère chargé des sports (professeurs de sport) ou du ministère chargé de l'éducation nationale
 (professeur certifié ou agrégé en EPS) ou encore les cadres techniques de la Fédération française de vol libre peuvent
-intervenir comme formateurs s'ils sont a minima titulaires du BEES 1er degré  vol libre . 
+intervenir comme formateurs s'ils sont a minima titulaires du BEES 1er degré vol libre .
 
 L'établissement peut recruter des vacataires pour des semaines de formation particulières définies par un planning et
 organisées par le coordonnateur. Ces vacataires sont donc dans un lien de subordination par rapport à l'établissement et
 seront destinataires d'un livret de coordination des formateurs établissant clairement les attentes de l'établissement à leur
-égard. 
+égard.
 
 L'établissement peut prévoir, afin d'assurer un haut niveau d'enseignement, l'intervention de différents formateurs
 professionnels de l'activité et spécialistes de domaines particuliers (mécanique de vol, météorologie, physiologie etc.). Le
 volume d'intervention de ces personnels doit se situer a minima à soixante journées-intervenants pour un cursus complet (base
-pour une promotion de seize stagiaires). 
+pour une promotion de seize stagiaires).
 
-Clause 2. - L'établissement doit respecter les taux d'encadrement des stagiaires ainsi déterminés. 
+Clause 2. - L'établissement doit respecter les taux d'encadrement des stagiaires ainsi déterminés.
 
 Ce taux d'encadrement varie selon les situations pédagogiques rencontrées mais, lors des temps de formation sur le terrain,
-il convient de différencier : 
+il convient de différencier :
 
-- les temps de pratique à visée technique ou pédagogique sans  public support  où le taux d'encadrement est choisi par le
-coordonnateur de la formation en fonction du programme envisagé ; 
+- les temps de pratique à visée technique ou pédagogique sans public support où le taux d'encadrement est choisi par le
+coordonnateur de la formation en fonction du programme envisagé ;
 
 - les temps à visée pédagogique avec un public réel (public support) où le taux d'encadrement sera de deux encadrants pour un
-maximum de six stagiaires. 
+maximum de six stagiaires.
 
 Clause 3. - Le centre de formation de l'établissement doit être implanté à proximité immédiate de sites de vol afin de
 pouvoir optimiser les créneaux de pratique, l'activité vol libre étant très fortement dépendante des conditions
-météorologiques. 
+météorologiques.
 
 L'établissement peut cependant organiser un déplacement de la formation, afin de pouvoir répondre à ces critères de proximité
-des lieux de pratique. 
+des lieux de pratique.
 
 Clause 4. - La spécificité des activités du vol libre nécessite une organisation pédagogique permettant d'assurer au mieux la
-sécurité des stagiaires. 
+sécurité des stagiaires.
 
 L'établissement s'engage à sensibiliser les stagiaires en formation à leur sécurité ainsi qu'à celle des tiers quant au
-matériel utilisé. 
+matériel utilisé.
 
 Les moyens ont vocation à assurer à la fois la sécurité des stagiaires et des conditions de formation conformes aux standards
-de qualité que tout stagiaire est en droit d'attendre. 
+de qualité que tout stagiaire est en droit d'attendre.
 
-L'utilisation par les stagiaires de matériel de vol homologué est impérative. 
+L'utilisation par les stagiaires de matériel de vol homologué est impérative.
 
-Clause 5. - L'établissement doit mettre à disposition du formateur, lors des séquences de formation sur le terrain : 
+Clause 5. - L'établissement doit mettre à disposition du formateur, lors des séquences de formation sur le terrain :
 
-- des moyens de télécommunication et/ ou de radiocommunication afin de déclencher les secours ; 
+- des moyens de télécommunication et/ ou de radiocommunication afin de déclencher les secours ;
 
 - une trousse de premiers secours qui doit toujours être à proximité du lieu de formation, à plus forte raison lors des
-séquences sur le terrain. 
+séquences sur le terrain.
 
 Clause 6. - L'établissement se dote des moyens logistiques et pédagogiques adaptés aux contenus et aux formes d'intervention
-prévus par les intervenants. 
+prévus par les intervenants.
 
-Clause 7. - L'établissement conclut des conventions et des partenariats. 
+Clause 7. - L'établissement conclut des conventions et des partenariats.
 
 L'établissement peut passer convention avec la fédération délégataire, un autre établissement ou le syndicat professionnel
-représentatif pour un nombre de jours et des contenus définis préalablement. 
+représentatif pour un nombre de jours et des contenus définis préalablement.
 
 Les conventions et les partenariats peuvent être mis en place avec les entreprises ou syndicats locaux qui possèdent du
 matériel ou qui développent des matériels nouveaux pour la discipline dans le cadre de l'innovation. Toutefois ce type de
-partenariat recherchera prioritairement la confrontation des stagiaires avec la réalité du milieu professionnel. 
+partenariat recherchera prioritairement la confrontation des stagiaires avec la réalité du milieu professionnel.
 
 Clause 8. - L'établissement démontre sa connaissance administrative et technique des structures d'accueil des stagiaires en
-formation en s'assurant que : 
+formation en s'assurant que :
 
 - toute école de vol libre (professionnelle ou associative) souhaitant accueillir un stagiaire en cours de formation respecte
 les règles techniques édictées par la fédération délégataire et possède dans son équipe de moniteurs permanents au moins une
-personne ayant suivi le stage  formation à la fonction tutorale  ; elle s'engage à respecter la charte d'accueil des élèves-
-moniteurs validée par la coordination nationale ; 
+personne ayant suivi le stage formation à la fonction tutorale ; elle s'engage à respecter la charte d'accueil des élèves-
+moniteurs validée par la coordination nationale ;
 
 - le tuteur utilise les outils de liaison travaillés en coordination nationale et que ce tuteur propose une prise d'autonomie
-progressive et cohérente au stagiaire dont il a la charge ; 
+progressive et cohérente au stagiaire dont il a la charge ;
 
 - le suivi du stagiaire lors des périodes en alternance est réalisé notamment au travers des documents pédagogiques de
-liaison et par des visites en entreprise, a minima une par an, en présence effective du stagiaire. 
+liaison et par des visites en entreprise, a minima une par an, en présence effective du stagiaire.
 
 Clause 9. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 10. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre
-pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvres. 
+pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvres.
 
 L'établissement collabore à l'élaboration d'une liste nationale d'experts placés auprès des jurys dans le but d'harmoniser
-les pratiques. 
+les pratiques.
 
-L'établissement délègue des personnels pour participer à la mise en place du ou des tests de sélection. 
+L'établissement délègue des personnels pour participer à la mise en place du ou des tests de sélection.
 
-G. - Clauses particulières de la spéléologie 
+G. - Clauses particulières de la spéléologie
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose d'une équipe pédagogique. 
+dispose d'une équipe pédagogique.
 
 La coordination des formations est réalisée par un coordonnateur pédagogique et technique qui est personnel d'Etat ou
-contractuel de l'établissement spécialiste de la discipline et titulaire d'un BEES du 1er degré option  spéléologie , d'un
-DEJEPS ou d'un DESJEPS mention  spéléologie . 
+contractuel de l'établissement spécialiste de la discipline et titulaire d'un BEES du 1er degré option spéléologie , d'un
+DEJEPS ou d'un DESJEPS mention spéléologie .
 
 Le coordonnateur pédagogique et technique est en charge de cette seule discipline même s'il peut en tant que de besoin
-collaborer au travail de l'équipe de formation de l'établissement sur d'autres disciplines que la spéléologie. 
+collaborer au travail de l'équipe de formation de l'établissement sur d'autres disciplines que la spéléologie.
 
 Le coordonnateur technique et pédagogique de l'établissement en charge de la spéléologie doit systématiquement être présent
-lors des vérifications des exigences préalables de mise en situation pédagogique. 
+lors des vérifications des exigences préalables de mise en situation pédagogique.
 
 L'établissement peut recourir à un réseau de formateurs ayant un lien de subordination avec lui, identifiés pour leurs
 compétences, et intervenant dès la conception de la formation sous la conduite du coordonnateur pédagogique et technique.
 Pour les interventions techniques et pédagogique ce formateur devra être titulaire d'un des trois diplômes BEES du 1er degré
-option  spéléologie , DEJEPS ou DESJEPS mention  spéléologie . 
+option spéléologie , DEJEPS ou DESJEPS mention spéléologie .
 
 Clause 2. - L'établissement associe la direction technique nationale de la fédération française de spéléologie à la
-construction des formations et aux regroupements des formateurs qu'il organise. 
+construction des formations et aux regroupements des formateurs qu'il organise.
 
-Clause 3. - L'établissement respecte les taux d'encadrement des stagiaires ainsi déterminés : 
+Clause 3. - L'établissement respecte les taux d'encadrement des stagiaires ainsi déterminés :
 
-- un encadrant pour trois stagiaires lorsque cette mise en situation pédagogique est faite en présence d'un public ; 
+- un encadrant pour trois stagiaires lorsque cette mise en situation pédagogique est faite en présence d'un public ;
 
-- un encadrant pour quatre stagiaires lorsqu'il s'agit de mettre en pratique la technique entre stagiaires. 
+- un encadrant pour quatre stagiaires lorsqu'il s'agit de mettre en pratique la technique entre stagiaires.
 
-Clause 4. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par : 
+Clause 4. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
 
-- une proximité entre le site de formation et les sites de pratique ; 
+- une proximité entre le site de formation et les sites de pratique ;
 
 - un contexte historique et culturel favorable à la formation et le développement autour de cette activité d'une culture
-propre à la spéléologie ; 
+propre à la spéléologie ;
 
-- l'expertise reconnue dans la formation à la spéléologie et son investissement dans cette activité ; 
+- l'expertise reconnue dans la formation à la spéléologie et son investissement dans cette activité ;
 
-- l'identification du bassin d'activité et sa cohérence avec l'offre de formation qui en découle ; 
+- l'identification du bassin d'activité et sa cohérence avec l'offre de formation qui en découle ;
 
-- une approche diversifiée des sites de pratique afin de se rendre sur les massifs karstiques ; 
+- une approche diversifiée des sites de pratique afin de se rendre sur les massifs karstiques ;
 
 - sa participation à la construction d'un réseau avec l'ensemble des organismes concernés par la discipline tant sur le plan
 du développement de l'activité, de sa structuration que de sa gestion. Il doit s'inscrire dans une relation avec les acteurs
-fédéraux et professionnels. L'établissement doit le faire en collaboration avec les comités départementaux de spéléologie. 
+fédéraux et professionnels. L'établissement doit le faire en collaboration avec les comités départementaux de spéléologie.
 
 Clause 5. - L'établissement doit être propriétaire des équipements de protection individuelle de classe 3 répondant à la
-norme CE en vigueur nécessaire à la mise en œuvre des formations en spéléologie. 
+norme CE en vigueur nécessaire à la mise en œuvre des formations en spéléologie.
 
 A l'exclusion du matériel de classe 3 normes AFNOR NFS 72 701, l'établissement peut compléter son propre matériel par des
-conventions de mise à disposition conclues avec des entreprises spécialisées dans l'activité. 
+conventions de mise à disposition conclues avec des entreprises spécialisées dans l'activité.
 
 Clause 6. - L'établissement gère les équipements de protection individuelle dont il est propriétaire au regard de la norme
-AFNOR NFS 72 701 et contrôle la gestion des EPI des stagiaires. 
+AFNOR NFS 72 701 et contrôle la gestion des EPI des stagiaires.
 
 Pour la gestion des équipements de protection individuelle dont il est propriétaire, l'établissement désigne un responsable
 de ce matériel, spécialiste de la discipline et appartenant au personnel de l'établissement. Il est en mesure de garantir la
 maintenance du matériel dont les équipements de protection individuelle. Les conditions d'utilisation, de stockage,
-d'entretien, de sécurité de ce matériel sont conformes à la norme AFNOR NFS 72 701. 
+d'entretien, de sécurité de ce matériel sont conformes à la norme AFNOR NFS 72 701.
 
 Clause 7. - L'établissement s'engage à fournir à ses cadres et à ses formateurs tous moyens nécessaires pour porter les
-premiers secours et déclencher les secours adaptés à la situation de pratique. 
+premiers secours et déclencher les secours adaptés à la situation de pratique.
 
-Clause 8. - L'établissement peut conclure des conventions ou des partenariats. 
+Clause 8. - L'établissement peut conclure des conventions ou des partenariats.
 
 L'établissement peut engager tous les partenariats utiles pour la formation avec l'ensemble des acteurs : direction technique
-nationale, Fédération française de spéléologie, représentants des professionnels... 
+nationale, Fédération française de spéléologie, représentants des professionnels...
 
-L'établissement doit démontrer que ces partenariats ont pour objet : 
+L'établissement doit démontrer que ces partenariats ont pour objet :
 
-- le contexte local et géographique tel que la gestion des sites, la préservation de l'environnement... ; 
+- le contexte local et géographique tel que la gestion des sites, la préservation de l'environnement... ;
 
-- la mise à disposition du public pédagogique par les structures partenaires ; 
+- la mise à disposition du public pédagogique par les structures partenaires ;
 
 - la mise à disposition par un ou des fournisseurs de matériel nécessaire à la formation à l'exclusion du matériel de classe
-3, norme AFNOR NFS 72 701. 
+3, norme AFNOR NFS 72 701.
 
 Clause 9. - L'établissement doit posséder un site naturel ou artificiel situé à proximité permettant l'enseignement et le
-travail des techniques de cordes ou à défaut passer une convention pour son utilisation. 
+travail des techniques de cordes ou à défaut passer une convention pour son utilisation.
 
-Clause 10. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 10. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance.
 
-L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur. qui doit lui
-même : 
+L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur. qui doit lui même :
 
 - mettre en relation les contenus de formation en centre et les situations professionnelles concrètes proposées au
-stagiaire ; 
+stagiaire ;
 
-- aider le stagiaire à s'insérer dans l'activité professionnelle ; 
+- aider le stagiaire à s'insérer dans l'activité professionnelle ;
 
-- mettre le stagiaire en situation d'accueillir et d'informer le public ; 
+- mettre le stagiaire en situation d'accueillir et d'informer le public ;
 
-- associer puis responsabiliser le stagiaire à la gestion du matériel ; 
+- associer puis responsabiliser le stagiaire à la gestion du matériel ;
 
 - associer puis responsabiliser progressivement le stagiaire à la conduite de groupe en accompagnement de ses propres
-prestations ; 
+prestations ;
 
 - valider la préparation des activités d'enseignement de la spéléologie du stagiaire, organisées et conduites en autonomie
-par celui-ci (classe 3 maximum) ; 
+par celui-ci (classe 3 maximum) ;
 
-- conduire des temps de bilan pour chaque sortie ; 
+- conduire des temps de bilan pour chaque sortie ;
 
-- rendre compte de l'activité du stagiaire et l'évaluer au moyen d'un livret de formation tutorée ; 
+- rendre compte de l'activité du stagiaire et l'évaluer au moyen d'un livret de formation tutorée ;
 
-- signaler à l'établissement les difficultés éventuelles rencontrées par le stagiaire ; 
+- signaler à l'établissement les difficultés éventuelles rencontrées par le stagiaire ;
 
 - émettre en fin de formation tout avis sur le stagiaire utile à l'acquisition des compétences dans l'ensemble du dispositif
-de formation. 
+de formation.
 
-L'établissement doit vérifier que le professionnel remplit les conditions suivantes pour accéder aux fonctions de tuteur : 
+L'établissement doit vérifier que le professionnel remplit les conditions suivantes pour accéder aux fonctions de tuteur :
 
-- être à jour de ses obligations réglementaires ; 
+- être à jour de ses obligations réglementaires ;
 
-- être capable de justifier de trois ans d'ancienneté professionnelle en spéléologie ; 
+- être capable de justifier de trois ans d'ancienneté professionnelle en spéléologie ;
 
-- être capable de proposer des publics diversifiés dans la conduite de l'activité ; 
+- être capable de proposer des publics diversifiés dans la conduite de l'activité ;
 
-- être capable de proposer au moins cinq cavités différentes pour les mises en situation pédagogique ; 
+- être capable de proposer au moins cinq cavités différentes pour les mises en situation pédagogique ;
 
-- permettre ou faciliter l'accès à une connexion internet ; 
+- permettre ou faciliter l'accès à une connexion internet ;
 
-- être titulaire soit : 
+- être titulaire soit :
 
-- du DESJEPS mention  spéléologie  ; 
+- du DESJEPS mention spéléologie ;
 
-- du DEJEPS mention  spéléologie  ; 
+- du DEJEPS mention spéléologie ;
 
-- du brevet d'Etat d'éducateur sportif du 1er degré option  spéléologie . 
+- du brevet d'Etat d'éducateur sportif du 1er degré option spéléologie .
 
-L'établissement doit s'assurer que : 
+L'établissement doit s'assurer que :
 
 - le tuteur est, dans les situations de type approfondissement pédagogique et technique, physiquement présent auprès des
 publics et du stagiaire dont il est en charge, seul responsable de la sécurité collective. Dans les autres circonstances, le
-tuteur est coresponsable de l'organisation de l'activité ; 
+tuteur est coresponsable de l'organisation de l'activité ;
 
 - le tuteur suit au maximum deux stagiaires dans le cadre de la durée de l'habilitation de la formation mais un seul en même
-temps en situation pédagogique. 
+temps en situation pédagogique.
 
-L'établissement doit assurer le suivi du tutorat et mettre en place les outils de suivi de l'alternance : 
+L'établissement doit assurer le suivi du tutorat et mettre en place les outils de suivi de l'alternance :
 
 - le suivi du tutorat est du ressort de l'équipe pédagogique de l'organisme de formation. L'établissement peut faire appel en
 raison de l'éloignement ou de l'indisponibilité de tout ou partie de l'équipe pédagogique à des personnels du ministère des
-sports ou à des techniciens qualifiés de l'activité ; 
+sports ou à des techniciens qualifiés de l'activité ;
 
 - chaque stagiaire en formation fait l'objet d'au moins une visite de la part de l'organisme de formation, comprenant
-nécessairement un entretien d'évaluation formative ; 
+nécessairement un entretien d'évaluation formative ;
 
 - le livret de formation tutorée, délivré à tout stagiaire lors de son entrée en formation, permet de faire le lien entre
-l'équipe pédagogique, le stagiaire et le tuteur. Ce livret peut comprendre quatre parties : 
+l'équipe pédagogique, le stagiaire et le tuteur. Ce livret peut comprendre quatre parties :
 
 - une première partie rendant compte des situations professionnelles relatives à la mise en situation pédagogique en
-autonomie appelée  carnet de courses de 1er niveau  ; 
+autonomie appelée carnet de courses de 1er niveau ;
 
 - une deuxième partie rendant compte des situations professionnelles relatives à l'accompagnement du tuteur dans son exercice
-professionnel appelée  carnet de courses de niveau 2  ; 
+professionnel appelée carnet de courses de niveau 2 ;
 
 - une troisième partie rendant compte des situations professionnelles relatives à l'accompagnement du tuteur dans le cadre
-d'une école départementale de spéléologie de la FFS ; 
+d'une école départementale de spéléologie de la FFS ;
 
 - une quatrième partie rendant compte des situations professionnelles relatives à la conception et à la coordination de
-l'activité, appelée  environnement professionnel . 
+l'activité, appelée environnement professionnel .
 
 Ce livret est renseigné à distance et en temps réel par le stagiaire sur une plate-forme informatique consultable par
 l'organisme de formation. Les tuteurs tiennent à jour un document papier normalisé et simplifié de l'activité du stagiaire.
-Ce document est envoyé à l'organisme de formation à l'issue des périodes en structures professionnelles. 
+Ce document est envoyé à l'organisme de formation à l'issue des périodes en structures professionnelles.
 
-Clause 11. - Une liste de tuteurs est établie annuellement par l'établissement. 
+Clause 11. - Une liste de tuteurs est établie annuellement par l'établissement.
 
 Les partenaires socioprofessionnels (Fédération française de spéléologie, structures représentant la profession) proposent
 annuellement des listes de tuteurs. L'organisme de formation retient tout ou partie de cette liste pour une habilitation de
 formation. Seule la liste des tuteurs mise à jour par l'établissement peut donner accès au statut de tuteur pour la durée de
-l'habilitation. 
+l'habilitation.
 
 Clause 12. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 13. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des différentes phases de formation et de la mise en œuvre
-pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvre. 
+pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvre.
 
-H. - Clauses particulières de l'escalade 
+H. - Clauses particulières de l'escalade
 
 Clause 1. - L'établissement dispose pour la mise en œuvre et le suivi des formations, sur le plan pédagogique et de la
-sécurité, d'une équipe pédagogique. 
+sécurité, d'une équipe pédagogique.
 
 L'équipe pédagogique est composée au minimum de deux agents de l'Etat, personnels techniques et pédagogiques, spécialistes de
-la discipline titulaires d'un BEES 2e degré, option  escalade , d'un DEJEPS mention  escalade en milieux naturels , du
-diplôme de guide haute montagne du brevet d'Etat d'alpinisme ou à titre dérogatoire jusqu'au 31 janvier 2007 d'un agent de
-l'Etat titulaire du BEES 1er degré, option  escalade . 
+la discipline titulaires du BEES 1er degré, option “ escalade ”, du BEES 2e degré, option escalade , d'un DEJEPS mention
+escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme.
 
 A titre dérogatoire, l'établissement doit obligatoirement disposer au minimum d'un personnel technique et pédagogique, de
 l'établissement agent de l'Etat spécialiste de la discipline et d'un personnel contractuel de catégorie A, permanent de
 l'établissement dont l'activité principale est l'organisation et le suivi des stagiaires dans l'établissement. Ces personnes
-doivent être titulaires d'un des quatre diplômes précités de la discipline. 
+doivent être titulaires d'un des quatre diplômes précités de la discipline.
 
-La coordination technique et pédagogique des formations  escalade  en environnement spécifique, ainsi que sa mise en œuvre
-est assurée par l'une ou l'autre de ces personnes qui peuvent être assistées d'un agent de l'établissement en charge du suivi
+La coordination technique et pédagogique des formations escalade en environnement spécifique, ainsi que sa mise en œuvre est
+assurée par l'une ou l'autre de ces personnes qui peuvent être assistées d'un agent de l'établissement en charge du suivi
 administratif du stagiaire. Le coordonnateur technique et pédagogique est titulaire d'un diplôme de référence couvrant
-l'escalade en environnement spécifique. 
+l'escalade en environnement spécifique.
 
 L'établissement peut recruter des intervenants dans le cadre de la formation habilitée. Ces intervenants doivent disposer
 pour les parties relevant de l'escalade en environnement spécifique de l'un des trois diplômes à jour des recyclages
-(attestation en cours de validité) : BEES 2e degré, option  escalade , d'un DEJEPS mention  escalade en milieux naturels , du
-diplôme de guide haute montagne du brevet d'Etat d'alpinisme et à titre transitoire jusqu'au 31 janvier 2007 d'un BEES du 1er
-degré, option  escalade . Ils peuvent être intégrés à l'équipe pédagogique et associés à l'ingénierie des formations. 
+(attestation en cours de validité) : d'un BEES du 1er degré, option “ escalade ”, d'un BEES 2e degré, option escalade , d'un
+DEJEPS mention escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme. Ils peuvent
+être intégrés à l'équipe pédagogique et associés à l'ingénierie des formations.
 
-Clause 2. - L'établissement respecte les taux d'encadrement des stagiaires ainsi déterminés : 
+Clause 2. - L'établissement respecte les taux d'encadrement des stagiaires ainsi déterminés :
 
 - le taux d'un formateur pour quatre stagiaires maximum en situation de grande hauteur à l'exception de la via ferrata et des
-activités connexes ; 
+activités connexes ;
 
-- le taux d'encadrement d'un formateur pour huit stagiaires maximum pour toutes les autres situations. 
+- le taux d'encadrement d'un formateur pour huit stagiaires maximum pour toutes les autres situations.
 
 L'établissement conserve la responsabilité d'adapter le nombre de stagiaires en fonction des situations rencontrées. Le
 formateur doit être en capacité d'intervenir rapidement et le nombre de formateurs doit être proportionné au nombre de
-stagiaires. 
+stagiaires.
 
-Clause 3. - L'établissement démontre son inscription dans le bassin géographique : 
+Clause 3. - L'établissement démontre son inscription dans le bassin géographique :
 
 - en s'inscrivant dans un contexte historique et culturel favorable à la formation et en développant la culture propre à
-l'escalade en environnement spécifique ; 
+l'escalade en environnement spécifique ;
 
 - en démontrant une expertise reconnue dans la formation en escalade en environnement spécifique et son investissement dans
-cette activité ; 
+cette activité ;
 
-- en faisant la preuve d'une proximité entre le site de formation et les sites de pratique : 
+- en faisant la preuve d'une proximité entre le site de formation et les sites de pratique :
 
 - avec un éventail de sites de pratiques adaptés à la filière et situés à proximité du lieu de formation, soit à une distance
-de moins de 50 km (sites de bloc, sites sportifs, sites de grandes voies, sites  terrain d'aventure , parcours acrobatiques
-en hauteur, via ferrata, structures artificielles d'escalade) ; et 
+de moins de 50 km (sites de bloc, sites sportifs, sites de grandes voies, sites terrain d'aventure , parcours acrobatiques en
+hauteur, via ferrata, structures artificielles d'escalade) ; et
 
 - 50 % de la formation technique et pédagogique qui doit pouvoir se faire à proximité de l'établissement ; pour le reste de
 la formation, l'établissement doit prévoir des déplacements sur différents massifs afin de garantir la diversité des
-pratiques. 
+pratiques.
 
 Clause 4. - L'établissement démontre qu'il dispose d'un éventail de matériel technique adapté à la mise en œuvre des
-formations. 
+formations.
 
 L'établissement peut compléter exceptionnellement ce matériel en passant des conventions de mise à disposition conclues avec
-des entreprises spécialisées dans l'activité. 
+des entreprises spécialisées dans l'activité.
 
-L'établissement doit : 
+L'établissement doit :
 
 - assurer la gestion des équipements de protection individuelle dont il a la charge et désigner un responsable de ce
-matériel, spécialiste de la discipline et appartenant au personnel de l'établissement ; 
+matériel, spécialiste de la discipline et appartenant au personnel de l'établissement ;
 
-- être en mesure de garantir la maintenance du matériel dont les équipements de protection individuelle ; 
+- être en mesure de garantir la maintenance du matériel dont les équipements de protection individuelle ;
 
 - s'assurer que les conditions d'utilisation, de stockage, d'entretien, de sécurité de ce matériel sont conformes à la
-réglementation des équipements de protection individuelle. 
+réglementation des équipements de protection individuelle.
 
 Clause 5. - L'établissement met à disposition de chaque cadre en charge de groupe de stagiaires tous les moyens nécessaires
-pour déclencher les secours (premiers soins, mise en attente des victimes et déclenchement des secours). 
+pour déclencher les secours (premiers soins, mise en attente des victimes et déclenchement des secours).
 
-Clause 6. - L'établissement conclut des conventions et des partenariats. 
+Clause 6. - L'établissement conclut des conventions et des partenariats.
 
 L'établissement peut engager tous les partenariats utiles pour la formation avec l'ensemble des acteurs (direction technique
 nationale, fédérations, représentants des professionnels, syndicats, établissements relevant du ministère des sports...),
 sous réserve d'assurer en propre la coordination pédagogique et technique de ces formations afin d'exercer pleinement sa
-responsabilité et s'assurer des conditions de sécurité des stagiaires et des publics d'application. 
+responsabilité et s'assurer des conditions de sécurité des stagiaires et des publics d'application.
 
 L'établissement doit démontrer la réalité de ses partenariats liés au contexte local et géographique (gestion des sites,
 accès aux structures artificielles d'escalade, préservation de l'environnement,...) avec les structures mettant à disposition
-du public pédagogique. 
+du public pédagogique.
 
 Lorsqu'un site de pratique utile à la formation est éloigné de l'établissement, ce dernier peut par convention s'appuyer sur
-un centre d'hébergement situé à proximité du site de pratique concerné. 
+un centre d'hébergement situé à proximité du site de pratique concerné.
 
-Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
 
-L'établissement démontre qu'il veille à la qualité du tutorat au travers des obligations du tuteur qui doit : 
+L'établissement démontre qu'il veille à la qualité du tutorat au travers des obligations du tuteur qui doit :
 
 - mettre en relation les contenus de formation en centre et les situations professionnelles concrètes proposées au
-stagiaire ; 
+stagiaire ;
 
-- aider le stagiaire à s'insérer dans l'activité professionnelle ; 
+- aider le stagiaire à s'insérer dans l'activité professionnelle ;
 
-- mettre le stagiaire en situation d'accueillir et d'informer le public ; 
+- mettre le stagiaire en situation d'accueillir et d'informer le public ;
 
 - associer le stagiaire puis le responsabiliser à la gestion du matériel, à l'enseignement de l'escalade et à la conduite de
-groupe ; 
+groupe ;
 
 - mettre le stagiaire en situation d'observation puis de coencadrement dans le cadre de ses séances (étape 1 de
-l'alternance) ; 
+l'alternance) ;
 
 - valider la préparation des activités d'enseignement de l'escalade organisées et conduites en autonomie par le stagiaire
-(étape 2 de l'alternance) ; 
+(étape 2 de l'alternance) ;
 
 - impliquer le stagiaire dans la conception et l'encadrement des séances d'escalade relevant de l'étape 3 du face-à-face
-pédagogique ; 
+pédagogique ;
 
-- conduire des temps de bilan pour chaque sortie ; 
+- conduire des temps de bilan pour chaque sortie ;
 
-- rendre compte de l'activité du stagiaire et évaluer le stagiaire au moyen d'un livret normalisé de formation tutorée ; 
+- rendre compte de l'activité du stagiaire et évaluer le stagiaire au moyen d'un livret normalisé de formation tutorée ;
 
-- signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ; 
+- signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ;
 
-- émettre en fin de formation tout avis utile à l'acquisition des compétences dans l'ensemble du dispositif de formation. 
+- émettre en fin de formation tout avis utile à l'acquisition des compétences dans l'ensemble du dispositif de formation.
 
 L'établissement établit annuellement une liste de tuteurs sur proposition des partenaires socioprofessionnels (Fédération
-française de montagne et escalade, FFCAM, structures représentant la profession). 
+française de montagne et escalade, FFCAM, structures représentant la profession).
 
-L'établissement doit vérifier que le professionnel remplit les conditions pour accéder aux fonctions de tuteur : 
+L'établissement doit vérifier que le professionnel remplit les conditions pour accéder aux fonctions de tuteur :
 
-- avoir participé à une formation à la fonction tutorale ; 
+- avoir participé à une formation à la fonction tutorale ;
 
-- être à jour de ses obligations réglementaires ; 
+- être à jour de ses obligations réglementaires ;
 
-- être capable de justifier de trois ans d'ancienneté professionnelle en escalade sur tous types de terrain ; 
+- être capable de justifier de trois ans d'ancienneté professionnelle en escalade sur tous types de terrain ;
 
-- être capable de proposer des publics diversifiés pour l'enseignement de l'escalade ; 
+- être capable de proposer des publics diversifiés pour l'enseignement de l'escalade ;
 
 - être capable de proposer des activités et des supports diversifiés pour l'ensemble des activités des parcours de l'escalade
-couvert par un ou deux tuteurs maximum ; 
+couvert par un ou deux tuteurs maximum ;
 
-- permettre ou faciliter l'accès à une connexion internet indispensable au suivi de la formation ; 
+- permettre ou faciliter l'accès à une connexion internet indispensable au suivi de la formation ;
 
-- être titulaire et à jour de son recyclage (attestation en cours de validité) : 
+- être titulaire et à jour de son recyclage (attestation en cours de validité) :
 
-- soit du DEJEPS mention  escalade en milieux naturels  ; 
+- soit du DEJEPS mention escalade en milieux naturels ;
 
-- soit du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme ; 
+- soit du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme ;
 
-- soit du brevet d'Etat d'éducateur sportif du 2e degré option  escalade  ; ou 
+- soit du brevet d'Etat d'éducateur sportif du 2e degré option escalade ; ou
 
-- à défaut mais de manière transitoire jusqu'au 31 janvier 2017 d'une des qualifications suivantes : 
+- soit du brevet d'Etat d'éducateur sportif du 1er degré option escalade ;
 
-- du brevet d'Etat d'éducateur sportif du 1er degré option  escalade  ; 
+- soit du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme.
 
-- du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme. 
-
-L'établissement doit s'assurer que le tuteur exerce ses responsabilités : 
+L'établissement doit s'assurer que le tuteur exerce ses responsabilités :
 
 - dans les étapes 1 et 3 du face-à-face pédagogique, le tuteur est physiquement présent auprès des publics et du stagiaire
 dont il est en charge et est le seul responsable de la sécurité collective. Le tuteur peut suivre au maximum deux stagiaires
-dans le cadre de la durée de l'habilitation de la formation, mais un seul en situation pédagogique ; 
+dans le cadre de la durée de l'habilitation de la formation, mais un seul en situation pédagogique ;
 
-- dans les autres circonstances, le tuteur et le stagiaire sont coresponsables de l'organisation de l'activité. 
+- dans les autres circonstances, le tuteur et le stagiaire sont coresponsables de l'organisation de l'activité.
 
-L'établissement doit utiliser les outils du suivi de l'alternance comme le livret de formation tutorée : 
+L'établissement doit utiliser les outils du suivi de l'alternance comme le livret de formation tutorée :
 
-- l'établissement doit fournir des outils de suivi de l'alternance par des documents normalisés ; 
+- l'établissement doit fournir des outils de suivi de l'alternance par des documents normalisés ;
 
-- le suivi du tutorat est du ressort de l'équipe pédagogique de l'établissement ; 
+- le suivi du tutorat est du ressort de l'équipe pédagogique de l'établissement ;
 
 - le livret d'alternance de formation tutorée est le journal de bord de la formation en structure professionnelle et du
-tutorat. Il permet de faire le lien entre l'équipe pédagogique, le stagiaire et le tuteur. 
+tutorat. Il permet de faire le lien entre l'équipe pédagogique, le stagiaire et le tuteur.
 
 L'établissement s'engage à faire au moins une visite à chaque stagiaire à l'occasion de laquelle se déroulent une mise en
-situation pédagogique et un entretien d'évaluation formative. 
+situation pédagogique et un entretien d'évaluation formative.
 
 Clause 8. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 9. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre
-pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvre. 
+pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvre.
 
-I. - Clauses particulières du canyonisme 
+I. - Clauses particulières du canyonisme
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
-dispose d'une équipe pédagogique respectant les principes suivants : 
+dispose d'une équipe pédagogique respectant les principes suivants :
 
 - la coordination des formations est confiée à au moins deux personnels techniques et pédagogiques appartenant à
-l'établissement et titulaires d'un diplôme de niveau II ou du DEJEPS mention  canyonisme , afin d'assurer la continuité des
-formations mises en place. 
+l'établissement et titulaires d'un diplôme de niveau II ou du DEJEPS mention canyonisme , afin d'assurer la continuité des
+formations mises en place.
 
 Si ces conditions ne sont pas réunies et à titre dérogatoire, la coordination est confiée à deux agents de l'établissement
-dont l'activité principale est l'organisation et le suivi des stagiaires dans l'établissement ; 
+dont l'activité principale est l'organisation et le suivi des stagiaires dans l'établissement ;
 
 - l'ensemble des intervenants auxquels l'établissement peut faire appel dans le cadre de la formation disposent des
 prérogatives d'exercice relatives à la discipline. Les intervenants sont associés à l'ingénierie, à la conception des
-formations et intégrés aux réunions de travail pédagogique. 
+formations et intégrés aux réunions de travail pédagogique.
 
-Clause 2. - Pour la qualité de l'enseignement l'établissement respecte le taux d'encadrement suivant : 
+Clause 2. - Pour la qualité de l'enseignement l'établissement respecte le taux d'encadrement suivant :
 
-- un formateur pour quatre stagiaires maximum en progression technique en canyon ; 
+- un formateur pour quatre stagiaires maximum en progression technique en canyon ;
 
 - l'établissement conserve la responsabilité de réduire le nombre de stagiaires par formateur en fonction des situations
-rencontrées. 
+rencontrées.
 
-Clause 3. - L'établissement démontre que son inscription dans le bassin géographique se concrétise : 
+Clause 3. - L'établissement démontre que son inscription dans le bassin géographique se concrétise :
 
-- en faisant valoir que le canyonisme est lié culturellement à la zone géographique d'implantation de l'établissement ; 
+- en faisant valoir que le canyonisme est lié culturellement à la zone géographique d'implantation de l'établissement ;
 
 - en collaborant avec les structures professionnelles installées dans le bassin géographique en raison de leur proximité et
-du lien historique avec la discipline ; 
+du lien historique avec la discipline ;
 
-- en faisant valoir la corrélation entre le bassin géographique, le bassin d'activité et le bassin d'emploi ; 
+- en faisant valoir la corrélation entre le bassin géographique, le bassin d'activité et le bassin d'emploi ;
 
 - en organisant la pratique sur des sites du secteur géographique de l'établissement et en disposant d'un ensemble de sites
 de pratique permettant à l'établissement d'assurer la plus grande partie de sa formation dans un environnement proche de
 moins d'une heure de déplacement. L'établissement peut cependant organiser des modules de formation sur d'autres sites
-géographiques particulièrement adaptés aux nécessités pédagogiques et techniques de la discipline. 
+géographiques particulièrement adaptés aux nécessités pédagogiques et techniques de la discipline.
 
 Clause 4. - L'établissement dispose du matériel technique principal nécessaire à la formation des stagiaires, à ce titre il
-doit : 
+doit :
 
 - pouvoir présenter au stagiaire une variété de matériel dans le respect des règles déontologiques, afin de sensibiliser le
 stagiaire à la connaissance du matériel, à sa gestion et à son entretien. Ces éléments sont constitutifs de la culture de
-l'activité canyonisme et doivent être intégrés à la formation ; 
+l'activité canyonisme et doivent être intégrés à la formation ;
 
 - gérer les équipements de protection individuelle dont il est propriétaire et contrôler la gestion des équipements de
-protection individuelle des stagiaires ; 
+protection individuelle des stagiaires ;
 
 - veiller à ce que chaque groupe de stagiaires dispose du kit de sécurité imposé par l'établissement ainsi que des
-équipements permettant de déclencher les secours et de prodiguer les premiers soins. 
+équipements permettant de déclencher les secours et de prodiguer les premiers soins.
 
 Clause 5. - L'établissement conclut des conventions et des partenariats avec d'autres établissements, avec la ou les
-fédérations et les organismes professionnels du secteur d'activité. 
+fédérations et les organismes professionnels du secteur d'activité.
 
-Clause 6. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 6. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance.
 
-L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur qui doit : 
+L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur qui doit :
 
 - mettre en relation les contenus de formation en centre et les situations professionnelles concrètes proposées au
-stagiaire ; 
+stagiaire ;
 
-- aider le stagiaire à s'insérer dans l'activité professionnelle ; 
+- aider le stagiaire à s'insérer dans l'activité professionnelle ;
 
-- mettre le stagiaire en situation d'accueillir et d'informer le public ; 
+- mettre le stagiaire en situation d'accueillir et d'informer le public ;
 
-- associer le stagiaire puis le responsabiliser à la gestion du matériel ; 
+- associer le stagiaire puis le responsabiliser à la gestion du matériel ;
 
 - associer le stagiaire puis le responsabiliser progressivement à la conduite de groupe en accompagnement de ses propres
-prestations ; 
+prestations ;
 
 - valider la préparation des activités d'enseignement du canyonisme du stagiaire organisées et conduites en autonomie par
-celui-ci (dans la limite de la classification 3/3/ II ; 
+celui-ci (dans la limite de la classification 3/3/ II ;
 
-- conduire des temps de bilan pour chaque sortie ; 
+- conduire des temps de bilan pour chaque sortie ;
 
-- rendre compte de l'activité du stagiaire et l'évaluer au moyen d'un livret normalisé de formation tutorée ; 
+- rendre compte de l'activité du stagiaire et l'évaluer au moyen d'un livret normalisé de formation tutorée ;
 
-- signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ; 
+- signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ;
 
-- émettre en fin de formation tout avis utile à l'acquisition des compétences dans l'ensemble du dispositif de formation. 
+- émettre en fin de formation tout avis utile à l'acquisition des compétences dans l'ensemble du dispositif de formation.
 
-L'établissement doit vérifier que le professionnel pour accéder aux fonctions de tuteur remplit les conditions suivantes : 
+L'établissement doit vérifier que le professionnel pour accéder aux fonctions de tuteur remplit les conditions suivantes :
 
-- être à jour de ses obligations réglementaires ; 
+- être à jour de ses obligations réglementaires ;
 
-- être capable de justifier de trois ans d'ancienneté professionnelle en canyonisme ; 
+- être capable de justifier de trois ans d'ancienneté professionnelle en canyonisme ;
 
-- être capable de proposer des publics diversifiés dans la conduite de l'activité ; 
+- être capable de proposer des publics diversifiés dans la conduite de l'activité ;
 
-- être capable de proposer au moins trois canyons différents pour les mises en situation pédagogique ; 
+- être capable de proposer au moins trois canyons différents pour les mises en situation pédagogique ;
 
-- avoir participé à une journée de formation à la fonction tutorale ; 
+- avoir participé à une journée de formation à la fonction tutorale ;
 
-- permettre ou faciliter l'accès à une connexion internet ; 
+- permettre ou faciliter l'accès à une connexion internet ;
 
-- être titulaire du DEJEPS mention  canyonisme  ou, à défaut, d'une des qualifications suivantes (prévues dans l'article 6 de
-l'arrêté du 26 mai 2010) : 
+- être titulaire du DEJEPS mention canyonisme ou, à défaut, d'une des qualifications suivantes (prévues dans l'article 6 de
+l'arrêté du 26 mai 2010) :
 
-- brevet d'Etat d'éducateur sportif du 1er degré option  escalade  délivré après le 1er janvier 1997 ; 
+- brevet d'Etat d'éducateur sportif du 1er degré option escalade délivré après le 1er janvier 1997 ;
 
-- brevet d'Etat d'éducateur sportif du 1er degré option  spéléologie  délivré après le 1er janvier 1997 ; 
+- brevet d'Etat d'éducateur sportif du 1er degré option spéléologie délivré après le 1er janvier 1997 ;
 
-- diplôme d'aspirant guide du brevet d'Etat d'alpinisme assorti de l'attestation de stage  canyon  délivré jusqu'au 1er
-juillet 2013 ; 
+- diplôme d'aspirant guide du brevet d'Etat d'alpinisme assorti de l'attestation de stage canyon délivré jusqu'au 1er juillet
+2013 ;
 
-- diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 1er janvier 1997 et le 1er juillet 2013 ; 
+- diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 1er janvier 1997 et le 1er juillet 2013 ;
 
-- diplôme d'accompagnateur en moyenne montagne option  moyenne montagne tropicale  du brevet d'Etat d'alpinisme assorti du
-certificat de qualification complémentaire  encadrement du canyon en milieu tropical  ; 
+- diplôme d'accompagnateur en moyenne montagne option moyenne montagne tropicale du brevet d'Etat d'alpinisme assorti du
+certificat de qualification complémentaire encadrement du canyon en milieu tropical ;
 
-- attestation de qualification et d'aptitude à l'enseignement du canyon. 
+- attestation de qualification et d'aptitude à l'enseignement du canyon.
 
 L'établissement élabore et met en place les outils de suivi de l'alternance qui doivent être utilisés comme le livret de
-formation tutorée qui peut comprendre notamment : 
+formation tutorée qui peut comprendre notamment :
 
 - une première partie rendant compte des situations professionnelles relatives à la mise en situation pédagogique en
-autonomie appelée  carnet de courses de 1er niveau  ; 
+autonomie appelée carnet de courses de 1er niveau ;
 
 - une deuxième partie rendant compte des situations professionnelles relatives à l'accompagnement du tuteur dans son exercice
-professionnel appelée  carnet de courses de niveau 2  ; 
+professionnel appelée carnet de courses de niveau 2 ;
 
 - une troisième partie rendant compte des situations professionnelles relatives à la conception et à la coordination de
-l'activité, appelée  environnement professionnel . 
+l'activité, appelée environnement professionnel .
 
-L'établissement garantit le suivi du livret de formation à distance. 
+L'établissement garantit le suivi du livret de formation à distance.
 
 L'établissement participe à l'élaboration de la liste nationale de tuteurs établie avec les fédérations et les partenaires
 professionnels qui proposent annuellement des listes de tuteurs motivés pour exercer cette fonction et répondant aux
-critères. 
+critères.
 
 Clause 7. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 8. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre
-pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvres. 
+pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mises en œuvres.
 
-J. - Clauses particulières du parachutisme 
+J. - Clauses particulières du parachutisme
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations, sur le plan pédagogique, l'établissement dispose de l'équipe
-pédagogique suivante : 
+pédagogique suivante :
 
 - l'établissement s'attache à mobiliser prioritairement ses moyens propres en personnels techniques et pédagogiques
 spécialisés dans la discipline et en logistique. A minima, la coordination de chaque formation professionnelle mise en œuvre
 par l'établissement est confiée à un personnel technique et pédagogique de l'Etat titulaire d'un brevet d'Etat d'éducateur
-sportif 2e degré option  parachutisme  ou d'un diplôme d'Etat supérieur, spécialité  performance sportive  mention
-parachutisme  ; 
+sportif 2e degré option parachutisme ou d'un diplôme d'Etat supérieur, spécialité performance sportive mention parachutisme ;
 
 - en cas d'impossibilité, l'établissement confie la coordination administrative à un personnel de l'établissement et désigne
 d'un commun accord avec la Fédération française de parachutisme un coordonnateur pédagogique et technique appartenant à la
-direction technique nationale placée auprès de la fédération ; 
+direction technique nationale placée auprès de la fédération ;
 
 - des cadres techniques de la fédération dont le nombre de jours d'intervention et le volume horaire par stagiaire sont fixés
-par convention et d'intervenants ayant un lien de subordination avec l'établissement constituent l'équipe pédagogique. 
+par convention et d'intervenants ayant un lien de subordination avec l'établissement constituent l'équipe pédagogique.
 
-Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par : 
+Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
 
-- une proximité entre le site de formation et les sites de pratique ; 
+- une proximité entre le site de formation et les sites de pratique ;
 
 - un contexte historique et culturel favorable à la formation et le développement autour de cette activité d'une culture
-propre au parachutisme ; 
+propre au parachutisme ;
 
-- l'expertise reconnue dans la formation au parachutisme et son investissement dans cette activité ; 
+- l'expertise reconnue dans la formation au parachutisme et son investissement dans cette activité ;
 
-- l'identification du bassin d'activité et sa cohérence avec l'offre de formation qui en découle ; 
+- l'identification du bassin d'activité et sa cohérence avec l'offre de formation qui en découle ;
 
 - la construction d'un réseau avec l'ensemble des organismes concernés par la discipline tant sur le plan du développement de
-l'activité et de sa structuration que de sa gestion. 
+l'activité et de sa structuration que de sa gestion.
 
 Clause 3. - L'établissement respecte l'ensemble des dispositions relatives aux établissements organisant la pratique du
-parachutisme déterminées par le code du sport. 
+parachutisme déterminées par le code du sport.
 
-Clause 4. - L'établissement peut conclure des conventions avec différents partenaires. 
+Clause 4. - L'établissement peut conclure des conventions avec différents partenaires.
 
 Ces conventions ont pour objet la définition de l'organisation, de la mise en œuvre des formations en parachutisme, et des
-obligations qui en découlent pour chacun. 
+obligations qui en découlent pour chacun.
 
-Clause 5. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance. 
+Clause 5. - L'établissement doit démontrer sa connaissance des structures d'accueil des stagiaires en alternance.
 
 L'établissement s'assure de l'existence de la convention de formation en entreprise. Cette convention détermine les
 conditions de mises en situation professionnelle sous tutorat. Elle est cosignée par le directeur de l'organisme de
-formation, le responsable de la structure, le tuteur et le stagiaire. 
+formation, le responsable de la structure, le tuteur et le stagiaire.
 
 L'établissement fixe un cahier des charges aux structures d'accueil. Les structures d'accueil souhaitant recevoir un
 stagiaire en formation au parachutisme devront respecter ce cahier des charges afin de s'assurer que le stagiaire soit mis
-dans les meilleures dispositions pour la réussite de son parcours de formation. 
+dans les meilleures dispositions pour la réussite de son parcours de formation.
 
-L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur. 
+L'établissement doit démontrer qu'il veille à la qualité du tutorat au travers des obligations du tuteur.
 
 Ainsi, pour les phases de tutorat des activités en vol, le tuteur doit détenir la mention en état de validité correspondant à
 l'activité du stagiaire. Le tuteur peut accompagner au maximum deux stagiaires comme défini dans la convention de stage en
-entreprise. Le tuteur doit : 
+entreprise. Le tuteur doit :
 
 - mettre en relation les contenus de formation en centre et les situations professionnelles concrètes proposées au
-stagiaire ; 
+stagiaire ;
 
-- aider le stagiaire à s'insérer dans l'activité professionnelle ; 
+- aider le stagiaire à s'insérer dans l'activité professionnelle ;
 
-- mettre le stagiaire en situation d'accueillir et d'informer le public ; 
+- mettre le stagiaire en situation d'accueillir et d'informer le public ;
 
 - associer le stagiaire, le former, puis le responsabiliser progressivement à la direction de séance de sauts et à
-l'utilisation des différents moyens logistiques de la structure ; 
+l'utilisation des différents moyens logistiques de la structure ;
 
-- conduire des temps de bilan à l'issue d'une ou de plusieurs activités du stagiaire ; 
+- conduire des temps de bilan à l'issue d'une ou de plusieurs activités du stagiaire ;
 
 - émettre pendant la formation en entreprise tout avis utile à l'acquisition des compétences dans l'ensemble du dispositif de
-formation et signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ; 
+formation et signaler à l'organisme de formation les difficultés éventuelles rencontrées par le stagiaire ;
 
 - participer à l'évaluation permanente du stagiaire et aux évaluations certificatives lorsque le processus d'évaluation
-certificative le prévoit. 
+certificative le prévoit.
 
-L'établissement doit vérifier que le professionnel pour accéder aux fonctions de tuteur remplit les conditions suivantes : 
+L'établissement doit vérifier que le professionnel pour accéder aux fonctions de tuteur remplit les conditions suivantes :
 
-- être à jour de ses obligations réglementaires ; 
+- être à jour de ses obligations réglementaires ;
 
-- être volontaire pour exercer les fonctions de tuteur ; 
+- être volontaire pour exercer les fonctions de tuteur ;
 
 - justifier d'une relation contractuelle avec la structure d'accueil et s'engager à être présent dans la structure lors des
 phases qui prévoient sa présence effective lorsque le stagiaire est dans des phases d'encadrement pédagogique au sol et en
-vol ; 
+vol ;
 
 - avoir participé à un temps d'information - voire de formation - à la fonction tutorale et justifier d'une expérience
-adaptée ; 
+adaptée ;
 
-- être titulaire d'une des qualifications suivantes : BPJEPS spécialité  parachutisme  ; brevet d'Etat d'éducateur sportif du
-1er degré ou 2e option  parachutisme  ; DEJEPS spécialité  perfectionnement sportif  mention  parachutisme  ; DESJEPS
-spécialité  performance sportive  mention  parachutisme . 
+- être titulaire d'une des qualifications suivantes : BPJEPS spécialité parachutisme ; brevet d'Etat d'éducateur sportif du
+1er degré ou 2e option parachutisme ; DEJEPS spécialité perfectionnement sportif mention parachutisme ; DESJEPS spécialité
+performance sportive mention parachutisme .
 
-L'établissement élabore et met en place les outils de suivi de l'alternance qui doivent être utilisés : 
+L'établissement élabore et met en place les outils de suivi de l'alternance qui doivent être utilisés :
 
 - les applications informatiques afin de définir, pour chaque stagiaire, les contenus à aborder et les compétences à acquérir
-lors des différentes phases de la formation ; 
+lors des différentes phases de la formation ;
 
 - le carnet de liaison qui est un document remis au stagiaire en début de phase d'alternance. Il fait l'objet d'une
 exploitation par l'équipe des formateurs. Cette exploitation implique au minimum un retour personnalisé avec chaque stagiaire
 et avec le tuteur. Le carnet de liaison est renseigné en temps réel par le stagiaire et le tuteur, consultable par les
 différents signataires de la convention. Le tuteur tient à jour cet outil de liaison entre les deux pôles de formation. Ce
 carnet de liaison est conçu à partir des objectifs et des contenus de formation. Il est réalisé par les formateurs et les
-tuteurs. Une réunion préalable au début de la formation doit clarifier les modes d'intervention entre ces deux partenaires ; 
+tuteurs. Une réunion préalable au début de la formation doit clarifier les modes d'intervention entre ces deux partenaires ;
 
 - les outils utilisés et la description de la stratégie de suivi de la formation en entreprise sont joints au livret de
-formation délivré par l'organisme de formation. 
+formation délivré par l'organisme de formation.
 
 L'établissement veille à la position du stagiaire dans la structure d'accueil. Le stagiaire reste sous la responsabilité du
 tuteur qui doit lui fournir des instructions précises et assurer une surveillance régulière. Il ne peut laisser son stagiaire
 en autonomie complète et se doit de l'encadrer par des consignes, des objectifs définis et des conditions d'exercice
 précises. En particulier, le niveau de son intervention et son degré d'autonomie devront être en rapport avec le niveau de
-compétence acquis. 
+compétence acquis.
 
 L'établissement veille à la protection des stagiaires en matière de sécurité. L'organisme de formation et la structure
 d'accueil se doivent d'être exemplaires en matière de sécurité. Il est impératif d'être particulièrement vigilant sur le
-respect des règles et d'avoir une démarche positive et dynamique dans ce domaine. 
+respect des règles et d'avoir une démarche positive et dynamique dans ce domaine.
 
 Clause 6. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
-chargé des sports. 
+chargé des sports.
 
 Clause 7. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer
 un service public de formation de qualité.
+
+K. - Clauses particulières de la voile au-delà de 200 miles nautiques d'un abri :
+
+Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement
+dispose d'une équipe pédagogique constituée autour d'un coordonnateur pédagogique et technique qui a qualité de personnel
+technique et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant l'encadrement de la discipline
+voile en environnement spécifique.
+
+A titre exceptionnel, la fonction de coordination pourra être confiée à un professeur de sport titulaire d'un DEJEPS ou d'un
+BEES 2e degré dans la discipline.
+
+L'établissement recherche l'expertise dans la constitution et le fonctionnement de l'équipe pédagogique.
+
+L'établissement associe la direction technique nationale à l'ingénierie de formation.
+
+Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
+
+- un ancrage géographique de nature à permettre l'accès direct à une zone de navigation permettant la pratique de la
+navigation au-delà de 200 milles nautiques sans avoir à organiser un déplacement préalable de la formation ;
+
+- un milieu naturel adéquat et un contexte professionnel en lien avec les diplômes de l'environnement spécifique.
+
+Clause 3. - L'établissement doit respecter les taux d'encadrement des stagiaires ainsi déterminés.
+
+Ce taux d'encadrement varie selon les situations pédagogiques rencontrées mais, lors des temps de formation en navigation, il
+convient de différencier :
+
+- les temps de pratique n'excédant pas la journée où le taux d'encadrement est choisi par le coordonnateur de la formation
+dans les limites requises par les normes en vigueur ;
+
+- les temps à visée pédagogique en navigation au large où le taux d'encadrement sera de deux encadrants pour un maximum de
+six stagiaires.
+
+Clause 4. - L'établissement dispose du matériel technique nécessaire à la formation des stagiaires qui constitue un élément
+fondamental de culture de la sécurité en haute mer.
+
+L'établissement doit pouvoir disposer d'un support de navigation permettant l'évolution au-delà de 200 MN et adapté à
+l'embarquement des stagiaires en formation. L'établissement doit en outre être en capacité de présenter aux stagiaires une
+variété de matériels, pour les sensibiliser à leur utilisation, leur gestion et leur entretien, notamment en matière de
+sécurité, de liaison radio maritime et d'outils d'aide à la navigation.
+
+L'établissement dispose par ailleurs d'un fonds documentaire ouvert aux stagiaires afin de construire leur culture de
+l'activité tant du point de vue historique, technique, sportif et environnemental.
+
+Clause 5. - L'établissement puise sa légitimité dans sa capacité à offrir des formations dédiées à la sécurité en mer (stage
+survie, stage météorologie, stage médical, stage lié aux relations interpersonnelles à bord...).
+
+L'établissement puise en outre sa légitimité dans sa capacité à assurer des fonctions d'études ou de recherche dans le
+domaine de la sécurité des activités nautiques à la demande des autorités publiques en charges de ces questions et des
+acteurs du secours en mer.
+
+Clause 6. - L'établissement conclut des partenariats et conventions.
+
+L'établissement est responsable de l'ensemble de la formation habilitée et doit en conserver la totale maîtrise.
+
+L'établissement conclut des partenariats avec d'autres établissements publics avec la ou les fédérations, les organismes
+professionnels du secteur d'activité.
+
+Ces conventions de partenariats portent notamment sur le matériel, les compétences à rechercher.
+
+Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
+
+L'établissement démontre qu'il a une proximité avec les structures d'alternance en en constituant la liste et en ayant
+connaissance de leur capacité d'accueil ainsi que de la disponibilité des tuteurs.
+
+L'établissement organise les relations avec les tuteurs par :
+
+- la rédaction d'une charte de l'alternance fixant les modalités de collaboration entre l'établissement et les tuteurs ;
+
+- l'obligation pour les tuteurs d'effectuer a minima un bilan intermédiaire et un final avec le stagiaire en alternance. Au
+cours de la formation en entreprise et lors des bilans, les tuteurs doivent informer les centres de formation des
+problématiques rencontrées ;
+
+- l'obligation de les impliquer dans la certification ;
+
+- leur participation pour partie à la formation cadre des DEJEPS.
+
+Clause 8. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère
+chargé des sports.
+
+Clause 9. - L'établissement met en pratique les principes validés par le comité de coordination afin d'assurer un service
+public de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre pédagogique, des
+certifications, des techniques et pratiques enseignées, des technologies mobilisées.
 
 **Liens relatifs à cet article**
 
@@ -68509,9 +68587,9 @@ _Cité par_:
   - Arrêté du 26 mai 2010 - art. Annexe IV (V)
   - Code du sport. - art. A212-175-11 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 11 septembre 2013 - art.
+  - Arrêté du 26 septembre 2017 - art. 1
 
 
 ###### Article Annexe II-22(art. A231-2)
@@ -68676,7 +68754,7 @@ _Cité par_:
   - Code du sport. - art. A231-2 (V)
 
 
-### Annexes III<a id=562></a>
+### Annexes III<a id=561></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
