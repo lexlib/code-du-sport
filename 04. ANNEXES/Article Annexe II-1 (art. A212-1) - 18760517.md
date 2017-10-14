@@ -652,7 +652,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -711,7 +711,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -826,12 +826,12 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe D</td>
     </tr>
@@ -948,7 +948,7 @@ voile.</td>
 Pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe E</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F</td>
     </tr>
@@ -1004,7 +1004,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G</td>
     </tr>
@@ -1115,7 +1115,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -1189,7 +1189,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -1316,7 +1316,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -1389,7 +1389,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -2157,21 +2157,21 @@ d'apprentissage en judo-jujitsu, jusqu'au premier niveau de compétition fédér
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ épée".</td>
-      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
-de compétition fédérale.</td>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/épée".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option,
+jusqu'au premier niveau de compétition fédérale.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ sabre".</td>
-      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
-de compétition fédérale.</td>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/sabre".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option,
+jusqu'au premier niveau de compétition fédérale.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "sabre/ épée".</td>
-      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau
-de compétition fédérale.</td>
+      <td align="justify">BP JEPS, spécialité "éducateur sportif", mention "escrime", option "sabre/épée".</td>
+      <td align="justify">Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option,
+jusqu'au premier niveau de compétition fédérale.</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -2233,6 +2233,44 @@ sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs
 de sécurité définies aux articles A. 322-71 et suivants du code du sport.</td>
       <td align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "activités aquatiques et de la natation".</td>
+      <td align="left">Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques.
+Apprentissage et enseignement des différentes nages. Surveillance de tout lieu de pratique des activités aquatiques et
+sauvetage de tout public en milieu aquatique.</td>
+      <td align="left">Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de
+maître-nageur sauveteur en cours de validité.</td>
+    </tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en eau vive".</
+td>
+      <td align="left">Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition
+fédérale en eau calme et en eau vive, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation
+propulsée à la pagaie ou à la nage. Encadrement et animation du stand up paddle.
+
+Encadrement du canyonisme jusqu'à la cotation V1, A 5 et E II incluse.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en eau vive
+jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort".</td>
+      <td align="left">Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition
+fédérale en eau vive jusqu'à la classe III incluse en eau calme et en mer par vent de force 4 Beaufort maximum sur le site
+d'évolution, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou
+à la nage.
+
+Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en mer".</td>
+      <td align="left">Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition
+fédérale en eau calme et en mer des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation
+propulsée à la pagaie ou à la nage.
+
+Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer.</td>
+      <td align="left">
+    </td></tr>
   </tbody>
 </table>
 
@@ -2726,7 +2764,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -4073,4 +4111,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 28 juillet 2017 - art. 1
+  - Arrêté du 27 septembre 2017 - art. 1
