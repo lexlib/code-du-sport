@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-10-19
+Version Consolidée au 2017-11-30
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -531,7 +531,7 @@ Version Consolidée au 2017-10-19
         - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#528)
           - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#529)
             - [Sous-section 1 : Dispositions générales (art. A331-1)](#530)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. A331-2 à A331-5)](#531)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur (art. A331-2 à A331-5)](#531)
             - [Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur (art. A331-17 à A331-21)](#532)
             - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#533)
           - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#534)
@@ -52690,85 +52690,95 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=531></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur<a id=531></a>
 
 ###### Article A331-2
 
-Tout dossier de déclaration de manifestation sportive présenté par l'organisateur comprend : 
+Tout dossier de déclaration de manifestation sportive, mentionnée à l'article R. 331-6, présenté par l'organisateur
+comprend : 
 
-1° Les nom, adresse et coordonnées de l'organisateur ; 
+1° Les nom, adresse postale et électronique et coordonnées de l'organisateur et, le cas échéant, du coordonnateur chargé de
+la sécurité ; 
 
-2° La date et les horaires auxquels se déroule la manifestation ; 
+2° L'intitulé de la manifestation, la date, le lieu et les horaires auxquels elle se déroule ; 
 
-3° La nature et les modalités d'organisation de la manifestation, notamment son programme et son règlement ; 
+3° La discipline sportive concernée et les modalités d'organisation de la manifestation dont le programme et le règlement
+précisant si le départ et la circulation des participants sont groupés ; 
 
-4° Dans les cas où l'itinéraire est imposé aux participants, un plan  des voies empruntées sur lequel figurent les points de
-rassemblement ou  de contrôle préalablement définis (à joindre) ; 
+4° Un itinéraire détaillé incluant le plan des voies empruntées ainsi que la liste de ces voies, sur lequel figurent, le cas
+échéant, les points de rassemblement ou de contrôle préalablement définis et la plage horaire de passage estimée. Ces
+éléments sont fournis pour chaque parcours composant la manifestation ; 
 
-5° Le nombre maximal de participants à la manifestation ainsi que, le cas échéant, le nombre de véhicules d'accompagnement ; 
+5° Le nombre maximal de participants de la manifestation ainsi que, le cas échéant, le nombre de véhicules d'accompagnement.
+Ces éléments sont fournis pour chaque parcours composant la manifestation ; 
 
-6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ; 
+6° Les dispositions assurant la sécurité et la protection des participants et des tiers ; 
 
-7° Une attestation de police d'assurance souscrite par l'organisateur  de la manifestation, qui doit être présentée à
-l'autorité administrative  au plus tard six jours francs avant le début de la manifestation. 
+7° L'attestation de police d'assurance souscrite par l'organisateur de la manifestation ou, à défaut, une déclaration sur
+l'honneur engageant l'organisateur à fournir cette attestation à l'autorité administrative au plus tard six jours francs
+avant le début de la manifestation. 
 
-L'organisateur de la manifestation transmet le dossier complet de  déclaration au préfet territorialement compétent, au plus
-tard un mois  avant la date prévue pour son organisation. Si la manifestation se  déroule sur plusieurs départements, le
-dossier est adressé à chaque  préfet de département traversé.
+Par dérogation au 4°, les disciplines sportives pour lesquelles l'itinéraire des participants ne peut être défini à l'avance,
+telles que la course d'orientation, un plan de l'aire d'évolution des participants est transmis en lieu et place ainsi que la
+liste des voies susceptibles d'être empruntées.
+
+**Nota:**
+
+Conformément à l'article 3 de l'arrêté du 24 novembre 2017, les dossiers de demande d'autorisation ou de déclaration de
+manifestations actuellement en cours d'instruction restent régis par les dispositions en vigueur le jour du dépôt du dossier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 mai 2012 - art. 2
+  - Arrêté du 24 novembre 2017 - art. 1
 
 _Cité par_:
 
+  - Code du sport. - art. A331-3 (V)
   - Code du sport. - art. A331-6 (VT)
 
 _Cite_:
 
   - Code du sport. - art. R331-6
-  - Code du sport. - art. R331-8
 
 
 ###### Article A331-3
 
-Tout dossier de demande d'autorisation de manifestation sportive présenté par l'organisateur comprend : 
+Tout dossier de déclaration de manifestation sportive avec classement ou chronométrage comporte également, en plus des
+éléments mentionnés à l'article A. 331-2, les éléments suivants : 
 
-1° Les nom, adresse et coordonnées de l'organisateur ; 
+1° Le règlement de la manifestation, tel qu'il résulte des règles techniques et de sécurité mentionnées à l'article R.
+331-7 ; 
 
-2° La date et les horaires auxquels se déroule la manifestation ; 
+2° Le cas échéant, l'avis de la fédération délégataire concernée dans les conditions prévues à l'article R. 331-9 ou, à
+défaut, la saisine de la fédération ; 
 
-3° Un plan détaillé des voies et des parcours empruntés ; 
+3° Le nombre approximatif de spectateurs attendus pour la manifestation ; 
 
-4° Le nombre maximal de participants à la manifestation ; 
+4° Les dispositions assurant la sécurité et la protection des participants et des tiers prévues par les règles techniques et
+de sécurité de la fédération délégataire ; 
 
-5° La nature et les modalités d'organisation de la manifestation,  notamment son règlement particulier, tel qu'il résulte des
-règles  techniques et de sécurité mentionnées à l'article R. 331-7 ; 
+5° Le régime en matière de circulation publique demandé pour la manifestation sur le fondement de l'article R. 411-30 du code
+de la route et en adéquation avec les règles techniques et de sécurité de la fédération délégataire ; 
 
-6° L'avis de la fédération délégataire concernée ou, à défaut d'avis  rendu, la preuve de l'envoi par lettre recommandée avec
-accusé de  réception, de la demande d'avis déposée auprès de celle-ci, dans les  conditions prévues à l'article R. 331-9-1 ; 
+6° Les arrêtés pris par les autorités administratives compétentes pour définir le régime de circulation de la manifestation
+ou, à défaut, les arrêtés qui auront pu être recueillis au plus tard trois semaines avant la date de la manifestation ; 
 
-7° Le nombre approximatif de spectateurs attendus à la manifestation ; 
+7° La liste des personnes assurant les fonctions de signaleur dans les conditions prévues à l'article R. 411-31 du code de la
+route. Cette liste comprend le nom, le prénom, la date et le lieu de naissance du signaleur ainsi que le numéro de son permis
+de conduire. Elle est fournie au plus tard trois semaines avant la date de la manifestation.
 
-8° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ; 
+**Nota:**
 
-9° Une attestation de police d'assurance souscrite par l'organisateur  de la manifestation qui couvre sa responsabilité
-civile, celle des  participants à la manifestation et de toute personne nommément désignée  par l'organisateur qui prête son
-concours à l'organisation de celle-ci.  Cette attestation de police d'assurance doit être présentée à l'autorité
-administrative au plus tard six jours francs avant le début de la  manifestation. Le non-respect de ce délai entraîne le
-refus  d'autorisation par l'autorité administrative compétente. 
-
-L'organisateur de la manifestation est tenu de transmettre le dossier  complet au préfet territorialement compétent pour
-délivrer  l'autorisation, ainsi qu'à chaque préfet de département traversé, au  plus tard trois mois avant la date prévue
-pour son organisation. Si la  manifestation se déroule dans le cadre d'un seul département, ce délai  est réduit à deux mois.
+Conformément à l'article 3 de l'arrêté du 24 novembre 2017, les dossiers de demande d'autorisation ou de déclaration de
+manifestations actuellement en cours d'instruction restent régis par les dispositions en vigueur le jour du dépôt du dossier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 mai 2012 - art. 2
+  - Arrêté du 24 novembre 2017 - art. 1
 
 _Cité par_:
 
@@ -52779,38 +52789,48 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du sport. - art. Annexe III-21-1
+  - Code du sport. - art. A331-2 (V)
+  - Code du sport. - art. R331-7
+  - Code du sport. - art. R331-9
+  - Code de la route. - art. R411-30
+  - Code de la route. - art. R411-31
 
 
 ###### Article A331-4
 
-Si  les manifestations soumises à autorisation portent sur vingt  départements et plus, la demande d'autorisation est
-transmise par  l'organisateur, dans le délai minimal de trois mois, à chaque préfet de  département traversé et au ministre
-de l'intérieur.
+Sont dispensés de la formalité prévue au 2° de l'article A. 331-3 : 
+
+1° Les organisateurs membres de la fédération sportive délégataire compétente dès lors que la manifestation est inscrite au
+calendrier mentionné au 1° de l'article R. 131-26 ; 
+
+2° Les fédérations sportives agréées, leurs organes régionaux ou départementaux et leurs membres, dès lors qu'il existe dans
+la discipline faisant l'objet de la manifestation la convention mentionnée à l'article R. 331-9. Cette convention doit être
+jointe au dossier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 mai 2012 - art. 2
+  - Arrêté du 24 novembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A331-3
+  - Code du sport. - art. R131-26
+  - Code du sport. - art. R331-9
 
 
 ###### Article A331-5
 
-Le calendrier de la fédération sportive sous l'égide de laquelle l'épreuve a été placée indique les avis rendus en
-application de l'article R. 331-9-1. 
-
-La fédération indique sur ce calendrier et selon ses propres modalités, pour chaque manifestation inscrite, si l'avis délivré
-par la fédération délégataire est favorable ou s'il n'a pas été rendu. 
-
-Le calendrier de la fédération concernée et l'indication sur celui-ci de l'avis s'y rapportant constituent la modalité de
-publication prévue à l'article R. 331-9-1.
+L'autorité administrative compétente délivre un récépissé de déclaration à l'organisateur lorsque le dossier transmis est
+complet au plus tard trois semaines avant la date de la manifestation. Le cas échéant, elle transmet une copie de ce
+récépissé aux autorités de police locales concernées par la manifestation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 mai 2013 - art. 1
+  - Arrêté du 24 novembre 2017 - art. 1
 
 _Cite_:
 
@@ -53295,25 +53315,35 @@ _Cite_:
 
 La signalisation utilisée est celle qui sert à régler manuellement la circulation, telle qu'elle est définie au livre Ier,
 huitième partie, de l'instruction interministérielle relative à la signalisation routière : piquet mobile à deux faces,
-modèle K10 (un par signaleur). 
+modèle K10 (un par signaleur).
+
+Les signaleurs à motocyclette peuvent régler manuellement la circulation sans disposer d'un panneau K10 dès lors qu'ils
+portent un casque de type homologué et un gilet de haute visibilité mentionné à l'
+article R. 416-19 du code de la route
+. Pour ce faire, les signaleurs utilisent les gestes règlementaires nécessaires à l'arrêt et à la remise en circulation des
+véhicules.
 
 Pourront, en outre, être utilisés les barrages modèle K2, présignalés, signalant un obstacle de caractère temporaire et sur
-lesquels le mot " Course " sera inscrit. 
+lesquels le mot " Course " sera inscrit.
 
-Le  cas échéant, les voitures ouvreuses doivent être surmontées d'un  panneau signalant le début de la course et les
-voitures-balais d'un  panneau du même type signalant la fin de course. Les signaleurs occupant  ces véhicules peuvent
-utiliser des porte-voix.
+Le cas échéant, les voitures ouvreuses doivent être surmontées d'un panneau signalant le début de la course et les voitures-
+balais d'un panneau du même type signalant la fin de course. Les signaleurs occupant ces véhicules peuvent utiliser des
+porte-voix.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 3 mai 2012 - art. 5
+  - Arrêté du 24 novembre 2017 - art. 2
 
 _Cité par_:
 
   - Code du sport. - art. A331-41 (V)
   - Code du sport. - art. A331-42 (VD)
+
+_Cite_:
+
+  - Code de la route. - art. R416-19
 
 
 ###### Article A331-41
