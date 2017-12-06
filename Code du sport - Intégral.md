@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-12-01
+Version Consolidée au 2017-12-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -438,134 +438,141 @@ Version Consolidée au 2017-12-01
               - [Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents (art. A212-175-16 à A212-175-19)](#435)
           - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#436)
             - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#437)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art. A212-182 à A212-228)](#438)
-              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#439)
-                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#440)
-                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#441)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services. (art.  à A212-220)](#438)
+              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art.  à A212-181)](#439)
+                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art.  à A212-181)](#440)
+                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services (art.  à A212-181)](#441)
               - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#442)
                 - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#443)
                 - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#444)
-              - [Paragraphe 3  Plongée subaquatique (art. A212-193 à A212-198)](#445)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-193)](#446)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-194)](#447)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-195 à A212-197)](#448)
-                - [Sous-paragraphe 4 : Conditions d'exercice. (art. A212-198)](#449)
-              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#450)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#451)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#452)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#453)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#454)
-              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#455)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#456)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#457)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#458)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#459)
-              - [Paragraphe 7 : Alpinisme-Guide de haute montagne. (art. A212-221 à A212-228)](#460)
-                - [Sous-paragraphe 1 : Déclaration. (art. A212-221)](#461)
-                - [Sous-paragraphe 2 : Différence substantielle. (art. A212-222 à A212-224)](#462)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude. (art. A212-225 à A212-227)](#463)
-                - [Sous-paragraphe 4 :  Conditions d'exercice. (art. A212-228)](#464)
-      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#465)
-        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#466)
-          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#467)
-      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-4)](#468)
-        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-4)](#469)
-          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#470)
-          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#471)
-            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#472)
-            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#473)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#474)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#475)
-        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#476)
-          - [Section 1 : Dispositions communes (art. A312-1)](#477)
-          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#478)
-          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#479)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#480)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#481)
-          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#482)
-            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#483)
-            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#484)
-          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#485)
-            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#486)
-            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#487)
-              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#488)
-              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#489)
-              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#490)
-              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#491)
-              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#492)
-            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#493)
-              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#494)
-              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#495)
-              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#496)
-              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#497)
-            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#498)
-          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#499)
-            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#500)
-            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#501)
-            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#502)
-              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#503)
-              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#504)
-              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#505)
-            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#506)
-          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#507)
-            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#508)
-            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#509)
-            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#510)
-            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#511)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#512)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#513)
-            - [Paragraphe 1 : Champ d'application (art. A322-147)](#514)
-            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#515)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#516)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#517)
-            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#518)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#519)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#520)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#521)
-              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#522)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#523)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#524)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#525)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#526)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#527)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#528)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#529)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#530)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur (art. A331-2 à A331-5)](#531)
-            - [Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur (art. A331-16 à A331-21-3)](#532)
-              - [Paragraphe 1 : Manifestations et concentrations soumises à déclaration (art. A331-16 à A331-19)](#533)
-              - [Paragraphe 2 : Manifestations soumises à autorisation (art. A331-20 à A331-21)](#534)
-              - [Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000 (art. A331-21-1)](#535)
-              - [Paragraphe 4 : Dossier de demande d'homologation de circuit (art. A331-21-2 à A331-21-3)](#536)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#537)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#538)
-            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#539)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#540)
-          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#541)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#542)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#543)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#544)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#545)
-        - [Chapitre unique (art. A411-1 à A411-10)](#546)
-          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#547)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#548)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#549)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#550)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#551)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#552)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#553)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#554)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#555)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#556)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#557)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#558)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#559)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#560)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#561)
-      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#562)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#563)
-      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#564)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#565)
+              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#445)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#446)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#447)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#448)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#449)
+              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#450)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#451)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#452)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#453)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#454)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-228)](#455)
+              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#456)
+                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#457)
+                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#458)
+              - [Paragraphe 2 : Ski (art.  à A212-182-2)](#459)
+              - [Paragraphe 3  : Plongée subaquatique (art. A212-193 à A212-198)](#460)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-193)](#461)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-194)](#462)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-195 à A212-197)](#463)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-198)](#464)
+              - [Paragraphe 5 : Parachutisme (art.  à A212-198)](#465)
+              - [Paragraphe 6 : Spéléologie (art.  à A212-198)](#466)
+              - [Paragraphe 7 : Alpinisme-Guide de haute montagne (art. A212-221 à A212-228)](#467)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-221)](#468)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-222 à A212-224)](#469)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-225 à A212-227)](#470)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-228)](#471)
+      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#472)
+        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#473)
+          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#474)
+      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-4)](#475)
+        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-4)](#476)
+          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#477)
+          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#478)
+            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#479)
+            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#480)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#481)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#482)
+        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#483)
+          - [Section 1 : Dispositions communes (art. A312-1)](#484)
+          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#485)
+          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#486)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#487)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#488)
+          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#489)
+            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#490)
+            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#491)
+          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#492)
+            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#493)
+            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#494)
+              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#495)
+              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#496)
+              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#497)
+              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#498)
+              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#499)
+            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#500)
+              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#501)
+              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#502)
+              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#503)
+              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#504)
+            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#505)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#506)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#507)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#508)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#509)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#510)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#511)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#512)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#513)
+          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#514)
+            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#515)
+            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#516)
+            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#517)
+            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#518)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#519)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#520)
+            - [Paragraphe 1 : Champ d'application (art. A322-147)](#521)
+            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#522)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#523)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#524)
+            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#525)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#526)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#527)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#528)
+              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#529)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#530)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#531)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#532)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#533)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#534)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#535)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#536)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#537)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur (art. A331-2 à A331-5)](#538)
+            - [Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur (art. A331-16 à A331-21-3)](#539)
+              - [Paragraphe 1 : Manifestations et concentrations soumises à déclaration (art. A331-16 à A331-19)](#540)
+              - [Paragraphe 2 : Manifestations soumises à autorisation (art. A331-20 à A331-21)](#541)
+              - [Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000 (art. A331-21-1)](#542)
+              - [Paragraphe 4 : Dossier de demande d'homologation de circuit (art. A331-21-2 à A331-21-3)](#543)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#544)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#545)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#546)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#547)
+          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#548)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#549)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#550)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#551)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#552)
+        - [Chapitre unique (art. A411-1 à A411-10)](#553)
+          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#554)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#555)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#556)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#557)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#558)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#559)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#560)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#561)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#562)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#563)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#564)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#565)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#566)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#567)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#568)
+      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#569)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#570)
+      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#571)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#572)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -47007,6 +47014,715 @@ _Cite_:
 
 ##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=440></a>
 
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=441></a>
+
+##### Paragraphe 2 : Ski<a id=442></a>
+
+##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=443></a>
+
+###### Article A212-183
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux ressortissants d'un Etat membre de l'Union européenne ou
+partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation, l'enseignement et
+l'entraînement du snowboard exclusivement et sont soumis aux dispositions du titre XV de l'arrêté du 11 avril 2012 modifié
+relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 11 avril 2012
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-184
+
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement et l'entraînement du ski alpin et de ses activités dérivées, dans le cadre de la liberté d'établissement ou de
+la libre prestation de services, se déclarent au préfet du département de l'Isère. 
+
+Les dossiers de déclaration sont transmis par le préfet, au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
+permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-88
+  - Code du sport. - art. R212-92
+
+
+###### Article A212-185
+
+Pour l'encadrement du ski alpin et de ses activités dérivées, la différence substantielle au sens de l'article R. 212-90-1 et
+du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la qualification
+professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat de ski-
+moniteur national de ski alpin, en tant qu'elle intègre :
+
+- les compétences techniques de sécurité ;
+
+- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-90-1
+  - Code du sport. - art. R212-93
+
+
+###### Article A212-186
+
+Dans le cadre de la liberté d'établissement, lorsque le préfet estime, après avis de la section permanente du ski alpin de la
+commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, transmis au Pôle national des métiers
+de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il saisit la commission de
+reconnaissance des qualifications mentionnée à l'article R. 212-184, en joignant au dossier l'avis de la section permanente.
+Après s'être prononcée sur l'existence d'une différence substantielle, la commission de reconnaissance des qualifications
+propose, le cas échéant, au préfet de soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue à l'article R.
+212-90-1.
+
+**Nota:**
+
+Nota : Au lieu de " R. 212-184 ", lire " R. 212-84 ".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-84 (V)
+  - Code du sport. - art. R212-90-1
+
+
+###### Article A212-187
+
+Dans le cadre de la libre prestation de services, lorsque le préfet estime, après avis de la section permanente du ski alpin
+de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national des
+métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il peut décider de soumettre le
+déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3° de l'article R. 212-193.
+
+**Nota:**
+
+Nota : Au lieu de " R. 212-193 ", lire " R. 212-93 ".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-93 (V)
+
+
+###### Article A212-188
+
+L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
+pratiquants en sécurité. Elle comporte deux tests : 
+
+1° L'épreuve de l'eurotest prévue au titre VII et à l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue le test technique de sécurité ; 
+
+2° Le test eurosécurité prévu au titre X et à l'annexe VII-3 de l'arrêté du 26 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin, qui constitue le test de vérification des connaissances
+théoriques et pratiques et des compétences en matière de sécurité. 
+
+Dans le cas où le déclarant est soumis aux deux tests, l'eurotest est évalué en premier lieu. En cas d'échec, le déclarant ne
+peut pas se présenter à l'eurosécurité. 
+
+Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-4.
+
+**Nota:**
+
+Nota : Au lieu de " à l'annexe VII-3 de l'arrêté du 26 avril 2012 ", lire " à l'annexe VII-3 de l'arrêté du 11 avril 2012 ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 11 avril 2012 (V)
+  - Code du sport. - art. R212-90-1
+  - Code du sport. - art. R212-93
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-189
+
+Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
+égal ou inférieur à cent points pour les hommes et quatre-vingt-cinq points pour les femmes, sur l'échelle correspondant aux
+disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski. Ils sont
+dispensés de l'épreuve de l'eurotest.
+
+Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant doit avoir été acquis
+dans les cinq années précédant la déclaration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-190
+
+L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
+site de l'Ecole nationale de ski et d'alpinisme, en relation avec les directeurs régionaux de la jeunesse, des sports et de
+la cohésion sociale concernés, aux lieux et dates fixés annuellement par la section permanente du ski alpin de la commission
+de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-191
+
+Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
+
+Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test eurosécurité, composée de
+techniciens qualifiés titulaires d'un des diplômes définis à l'annexe IX de l'arrêté du 11 avril 2012 modifié relatif à la
+formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Elle propose au jury les résultats de son
+évaluation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 11 avril 2012 - art. 16
+  - Arrêté du 11 avril 2012 - art. Annexe IX
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-192
+
+Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
+identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une attestation de libre
+établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
+portent mention des conditions d'exercice suivantes : 
+
+Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble
+des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de
+l'emploi du Conseil supérieur des sports de montagne, à l'exclusion des zones glaciaires non balisées et des terrains dont la
+fréquentation fait appel aux techniques de l'alpinisme, dans les conditions prévues par l'arrêté du 11 avril 2012 modifié
+relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Autorisation d'exercer pour une
+durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+
+Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 11 avril 2012
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=444></a>
+
+###### Article A212-192-1
+
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement et l'entraînement du ski nordique de fond et de ses activités dérivées, dans le cadre de la liberté
+d'établissement ou de la libre prestation de services, se déclarent au préfet du département de l'Isère. 
+
+Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
+permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-88
+  - Code du sport. - art. R212-92
+
+
+###### Article A212-192-2
+
+Pour l'encadrement du ski nordique de fond et de ses activités dérivées, la différence substantielle, au sens de l'article R.
+212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la
+qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat
+de ski-moniteur national de ski nordique de fond en tant qu'elle intègre :
+
+- les compétences techniques de sécurité ;
+
+- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-90-1
+  - Code du sport. - art. R212-93
+
+
+###### Article A212-192-3
+
+Dans le cadre de la liberté d'établissement, lorsque le préfet estime, après avis de la section permanente du ski de fond de
+la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national des
+métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il saisit la commission de
+reconnaissance des qualifications mentionnée à l'article R. 212-84, en joignant au dossier l'avis de la section permanente.
+Après s'être prononcée sur l'existence d'une différence substantielle, la commission de reconnaissance des qualifications
+propose, le cas échéant, au préfet de soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue à l'article R.
+212-90-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-84
+  - Code du sport. - art. R212-90-1
+
+
+###### Article A212-192-4
+
+Dans le cadre de la libre prestation de services, lorsque le préfet estime, après avis de la section permanente du ski de
+fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national
+des métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il peut décider de
+soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3° de l'article R. 212-93.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-93
+
+
+###### Article A212-192-5
+
+L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
+pratiquants en sécurité. Elle comporte deux tests : 
+
+1° L'épreuve de performance du test de capacité technique prévu au titre VII de l'arrêté du 26 avril 2013 modifié relatif à
+la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond, qui constitue le test technique
+de sécurité ; 
+
+2° Un test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité. 
+
+Dans le cas où le déclarant est soumis aux deux tests, l'épreuve de performance du test de capacité technique est évaluée en
+premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au second test. 
+
+Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 26 avril 2013
+  - Code du sport. - art. R212-90-1
+  - Code du sport. - art. R212-93
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-192-6
+
+Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
+égal ou inférieur à deux cents points pour les hommes et deux cent cinquante points pour les femmes sur l'échelle
+correspondant au classement " distance " fixée par la Fédération internationale de ski. Ils sont dispensés du test technique
+de sécurité.
+
+Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant, doit avoir été acquis
+dans les cinq années précédant la déclaration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-192-7
+
+L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
+site du Centre national de ski nordique et de moyenne montagne en relation avec les directeurs régionaux de la jeunesse, des
+sports et de la cohésion sociale concernés, aux lieux et dates fixées annuellement par la section permanente du ski de fond
+de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-192-8
+
+Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 26 avril 2013 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
+
+Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test de vérification des connaissances
+théoriques et pratiques et des compétences en matière de sécurité, composée de techniciens qualifiés titulaires d'un des
+diplômes définis à l'annexe X de l'arrêté du 26 avril 2013 modifié relatif à la formation spécifique du diplôme d'Etat de
+ski-moniteur national de ski nordique de fond. Elle propose au jury les résultats de son évaluation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 26 avril 2013 - art. 16
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-192-9
+
+Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
+identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une attestation de libre
+établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
+portent mention des conditions d'exercice suivantes : 
+
+Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de
+l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de
+la formation et de l'emploi du Conseil supérieur des sports de montagne dans les conditions prévues par l'arrêté du 26 avril
+2013 relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. Autorisation
+d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
+
+Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 26 avril 2013
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Paragraphe 5 : Parachutisme<a id=445></a>
+
+##### Sous-paragraphe 1 : Déclaration<a id=446></a>
+
+###### Article A212-209
+
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement ou l'entraînement du parachutisme dans le cadre de la liberté d'établissement ou de la libre prestation de
+services se déclarent au préfet de la région Provence-Alpes-Côte d'Azur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Sous-paragraphe 2 : Différence substantielle<a id=447></a>
+
+###### Article A212-210
+
+La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la
+qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national, est
+appréciée en référence à la formation des deux diplômes suivants, en tant qu'ils intègrent les connaissances théoriques et
+pratiques en matière de sécurité et les compétences techniques de sécurité :
+
+1° Le brevet professionnel de la jeunesse de l'éducation populaire et du sport, spécialité “éducateur sportif” ci-après
+dénommé “BP JEPS”, mention “parachutisme” dans l'une des trois options A, B ou C suivantes :
+
+a) Option A : méthode traditionnelle (TRAD) ;
+
+b) Option B : progression accompagnée en chute (PAC) ;
+
+c) Option C : saut en tandem (TANDEM) ;
+
+2° Le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “perfectionnement sportif” ci-après
+dénommé “DE JEPS”, mention “parachutisme”.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cité par_:
+
+  - Code du sport. - art. A212-211 (M)
+
+
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=448></a>
+
+###### Article A212-211
+
+L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
+pratiquants en sécurité dans l'une des trois options A, B ou C de la mention “parachutisme” du BP JEPS, spécialité “éducateur
+sportif” ou dans la mention “parachutisme” du DE JEPS, spécialité “perfectionnement sportif ”, mentionnées à l'article A.
+212-210. Pour chacune des trois options de la première mention ou de la seconde mention, elle comporte deux tests :
+
+1° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité ;
+
+2° Un test technique de sécurité.
+
+Dans le cas où le déclarant est soumis aux deux tests, le test de vérification des connaissances théoriques et pratiques en
+matière de sécurité est évalué en premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au test technique de
+sécurité.
+
+Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-212
+
+L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Provence-
+Alpes-Côte d'Azur, par le centre de ressources, d'expertise et de performance sportive de Provence-Alpes-Côte d'Azur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-213
+
+Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
+sports de Provence-Alpes-Côte d'Azur ou son représentant et comprenant :
+
+- un représentant de la Fédération française de parachutisme ;
+
+- un ou plusieurs représentants des organisations professionnelles ;
+
+- un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau IV en parachutisme.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=449></a>
+
+###### Article A212-214
+
+Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
+identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
+d'éducateur sportif ou un récépissé de déclaration de prestation de services qui, selon le diplôme visé, portent mention, des
+conditions d'exercice suivantes :
+
+a) Pour l'option “méthode traditionnelle” (TRAD) de la mention “parachutisme” du BP JEPS : “Enseignement de la méthode
+traditionnelle dans tout établissement” ;
+
+b) Pour l'option “progression accompagnée en chute” (PAC) de la mention “parachutisme” du BP JEPS : “Enseignement de la
+progression accompagnée en chute dans tout établissement” ;
+
+c) Pour l'option “saut en tandem” (TANDEM) de la mention “parachutisme” du BP JEPS : “Enseignement du saut en tandem dans
+tout établissement” ;
+
+d) Pour la mention “parachutisme” du DE JEPS : “Enseignement, animation, encadrement du parachutisme ou entraînement de ses
+pratiquants” .
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Paragraphe 6 : Spéléologie<a id=450></a>
+
+##### Sous-paragraphe 1 : Déclaration<a id=451></a>
+
+###### Article A212-215
+
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement ou l'entraînement de la spéléologie dans le cadre de la liberté d'établissement ou de la libre prestation de
+services se déclarent au préfet du département de l'Isère. 
+
+Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur recevabilité et sollicite les trois avis suivants :
+
+- l'avis du centre de ressources, d'expertise et de performance sportive de Rhône-Alpes ;
+
+- l'avis de l'organisation professionnelle la plus représentative ;
+
+- l'avis de la Fédération française de spéléologie. 
+
+L'avis sollicité est transmis dans le délai de huit jours ouvrés au Pôle national des métiers de l'encadrement du ski et de
+l'alpinisme. A défaut, l'avis est réputé favorable.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. A142-9 (V)
+  - Code du sport. - art. R212-88 (V)
+  - Code du sport. - art. R212-92 (V)
+
+
+##### Sous-paragraphe 2 : Différence substantielle<a id=452></a>
+
+###### Article A212-216
+
+La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93 susceptible d'exister entre la
+qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national est
+appréciée en référence à la formation du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “
+perfectionnement sportif ” mention “ spéléologie ” en tant qu'il intègre les connaissances théoriques et pratiques en matière
+de sécurité et les compétences techniques de sécurité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. R212-90-1 (V)
+  - Code du sport. - art. R212-93 (V)
+
+
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=453></a>
+
+###### Article A212-217
+
+L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93 vise à vérifier la capacité du déclarant à encadrer les
+pratiquants en sécurité. Elle comporte deux tests : 
+
+1° un test de vérification des connaissances théoriques et pratiques en matière de sécurité ; 
+
+2° un test technique de sécurité. 
+
+Dans le cas où le déclarant est soumis aux deux tests, le test de vérification des connaissances théoriques et pratiques en
+matière de sécurité est évalué en premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au test technique de
+sécurité. 
+
+Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-2.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. Annexe II-16-2 (art. A212-217) (V)
+  - Code du sport. - art. R212-90-1 (V)
+  - Code du sport. - art. R212-93 (V)
+
+
+###### Article A212-218
+
+L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Auvergne
+Rhône-Alpes, par le centre de ressources, d'expertise et de performance sportive de Rhône-Alpes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+###### Article A212-219
+
+Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
+sports d'Auvergne Rhône-Alpes ou son représentant et comprenant :
+
+- le responsable du site de Vallon-Pont-d'Arc du centre de ressources, d'expertise et de performance sportive de Rhône-Alpes
+ou son représentant ;
+
+- au moins un représentant des organisations professionnelles les plus représentatives ;
+
+- deux représentants de la Fédération française de spéléologie dont le directeur technique national ou son représentant ;
+
+- un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau III en spéléologie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=454></a>
+
+###### Article A212-220
+
+Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différente substantielle a été
+identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
+d'éducateur sportif ou un récépissé de déclaration de prestation de services qui portent mention des conditions d'exercice
+suivantes : “Enseignement de la spéléologie dans toutes cavités, lieux d'entraînement pour tout public et dans le respect du
+milieu naturel. Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 4 décembre 2017 - art. 1
+
+
+##### Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=455></a>
+
+##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=456></a>
+
+##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=457></a>
+
 ###### Article A212-182
 
 Un exemplaire du formulaire nécessaire à la déclaration prévue à l'article R. 212-88 figure en annexe II-12-2-a. Ce
@@ -47046,7 +47762,7 @@ _Cite_:
   - Code du sport. - art. R212-88
 
 
-##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services<a id=441></a>
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services<a id=458></a>
 
 ###### Article A212-182-2
 
@@ -47065,479 +47781,64 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Paragraphe 2 : Ski<a id=442></a>
+##### Paragraphe 2 : Ski<a id=459></a>
 
-##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=443></a>
+##### Paragraphe 3  : Plongée subaquatique<a id=460></a>
 
-###### Article A212-183
-
-Les dispositions du présent paragraphe ne s'appliquent pas aux ressortissants d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
-l'enseignement et l'entraînement du snowboard exclusivement et sont soumis aux dispositions du titre XII de l'arrêté du 11
-avril 2012 modifié relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 11 avril 2012
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-184
-
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement et l'entraînement du ski alpin et de ses activités dérivées, dans le cadre de la liberté
-d'établissement ou de la libre prestation de services, se déclarent au préfet du département de l'Isère. 
-
-Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
-permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A142-9
-  - Code du sport. - art. R212-88
-  - Code du sport. - art. R212-92
-
-
-###### Article A212-185
-
-Pour l'encadrement du ski alpin et de ses activités dérivées, la différence substantielle au sens de l'article R. 212-90-1 et
-du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la qualification
-professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat de ski-
-moniteur national de ski alpin, en tant qu'elle intègre :
-
-- les compétences techniques de sécurité ;
-
-- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-186
-
-Dans le cadre de la liberté d'établissement, lorsque le préfet estime, après avis de la section permanente du ski alpin de la
-commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, transmis au Pôle national des métiers
-de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il saisit la commission de
-reconnaissance des qualifications mentionnée à l'article R. 212-84, en joignant au dossier l'avis de la section permanente.
-Après s'être prononcée sur l'existence d'une différence substantielle, la commission de reconnaissance des qualifications
-propose, le cas échéant, au préfet de soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue à l'article R.
-212-90-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-84
-  - Code du sport. - art. R212-90-1
-
-
-###### Article A212-187
-
-Dans le cadre de la libre prestation de services, lorsque le préfet estime, après avis de la section permanente du ski alpin
-de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national des
-métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il peut décider de soumettre le
-déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3° de l'article R. 212-93.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-188
-
-L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
-pratiquants en sécurité. Elle comporte deux tests : 
-
-1° L'épreuve de l'eurotest prévue au titre VII et à l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue le test technique de sécurité ; 
-
-2° Le test eurosécurité prévu au titre X et à l'annexe VII-3 de l'arrêté du 11 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin, qui constitue le test de vérification des connaissances
-théoriques et pratiques et des compétences en matière de sécurité. 
-
-Dans le cas où le déclarant est soumis aux deux tests, l'eurotest est évalué en premier lieu. En cas d'échec, le déclarant ne
-peut pas se présenter à l'eurosécurité. 
-
-Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-4.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 11 avril 2012 - art. Annexe V
-  - Arrêté du 11 avril 2012 - art. Annexe VII
-  - Code du sport. - art. Annexe II-16-4 (art. A212-188) (M)
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-189
-
-Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
-égal ou inférieur à cent points pour les hommes et quatre-vingt-cinq points pour les femmes, sur l'échelle correspondant aux
-disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski. Ils sont
-dispensés de l'épreuve de l'eurotest. 
-
-Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant, doit avoir été acquis
-dans les cinq années précédant la déclaration.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-190
-
-L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
-site de l'Ecole nationale de ski et d'alpinisme, en relation avec les directeurs régionaux de la jeunesse, des sports et de
-la cohésion sociale concernés, aux lieux et dates fixées annuellement par la section permanente du ski alpin de la commission
-de la formation et de l'emploi du Conseil supérieur des sports de montagne.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-191
-
-Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 11 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
-
-Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test eurosécurité, composée de
-techniciens qualifiés titulaires d'un des diplômes définis à l'annexe IX de l'arrêté du 11 avril 2012 modifié relatif à la
-formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Elle propose au jury les résultats de son
-évaluation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 11 avril 2012 - art. 16
-  - Arrêté du 11 avril 2012 - art. Annexe IX
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-192
-
-Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
-identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une attestation de libre
-établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
-portent mention des conditions d'exercice suivantes : 
-
-Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble
-des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de
-l'emploi du Conseil supérieur des sports de montagne, à l'exclusion des zones glaciaires non balisées et des terrains dont la
-fréquentation fait appel aux techniques de l'alpinisme, dans les conditions prévues par l'arrêté du 11 avril 2012 modifié
-relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Autorisation d'exercer pour une
-durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 11 avril 2012
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=444></a>
-
-###### Article A212-192-1
-
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement et l'entraînement du ski nordique de fond et de ses activités assimilées, dans le cadre de la
-liberté d'établissement ou de la libre prestation de services, se déclarent au préfet du département de l'Isère. 
-
-Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
-permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A142-9
-  - Code du sport. - art. R212-88
-  - Code du sport. - art. R212-92
-
-
-###### Article A212-192-2
-
-Pour l'encadrement du ski nordique de fond et de ses activités dérivées, la différence substantielle, au sens de l'article R.
-212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la
-qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat
-de ski-moniteur national de ski nordique de fond en tant qu'elle intègre :
-
-- les compétences techniques de sécurité ;
-
-- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-192-3
-
-Dans le cadre de la liberté d'établissement, lorsque le préfet estime, après avis de la section permanente du ski de fond de
-la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national des
-métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il saisit la commission de
-reconnaissance des qualifications mentionnée à l'article R. 212-84, en joignant au dossier l'avis de la section permanente.
-Après s'être prononcée sur l'existence d'une différence substantielle, la commission de reconnaissance des qualifications
-propose, le cas échéant, au préfet de soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue à l'article R.
-212-90-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-84
-  - Code du sport. - art. R212-90-1
-
-
-###### Article A212-192-4
-
-Dans le cadre de la libre prestation de services, lorsque le préfet estime, après avis de la section permanente du ski de
-fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne transmis au Pôle national
-des métiers de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il peut décider de
-soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3° de l'article R. 212-93.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-192-5
-
-L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
-pratiquants en sécurité. Elle comporte deux tests : 
-
-1° L'épreuve de performance du test de capacité technique prévu au titre VII de l'arrêté du 26 avril 2013 modifié relatif à
-la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond, qui constitue le test technique
-de sécurité ; 
-
-2° Un test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité. 
-
-Dans le cas où le déclarant est soumis aux deux tests, l'épreuve de performance du test de capacité technique est évaluée en
-premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au second test. 
-
-Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-5.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 26 avril 2013
-  - Code du sport. - art. Annexe II-16-5 (art. A212-192-5) (M)
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-192-6
-
-Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
-égal ou inférieur à deux cents points pour les hommes et deux cent cinquante points pour les femmes sur l'échelle
-correspondant au classement " distance " fixée par la Fédération internationale de ski. Ils sont dispensés du test technique
-de sécurité. 
-
-Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant, doit avoir été acquis
-dans les cinq années précédant la déclaration.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-192-7
-
-L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
-site du Centre national de ski nordique et de moyenne montagne en relation avec les directeurs régionaux de la jeunesse, des
-sports et de la cohésion sociale concernés, aux lieux et dates fixées annuellement par la section permanente du ski de fond
-de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-192-8
-
-Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 26 avril 2013 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
-
-Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test de vérification des connaissances
-théoriques et pratiques et des compétences en matière de sécurité, composée de techniciens qualifiés titulaires d'un des
-diplômes définis à l'annexe IX de l'arrêté du 26 avril 2013 modifié relatif à la formation spécifique du diplôme d'Etat de
-ski-moniteur national de ski nordique de fond. Elle propose au jury les résultats de son évaluation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 26 avril 2013 - art. 16
-  - Arrêté du 26 avril 2013 - art. Annexe IX
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-###### Article A212-192-9
-
-Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
-identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une attestation de libre
-établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
-portent mention des conditions d'exercice suivantes : 
-
-Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de
-l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de
-la formation et de l'emploi du Conseil supérieur des sports de montagne dans les conditions prévues par l'arrêté du 26 avril
-2013 relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. Autorisation
-d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
-
-Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté du 26 avril 2013
-
-_Modifié par_:
-
-  - Arrêté du 31 octobre 2014 - art. 2
-
-
-##### Paragraphe 3  Plongée subaquatique<a id=445></a>
-
-##### Sous-paragraphe 1 : Déclaration.<a id=446></a>
+##### Sous-paragraphe 1 : Déclaration<a id=461></a>
 
 ###### Article A212-193
 
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement ou l'entraînement de la plongée subaquatique dans le cadre de la liberté d'établissement ou de la
-libre prestation de services se déclarent au préfet de la région Provence-Alpes-Côte d'Azur.
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement ou l'entraînement de la plongée subaquatique dans le cadre de la liberté d'établissement ou de la libre
+prestation de services se déclarent au préfet de la région Provence-Alpes-Côte d'Azur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. R212-88
-  - Code du sport. - art. R212-93
+  - Code du sport. - art. R212-88 (V)
+  - Code du sport. - art. R212-92 (V)
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=447></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=462></a>
 
 ###### Article A212-194
 
-La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93 susceptible d'exister entre la
-qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national est
-appréciée en référence au brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " plongée
-subaquatique " ou au diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement
-sportif ", mention " plongée subaquatique ", en tant qu'ils intègrent les compétences techniques de sécurité et les
-connaissances théoriques et pratiques en matière de sécurité.
+La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la
+qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national, est
+appréciée en référence à la formation des deux diplômes suivants, en tant qu'ils intègrent les connaissances théoriques et
+pratiques en matière de sécurité et les compétences techniques de sécurité : 
+
+1° le brevet professionnel de la jeunesse de l'éducation populaire et du sport, spécialité “ éducateur sportif ”, ci-après
+dénommé “ BP JEPS ”, mention “ plongée subaquatique ” ; 
+
+2° le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, ci-après
+dénommé “ DE JEPS ”, mention “ activités de plongée subaquatique ”.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 7 janvier 2014 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
+  - Code du sport. - art. R212-90-1 (V)
+  - Code du sport. - art. R212-93 (V)
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=448></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=463></a>
 
 ###### Article A212-195
 
 L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues aux articles R. 212-90-1 et au 3° de l'article R. 212-93 permet de vérifier la capacité du candidat à encadrer les
+prévues à article R. 212-90-1 et au 3° de l'article R. 212-93 permet de vérifier la capacité du candidat à encadrer les
 pratiquants en sécurité. Elle comporte deux tests : 
 
 1° Un test technique de sécurité ; 
@@ -47554,26 +47855,25 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-3.
 
 _Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe II-16-3 (art. A212-195) (V)
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
+  - Code du sport. - art. R212-90-1 (V)
+  - Code du sport. - art. R212-93 (V)
 
 
 ###### Article A212-196
 
 L'épreuve d'aptitude est organisée, pour l'ensemble du territoire national, sous l'autorité du préfet de la région Provence-
-Alpes-Côte d'Azur par les centres de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur, de
+Alpes-Côte d'Azur par les centres de ressources, d'expertise et de performance sportive de Provence-Alpes-Côte d'Azur, de
 Montpellier, de Bordeaux, de la Réunion et des Antilles-Guyane.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -47583,7 +47883,7 @@ _Cité par_:
 ###### Article A212-197
 
 Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
-sports de la région dans laquelle est situé l'établissement mentionné à l'article A. 212-96 ou son représentant et
+sports de la région dans laquelle est situé l'établissement mentionné à l'article A. 212-196 ou son représentant et
 comprenant :
 
 - un représentant de la Fédération française d'études et sports sous-marins ;
@@ -47591,335 +47891,63 @@ comprenant :
 - au moins un représentant de l'organisation professionnelle d'employeurs ou de salariés la plus représentative ;
 
 - en tant que de besoin, un ou plusieurs techniciens qualifiés titulaires du brevet d'Etat d'éducateur sportif du premier
-degré, option " plongée subaquatique ", du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "
-perfectionnement sportif ", mention " plongée subaquatique " ou du diplôme d'Etat supérieur de la jeunesse, de l'éducation
-populaire et du sport, spécialité " performance sportive ", mention " plongée subaquatique ".
+degré, option “ plongée subaquatique ” ou du DE JEPS, mention “ plongée subaquatique ” ou du DE JEPS mention “ activités de
+plongée subaquatique ” ou du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport, spécialité “
+performance sportive ”, mention “ plongée subaquatique ”.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 7 janvier 2014 - art. 2
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A212-96
+  - Code du sport. - art. A212-196 (V)
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice.<a id=449></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=464></a>
 
 ###### Article A212-198
 
 Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
 identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
-d'éducateur sportif ou un récépissé de déclaration de prestation de services qui portent mention de l'une des conditions
-d'exercice suivantes :
+d'éducateur sportif ou un récépissé de déclaration de prestation de services qui, selon le diplôme visé, portent mention des
+conditions d'exercice suivantes :
 
-- encadrement en autonomie de la randonnée subaquatique, enseignement et encadrement de la plongée subaquatique dans les
-conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport ; ou
+- pour la mention “ plongée subaquatique ” du BP JEPS : “ Encadrement en autonomie de la randonnée subaquatique, enseignement
+et encadrement de la plongée subaquatique dans les conditions techniques et de sécurité définies aux articles A. 322-71 et
+suivants du code du sport ” ;
 
-- enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions
-techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
+- pour la mention “ activités de plongée subaquatique ” du DE JEPS : “ Enseignement, animation, encadrement de la plongée
+subaquatique ou entraînement de ses pratiquants dans les conditions techniques et de sécurité définies aux articles A. 322-71
+et suivants du code du sport. ”
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 7 janvier 2014 - art. 3
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. A322-71
+  - Code du sport. - art. A322-71 (V)
 
 
-##### Paragraphe 5 : Parachutisme<a id=450></a>
+##### Paragraphe 5 : Parachutisme<a id=465></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=451></a>
+##### Paragraphe 6 : Spéléologie<a id=466></a>
 
-###### Article A212-209
+##### Paragraphe 7 : Alpinisme-Guide de haute montagne<a id=467></a>
 
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement ou l'entraînement du parachutisme dans le cadre de la liberté d'établissement ou de la libre
-prestation de services se déclarent au préfet de la région Provence-Alpes-Côte d'Azur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 21 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. R212-88 (V)
-  - Code du sport. - art. R212-92 (V)
-
-
-##### Sous-paragraphe 2 : Différence substantielle<a id=452></a>
-
-###### Article A212-210
-
-La différence substantielle au sens des articles R. 212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la
-qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national, est
-appréciée en référence à la formation du brevet professionnel de la jeunesse de l'éducation populaire et du sport (BPJEPS)
-spécialité " parachutisme " dans l'une des mentions suivantes : progression traditionnelle (TRAD), progression accompagnée
-(PAC) parachute biplace (TANDEM) ou, en référence à la formation du diplôme d'Etat de la jeunesse, de l'éducation populaire
-et du sport (DEJEPS) spécialité " perfectionnement sportif " dans la mention suivante : " parachutisme ", en tant qu'ils
-intègrent les connaissances théoriques et pratiques en matière de sécurité et les compétences techniques de sécurité.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 7 janvier 2014 - art. 1
-
-_Cité par_:
-
-  - Code du sport. - art. A212-211 (M)
-
-_Cite_:
-
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=453></a>
-
-###### Article A212-211
-
-L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
-pratiquants en sécurité dans l'une des trois mentions du brevet professionnel de la jeunesse de l'éducation populaire et du
-sport (BPJEPS) spécialité " parachutisme " ou dans la mention du diplôme d'Etat de la jeunesse, de l'éducation populaire et
-du sport (DEJEPS) spécialité " perfectionnement sportif " figurant à l'article A. 212-210. Pour chacune de ces mentions, elle
-comporte deux tests : 
-
-1° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité ; 
-
-2° Un test technique de sécurité. 
-
-Dans le cas où le déclarant est soumis aux deux tests, le test de vérification des connaissances théoriques et pratiques en
-matière de sécurité est évalué en premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au test technique de
-sécurité. 
-
-Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 7 janvier 2014 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. A212-210
-  - Code du sport. - art. Annexe II-16-1 (art. A212-211)
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-212
-
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Provence-
-Alpes-Côte d'Azur, par le centre d'éducation populaire et de sport de Provence-Alpes-Côte d'Azur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 21 décembre 2009 - art. 1
-
-
-###### Article A212-213
-
-Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
-sports de Provence-Alpes-Côte d'Azur ou son représentant et comprenant : 
-
-- un représentant de la Fédération française de parachutisme ; 
-
-- un ou plusieurs représentants des organisations professionnelles ; 
-
-- un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau IV en parachutisme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 21 décembre 2009 - art. 1
-
-
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=454></a>
-
-###### Article A212-214
-
-Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
-identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
-d'éducateur sportif ou un récépissé de déclaration de prestation de services qui portent inscription, selon la mention, des
-conditions d'exercice suivantes : 
-
-a) Mention "progression traditionnelle : Enseignement de la progression traditionnelle dans tout établissement" (BPJEPS) ;  
-
-b) Mention "progression accompagnée en chute (PAC) : Enseignement de la progression accompagnée en chute dans tout
-établissement" (BPJEPS) ; 
-
-c) Mention : "parachute biplace (tandem) : Enseignement du parachute biplace (tandem) dans tout établissement" (BPJEPS) ; 
-
-d) Mention "parachutisme : Enseignement, animation, encadrement du parachutisme ou entraînement de ses pratiquants" (DEJEPS).
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 7 janvier 2014 - art. 3
-
-
-##### Paragraphe 6 : Spéléologie<a id=455></a>
-
-##### Sous-paragraphe 1 : Déclaration<a id=456></a>
-
-###### Article A212-215
-
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement ou l'entraînement de la spéléologie dans le cadre de la liberté d'établissement ou de la libre
-prestation de services se déclarent au préfet du département de l'Isère.
-
-Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur recevabilité et sollicite les trois avis suivants :
-
-- l'avis du centre de ressources, d'expertise et de performance sportive de Rhône-Alpes ;
-
-- l'avis de l'organisation professionnelle la plus représentative ;
-
-- l'avis de la Fédération française de spéléologie. 
-
-L'avis sollicité est transmis dans le délai de huit jours ouvrés au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme. A défaut, l'avis est réputé favorable.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 3 février 2016 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. R212-88
-  - Code du sport. - art. R212-92
-
-
-##### Sous-paragraphe 2 : Différence substantielle<a id=457></a>
-
-###### Article A212-216
-
-La différence substantielle au sens de l'article R. 212-90-1 et du 3° de l'article R. 212-93 susceptible d'exister entre la
-qualification professionnelle du déclarant et la qualification professionnelle requise sur le territoire national est
-appréciée en référence à la formation du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "
-perfectionnement sportif " mention " spéléologie " en tant qu'il intègre les connaissances théoriques et pratiques en matière
-de sécurité et les compétences techniques de sécurité.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 3 février 2016 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=458></a>
-
-###### Article A212-217
-
-L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93 vise à vérifier la capacité du déclarant à encadrer les
-pratiquants en sécurité. Elle comporte deux tests : 
-
-1° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité ; 
-
-2° Un test technique de sécurité. 
-
-Dans le cas où le déclarant est soumis aux deux tests, le test de vérification des connaissances théoriques et pratiques en
-matière de sécurité est évalué en premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au test technique de
-sécurité. 
-
-Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-2.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 21 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
-
-###### Article A212-218
-
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Auvergne
-Rhône-Alpes, par le centre de ressources, d'expertise et de performance sportive de Rhône-Alpes, site de Vallon-Pont-d'Arc.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-152 du 11 février 2016 - art. 4
-
-
-###### Article A212-219
-
-Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
-sports d'Auvergne Rhône-Alpes ou son représentant et comprenant : 
-
-― le responsable du site de Vallon-Pont-d'Arc du centre de ressources, d'expertise et de performance sportive de Rhône-Alpes
-ou son représentant ; 
-
-― au moins un représentant des organisations professionnelles les plus représentatives ; 
-
-― deux représentants de la Fédération française de spéléologie dont le directeur technique national ou son représentant ; 
-
-― un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau III en spéléologie.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-152 du 11 février 2016 - art. 4
-
-
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=459></a>
-
-###### Article A212-220
-
-Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différente substantielle a été
-identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une carte professionnelle
-d'éducateur sportif ou un récépissé de déclaration de prestation de services qui portent mention des conditions d'exercice
-suivantes : "Enseignement de la spéléologie dans toutes cavités, lieux d'entraînement pour tout public et dans le respect du
-milieu naturel”, " Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage ".
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 3 février 2016 - art. 5
-
-
-##### Paragraphe 7 : Alpinisme-Guide de haute montagne.<a id=460></a>
-
-##### Sous-paragraphe 1 : Déclaration.<a id=461></a>
+##### Sous-paragraphe 1 : Déclaration<a id=468></a>
 
 ###### Article A212-221
 
-En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
-l'animation, l'enseignement ou l'entraînement de l'alpinisme par l'activité de guide de haute montagne dans le cadre de la
-liberté d'établissement ou de la libre prestation de services se déclarent au préfet     du département de l'Isère. 
+En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de l'Union
+européenne ou partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
+l'enseignement ou l'entraînement de l'alpinisme par l'activité de guide de haute montagne dans le cadre de la liberté
+d'établissement ou de la libre prestation de services se déclarent au préfet du département de l'Isère. 
 
 Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
 l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur conformité et les transmet pour avis à la section
@@ -47929,7 +47957,7 @@ permanente de l'alpinisme de la commission de la formation et de l'emploi du Con
 
 _Modifié par_:
 
-  - Arrêté du 24 décembre 2015 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -47938,24 +47966,24 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle.<a id=462></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=469></a>
 
 ###### Article A212-222
 
 Pour l'encadrement de l'alpinisme par l'activité de guide de haute montagne, la différence substantielle au sens de l'article
 R. 212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la
-qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme de
-guide de haute montagne du brevet d'Etat d'alpinisme en tant qu'elle intègre : 
+qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat
+d'alpinisme-guide de haute montagne en tant qu'elle intègre :
 
-― les connaissances théoriques et pratiques en matière de sécurité ; 
+- les connaissances théoriques et pratiques en matière de sécurité ;
 
-― les compétences techniques de sécurité.
+- les compétences techniques de sécurité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -47975,9 +48003,9 @@ propose, le cas échéant, au préfet de soumettre le déclarant à tout ou part
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
@@ -47994,21 +48022,21 @@ soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude.<a id=463></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=470></a>
 
 ###### Article A212-225
 
 L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 2121-93, vise à vérifier la capacité du déclarant à encadrer les
 pratiquants en sécurité. Elle comporte deux tests : 
 
 1° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité ; 
@@ -48022,82 +48050,78 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-6.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe II-16-6 (art. A212-225) (V)
   - Code du sport. - art. R212-90-1
   - Code du sport. - art. R212-93
 
 
 ###### Article A212-226
 
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national, sous l'autorité du préfet de la région Rhône-
-Alpes, par l'Ecole nationale de ski et d'alpinisme aux lieux et dates fixées annuellement par la section permanente de
-l'alpinisme de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+L'épreuve d'aptitude est organisée pour l'ensemble du territoire national, sous l'autorité du préfet de la région Auvergne-
+Rhône-Alpes, par l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme, aux lieux et
+dates fixées annuellement par la section permanente de l'alpinisme de la commission de la formation et de l'emploi du Conseil
+supérieur des sports de montagne.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 
 ###### Article A212-227
 
 Le déclarant est évalué par un jury désigné par le chef de service déconcentré régional de l'Etat chargé des sports de Rhône-
-Alpes et comprenant : 
+Alpes et comprenant :
 
-― le délégué du Pôle national des métiers de l'encadrement du ski et de l'alpinisme ou son représentant, président du jury ; 
+- le délégué du Pôle national des métiers de l'encadrement du ski et de l'alpinisme ou son représentant, président du jury ;
 
-― un représentant de l'Ecole nationale de ski et d'alpinisme ; 
+- un représentant de l'Ecole nationale de ski et d'alpinisme ;
 
-― un représentant de la Fédération française de la montagne et de l'escalade ; 
+- un représentant de la Fédération française de la montagne et de l'escalade ;
 
-― un représentant de l'organisation professionnelle la plus représentative ; 
+- des représentants d'organisations professionnelles représentatives ;
 
-― un ou plusieurs techniciens qualifiés, titulaires du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme ou
-d'un diplôme équivalent reconnu par les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur
-l'Espace économique européen ayant ratifié la plate-forme professionnelle de l'Union internationale des associations de
-guides de montagne.
+- un ou plusieurs techniciens qualifiés, titulaires du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme ou du
+diplôme d'Etat d'alpinisme-guide de haute montagne.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 4 :  Conditions d'exercice.<a id=464></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=471></a>
 
 ###### Article A212-228
 
 Dans le cas où le préfet estime qu'il n'existe pas de différence substantielle ou lorsqu'une différence substantielle a été
 identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfet délivre au déclarant une attestation de libre
 établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
-portent mention des conditions d'exercice suivantes : 
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain
-mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement
-aux pratiques de compétition dans les disciplines précitées. Autorisation d'exercer pour une durée de six ans renouvelée à
-l'issue d'un stage de recyclage.
+portent mention des conditions d'exercice suivantes : Conduite et accompagnement de personnes dans des excursions ou des
+ascensions de montagne en rocher, neige, glace et terrain mixte. Conduite et accompagnement de personnes dans des excursions
+de ski de randonnée, ski alpinisme et en ski hors-piste. Enseignement des techniques d'alpinisme, d'escalade et de ski de
+randonnée, ski alpinisme et ski hors-piste. Entraînement aux pratiques de compétition dans les disciplines précitées.
+Autorisation d'exercer pour une durée de six ans renouvelée à l'issue d'un stage de recyclage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 1
+  - Arrêté du 4 décembre 2017 - art. 1
 
 
-### TITRE II : SPORTIFS<a id=465></a>
+### TITRE II : SPORTIFS<a id=472></a>
 
-#### Chapitre II : Sport professionnel<a id=466></a>
+#### Chapitre II : Sport professionnel<a id=473></a>
 
-##### Section unique  Agents sportifs<a id=467></a>
+##### Section unique  Agents sportifs<a id=474></a>
 
 ###### Article A222-1
 
@@ -48271,11 +48295,11 @@ _Cite_:
   - Code du sport. - art. L222-17
 
 
-### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=468></a>
+### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=475></a>
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=469></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=476></a>
 
-##### Section 1 : Certificat médical et questionnaire de santé<a id=470></a>
+##### Section 1 : Certificat médical et questionnaire de santé<a id=477></a>
 
 ###### Article A231-1
 
@@ -48392,9 +48416,9 @@ _Cite_:
   - Code du sport. - art. D231-1-4
 
 
-##### Section 2 : Rôle des fédérations sportives<a id=471></a>
+##### Section 2 : Rôle des fédérations sportives<a id=478></a>
 
-##### Sous-section 1 : Sportifs de haut niveau<a id=472></a>
+##### Sous-section 1 : Sportifs de haut niveau<a id=479></a>
 
 ###### Article A231-3
 
@@ -48437,7 +48461,7 @@ _Cite_:
   - Code du sport. - art. R221-2
 
 
-##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=473></a>
+##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=480></a>
 
 ###### Article A231-4
 
@@ -48467,13 +48491,13 @@ _Cite_:
   - Code du sport. - art. L221-2 (V)
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=474></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=481></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=475></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=482></a>
 
-#### Chapitre II : Equipements sportifs<a id=476></a>
+#### Chapitre II : Equipements sportifs<a id=483></a>
 
-##### Section 1 : Dispositions communes<a id=477></a>
+##### Section 1 : Dispositions communes<a id=484></a>
 
 ###### Article A312-1
 
@@ -48503,7 +48527,7 @@ _Cite_:
   - Code du sport. - art. R312-4
 
 
-##### Section 2 : Installations fixes<a id=478></a>
+##### Section 2 : Installations fixes<a id=485></a>
 
 ###### Article A312-2
 
@@ -48722,7 +48746,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-3 (V)
 
 
-##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=479></a>
+##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=486></a>
 
 ###### Article A312-10
 
@@ -48801,13 +48825,13 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=480></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=487></a>
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=481></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=488></a>
 
-##### Section 1 : Dispositions générales<a id=482></a>
+##### Section 1 : Dispositions générales<a id=489></a>
 
-##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=483></a>
+##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=490></a>
 
 ###### Article A322-1
 
@@ -48850,7 +48874,7 @@ _Cite_:
   - Code du sport. - art. L322-1
 
 
-##### Paragraphe 2 : Information des pratiquants<a id=484></a>
+##### Paragraphe 2 : Information des pratiquants<a id=491></a>
 
 ###### Article A322-3
 
@@ -48869,9 +48893,9 @@ _Cite_:
   - Code du sport. - art. R322-1
 
 
-##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=485></a>
+##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=492></a>
 
-##### Sous-section préliminaire : Dispositions communes<a id=486></a>
+##### Sous-section préliminaire : Dispositions communes<a id=493></a>
 
 ###### Article A322-3-1
 
@@ -49018,9 +49042,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=487></a>
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=494></a>
 
-##### Paragraphe 1 : Obligation de déclaration<a id=488></a>
+##### Paragraphe 1 : Obligation de déclaration<a id=495></a>
 
 ###### Article A322-4
 
@@ -49093,7 +49117,7 @@ _Cite_:
   - Code de la santé publique - art. L1332-5 (V)
 
 
-##### Paragraphe 2 : Obligation de surveillance<a id=489></a>
+##### Paragraphe 2 : Obligation de surveillance<a id=496></a>
 
 ###### Article A322-8
 
@@ -49190,7 +49214,7 @@ _Cite_:
   - Code du sport. - art. A322-8 (V)
 
 
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=490></a>
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=497></a>
 
 ###### Article A322-12
 
@@ -49341,7 +49365,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=491></a>
+##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=498></a>
 
 ###### Article A322-18
 
@@ -49360,7 +49384,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=492></a>
+##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=499></a>
 
 ###### Article A322-19
 
@@ -49791,9 +49815,9 @@ _Cité par_:
   - Code du sport. - art. A322-40 (V)
 
 
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=493></a>
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=500></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=494></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=501></a>
 
 ###### Article A322-42
 
@@ -49839,7 +49863,7 @@ _Cité par_:
   - Code du sport. - art. A322-53 (VT)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=495></a>
+##### Paragraphe 2 : Conditions de pratique<a id=502></a>
 
 ###### Article A322-44
 
@@ -49860,7 +49884,7 @@ _Cité par_:
   - Code du sport. - art. A322-58 (VT)
 
 
-##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=496></a>
+##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=503></a>
 
 ###### Article A322-45
 
@@ -49953,7 +49977,7 @@ _Modifié par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=497></a>
+##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=504></a>
 
 ###### Article A322-48
 
@@ -50040,7 +50064,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=498></a>
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=505></a>
 
 ###### Article A322-64
 
@@ -50257,7 +50281,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=499></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=506></a>
 
 ###### Article A322-71
 
@@ -50285,7 +50309,7 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
-##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=500></a>
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=507></a>
 
 ###### Article A322-72
 
@@ -50579,7 +50603,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=501></a>
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=508></a>
 
 ###### Article A322-82
 
@@ -50735,9 +50759,9 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=502></a>
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=509></a>
 
-##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=503></a>
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=510></a>
 
 ###### Article A322-90
 
@@ -50849,7 +50873,7 @@ _Modifié par_:
   - Arrêté du 5 janvier 2012 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières au nitrox<a id=504></a>
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=511></a>
 
 ###### Article A322-95
 
@@ -50870,7 +50894,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
 
 
-##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=505></a>
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=512></a>
 
 ###### Article A322-96
 
@@ -50913,7 +50937,7 @@ _Cite_:
   - Code du sport. - art. A322-78 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=506></a>
+##### Sous-section 4 : Dispositions diverses<a id=513></a>
 
 ###### Article A322-98
 
@@ -51020,9 +51044,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
-##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=507></a>
+##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=514></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=508></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=515></a>
 
 ###### Article A322-116
 
@@ -51044,7 +51068,7 @@ _Cite_:
   - Code du sport. - art. L322-2 (V)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=509></a>
+##### Paragraphe 2 : Conditions de pratique<a id=516></a>
 
 ###### Article A322-117
 
@@ -51086,7 +51110,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=510></a>
+##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=517></a>
 
 ###### Article A322-120
 
@@ -51125,7 +51149,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Dispositions relatives aux installations<a id=511></a>
+##### Paragraphe 4 : Dispositions relatives aux installations<a id=518></a>
 
 ###### Article A322-123
 
@@ -51167,7 +51191,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=512></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=519></a>
 
 ###### Article A322-142
 
@@ -51269,9 +51293,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=513></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=520></a>
 
-##### Paragraphe 1 : Champ d'application<a id=514></a>
+##### Paragraphe 1 : Champ d'application<a id=521></a>
 
 ###### Article A322-147
 
@@ -51291,7 +51315,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 2 : Les séances de saut<a id=515></a>
+##### Paragraphe 2 : Les séances de saut<a id=522></a>
 
 ###### Article A322-148
 
@@ -51482,7 +51506,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=516></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=523></a>
 
 ###### Article A322-155
 
@@ -51520,7 +51544,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=517></a>
+##### Paragraphe 4 : Les équipements<a id=524></a>
 
 ###### Article A322-157
 
@@ -51574,7 +51598,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=518></a>
+##### Paragraphe 5 : L'encadrement<a id=525></a>
 
 ###### Article A322-159
 
@@ -51636,7 +51660,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=519></a>
+##### Paragraphe 6 : Les moyens matériels<a id=526></a>
 
 ###### Article A322-162
 
@@ -51678,7 +51702,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=520></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=527></a>
 
 ###### Article A322-164
 
@@ -51701,9 +51725,9 @@ _Cite_:
   - Code du sport. - art. R322-4
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=521></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=528></a>
 
-##### Sous-paragraphe 1er : Les séances de vol<a id=522></a>
+##### Sous-paragraphe 1er : Les séances de vol<a id=529></a>
 
 ###### Article A322-165
 
@@ -51797,7 +51821,7 @@ _Cité par_:
   - Code du sport. - art. A322-175 (VT)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=523></a>
+##### Sous-paragraphe 2 :  Les machines<a id=530></a>
 
 ###### Article A322-169
 
@@ -51811,7 +51835,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=524></a>
+##### Sous-paragraphe 3 : Les équipements<a id=531></a>
 
 ###### Article A322-170
 
@@ -51828,7 +51852,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=525></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=532></a>
 
 ###### Article A322-171
 
@@ -51858,7 +51882,7 @@ _Cite_:
   - Code du sport. - art. L212-1 (V)
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=526></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=533></a>
 
 ###### Article A322-176
 
@@ -51899,13 +51923,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=527></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=534></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=528></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=535></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=529></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=536></a>
 
-##### Sous-section 1 : Dispositions générales<a id=530></a>
+##### Sous-section 1 : Dispositions générales<a id=537></a>
 
 ###### Article A331-1
 
@@ -51924,7 +51948,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur<a id=531></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur<a id=538></a>
 
 ###### Article A331-2
 
@@ -52071,9 +52095,9 @@ _Cite_:
   - Code du sport. - art. R331-9-1
 
 
-##### Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur<a id=532></a>
+##### Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur<a id=539></a>
 
-##### Paragraphe 1 : Manifestations et concentrations soumises à déclaration<a id=533></a>
+##### Paragraphe 1 : Manifestations et concentrations soumises à déclaration<a id=540></a>
 
 ###### Article A331-16
 
@@ -52205,7 +52229,7 @@ _Cité par_:
   - Code du sport. - art. A331-18 (V)
 
 
-##### Paragraphe 2 : Manifestations soumises à autorisation<a id=534></a>
+##### Paragraphe 2 : Manifestations soumises à autorisation<a id=541></a>
 
 ###### Article A331-20
 
@@ -52290,7 +52314,7 @@ _Cite_:
   - Code de la route. - art. R411-29 (V)
 
 
-##### Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000<a id=535></a>
+##### Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000<a id=542></a>
 
 ###### Article A331-21-1
 
@@ -52315,7 +52339,7 @@ _Cite_:
   - Code de l'environnement - art. R414-19 (M)
 
 
-##### Paragraphe 4 : Dossier de demande d'homologation de circuit<a id=536></a>
+##### Paragraphe 4 : Dossier de demande d'homologation de circuit<a id=543></a>
 
 ###### Article A331-21-2
 
@@ -52369,7 +52393,7 @@ _Créé par_:
   - Arrêté du 24 novembre 2017 - art. 1
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=537></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=544></a>
 
 ###### Article A331-22
 
@@ -52423,9 +52447,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=538></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=545></a>
 
-##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=539></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=546></a>
 
 ###### Article A331-25
 
@@ -52446,7 +52470,7 @@ _Cite_:
   - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=540></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=547></a>
 
 ###### Article A331-32
 
@@ -52469,7 +52493,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=541></a>
+##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=548></a>
 
 ###### Article A331-33
 
@@ -52585,9 +52609,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-28 (VD)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=542></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=549></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=543></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=550></a>
 
 ###### Article A331-37
 
@@ -52707,13 +52731,13 @@ _Cite_:
   - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=544></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=551></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=545></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=552></a>
 
-#### Chapitre unique<a id=546></a>
+#### Chapitre unique<a id=553></a>
 
-##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=547></a>
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=554></a>
 
 ###### Article A411-1
 
@@ -52979,9 +53003,9 @@ _Cité par_:
   - Code du sport. - art. A411-8 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=548></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=555></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=549></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=556></a>
 
 ###### Article A421-1
 
@@ -53097,7 +53121,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=550></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=557></a>
 
 ###### Article A422-1
 
@@ -53131,7 +53155,7 @@ _Modifié par_:
   - Arrêté du 6 avril 2017 - art. 1
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=551></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=558></a>
 
 ###### Article A423-1
 
@@ -53246,7 +53270,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=552></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=559></a>
 
 ###### Article A424-1
 
@@ -53347,7 +53371,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=553></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=560></a>
 
 ###### Article A425-1
 
@@ -53476,7 +53500,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=554></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=561></a>
 
 ###### Article A426-1
 
@@ -53498,7 +53522,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=555></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=562></a>
 
 ###### Article A427-1
 
@@ -53520,7 +53544,7 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=556></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=563></a>
 
 ###### Article A428-1
 
@@ -53547,7 +53571,7 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=557></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=564></a>
 
 ###### Article A429-1
 
@@ -53574,11 +53598,11 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-# ANNEXES<a id=558></a>
+# ANNEXES<a id=565></a>
 
-## Annexes partie réglementaire - Décrets<a id=559></a>
+## Annexes partie réglementaire - Décrets<a id=566></a>
 
-### Annexes I<a id=560></a>
+### Annexes I<a id=567></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -55164,7 +55188,7 @@ _Créé par_:
   - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
-### Annexes II<a id=561></a>
+### Annexes II<a id=568></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -56623,7 +56647,7 @@ _Cite_:
   - Code du sport. - art. R241-14 (V)
 
 
-### Annexes III<a id=562></a>
+### Annexes III<a id=569></a>
 
 ###### Article Annexe III-3 (art. R322-27)
 
@@ -57127,9 +57151,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=563></a>
+## Annexes partie réglementaire - Arrêtés<a id=570></a>
 
-### Annexes II<a id=564></a>
+### Annexes II<a id=571></a>
 
 ###### Article Annexe I-0-1 (art. A114-3)
 
@@ -64783,8 +64807,8 @@ _Cité par_:
 
 ###### Article Annexe II-12-2 a
 
-PIÈCES NÉCESSAIRES À LA DÉCLARATION D'ACTIVITÉ DES RESSORTISSANTS D'UN ÉTAT MEMBRE DE LA COMMUNAUTÉ EUROPÉENNE OU D'UN AUTRE
-ÉTAT PARTIE À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN SOUHAITANT S'ÉTABLIR EN FRANCE 
+Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen souhaitant s'établir en France 
 
 Formulaire de déclaration (1) 
 
@@ -64806,67 +64830,56 @@ Etablissement d'exercice (3) :
 
 Déclaration sur l'honneur 
 
-Je soussigné (e), éducateur (trice) sportif (ve), 
+Je soussigné (e), éducateur sportif ou éducatrice sportive 
 
 atteste l'exactitude des informations portées dans la présente déclaration. 
 
-Fait à, le 
+Fait à le 
 
-(Signature) 
-
-(1) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées
-comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1. 
-
-(2) Le déclarant pouvant exercer sur l'ensemble du territoire national, il est susceptible d'intervenir dans plusieurs
-départements. Dans ce cas et conformément aux dispositions de l'article R. 212-88, il doit se déclarer au préfet du
-département dans lequel il compte exercer son activité à titre principal. 
-
-(3) Information à caractère facultatif. 
+Signature 
 
 Documents à joindre à la déclaration 
 
-1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
+1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ; 
 
-2. Une copie d'une pièce d'identité en cours de validité.
+2. Copie d'une pièce d'identité ; 
 
-3. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
-de moins d'un an, traduit, le cas échéant, en français par un traducteur ou un organisme assermentés. 
+3. Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
+de moins d'un an traduit le cas échéant en français, par un traducteur ou un organisme assermenté ; 
 
 4. Copie de l'attestation de compétences ou du titre de formation accompagnée de documents décrivant le cursus de formation
 (programme, volume horaire, nature et durée des stages effectués), le tout traduit en français par un traducteur ou un
-organisme assermentés. 
+organisme assermenté ; 
 
-5. Le cas échéant (1), copie de toutes pièces justifiant de l'expérience professionnelle, traduites en français par un
-traducteur ou un organisme assermentés. 
+5. Le cas échéant (4), copie de toutes pièces justifiant de l'expérience professionnelle traduites en français par un
+traducteur ou un organisme assermenté ; 
 
 6. Dans le cas où le titre de formation a été acquis dans un Etat tiers, copies des pièces attestant que ce titre a été admis
-en équivalence dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen qui réglemente l'activité. 
+en équivalence dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen qui réglemente
+l'activité ; 
 
-7. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
+7. Les documents attestant que le déclarant n'a pas fait l'objet, dans l'Etat membre d'origine, d'une des condamnations ou
+mesures mentionnées aux articles L. 212-9 et L. 212-13 traduits en français par un traducteur ou un organisme assermenté.
 
-- copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
+**Nota:**
 
-- copie d'une attestation de niveau en français délivrée par une institution spécialisée ;
+(1) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées
+comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1.
 
-- copie d'un document attestant d'une expérience professionnelle acquise en France. 
+(2) Le déclarant pouvant exercer sur l'ensemble du territoire national, est susceptible d'intervenir dans plusieurs
+départements. Dans ce cas et conformément aux dispositions de l'article R. 212-88, il doit se déclarer au préfet du
+département dans lequel il compte exercer son activité à titre principal.
 
-Dans le cas où le déclarant n'est pas en mesure de produire l'un de ces trois documents, un entretien permet de vérifier sa
-connaissance de la langue française. 
+(3) Information à caractère facultatif.
 
-8. Les documents attestant que le déclarant n'a pas fait l'objet, dans l'Etat membre d'origine, d'une des condamnations ou
-mesures mentionnées aux articles L. 212-9 et L. 212-13 traduits en français par un traducteur ou un organisme assermenté. 
-
-(1) Dans les cas prévus au 2° et au 3° de l'article R. 212-90, lorsque le déclarant est titulaire d'un titre de formation ou
-d'une attestation de compétences attestant la préparation à l'exercice de l'activité délivrés dans un Etat membre de la CE ou
-un autre Etat partie à l'accord sur l'EEE qui ne réglemente pas l'activité et doit justifier avoir exercé l'activité à temps
-plein pendant deux ans au cours des dix années précédentes dans l'un de ces Etats ou lorsqu'il est titulaire d'un titre
-acquis dans un Etat tiers et admis en équivalence dans un Etat membre de la CE ou un autre Etat partie à l'accord sur l'EEE
-qui réglemente l'exercice de l'activité et doit justifier avoir exercé l'activité pendant au moins deux ans dans cet Etat. De
-façon générale, il est recommandé au migrant de fournir toute information utile sur son expérience professionnelle, dans la
-mesure où cela pourrait faciliter la reconnaissance de sa qualification professionnelle. 
-
-(2) Afin de garantir l'exercice en sécurité des activités physiques et sportives et la capacité à alerter les secours.
+(4) Dans les cas prévus au 2° et au 3° de l'article R. 212-90, lorsque le déclarant est titulaire d'un titre de formation ou
+d'une attestation de compétences attestant la préparation à l'exercice de l'activité délivrés dans un Etat membre de l'UE ou
+partie à l'accord sur l'EEE qui ne réglemente pas l'activité et doit justifier avoir exercé l'activité à temps plein pendant
+une année ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes dans l'un de ces Etats
+ou lorsqu'il est titulaire d'un titre acquis dans un Etat tiers et admis en équivalence dans un Etat membre de l'UE ou partie
+à l'accord sur l'EEE qui réglemente l'exercice de l'activité et doit justifier avoir exercé l'activité pendant au moins deux
+ans dans cet Etat. De façon générale, il est recommandé au déclarant de fournir toute information utile sur son expérience
+professionnelle, dans la mesure où cela pourrait faciliter la reconnaissance de sa qualification professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -64877,176 +64890,156 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 26 mai 2016 - art. 10
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cite_:
 
-  - Code du sport. - art. L212-1
   - Code du sport. - art. L212-13
   - Code du sport. - art. L212-9
-  - Code du sport. - art. R212-88
-  - Code du sport. - art. R212-90
 
 
 ###### Article Annexe II-12-2 b
 
-PIÈCES NÉCESSAIRES AU RENOUVELLEMENT DE LA DÉCLARATION D'ACTIVITÉ DES RESSORTISSANTS D'UN ÉTAT MEMBRE DE LA COMMUNAUTÉ
-EUROPÉENNE OU D'UN AUTRE ÉTAT PARTIE À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ÉTABLIS EN FRANCE 
+Pièces nécessaires au renouvellement de la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne
+ou partie à l'accord sur l'Espace économique européen établis en France
 
-Formulaire de déclaration 
+Formulaire de déclaration
 
-Nom : 
+Nom :
 
-Prénom (s) : 
+Prénom (s) :
 
-Adresse : 
+Adresse :
 
-Nationalité : 
+Nationalité :
 
-Activité physique ou sportive encadrée : 
+Activité physique ou sportive encadrée :
 
-Fonction exercée : 
+Fonction exercée :
 
-Principal lieu d'exercice envisagé (1) : 
+Principal lieu d'exercice envisagé (5) :
 
-Etablissement d'exercice (2) : 
+Etablissement d'exercice (6) :
 
-Déclaration sur l'honneur 
+Déclaration sur l'honneur
 
-Je soussigné (e), éducateur (trice) sportif (ve), 
+Je soussigné (e), éducateursportif ou éducatrice sportive
 
-atteste l'exactitude des informations portées dans la présente déclaration. 
+atteste l'exactitude des informations portées dans la présente déclaration.
 
-Fait à, le 
+Fait à le
 
-(Signature) 
+Documents à joindre à la déclaration
 
-Documents à joindre à la déclaration 
+1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;
 
-1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
+2. Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
+de moins d'un an.
 
-2. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
-de moins d'un an. 
+**Nota:**
 
-(1) Le déclarant pouvant exercer sur l'ensemble du territoire national, il est susceptible d'intervenir dans plusieurs
+(5) Le déclarant pouvant exercer sur l'ensemble du territoire national, est susceptible d'intervenir dans plusieurs
 départements. Dans ce cas et conformément aux dispositions de l'article R. 212-88, il doit se déclarer au préfet du
-département dans lequel il compte exercer son activité à titre principal. (2) Information à caractère facultatif.
+département dans lequel il compte exercer son activité à titre principal .
+
+(6) Information à caractère facultatif.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 26 mai 2016 - art. 11
+  - Arrêté du 4 décembre 2017 - art. 3
 
 _Cité par_:
 
   - Code du sport. - art. A212-182-1 (V)
 
-_Cite_:
-
-  - Code du sport. - art. R212-88
-
 
 ###### Article Annexe II-12-3
 
-PIÈCES NÉCESSAIRES À LA DÉCLARATION D'ACTIVITÉ DES RESSORTISSANTS D'UN ÉTAT MEMBRE DE LA COMMUNAUTÉ EUROPÉENNE OU D'UN AUTRE
-ÉTAT PARTIE À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN SOUHAITANT EXERCER EN FRANCE DANS LE CADRE D'UNE PRESTATION DE
-SERVICES 
+Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord
+sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services
 
-Formulaire de déclaration (1) 
+Formulaire de déclaration (7)
 
-Nom : 
+Nom :
 
-Prénom (s) : 
+Prénom (s) :
 
-Adresse : 
+Adresse :
 
-Nationalité : 
+Nationalité :
 
-Etat membre d'établissement : 
+Etat membre d'établissement :
 
-Activité physique ou sportive encadrée : 
+Activité physique ou sportive encadrée :
 
-Fonction exercée : 
+Fonction exercée :
 
 Déclaration établie en qualité :
 
-- de travailleur indépendant ;
+- de travailleur indépendant
 
-- de salarié ;
+- de salarié
 
-- date, durée et lieu de la prestation : 
+- date, durée et lieu de la prestation (8) :
 
 Indication de la compagnie d'assurance auprès de laquelle a été souscrite la police d'assurance couvrant la responsabilité
-civile du déclarant et des personnes qu'il encadre, ainsi que numéro de la police : 
+civile du déclarant et des personnes qu'il encadre, ainsi que n° de la police :
 
-Déclaration sur l'honneur 
+Déclaration sur l'honneur
 
-Je soussigné (e), éducateur (trice) sportif (ve), 
+Je soussigné (e), éducateur sportif ou éducatrice sportive
 
-atteste l'exactitude des informations portées dans la présente déclaration. 
+atteste l'exactitude des informations portées dans la présente déclaration
 
-Fait à, le 
+Fait à le
 
-(Signature) 
-
-(1) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées
-comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1. (2)
-Informations à caractère facultatif. 
+Signature
 
 Documents à joindre à la déclaration et renseignements à fournir lors de la première prestation ou en cas de changement
-matériel relatif à la situation établie par les pièces produites lors de cette première prestation 
+matériel relatif à la situation établie par les pièces produites lors de cette première prestation
 
-1. Photographie d'identité. 
+1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;
 
-2. Copie d'une pièce d'identité. 
+2. Copie d'une pièce d'identité ;
 
-3. Copie de l'attestation de compétences ou du titre de formation. 
+3. Copie de l'attestation de compétences ou du titre de formation ;
 
 4. Copie des documents attestant que le déclarant est légalement établi dans l'Etat membre d'établissement et qu'il n'encourt
-aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés. 
+aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés ;
 
 5. Dans le cas où ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat membre
 d'établissement, copie de toutes pièces justifiant que le déclarant a exercé cette activité dans cet Etat pendant au moins
-deux ans au cours des dix années précédentes, traduites en français par un traducteur ou un organisme assermentés. 
+une année à temps plein ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes,
+traduites en français par un traducteur ou un organisme assermenté.
 
-6. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (1) :
+**Nota:**
 
-- copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
+(7) Cette déclaration ne préjuge en rien de la décision de l'administration de reconnaître les qualifications présentées
+comme permettant l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1.
 
-- copie d'une attestation de niveau en français délivrée par une institution spécialisée ;
-
-- copie d'un document attestant d'une expérience professionnelle acquise en France. 
-
-Dans le cas où le déclarant n'est pas en mesure de produire l'un de ces trois documents, un entretien permet de vérifier sa
-connaissance de la langue française. 
-
-(1) Afin de garantir l'exercice en sécurité des activités physiques et sportives et la capacité à alerter les secours.
+(8) Informations à caractère facultatif.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté du 30 octobre 2009 - art.
 
 _Cité par_:
 
   - Arrêté du 11 avril 2012 - art. 29-3 (V)
   - Code du sport. - art. A212-182-2 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code du sport. - art. L212-1
+  - Arrêté du 4 décembre 2017 - art. 4
 
 
 ###### Article Annexe II-16-1 (art. A212-211)
 
-ÉPREUVE D'APTITUDE
+Epreuve d'aptitude
 
-A. - Mention "progression traditionnelle" (TRAD) (BPJEPS) 
+A.-Option “ méthode traditionnelle ” (TRAD) de la mention “ parachutisme ” du BP JEPS
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention progression
-traditionnelle. 
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ méthode traditionnelle ”.
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
@@ -65072,16 +65065,16 @@ c) Connaissances relatives à la manipulation des sangles à ouverture automatiq
 Cette partie du test consiste, pour le candidat, à démontrer qu'il possède les automatismes relatifs aux procédures
 d'accrochage des sangles à ouverture automatique.
 
-d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires ; 
+d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires
 
-Chaque partie a, b et c du test est éliminatoire. 
+Chaque partie a, b et c du test est éliminatoire.
 
 2. Test technique de sécurité
 
 Il se déroule en vol à une hauteur minimale de 1 000 mètres et vise à vérifier si le candidat est en capacité de restituer la
 manipulation des sangles à ouverture automatique.
 
-Il consiste dans le parachutage des deux évaluateurs incluant : 
+Il consiste dans le parachutage des deux évaluateurs incluant :
 
 - les corrections demandées au pilote sur la prise d'axe de l'avion ;
 
@@ -65094,10 +65087,10 @@ Il consiste dans le parachutage des deux évaluateurs incluant :
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque
 évaluateur, en utilisant les termes techniques appropriés.
 
-B. - Mention "progression accompagnée en chute (PAC)" (BPJEPS) 
+B.-Option “ progression accompagnée en chute ” (PAC) de la mention “ parachutisme ” du BP JEPS
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention progression accompagnée
-en chute. 
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ progression accompagnée
+en chute ”.
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
@@ -65119,9 +65112,9 @@ main.
 Cette partie du test consiste, pour le candidat, à contrôler si les deux évaluateurs sont entièrement et convenablement
 équipés pour le saut.
 
-c) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires. 
+c) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires.
 
-Chaque partie a et b du test est éliminatoire. 
+Chaque partie a et b du test est éliminatoire.
 
 2. Test technique de sécurité
 
@@ -65135,9 +65128,8 @@ Il se déroule en vol à une hauteur minimale de 3 500 mètres et vise à vérif
 
 - de déclencher de manière fictive, au moment opportun, l'ouverture du parachute de l'évaluateur.
 
-Chaque saut est expertisé par deux évaluateurs, l'un en vol, l'autre au sol. 
-
-Il comporte trois sauts, qui se déroulent dans l'ordre chronologique suivant :
+Il comporte trois sauts, expertisés chacun par deux évaluateurs, l'un en vol, l'autre au sol. Ces sauts se déroulent dans
+l'ordre chronologique suivant :
 
 a) Saut 1 :
 
@@ -65174,9 +65166,9 @@ c) Saut 3 :
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de
 l'évaluateur, en utilisant les termes techniques appropriés.
 
-C. - Mention "parachute biplace (tandem)" (BPJEPS) 
+C.-Option “ saut en tandem ” (TANDEM) de la mention “ parachutisme ” du BP JEPS
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention tandem. 
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention tandem.
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
@@ -65187,7 +65179,7 @@ a) Connaissances relatives aux spécificités du parachute biplace et de son dé
 Cette partie du test consiste, pour le candidat, à effectuer un pliage et un contrôle des points de sécurité de l'équipement
 (parachute biplace et harnais passager).
 
-b) Connaissances relatives aux incidents, remèdes et procédures de secours en chute et sous voilure(s) ouverte(s).
+b) Connaissances relatives aux incidents, remèdes et procédures de secours en chute et sous voilure (s) ouverte (s).
 
 Cette partie du test consiste, pour le candidat :
 
@@ -65201,11 +65193,11 @@ c) Connaissances relatives aux consignes de sécurité que doivent avoir assimil
 
 Cette partie du test consiste, pour le candidat, à contrôler si la personne emmenée en chute connaît les règles et postures
 permettant d'assurer la sécurité du binôme ainsi que les consignes propres au déroulement du saut et aux évolutions sous
-voile. 
+voile.
 
-d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires. 
+d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires.
 
-Chaque partie a, b et c du test est éliminatoire. 
+Chaque partie a, b et c du test est éliminatoire.
 
 2. Test technique de sécurité
 
@@ -65217,10 +65209,8 @@ Il vise à vérifier si le candidat :
 
 - dirige la voilure et effectue un atterrissage en sécurité.
 
-Il comporte deux sauts de difficulté croissante. Le candidat ne peut effectuer le deuxième saut que s'il réussit le premier
-saut.
-
-Chaque saut est expertisé par deux évaluateurs, l'un en vol, l'autre au sol. 
+Il comporte deux sauts de difficulté croissante expertisé chacun par deux évaluateurs, l'un en vol, l'autre au sol. Le
+candidat ne peut effectuer le second saut que s'il réussit le premier saut.
 
 a) Saut 1 :
 
@@ -65246,8 +65236,8 @@ Exercices sous voilure :
 
 - mise en œuvre et contrôle de la voilure : l'évaluateur a les doubles commandes en main. Il est neutre, sauf cas d'urgence ;
 
-- pilotage : en fonction du vent, l'évaluateur peut demander une prise de terrain en "U" (PTU) ou une prise de terrain en
-"S" (PTS). Le périmètre d'atterrissage est de 50 mètres de diamètre ;
+- pilotage : en fonction du vent, l'évaluateur peut demander une prise de terrain en “ U ” (PTU) ou une prise de terrain en “
+S ” (PTS). Le périmètre d'atterrissage est de 50 mètres de diamètre ;
 
 - approche jusqu'en finale avec 30 à 50 % de frein : courte finale bras hauts ;
 
@@ -65261,9 +65251,9 @@ Exercices en chute :
 
 - sortie d'avion, l'évaluateur provoque des perturbations sans RSE ;
 
-- le candidat doit assurer la stabilité tant que l'évaluateur maintient "ses mains dehors" ;
+- le candidat doit assurer la stabilité tant que l'évaluateur maintient “ ses mains dehors ” ;
 
-- le candidat lance le RSE dès que l'évaluateur met "ses mains au harnais" à 2 500 mètres minimum ;
+- le candidat lance le RSE dès que l'évaluateur met “ ses mains au harnais ” à 2 500 mètres minimum ;
 
 - le candidat effectue une simulation d'ouverture sur la commande d'ouverture de la voilure principale (CDO) ;
 
@@ -65287,14 +65277,14 @@ inanimé si l'aérologie le permet ;
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque
 évaluateur, en utilisant les termes techniques appropriés.
 
-D. - Mention "parachutisme" (DEJEPS)
+D.-Mention “ parachutisme ” du DE JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.
 
 1. Test de vérification des connaissances théoriques en matière de sécurité
 
 Il se déroule au sol au cours d'un entretien oral d'une heure maximum et vise à vérifier les types de connaissances
-suivantes : 
+suivantes :
 
 - dispositions réglementaires liées à la création d'une école, notamment celles relatives à l'aviation civile et aux
 établissements d'activités physiques et sportives ;
@@ -65317,7 +65307,7 @@ suivantes :
 
 2. Test technique de sécurité
 
-Il se déroule au sol au cours d'une séance de sauts d'une journée et vise à vérifier si le candidat est en capacité de : 
+Il se déroule au sol au cours d'une séance de sauts d'une journée et vise à vérifier si le candidat est en capacité de :
 
 - organiser et suivre le bon déroulement de la progression des pratiquants ;
 
@@ -65368,7 +65358,7 @@ des pratiquants ;
 
 _Modifié par_:
 
-  - Arrêté du 7 janvier 2014 - art. 4
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -65377,12 +65367,12 @@ _Cité par_:
 
 ###### Article Annexe II-16-2 (art. A212-217)
 
-ÉPREUVE D'APTITUDE 
+Epreuve d'aptitude
 
-1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité 
+1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
-Ce test vise à vérifier, au moyen d'un entretien et à partir de l'expérience du candidat, ses connaissances théoriques et
-pratiques en matière de sécurité. 
+Le test de vérification des connaissances théoriques et pratiques en matière de sécurité vise à vérifier, au moyen d'un
+entretien et à partir de l'expérience du candidat, ses connaissances théoriques et pratiques en matière de sécurité.
 
 Au cours de l'entretien d'une durée de trente à quarante-cinq minutes, le candidat explicite et fait l'analyse de son
 expérience professionnelle à partir de sa liste de courses, produite en amont, comportant la réalisation de vingt courses en
@@ -65402,24 +65392,22 @@ de la spéléologie ;
 inscrite sur la liste de référence établie par le directeur technique national de la spéléologie ;
 
 - douze cavités de plus de cent cinquante mètres de profondeur (traversées admises), dont au moins six inscrites sur la liste
-de référence établie par le directeur technique national de la spéléologie. 
+de référence établie par le directeur technique national de la spéléologie.
 
-2. Test technique de sécurité 
+2. Test technique de sécurité
 
-Ce test vise à vérifier la capacité du candidat à maîtriser les techniques de progression. Il comporte trois épreuves : 
+Le test technique de sécurité vise à vérifier la capacité du candidat à maîtriser les techniques de progression. Il comporte
+trois épreuves :
 
-a) Un parcours d'aisance ; 
+2.1 Première épreuve : le parcours d'aisance
 
-b) Une exploration d'envergure ; 
+Le parcours d'aisance permet au candidat de démontrer en sécurité les gestes techniques élémentaires de la progression sur
+corde. Il vise également à vérifier ses compétences à intervenir sur un public en difficulté. Sa durée est d'environ un jour.
+Il se déroule dans une cavité, sauf cas de force majeure.
 
-c) L'encadrement d'un groupe sous terre en sécurité. 
-
-a) Le parcours d'aisance permet au candidat de démontrer en sécurité les gestes techniques élémentaires de la progression sur
-corde. 
-
-Le parcours d'aisance sur corde peut se réaliser sur structure artificielle, en site naturel de type falaise ou en  cavité
-école     . Les déplacements se font sur des cordes préinstallées par l'organisme de formation. La réalisation de ce parcours
-est effectuée dans un temps contraint déterminé par un ouvreur. Le temps de parcours des candidates est augmenté de 20 %. 
+Le parcours d'aisance sur corde peut se réaliser sur structure artificielle, en site naturel de type falaise ou en cavité
+école. Les déplacements se font sur des cordes préinstallées par l'organisme de formation. La réalisation de ce parcours est
+effectuée dans un temps contraint déterminé par un ouvreur. Le temps de parcours des candidates est augmenté de 20 %.
 
 Il comporte les mises en situation suivantes :
 
@@ -65433,28 +65421,24 @@ Il comporte les mises en situation suivantes :
 
 - déplacements pendulaires ;
 
-- passage de nœud à la descente, à la montée. 
+- passage de nœud à la descente, à la montée.
 
 Un dégagement d'équipier sur bloqueurs par une méthode de balancier, technique au choix, dans un temps limité à trois minutes
-trente secondes est réalisé par le candidat. 
+trente secondes est réalisé par le candidat.
 
-L'équipement d'une section verticale comprenant au moins un fractionnement en falaise ou cavité. 
+L'équipement d'une section verticale comprenant au moins un fractionnement en falaise ou cavité.
 
-Ce parcours vise également à vérifier ses compétences à intervenir sur un public en difficulté. 
-
-Sa durée est d'environ un jour. Il a lieu dans une cavité ; sauf cas de force majeure. 
-
-Il peut comporter :
+Le parcours d'aisance peut comporter :
 
 - une ou plusieurs situations d'exception ;
 
 - une ou plusieurs situations d'intervention auprès d'une personne en difficulté ou en détresse ;
 
-- une situation de mise en attente d'une victime et de déclenchement de secours en langue française. 
+- une situation de mise en attente d'une victime et de déclenchement de secours en langue française.
 
-Le candidat doit maîtriser les éléments suivants : 
+Le candidat doit maîtriser les éléments suivants :
 
-Dans le domaine des techniques d'exception :
+a) Dans le domaine des techniques d'exception :
 
 - les techniques d'escalade permettant une remontée de puits ou une échappatoire improvisée ;
 
@@ -65462,9 +65446,9 @@ Dans le domaine des techniques d'exception :
 
 - la confection et l'utilisation de matériel de réchappe (perte de matériel) ;
 
-- les techniques d'évitement de puits arrosés (installation de guidé en sécurité et remontée sur guide). 
+- les techniques d'évitement de puits arrosés (installation de guidé en sécurité et remontée sur guide).
 
-Dans le domaine des techniques d'intervention :
+b) Dans le domaine des techniques d'intervention :
 
 - les interventions par balancier avec ou sans cordes annexes et dégagements vers le haut ;
 
@@ -65478,9 +65462,9 @@ Dans le domaine des techniques d'intervention :
 
 - les dégagements sur corde en verticale, depuis le haut ou depuis le bas, vers le bas, avec passage de déviations ;
 
-- les dégagements de personnes bloquées en fond de boucle de fractionnement. 
+- les dégagements de personnes bloquées en fond de boucle de fractionnement.
 
-Dans le domaine des techniques d'assistance :
+c) Dans le domaine des techniques d'assistance :
 
 - les démarches et les gestes du secourisme de terrain en milieu engagé ;
 
@@ -65488,110 +65472,110 @@ Dans le domaine des techniques d'assistance :
 
 - l'installation de point chaud ;
 
-- les étapes du déclenchement de secours. 
+- les étapes du déclenchement de secours.
 
-b) Exploration d'envergure. 
+2.2 Deuxième épreuve : l'exploration d'envergure
 
 Cette mise en situation vise à vérifier la capacité du candidat à réaliser sous terre en sécurité les démonstrations
 techniques en spéléologie. Sa durée est d'environ un jour. Elle consiste pour le candidat à gérer, dans le cadre d'une sortie
 dans une cavité de classe IV, une portion de 200 mètres de dénivelé (équipement et déséquipement). En fin de sortie, le
 candidat réalise un dégagement d'équipier sur corde en moins de trois minutes et trente secondes (méthode et technique au
 choix hors couper de corde et en force). Cette exploration se fait en aller et retour, excluant tout parcours en traversée
-souterraine. 
+souterraine.
 
-Durant la course technique et engagée, le candidat doit être capable (EC) de maitriser les éléments suivants : 
+Durant la course technique et engagée, le candidat doit être capable (EC) de maitriser les éléments suivants :
 
-Dans le domaine de la préparation d'une sortie : 
+a) Dans le domaine de la préparation d'une sortie :
 
-EC d'analyser une topographie. 
+EC d'analyser une topographie ;
 
-EC d'analyser une fiche d'équipement. 
+EC d'analyser une fiche d'équipement ;
 
-EC d'analyser une cartographie. 
+EC d'analyser une cartographie ;
 
-EC d'analyser un bulletin météorologique. 
+EC d'analyser un bulletin météorologique ;
 
-EC d'analyser un contexte hydrogéologique. 
+EC d'analyser un contexte hydrogéologique ;
 
-EC d'opérer des choix et décisions en fonction des données observables de la météorologie. 
+EC d'opérer des choix et décisions en fonction des données observables de la météorologie.
 
-Dans le domaine de la progression hors agrès : 
+b) Dans le domaine de la progression hors agrès :
 
-Les déplacements en terrain varié, chaotique, glissant. 
+- les déplacements en terrain varié, chaotique, glissant ;
 
-Les escalades. 
+- les escalades ;
 
-La progression aquatique. 
+- la progression aquatique ;
 
-Le franchissement d'étroitures. 
+- le franchissement d'étroitures ;
 
-La progression en méandre. 
+- la progression en méandre ;
 
-L'orientation et l'interprétation de la topographie disponible. 
+- l'orientation et l'interprétation de la topographie disponible.
 
-Dans le domaine de la progression verticale : 
+c) Dans le domaine de la progression verticale :
 
-A la descente : 
+A la descente :
 
-Les différents freinages. 
+- les différents freinages ;
 
-Arrêt sur clef de blocage. 
+- arrêt sur clef de blocage ;
 
-Passage de fractionnement, simples, plein vides, décalés. 
+- passage de fractionnement, simples, plein vides, décalés ;
 
-Franchissement d'un nœud. 
+- franchissement d'un nœud ;
 
-La conversion. 
+- la conversion ;
 
-Les réchappes de perte de matériel. 
+- les réchappes de perte de matériel.
 
-A la remontée : 
+A la remontée :
 
-Les remontées sur corde, les conversions. 
+- les remontées sur corde, les conversions ;
 
-Les réchappes de perte de matériel. 
+- les réchappes de perte de matériel ;
 
-Franchissement d'un nœud. 
+- franchissement d'un nœud ;
 
-Passage de fractionnement, simples, plein vides, décalés. 
+- passage de fractionnement, simples, plein vides, décalés.
 
-Dans le domaine de la communication : 
+Dans le domaine de la communication :
 
-Utilisation de code sonore. 
+- utilisation de code sonore ;
 
-Utilisation d'une terminologie adaptée en langue française. 
+- utilisation d'une terminologie adaptée en langue française ;
 
-Anticipation. 
+- anticipation.
 
-Dans le domaine de l'organisation matérielle et logistique de la sortie : 
+Dans le domaine de l'organisation matérielle et logistique de la sortie :
 
-La gestion du matériel sur soi. 
+- la gestion du matériel sur soi ;
 
-La gestion du matériel dans chaque sac. 
+- la gestion du matériel dans chaque sac ;
 
-Le conditionnement de l'alimentation. 
+- le conditionnement de l'alimentation ;
 
-La gestion du matériel dans l'équipe. 
+- la gestion du matériel dans l'équipe ;
 
-La maîtrise des itinéraires d'accès et marche d'approche. 
+- la maîtrise des itinéraires d'accès et marche d'approche ;
 
-Organisation collective de la sortie, répartition des rôles. 
+- l'organisation collective de la sortie et la répartition des rôles.
 
-Dans le domaine de l'équipement des obstacles : 
+Dans le domaine de l'équipement des obstacles :
 
-L'analyse et la prise de décision. 
+- l'analyse et la prise de décision ;
 
-La protection des accès aux verticales. 
+- la protection des accès aux verticales ;
 
-La mise en place de mains courantes. 
+- la mise en place de mains courantes ;
 
-Le réglage de la hauteur et de la tension des mains courantes. 
+- le réglage de la hauteur et de la tension des mains courantes.
 
 La gestion des frottements :
 
 - les protections ;
 
-- les évitements (déviations, fractionnements). 
+- les évitements (déviations, fractionnements).
 
 Les équipements hors crues :
 
@@ -65601,7 +65585,7 @@ Les équipements hors crues :
 
 - l'équipement de rappel guidé ;
 
-- l'installation de déviations. 
+- l'installation de déviations.
 
 Les grandes verticales :
 
@@ -65611,34 +65595,34 @@ Les grandes verticales :
 
 - les fractionnements de confort ;
 
-- consignes de sécurité. 
+- consignes de sécurité.
 
-c) L'encadrement d'un groupe sous terre en sécurité. 
+2.3 Troisième épreuve : l'encadrement d'un groupe sous terre en sécurité.
 
 Cette séance vise à vérifier la capacité du candidat à assurer la sécurité des pratiquants et des tiers en spéléologie. Sa
 durée est d'environ un jour. Le candidat est mis en situation d'encadrement d'un public dans une cavité de classe 4. Le
 public est un public d'application, il peut être préparé ou disposer de bonnes qualités physiques et sportives transférables
-dans le cadre d'une sortie souterraine engagée et technique. 
+dans le cadre d'une sortie souterraine engagée et technique.
 
-Le candidat doit maîtriser les éléments et comportements suivants : 
+Le candidat doit maîtriser les éléments et comportements suivants :
 
-Dans le domaine de la conception de la séance : 
+a) Dans le domaine de la conception de la séance :
 
-Repérage de la cavité. 
+- repérage de la cavité ;
 
-Recherche et prise en compte d'informations pertinentes en lien avec la sécurité. 
+- recherche et prise en compte d'informations pertinentes en lien avec la sécurité ;
 
-Analyse des contraintes et du potentiel du parcours. 
+- analyse des contraintes et du potentiel du parcours ;
 
-Définition des objectifs utiles à la sécurité. 
+- définition des objectifs utiles à la sécurité ;
 
-Prise en compte des attentes et des capacités du public. 
+- prise en compte des attentes et des capacités du public ;
 
-Utilisation d'une fiche de préparation de séance. 
+- utilisation d'une fiche de préparation de séance ;
 
-Implication des publics dans la sortie. 
+- implication des publics dans la sortie.
 
-Dans le domaine de la mise en œuvre de la séance : 
+b) Dans le domaine de la mise en œuvre de la séance :
 
 L'organisation de la logistique :
 
@@ -65654,15 +65638,15 @@ L'organisation de la logistique :
 
 - préparation des sacs ;
 
-- conditionnement des repas. 
+- conditionnement des repas.
 
-Le franchissement des obstacles techniques par le groupe. 
+Le franchissement des obstacles techniques par le groupe :
 
-Analyse et équipement rapide des obstacles. 
+- analyse et équipement rapide des obstacles ;
 
-Equipements multiples si nécessaire. 
+- équipements multiples si nécessaire.
 
-Dans le domaine de la conduite de la séance : 
+c) Dans le domaine de la conduite de la séance :
 
 La communication avec le groupe en français :
 
@@ -65670,13 +65654,13 @@ La communication avec le groupe en français :
 
 - présentation du projet de sortie et de séance ;
 
-- briefing  général, principes d'évolution en terrains étroits, chaotiques, glissants et engagés ;
+- briefing général, principes d'évolution en terrains étroits, chaotiques, glissants et engagés ;
 
 - énoncé, respect et transmission des consignes de sécurité ;
 
 - équilibrer mise en action du public et énoncé des consignes ;
 
-- communication posturale et comportementale. 
+- communication posturale et comportementale.
 
 Le contrôle :
 
@@ -65684,7 +65668,7 @@ Le contrôle :
 
 - contrôle régulier des équipements personnels ;
 
-- contrôle des équipements sous terre. 
+- contrôle des équipements sous terre.
 
 La vigilance :
 
@@ -65692,7 +65676,7 @@ La vigilance :
 
 - disponibilité physique, capacité à se déplacer rapidement ;
 
-- placement permettant la vigilance et le conseil. 
+- placement permettant la vigilance et le conseil.
 
 L'organisation du groupe :
 
@@ -65702,7 +65686,7 @@ L'organisation du groupe :
 
 - organisation ou prise en charge des parades dans les passages exposés, les escalades, les désescalades ;
 
-- organisation de la dynamique du groupe. 
+- organisation de la dynamique du groupe.
 
 L'évaluation :
 
@@ -65710,13 +65694,13 @@ L'évaluation :
 
 - évaluation chronique de l'état physique et psychologique des participants ;
 
-- évaluation de son propre état. 
+- évaluation de son propre état.
 
 La régulation :
 
 - modification des objectifs de séances ;
 
-- intervention sur les symptômes  3F  : faim, froid, fatigue ;
+- intervention sur les symptômes 3F : faim, froid, fatigue ;
 
 - intervention sur un participant en difficulté ou en détresse ;
 
@@ -65726,7 +65710,7 @@ La régulation :
 
 _Modifié par_:
 
-  - Arrêté du 3 février 2016 - art. 6
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -65735,26 +65719,16 @@ _Cité par_:
 
 ###### Article Annexe II-16-3 (art. A212-195)
 
-ÉPREUVE D'APTITUDE 
+Epreuve d'aptitude
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité la plongée subaquatique dans l'une des
-conditions d'exercices suivantes :
+A.-Mention “ plongée subaquatique ” du BP JEPS
 
-- encadrement en autonomie de la randonnée subaquatique, enseignement et encadrement de la plongée subaquatique dans les
-conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport (épreuve d'aptitude
-BPJEPS) ; ou
+1. Test technique de sécurité.
 
-- enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions
-techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport (épreuve d'aptitude DEJEPS). 
+Le test technique de sécurité comporte quatre épreuves qui se déroulent dans l'ordre chronologique suivant, chaque épreuve
+étant éliminatoire.
 
-Epreuve d'aptitude BPJEPS 
-
-1. Test technique de sécurité. 
-
-Ce test de sécurité comporte quatre épreuves qui doivent se dérouler chronologiquement ; chaque épreuve non validée est
-éliminatoire. 
-
-a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre : 
+a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre :
 
 Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. Elle
 consiste à effectuer, à l'aide d'un mannequin, un sauvetage à moins de six mètres de profondeur à l'aide de tout matériel
@@ -65769,147 +65743,145 @@ déplacement ;
 1,5 kg de poids apparent ;
 
 - remonter un mannequin normalisé, puis à le remorquer en sécurité, les voies respiratoires hors de l'eau, sur une distance
-de cent mètres. 
+de cent mètres.
 
 Le port du vêtement isothermique complété, au choix du candidat, d'une ceinture de lest, est obligatoire lorsque la
 température de l'eau est inférieure à 20° C. Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
-isothermique est laissé au choix du candidat. La durée maximale de cette épreuve est de huit minutes. 
+isothermique est laissé au choix du candidat. La durée maximale de cette épreuve est de huit minutes.
 
-Le candidat doit maintenir le mannequin, les voies aériennes hors de l'eau en utilisant une prise et une tenue du mannequin
-applicables à une victime réelle. 
+Le candidat doit maintenir le mannequin, les voies aériennes hors de l'eau, en utilisant une prise et une tenue du mannequin
+applicables à une victime réelle.
 
-La non-réalisation en totalité de l'épreuve définie est éliminatoire. 
+L'épreuve définie doit être réalisée dans sa totalité. A défaut, le candidat est éliminé.
 
-Le candidat ne dispose que d'une seule tentative pour réaliser l'épreuve dans sa totalité. Toutefois, si le candidat échoue
-dans la récupération du mannequin, il peut faire une seconde tentative, le chronomètre n'étant pas arrêté. 
+Le candidat ne dispose que d'une seule tentative pour réaliser l'épreuve dans sa totalité. Toutefois, dans le cas où il
+échoue à récupérer le mannequin, il peut faire une seconde tentative, le chronomètre n'étant pas arrêté.
 
-L'utilisation d'un mannequin de 1,5 kg de poids apparent est obligatoire. 
+L'utilisation d'un mannequin de 1,5 kg de poids apparent est obligatoire.
 
-b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel : 
+b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel :
 
 Cette épreuve permet de vérifier la capacité du candidat équipé d'un scaphandre autonome à gérer une situation d'accident
-survenue à un plongeur équipé lui-même d'un scaphandre autonome. 
+survenue à un plongeur équipé lui-même d'un scaphandre autonome.
 
 Elle porte sur la remontée en sécurité d'un plongeur en difficulté en utilisant tout moyen d'une profondeur de vingt-cinq
-mètres et doit permettre d'évaluer également le tractage jusqu'à l'embarcation et le déséquipement. 
+mètres et doit permettre d'évaluer également le tractage jusqu'à l'embarcation et le déséquipement.
 
-c) Epreuve de premiers secours appliquée à l'activité en milieu naturel : 
+c) Epreuve de premiers secours appliquée à l'activité en milieu naturel
 
-Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. 
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur.
 
 Le candidat doit prendre en charge une victime depuis la surface de l'eau, organiser son hissage à bord, effectuer un bilan,
-réaliser les gestes de premier secours et mettre en place la chaîne des secours en mer selon le dispositif légal français. 
+réaliser les gestes de premier secours et mettre en place la chaîne des secours en mer selon le dispositif réglementaire
+français.
 
-d) Conduite de palanquée à quarante mètres : 
+d) Conduite de palanquée à quarante mètres :
 
 Cette épreuve permet de vérifier la capacité du candidat à conduire une plongée d'exploration en zone profonde (quarante
-mètres). 
+mètres).
 
 Elle porte sur la vérification des capacités du candidat à prendre en charge une palanquée dans les conditions de pratique en
-zone profonde incluant notamment le dispositif réglementaire français. 
+zone profonde incluant notamment le dispositif réglementaire français.
 
-Le candidat réagira en tant que de besoin aux incidents simulés par deux examinateurs placés dans le rôle de pratiquants
-encadrés. Seront pris en compte dans l'évaluation, la qualité de la descente, la conduite de palanquée à quarante mètres, la
-réalisation de tests définis par le jury, les réactions aux situations proposées par le jury, la dernière d'entre elle
-conduisant à une assistance de plongeur en difficulté de la profondeur d'intervention au support de surface. 
+Le candidat réagit en tant que de besoin, aux incidents simulés par deux examinateurs placés dans le rôle de pratiquants
+encadrés. Sont pris en compte dans l'évaluation, la qualité de la descente, la conduite de palanquée à quarante mètres, la
+réalisation de tests définis par le jury, les réactions aux situations proposées par le jury, la dernière d'entre elles
+conduisant à une assistance de plongeur en difficulté, de la profondeur d'intervention au support de surface.
 
-2. Test de vérification des connaissances théoriques et pratiques en matière de sécurité. 
+2. Test de vérification des connaissances théoriques et pratiques en matière de sécurité.
 
-Ce test réalisé à l'oral et d'une durée de quarante minutes maximale, vise à vérifier la capacité du candidat à diriger et à
-organiser la plongée. 
+Réalisé à l'oral et d'une durée maximale de quarante minutes, le test de vérification des connaissances théoriques et
+pratiques en matière de sécurité vise à vérifier la capacité du candidat à diriger et à organiser la plongée.
 
-Il porte sur les connaissances spécifiques à la plongée en France : règlementation de l'activité, organisation et mise en
+Il porte sur les connaissances spécifiques à la plongée en France : réglementation de l'activité, organisation et mise en
 œuvre des secours, caractéristiques de la plongée en zone profonde jusqu'à quarante mètres (causes et prévention des
-accidents...). 
+accidents …).
 
-Après une préparation de vingt minutes maximum sans document, le candidat expose au jury ses choix d'organisation et de
-conduite de la plongée à quarante mètres. Il est interrogé par le jury sur les choix avancés et la qualité de sa prestation. 
+Après un temps de préparation d'une durée maximale de vingt minutes sans document, le candidat expose au jury ses choix
+d'organisation et de conduite de la plongée à quarante mètres mentionnée au d du 1. Il est interrogé par le jury sur les
+choix avancés et la qualité de sa prestation.
 
-Epreuve d'aptitude DEJEPS 
+B.-Mention “ activités de plongée subaquatique ” du DE JEPS
 
-1. Test technique de sécurité. 
+1. Test technique de sécurité.
 
-Ce test de sécurité comporte 4 épreuves qui doivent se dérouler chronologiquement ; chaque épreuve non validée est
-éliminatoire. 
+Le test technique de sécurité comporte quatre épreuves qui se déroulent dans l'ordre chronologique suivant, chaque épreuve
+étant éliminatoire.
 
-a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre : 
+a) Epreuve de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre
 
 Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. Elle
 consiste, pour le candidat équipé de palmes, masque et tuba à réaliser, sur un parcours balisé, une nage de deux cents
 mètres, à descendre à une profondeur de dix mètres et en remonter un mannequin normalisé d'un poids apparent de 1,5 kg en
 moins de cinq minutes, puis à le remorquer en sécurité, les voies respiratoires hors de l'eau, sur une distance de cent
-mètres. 
+mètres.
 
 Le port du vêtement isothermique, complété, au choix du candidat, d'une ceinture de lest, est obligatoire lorsque la
 température de l'eau est inférieure à 20° C. Lorsque cette température est égale ou supérieure à 20° C, le port du vêtement
-isothermique est laissé au choix du candidat. 
+isothermique est laissé au choix du candidat.
 
-La durée maximale de cette épreuve est de huit minutes. 
+La durée maximale de cette épreuve est de huit minutes.
 
-b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel : 
+b) Epreuve d'assistance d'un plongeur en difficulté en milieu naturel
 
 Cette épreuve permet de vérifier la capacité du candidat équipé d'un scaphandre autonome à gérer une situation d'accident
-survenu à un plongeur équipé d'un scaphandre autonome. 
+survenu à un plongeur équipé d'un scaphandre autonome.
 
 Elle porte sur la remontée en sécurité d'un plongeur en difficulté en utilisant tout moyen d'une profondeur de vingt-cinq
-mètres. 
+mètres.
 
-c) Epreuve de premiers secours appliqué à l'activité en milieu naturel : 
+c) Epreuve de premiers secours appliquée à l'activité en milieu naturel :
 
-Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur. 
+Cette épreuve permet de vérifier la capacité du candidat à gérer une situation d'accident survenu à un plongeur.
 
-Le candidat devra prendre en charge une victime depuis la surface de l'eau, organiser son hissage à bord, effectuer un bilan,
-réaliser les gestes de premier secours et mettre en place la chaîne des secours en mer selon le dispositif légal français. 
+Le candidat prend en charge une victime depuis la surface de l'eau, organise son hissage à bord, effectue un bilan, réalise
+les gestes de premier secours et met en place la chaîne des secours en mer selon le dispositif réglementaire français.
 
-d) Conduite de palanquée à cinquante mètres 
+d) Conduite de palanquée à quarante mètres
 
 Cette épreuve permet de vérifier la capacité du candidat à organiser et à conduire une plongée d'exploration en zone profonde
-et à assister un élève en difficulté. 
+et à assister un élève en difficulté.
 
 Elle porte sur la vérification des capacités du candidat à organiser l'immersion et à prendre en charge une palanquée dans
-les conditions de pratique en zone profonde incluant notamment le dispositif légal français. 
+les conditions de pratique en zone profonde incluant notamment le dispositif réglementaire français.
 
-Le candidat réagira en tant que de besoin aux incidents simulés par deux examinateurs placés dans le rôle de pratiquants
-encadrés. 
+Le candidat réagit en tant que de besoin aux incidents simulés par deux examinateurs placés dans le rôle de pratiquants
+encadrés.
 
-Cette épreuve s'effectuera en pleine eau, sur un fond supérieur à cinquante mètres. 
+Cette épreuve s'effectue en pleine eau, sur un fond supérieur à quarante mètres.
 
-Seront pris en compte dans l'évaluation la qualité de la descente, la conduite de palanquée à cinquante mètres, la
-réalisation de tests définis par le jury, les réactions aux situations proposées par le jury, la dernière d'entre elles
-conduisant à une assistance de plongeur en difficulté de la profondeur d'intervention au support de surface. 
+Sont pris en compte dans l'évaluation, la qualité de la descente, la conduite de palanquée à quarante mètres, la réalisation
+de tests définis par le jury, les réactions aux situations proposées par le jury, la dernière d'entre elles conduisant à une
+assistance de plongeur en difficulté de la profondeur d'intervention, au support de surface.
 
-2. Test de vérification des connaissances théoriques et pratiques en matière de sécurité. 
+2. Test de vérification des connaissances théoriques et pratiques en matière de sécurité.
 
-Ce test réalisé à l'oral et d'une durée de quarante minutes maximale vise à vérifier la capacité du candidat à diriger et à
-organiser la plongée. 
+Réalisé à l'oral et d'une durée maximale de quarante minutes, le test de vérification des connaissances théoriques et
+pratiques en matière de sécurité vise à vérifier la capacité du candidat à diriger et à organiser la plongée.
 
 Il porte sur les connaissances spécifiques à la plongée en France : réglementation de l'activité, organisation et mise en
-œuvre des secours, caractéristiques de la plongée profonde jusqu'à soixante mètres (causes et prévention des accidents...). 
+œuvre des secours, caractéristiques de la plongée profonde jusqu'à soixante mètres (causes et prévention des accidents …).
 
-Après une préparation de vingt minutes maximum sans document, le candidat expose au jury ses choix d'organisation et de
-conduite de la plongée à cinquante mètres qu'il a dirigée pour le d du test de sécurité. Il est interrogé par le jury sur les
+Après un temps de préparation d'une durée maximale de vingt minutes sans document, le candidat expose au jury ses choix
+d'organisation et de conduite de la plongée à quarante mètres mentionnée au d du 1. Il est interrogé par le jury sur les
 choix avancés et la qualité de sa prestation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 7 janvier 2014 - art. 4
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cité par_:
 
   - Code du sport. - art. A212-195 (M)
-
-_Cite_:
-
-  - Code du sport. - art. A322-71
 
 
 ###### Article Annexe II-16-4 (art. A212-188)
 
 Epreuve d'aptitude 
 
-I.-Eurotest 
+I.-Test technique de sécurité : l'Eurotest. 
 
 L'eurotest, épreuve de performance qui valide l'aptitude technique, vise à vérifier la capacité du candidat à évoluer en
 sécurité à une vitesse soutenue sur une certaine distance en maîtrisant les trajectoires. 
@@ -65917,18 +65889,20 @@ sécurité à une vitesse soutenue sur une certaine distance en maîtrisant les 
 L'eurotest se déroule conformément aux dispositions du II de l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la
 formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
 
-II.-Eurosécurité 
+II.-Test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité :
+l'Eurosécurité 
 
-Ce test, qui se déroule en période hivernale, comprend trois épreuves permettant de vérifier, dans l'ordre chronologique
-suivant, que le candidat est en capacité, à partir d'une mise en situation professionnelle sur le terrain : 
+Ce test se déroule en période hivernale sur une durée de deux à cinq jours. Il comprend trois épreuves permettant de
+vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à partir d'une mise en situation
+professionnelle sur le terrain : 
 
-1° D'effectuer une recherche de victimes en avalanche dans un temps limité ; 
+1° d'effectuer une recherche de victimes en avalanche dans un temps limité ; 
 
-2° D'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
+2° d'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
 conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes et de gérer la situation en cas
 d'accident ; 
 
-3° D'assurer la conduite d'un groupe en sécurité sur deux jours, en ski hors pistes et en randonnée à ski. 
+3° d'assurer la conduite d'un groupe en sécurité sur deux jours minimum, en ski hors-pistes et en randonnée à ski. 
 
 1. Première épreuve : recherche multivictimes en avalanche. 
 
@@ -65946,12 +65920,12 @@ Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
 
 a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigés en français ; 
 
-b) De se situer sur un plan des pistes de la station et sur une carte. 
+b) De se situer sur un plan des pistes de la station et sur une carte topographique. 
 
-D'une durée de 20 min, l'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en
-français l'analyse du bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les
-comparer avec les conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan
-des pistes de la station ainsi que d'une carte topographique IGN 1/250 000. 
+L'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en français l'analyse du
+bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les comparer avec les
+conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan des pistes de la
+station ainsi que d'une carte topographique IGN 1/25 000. 
 
 Cette capacité est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas l'une des deux situations a ou b, il
 est éliminé. 
@@ -65962,15 +65936,15 @@ Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
 
 a) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes ; 
 
-b) De gérer un accident :
+b) De gérer un accident : d'éviter le sur-accident et de gérer le groupe ; 
 
-- d'éviter le sur-accident et de gérer le groupe ;
+c) D'alerter les secours en émettant un message d'alerte en français. 
 
-- d'alerter les secours en émettant un message d'alerte en français. 
+Dans le cas où le candidat ne valide pas l'une quelconque des trois capacités a, b ou c, il est éliminé. 
 
-Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. 
-
-Dans le cas où le candidat ne maîtrise pas l'une quelconque des deux situations a ou b, il est éliminé.
+Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité doit être validé
+en totalité. En cas d'échec à l'une quelconque des trois épreuves qui le composent, le candidat repasse le test dans son
+intégralité.
 
 **Liens relatifs à cet article**
 
@@ -65980,7 +65954,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Arrêté du 31 octobre 2014 - art. 3
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -65991,27 +65965,28 @@ _Cité par_:
 
 Epreuve d'aptitude 
 
-I.-Test technique de sécurité 
+I.-Test technique de sécurité. 
 
 Le test technique de sécurité vise à vérifier la capacité du candidat à progresser en sécurité, à une vitesse soutenue, sur
 des reliefs vallonnés de type nordique, quelles que soient les conditions nivologiques. 
 
-Le test technique se déroule conformément aux dispositions du a) du II de l'annexe V de l'arrêté du 26 avril 2013 relatif à
-la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
+Le test technique de sécurité se déroule conformément aux dispositions du a du II de l'annexe V de l'arrêté du 26 avril 2013,
+relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
 
 II.-Test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité 
 
-Ce test comprend trois épreuves permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité,
-à partir d'une mise en situation professionnelle sur le terrain : 
+Ce test se déroule en période hivernale, sur une durée de deux à cinq jours. Il comprend trois épreuves permettant de
+vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à partir d'une mise en situation
+professionnelle sur le terrain : 
 
-1° D'effectuer une recherche de victimes en avalanche dans un temps limité ; 
+1° d'effectuer une recherche de victimes en avalanche dans un temps limité ; 
 
-2° D'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
+2° d'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
 conditions de sécurité pour progresser en ski nordique de fond sur pistes et hors des pistes du domaine nordique et de gérer
 la situation en cas d'accident ; 
 
-3° D'assurer la conduite d'un groupe en sécurité dans une logique d'itinérance lors d'une sortie de deux jours, hors des
-pistes balisées. 
+3° d'assurer la conduite d'un groupe en sécurité dans une logique d'itinérance lors d'une sortie de deux jours minimum, hors
+des pistes balisées. 
 
 1. Première épreuve : recherche de victimes en avalanche. 
 
@@ -66030,7 +66005,7 @@ Dans le cadre d'une mise en situation professionnelle sur le terrain, le candida
 
 a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigé en français ; 
 
-b) De se situer sur un plan des pistes de la station et sur une carte ; 
+b) De se situer sur un plan des pistes de la station et sur une carte topographique. 
 
 Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas
 l'une quelconque des deux situations a ou b, il est éliminé. 
@@ -66043,14 +66018,15 @@ Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
 a) De mettre en œuvre les conditions de sécurité pour progresser avec un groupe en randonnée lors d'un raid nordique, sur
 pistes et hors des pistes ; 
 
-b) De gérer un accident :
+b) De gérer un accident : d'éviter le sur-accident et de gérer le groupe ; 
 
-- d'éviter le sur-accident et de gérer le groupe ;
+c) D'alerter les secours en émettant un message d'alerte en français. 
 
-- d'alerter les secours en émettant un message d'alerte en français. 
+Dans le cas où le candidat ne valide pas l'une quelconque des trois capacités a, b ou c, il est éliminé. 
 
-Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas
-l'une quelconque des deux situations a ou b, il est éliminé.
+Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité doit être validé
+en totalité. En cas d'échec à l'une quelconque des trois épreuves qui le composent, le candidat repasse le test dans son
+intégralité.
 
 **Liens relatifs à cet article**
 
@@ -66060,7 +66036,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Arrêté du 31 octobre 2014 - art. 4
+  - Arrêté du 4 décembre 2017 - art. 3
 
 _Cité par_:
 
@@ -66069,9 +66045,7 @@ _Cité par_:
 
 ###### Article Annexe II-16-6 (art. A212-225)
 
-ÉPREUVE D'APTITUDE
-
-(art. A. 212-225)
+Epreuve d'aptitude
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité.
 
@@ -66107,11 +66081,11 @@ le candidat ne maîtrise pas l'une quelconque des quatre situations a, b, c ou d
 Ce test vise à vérifier la capacité du candidat à évoluer en sécurité dans un environnement de haute montagne en utilisant
 les techniques de l'alpinisme, soit :
 
-― à préparer l'excursion ou l'ascension ;
+- à préparer l'excursion ou l'ascension ;
 
-― à mettre en œuvre les techniques adaptées aux différents types de terrains ;
+- à mettre en œuvre les techniques adaptées aux différents types de terrains ;
 
-― à gérer en sécurité le public dont il assure l'encadrement.
+- à gérer en sécurité le public dont il assure l'encadrement.
 
 Il consiste à accompagner et à guider un public dans des excursions ou des ascensions en montagne, pendant une durée maximale
 de cinq jours.
@@ -66121,9 +66095,9 @@ tout moment.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 18 janvier 2010 - art. 2
+  - Arrêté du 4 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -68133,7 +68107,7 @@ _Cité par_:
   - Code du sport. - art. A231-2 (V)
 
 
-### Annexes III<a id=565></a>
+### Annexes III<a id=572></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
