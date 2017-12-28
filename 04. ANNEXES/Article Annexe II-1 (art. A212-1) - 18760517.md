@@ -2271,6 +2271,26 @@ propulsée à la pagaie ou à la nage.
 Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer.</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "basket-ball".
+
+</td>
+      <td align="left">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite
+de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "volley-ball et disciplines associées".
+
+</td>
+      <td align="left">Encadrement, initiation et conduite de cycles d'apprentissage en volley-ball et disciplines associées,
+jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
   </tbody>
 </table>
 
@@ -4046,6 +4066,25 @@ le respect des capacités d'accueil des installations.</td>
 de l'initiation jusqu'au premier niveau de compétition fédéral.</td>
       <td>
     </td></tr>
+    <tr>
+      <td>
+
+CQP "accompagnateur en téléski nautique".
+
+</td>
+      <td>Encadrement en autonomie des activités de téléski nautique sur tout support de glisse.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CQP "technicien sportif de rugby à XIII".
+
+</td>
+      <td>Enseignement et animation des activités du rugby à XIII. Encadrement, animation et conduite de cycles
+d'apprentissage du rugby à XIII.</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -4111,4 +4150,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 27 septembre 2017 - art. 1
+  - Arrêté du 18 décembre 2017 - art. 1
