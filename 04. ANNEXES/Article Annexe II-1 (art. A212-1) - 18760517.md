@@ -711,7 +711,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -826,7 +826,7 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe F</td>
     </tr>
@@ -1029,7 +1029,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -1115,7 +1115,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -1316,7 +1316,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -1389,7 +1389,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -1444,7 +1444,7 @@ Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</
 A l'exclusion de toute pratique compétitive.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités du cyclisme"</td>
     </tr>
@@ -1488,7 +1488,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -1594,7 +1594,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -2271,6 +2271,26 @@ propulsée à la pagaie ou à la nage.
 Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer.</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "basket-ball".
+
+</td>
+      <td align="left">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite
+de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "volley-ball et disciplines associées".
+
+</td>
+      <td align="left">Encadrement, initiation et conduite de cycles d'apprentissage en volley-ball et disciplines associées,
+jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
   </tbody>
 </table>
 
@@ -2437,7 +2457,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -2481,7 +2501,7 @@ Découverte, animation et initiation, jusqu'au premier niveau de compétition en
       <td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
+      <td align="center" colspan="3">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
     </tr>
     <tr>
       <td>Certificat complémentaire "plongée profonde et tutorat".</td>
@@ -4046,6 +4066,25 @@ le respect des capacités d'accueil des installations.</td>
 de l'initiation jusqu'au premier niveau de compétition fédéral.</td>
       <td>
     </td></tr>
+    <tr>
+      <td>
+
+CQP "accompagnateur en téléski nautique".
+
+</td>
+      <td>Encadrement en autonomie des activités de téléski nautique sur tout support de glisse.</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CQP "technicien sportif de rugby à XIII".
+
+</td>
+      <td>Enseignement et animation des activités du rugby à XIII. Encadrement, animation et conduite de cycles
+d'apprentissage du rugby à XIII.</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -4111,4 +4150,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 27 septembre 2017 - art. 1
+  - Arrêté du 18 décembre 2017 - art. 1
