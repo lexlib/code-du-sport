@@ -315,7 +315,8 @@ ministre chargé des sports ;
 5.4. Que le ministre chargé des sports a le droit de faire visiter par ses délégués les établissements fondés par la
 fédération et d'être informé des conditions de leur fonctionnement ;
 
-5.5. Qu'un bulletin publie les règlements édictés par la fédération.
+5.5. Que la publication des règlements de la fédération est assurée sous forme électronique dans des conditions de nature à
+garantir sa fiabilité et que le public y a accès gratuitement.
 
 **Liens relatifs à cet article**
 
@@ -325,4 +326,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1054 du 1er août 2016 - art. 2
+  - Décret n°2017-1269 du 9 août 2017 - art. 2
