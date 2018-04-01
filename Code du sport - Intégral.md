@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-03-28
+Version Consolidée au 2018-04-02
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -24559,6 +24559,47 @@ _Cité par_:
   - Code du sport. - art. D212-28 (VT)
 
 
+###### Article D212-27-1
+
+Sont admises à préparer, par la voie de la formation initiale, hors apprentissage, le brevet professionnel de la jeunesse, de
+l'éducation populaire et du sport relevant de l'article L. 212-1 dans un établissement public local de formation visé à
+l'article L. 114-1 les personnes qui : 
+
+1° Présentent leur candidature via la procédure nationale de préinscription mentionnée au deuxième alinéa du I de l'article
+L. 612-3 du code de l'éducation ; 
+
+2° Sont titulaires du baccalauréat à l'entrée en formation ; 
+
+3° Satisfont aux exigences préalables à l'entrée en formation propres à chaque diplôme ; 
+
+4° Satisfont aux critères de sélection suivants : 
+
+a) Cohérence du projet professionnel et motivation ; 
+
+b) Degré de pratique personnelle du sport concerné ; 
+
+c) Proposer une structure d'alternance ; 
+
+d) Aisance relationnelle et qualité dans l'expression orale et écrite. 
+
+Chaque établissement arrête les capacités d'accueil de ses formations. Lorsque le nombre de candidatures excède ces capacités
+d'accueil, les inscriptions sont prononcées par le directeur de l'établissement dans la limite des capacités d'accueil en
+respectant l'ordre de classement sur la liste de sélection. Dans le respect des conditions définies aux précédents alinéas,
+la qualité d'élève boursier peut être prise en compte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-236 du 30 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L612-3
+  - Code du sport. - art. L114-1 (V)
+  - Code du sport. - art. L212-1 (V)
+
+
 ###### Article D212-28
 
 Les situations d'évaluation certificative, au nombre de deux, doivent comporter : 
@@ -24897,6 +24938,47 @@ _Cite_:
   - Code du sport. - art. D212-36 (V)
 
 
+###### Article D212-43-1
+
+Sont admises à préparer, par la voie de la formation initiale, hors apprentissage, le diplôme d'Etat de la jeunesse, de
+l'éducation populaire et du sport, spécialité “ perfectionnement sportif ” relevant de l'article L. 212-1 dans un
+établissement public local de formation visé à l'article L. 114-1 les personnes qui : 
+
+1° Présentent leur candidature via la procédure nationale de préinscription mentionnée au deuxième alinéa du I de l'article
+L. 612-3 du code de l'éducation ; 
+
+2° Sont titulaires du baccalauréat à l'entrée en formation ; 
+
+3° Satisfont aux exigences préalables à l'entrée en formation propres à chaque diplôme ; 
+
+4° Satisfont aux critères de sélection suivants : 
+
+a) Cohérence du projet professionnel et motivation ; 
+
+b) Degré de pratique personnelle du sport concerné ; 
+
+c) Proposer une structure d'alternance ; 
+
+d) Aisance relationnelle et qualité dans l'expression orale et écrite. 
+
+Chaque établissement arrête les capacités d'accueil de ses formations. Lorsque le nombre de candidatures excède ces capacités
+d'accueil, les inscriptions sont prononcées par le directeur de l'établissement dans la limite des capacités d'accueil en
+respectant l'ordre de classement sur la liste de sélection. Dans le respect des conditions définies aux précédents alinéas,
+la qualité d'élève boursier peut être prise en compte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-236 du 30 mars 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'éducation - art. L612-3
+  - Code du sport. - art. L114-1 (V)
+  - Code du sport. - art. L212-1 (V)
+
+
 ###### Article D212-49
 
 Le cursus de formation mis en oeuvre par un organisme habilité respecte le principe de l'alternance prévoyant les séquences
@@ -25184,6 +25266,47 @@ _Cité par_:
 _Cite_:
 
   - Code du sport. - art. D212-52 (V)
+
+
+###### Article D212-59-1
+
+Sont admis à préparer, par la voie de la formation initiale, hors apprentissage, le diplôme d'Etat supérieur de la jeunesse,
+de l'éducation populaire et du sport, spécialité “ performance sportive ” relevant de l'article L. 212-1 dans un
+établissement public local de formation visé à l'article L. 114-1 les personnes qui : 
+
+1° Présentent leur candidature via la procédure nationale de préinscription mentionnée au deuxième alinéa du I de l'article
+L. 612-3 du code de l'éducation ; 
+
+2° Sont titulaires du baccalauréat à l'entrée en formation ; 
+
+3° Satisfont aux exigences préalables à l'entrée en formation propres à chaque diplôme ; 
+
+4° Satisfont aux critères de sélection suivants : 
+
+a) Cohérence du projet professionnel et motivation ; 
+
+b) Degré de pratique personnelle du sport concerné ; 
+
+c) Proposer une structure d'alternance ; 
+
+d) Aisance relationnelle et qualité dans l'expression orale et écrite. 
+
+Chaque établissement arrête les capacités d'accueil de ses formations. Lorsque le nombre de candidatures excède ces capacités
+d'accueil, les inscriptions sont prononcées par le directeur de l'établissement dans la limite des capacités d'accueil en
+respectant l'ordre de classement sur la liste de sélection. Dans le respect des conditions définies aux précédents alinéas,
+la qualité d'élève boursier peut être prise en compte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-236 du 30 mars 2018 - art. 3
+
+_Cite_:
+
+  - Code de l'éducation - art. L612-3
+  - Code du sport. - art. L114-1 (V)
+  - Code du sport. - art. L212-1 (V)
 
 
 ###### Article D212-65
