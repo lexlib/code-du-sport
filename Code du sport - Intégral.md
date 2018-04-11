@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-04-02
+Version Consolidée au 2018-04-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -44128,6 +44128,18 @@ _Créé par_:
   - Arrêté du 12 juillet 2016 - art. 1
 
 
+###### Article A212-52 ter
+
+Pour chaque épreuve certificative non validée, le candidat bénéficie d'une seconde session d'évaluation au cours de la
+session de formation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 avril 2018 - art. 1
+
+
 ###### Article A212-52-1
 
 Pour l'inscription dans une formation préparant à la spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse,
@@ -44353,6 +44365,18 @@ _Cité par_:
 _Créé par_:
 
   - Arrêté du 12 juillet 2016 - art. 2
+
+
+###### Article A212-57 ter
+
+Pour chaque épreuve certificative non validée, le candidat bénéficie d'une seconde session d'évaluation au cours de la
+session de formation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 5 avril 2018 - art. 2
 
 
 ###### Article A212-57-1
@@ -57885,7 +57909,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -58096,7 +58120,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -58275,7 +58299,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe A</td>
     </tr>
@@ -58333,7 +58357,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe C</td>
     </tr>
@@ -58408,7 +58432,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F</td>
     </tr>
@@ -58448,7 +58472,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G</td>
     </tr>
@@ -58473,7 +58497,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -58833,48 +58857,29 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
     <tr>
-      <td align="left">
-
-Tandem.</td>
-      <td align="left">
-
-Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et
-suivants du code du sport.</td>
-      <td align="left">
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme.</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Progression accompagnée en chute libre.</td>
-      <td align="left">
-
-Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies
-aux articles A. 322-147 et suivants du code du sport.</td>
-      <td align="left">
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme.</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Progression traditionnelle.</td>
-      <td align="left">
-
-Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de sécurité définies aux
+      <td align="left">Tandem.</td>
+      <td align="left">Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux
 articles A. 322-147 et suivants du code du sport.</td>
       <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Progression accompagnée en chute libre.</td>
+      <td align="left">Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques
+et de sécurité définies aux articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Progression traditionnelle.</td>
+      <td align="left">Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de
+sécurité définies aux articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
 
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
-parachutisme.</td>
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -58932,7 +58937,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -59038,7 +59043,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -59735,6 +59740,27 @@ BP JEPS, spécialité "éducateur sportif", mention "volley-ball et disciplines 
 jusqu'au premier niveau de compétition fédérale.</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "méthode traditionnelle" (option A).</td>
+      <td align="left">Encadrement en autonomie de la méthode traditionnelle, dans les conditions techniques et de sécurité
+définies aux articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "progression accompagnée en chute" (option
+B).</td>
+      <td align="left">Encadrement en autonomie de la progression accompagnée en chute, dans les conditions techniques et de
+sécurité définies aux articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C).
+
+</td>
+      <td align="left">Encadrement en autonomie du saut en tandem, dans les conditions techniques et de sécurité définies aux
+articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
+    </td></tr>
   </tbody>
 </table>
 
@@ -59857,20 +59883,14 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
       <td align="left">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "escalade".</td>
-      <td align="left">
-
-Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.</td>
+      <td align="left">Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.</td>
       <td align="left">
 
 A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m.
 
 A l'exclusion de la via ferrata.
 
-A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-</td>
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure.</td>
     </tr>
     <tr>
       <td align="left">
@@ -59901,7 +59921,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -59945,7 +59965,7 @@ Découverte, animation et initiation, jusqu'au premier niveau de compétition en
       <td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
+      <td colspan="3" align="center">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
     </tr>
     <tr>
       <td>Certificat complémentaire "plongée profonde et tutorat".</td>
@@ -60228,7 +60248,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -61529,6 +61549,12 @@ CQP "technicien sportif de rugby à XIII".
 d'apprentissage du rugby à XIII.</td>
       <td>
     </td></tr>
+    <tr>
+      <td>CQP "technicien sportif de tir à l'arc".</td>
+      <td>Encadrement de séances collectives ou individuelles d'entraînement et de perfectionnement de tir à l'arc jusqu'au
+niveau national.</td>
+      <td>Dans la limite de douze pratiquants.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -61594,7 +61620,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 18 décembre 2017 - art. 1
+  - Arrêté du 28 mars 2018 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
