@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-03-28
+Version Consolidée au 2018-06-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -51404,12 +51404,12 @@ _Cite_:
 
 ###### Article A322-166
 
-L'organisation des séances de vol est adaptée à la nature de l'entraînement, au niveau et au nombre des pratiquants. 
+L'organisation des séances de vol est adaptée à la nature de l'entraînement, au niveau et au nombre des pratiquants.
 
-1° Pour tous les types d'activités, un opérateur doit être présent hors de la veine d'air ; 
+1° Pour tous les types d'activités, un opérateur doit être présent hors de la veine d'air ;
 
-2° Pour tous les types d'activités, un moniteur doit être présent dans la veine d'air ou à proximité permettant une
-intervention immédiate ; 
+2° Pour tous les types d'activités, un moniteur doit être présent dans la veine d'air, à l'entrée de la veine d'air ou à
+proximité permettant une intervention immédiate ;
 
 3° Pour tout pratiquant dont la phase d'apprentissage le requiert, un moniteur doit être présent dans la veine d'air.
 
@@ -51417,7 +51417,7 @@ intervention immédiate ;
 
 _Modifié par_:
 
-  - Arrêté du 25 mars 2016 - art. 1
+  - Arrêté du 13 mars 2018 - art. 1
 
 _Cité par_:
 
@@ -51504,14 +51504,14 @@ _Modifié par_:
 ###### Article A322-171
 
 Pour les séances de vol telles que définies aux 1° et 2° de l'article A. 322-166 et au 2° de l'article A. 322-166,
-l'encadrement comprend au minimum : 
+l'encadrement comprend au minimum :
 
-1° Un moniteur titulaire d'un diplôme, titre à finalité professionnelle ou certificat de qualification, requis par l'article
-L. 212-1, permettant l'enseignement de la chute libre en soufflerie, qui encadre dans la veine d'air ou à l'entrée de la
-veine d'air. 
+1° Un moniteur titulaire du certificat de qualification professionnelle “ moniteur de vol à plat en soufflerie ” ou du
+certificat de qualification professionnelle “ moniteur de vol à plat en soufflerie assorti de la qualification complémentaire
+vol 3D en soufflerie ” qui encadre dans la veine d'air ou à l'entrée de la veine d'air ;
 
 2° Un opérateur habilité par l'exploitant à la conduite de la machine dès lors que la conception de l'installation ou
-l'organisation des séances de vol ne permet pas au moniteur d'avoir accès aux dispositifs de conduite et d'arrêt d'urgence. 
+l'organisation des séances de vol ne permet pas au moniteur d'avoir accès aux dispositifs de conduite et d'arrêt d'urgence.
 
 L'opérateur à la machine doit être capable d'alerter les secours et de prodiguer les premiers soins en attente de l'arrivée
 des services de secours. Il doit être titulaire au moins de l'unité d'enseignement " prévention et secours civiques de niveau
@@ -51521,12 +51521,12 @@ des services de secours. Il doit être titulaire au moins de l'unité d'enseigne
 
 _Modifié par_:
 
-  - Arrêté du 25 mars 2016 - art. 1
+  - Arrêté du 13 mars 2018 - art. 2
 
 _Cite_:
 
-  - Code du sport. - art. A322-166 (V)
-  - Code du sport. - art. L212-1 (V)
+  - Code du sport. - art. A322-166
+  - Code du sport. - art. L212-1
 
 
 ##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=529></a>
