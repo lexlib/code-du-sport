@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-06-01
+Version Consolidée au 2018-07-08
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -37587,7 +37587,8 @@ accompagnée, le cas échéant, de l'avis motivé mentionné à l'article R. 331
 département ;
 
 3° Du préfet de chacun des départements parcourus par la manifestation, si celle-ci se déroule sur le territoire de plusieurs
-départements et, également, du ministre de l'intérieur si le nombre de ces départements est de vingt ou plus ;
+départements ou du préfet de police sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-
+Orly, et, également, du ministre de l'intérieur si le nombre de ces départements est de vingt ou plus ;
 
 4° Du préfet du département d'entrée en France, si la manifestation est en provenance de l'étranger. Les dispositions des 2°
 et 3° sont applicables à une telle manifestation si elle se déroule également sur le territoire d'un ou de plusieurs
@@ -37614,11 +37615,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 6
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code du sport. - art. R331-9 (V)
+  - Code du sport. - art. R331-9
 
 
 ###### Article R331-11
@@ -38014,7 +38015,8 @@ _Modifié par_:
 ###### Article R331-22
 
 L'organisateur d'une concentration soumise à déclaration doit déposer un dossier de déclaration au plus tard deux mois avant
-la date de l'événement auprès du préfet territorialement compétent.
+la date de l'événement auprès du préfet territorialement compétent ou du préfet de police sur les emprises des aérodromes de
+Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly.
 
 L'organisateur d'une manifestation sportive sur un circuit permanent homologué est soumis à la même obligation. Sa
 déclaration est accompagnée, le cas échéant, de l'avis motivé mentionné à l'article R. 331-22-1.
@@ -38035,7 +38037,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 13
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
@@ -38043,7 +38045,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code du sport. - art. R331-23 (M)
+  - Code du sport. - art. R331-23 (V)
 
 
 ###### Article R331-22-1
@@ -38089,7 +38091,9 @@ _Cite_:
 
 ###### Article R331-23
 
-La déclaration d'une concentration doit être effectuée auprès du préfet du département du lieu de la concentration.
+La déclaration d'une concentration doit être effectuée auprès du préfet du département du lieu de la concentration ou du
+préfet de police si la concentration se déroule sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget
+et Paris-Orly.
 
 Si la concentration se déroule sur le territoire de plusieurs départements, la déclaration est adressée simultanément au
 préfet de chacun des départements parcourus et, également, au ministre de l'intérieur si le nombre de ces départements est de
@@ -38112,17 +38116,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 15
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code du sport. - art. R331-22
+  - Code du sport. - art. R331-22 (V)
 
 
 ###### Article R331-24
 
 L'organisateur d'une manifestation soumise à autorisation doit présenter au préfet du département du lieu de la manifestation
-une demande d'autorisation.
+une demande d'autorisation ou du préfet de police si la manifestation se déroule sur les emprises des aérodromes de Paris-
+Charles de Gaulle, Paris-Le Bourget et Paris-Orly.
+
+.
 
 Si la manifestation se déroule sur le territoire de plusieurs départements, la demande d'autorisation est adressée
 simultanément au préfet de chacun des départements parcourus et, également, au ministre de l'intérieur si le nombre de ces
@@ -38152,7 +38159,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1279 du 9 août 2017 - art. 15
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
 ###### Article R331-24-1
