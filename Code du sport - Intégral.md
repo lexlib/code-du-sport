@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-07-08
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -49436,9 +49436,16 @@ défendre et pouvant aller jusqu'à l'inconscience, une attention particulière 
 – l'examen ophtalmologique : acuité visuelle, champ visuel, tonus oculaire et fond d'œil (la mesure du tonus oculaire et le
 fond d'œil ne sont pas exigés pour le sambo combat, le grappling fight et le karaté contact) ;
 
-Dans le cadre de la pratique de la boxe anglaise, la réalisation d'une remnographie des artères cervico-céphaliques et d'une
-épreuve d'effort sans mesure des échanges gazeux est également exigée tous les trois ans pour les boxeurs professionnels et
-les boxeurs amateurs après quarante ans ;
+Dans le cadre de la pratique de la boxe anglaise :
+
+– l'examen ophtalmologique mentionné ci-dessus est réalisé une fois par an pour les boxeurs professionnels et tous les deux
+ans pour les boxeurs amateurs ;
+
+– une attention particulière est portée sur l'examen cardio-vasculaire ;
+
+– une remnographie des artères cervico-céphaliques est réalisée tous les trois ans pour les boxeurs amateurs à partir de
+l'âge de 32 ans et pour les boxeurs professionnels jusqu'à l'âge de 32 ans. Chez ces derniers, cet examen est réalisé tous
+les deux ans après l'âge de 32 ans ;
 
 5° Pour les disciplines sportives comportant l'utilisation d'armes à feu ou à air comprimé, une attention particulière est
 portée sur :
@@ -49470,24 +49477,26 @@ attention particulière est portée sur :
 
 8° Pour la pratique du rugby à XV et à VII :
 
-a) En compétition ou hors compétition, il est complété par la réalisation d'un électrocardiogramme de repos à la première
-délivrance de licence à partir de 12 ans puis, tous les 3 ans jusqu'à 20 ans, puis tous les 5 ans jusqu'à 35 ans ;
+a) De 12 à 39 ans, en compétition ou hors compétition, une attention particulière est portée sur :
 
-b) A partir de 40 ans, en compétition, il est complété par la réalisation :
+– l'examen cardio-vasculaire ;
 
-– d'un bilan cardiologique comprenant un électrocardiogramme, une échocardiographie et une épreuve d'effort ainsi que d'un
-bilan biologique glucido-lipidique à 40 ans, 43 ans, 45 ans, 47 ans et 49 ans puis une fois par an après 50 ans ;
+– l'examen du rachis ;
 
-– d'une remnographie cervicale tous les 2 ans pour les joueurs de première ligne entre 40 et 44 ans et, à partir de 45 ans,
-tous les ans pour les joueurs de première ligne et tous les 2 ans pour les joueurs des autres postes ;
+b) A partir de 40 ans, en compétition :
 
-c) A partir de 40 ans, hors compétition, il est complété par :
+– il est complété par la réalisation d'une remnographie cervicale tous les 2 ans pour les joueurs de première ligne entre 40
+et 44 ans et, à partir de 45 ans, tous les ans pour les joueurs de première ligne et tous les 2 ans pour les joueurs des
+autres postes ;
 
-– la réalisation tous les 5 ans d'un bilan cardiologique comprenant un électrocardiogramme et une épreuve d'effort ainsi que
-d'un bilan biologique glucido-lipidique ;
+– une attention particulière est portée sur l'examen cardio-vasculaire et sur la surveillance du bilan biologique glucido-
+lipidique ;
 
-– la réalisation d'une remnographie cervicale ou lombaire tous les ans pour les joueurs de première ligne présentant des
-antécédents de pathologie cervicale ou lombaire ;
+c) A partir de 40 ans, hors compétition, une attention particulière est portée sur :
+
+– l'examen du rachis cervical ;
+
+– l'examen cardio-vasculaire et sur la surveillance du bilan biologique glucido-lipidique ;
 
 9° Pour la pratique du rugby à XIII, une attention particulière est portée sur l'examen orthopédique de l'appareil
 locomoteur.
@@ -49496,7 +49505,7 @@ locomoteur.
 
 _Modifié par_:
 
-  - Arrêté du 24 juillet 2017 - art. 1
+  - Arrêté du 9 juillet 2018 - art. 1
 
 _Cite_:
 
