@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-08-04
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -6329,17 +6329,19 @@ _Créé par_:
 
 ###### Article L224-2
 
-Est  instituée une instance nationale du supportérisme, placée auprès du  ministre chargé des sports, ayant pour mission de
-contribuer au dialogue  entre les supporters et les autres acteurs du sport et de réfléchir à  la participation des
-supporters, au bon déroulement des compétitions  sportives et à l'amélioration de leur accueil. 
+I. – Est instituée une instance nationale du supportérisme, placée auprès du ministre chargé des sports, ayant pour mission
+de contribuer au dialogue entre les supporters et les autres acteurs du sport et de réfléchir à la participation des
+supporters, au bon déroulement des compétitions sportives et à l'amélioration de leur accueil.
 
-Un décret détermine la composition, le fonctionnement et les missions de cette instance.
+L'instance nationale comprend parmi ses membres un député et un sénateur.
+
+II. – Un décret précise la composition, le fonctionnement et les missions de cette instance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-564 du 10 mai 2016 - art. 6
+  - Loi n°2018-699 du 3 août 2018 - art. 67
 
 
 ###### Article L224-3
