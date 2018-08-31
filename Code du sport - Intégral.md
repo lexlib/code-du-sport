@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -7242,6 +7242,17 @@ _Cite_:
   - Code du sport. - art. L232-9
 
 
+###### Article L232-5-1
+
+L'Agence française de lutte contre le dopage comprend un collège et une commission des sanctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 1
+
+
 ###### Article L232-6
 
 Le collège de l'Agence française de lutte contre le dopage comprend neuf membres nommés par décret : 
@@ -7315,15 +7326,15 @@ _Cite_:
 
 ###### Article L232-7
 
-Le collège de l'agence se renouvelle par tiers tous les deux ans. En cas de vacance, le  sexe du remplaçant est déterminé de
+Le collège de l'agence se renouvelle par tiers tous les deux ans. En cas de vacance, le sexe du remplaçant est déterminé de
 manière à réduire, autant qu'il est possible, l'écart entre le nombre total de femmes et le nombre total d'hommes parmi les
 neuf membres du collège et la personnalité mentionnée au 1° du II de l'article L. 241-1.
 
 Le collège de l'agence ne peut délibérer que lorsque six au moins de ses membres sont présents. Le président a voix
-prépondérante en cas de partage égal des voix. 
+prépondérante en cas de partage égal des voix.
 
-Le collège de l'agence peut délibérer en formation disciplinaire composée d'au moins quatre membres et présidée par l'un des
-membres mentionnés au 1° de l'article L. 232-6 du présent code. 
+Le collège de l'agence peut, aux fins de poursuites, délibérer en formation disciplinaire composée d'au moins quatre membres
+et présidée par l'un des membres mentionnés au 1° de l'article L. 232-6 du présent code.
 
 Les agents de l'agence sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article 226-13
 du code pénal.
@@ -7336,13 +7347,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 25
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 2
 
 _Cite_:
 
   - Code pénal - art. 226-13
   - Code du sport. - art. L232-6
-  - Code du sport. - art. L241-1
+  - Code du sport. - art. L241-1 (VD)
 
 _Anciens textes_:
 
@@ -7380,6 +7391,85 @@ _Cite_:
 
   - Code du sport. - art. L232-6 (V)
   - Code du sport. - art. L241-1
+
+
+###### Article L232-7-2
+
+La commission des sanctions de l'Agence française de lutte contre le dopage comprend dix membres nommés par décret :
+
+1° Quatre membres des juridictions administrative et judiciaire :
+
+a) Deux membres du Conseil d'Etat, dont au moins un conseiller d'Etat, désignés par le vice-président du Conseil d'Etat ;
+
+b) Deux magistrats de la Cour de cassation, dont au moins un conseiller, désignés par le premier président de la Cour de
+cassation ;
+
+2° Quatre personnalités compétentes dans les domaines de la pharmacologie, de la toxicologie et de la médecine du sport
+désignées respectivement :
+
+a) Par le président de l'Académie nationale de médecine, pour deux d'entre elles ;
+
+b) Par le président de l'Académie nationale de pharmacie, pour les deux autres ;
+
+3° Deux personnalités qualifiées dans le domaine du sport, désignées par le président du Comité national olympique et sportif
+français.
+
+Les membres nommés en application, respectivement, du a du 1°, du b du 1°, du a du 2°, du b du 2° et du 3° comprennent une
+femme et un homme.
+
+Les fonctions de membre de la commission des sanctions sont incompatibles avec celles de membre du collège.
+
+Le président et le vice-président, respectivement conseiller d'Etat et conseiller à la Cour de cassation, sont nommés par
+décret, pour la durée de leur mandat de membre, parmi les personnes mentionnées au a et au b du 1°.
+
+Le mandat des membres de la commission des sanctions est de quatre ans. Il est renouvelable une fois, sous réserve du respect
+des conditions de parité entre les femmes et les hommes définies au présent article. Il n'est pas interrompu par les règles
+concernant la limite d'âge éventuellement applicables aux intéressés. Les membres ne peuvent être âgés de plus de soixante-
+et-onze ans le jour de leur nomination ou de leur renouvellement.
+
+La commission des sanctions de l'agence se renouvelle par moitié tous les deux ans. Quelle que soit la date de leur
+nomination, le mandat des membres prend fin à la date du renouvellement de la moitié au titre de laquelle ils ont été nommés.
+
+En cas de vacance d'un siège de membre de la commission des sanctions pour quelque cause que ce soit, il est procédé à son
+remplacement dans le respect des règles de parité mentionnées à l'alinéa précédent pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 3
+
+_Cité par_:
+
+  - Code du sport. - art. L232-7-3 (VD)
+  - Code du sport. - art. L241-1 (VD)
+
+
+###### Article L232-7-3
+
+La commission des sanctions peut constituer des sections présidées par l'une des personnes mentionnées au 1° de l'article L.
+232-7-2. 
+
+Le vice-président préside la commission des sanctions en cas d'absence du président. En cas d'empêchement du président et du
+vice-président, la commission est présidée par l'un des autres membres mentionnés au 1° de l'article L. 232-7-2. Lorsqu'elle
+se réunit en section et en cas d'absence du président de celle-ci, la commission des sanctions est présidée par l'une des
+personnes mentionnées au 1° de l'article L. 232-7-2. 
+
+La commission des sanctions statue à la majorité des membres présents. En cas de partage égal des voix, celle du président
+est prépondérante. 
+
+Le décret en Conseil d'Etat prévu à l'article L. 232-31 précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 3
+
+_Cite_:
+
+  - Code du sport. - art. L232-31
+  - Code du sport. - art. L232-7-2
 
 
 ###### Article L232-8
@@ -8471,53 +8561,56 @@ _Cite_:
 
 ###### Article L232-22
 
-En cas d'infraction aux dispositions des articles L. 232-9, L. 232-9-1, L. 232-10, L. 232-14-5, 
-L. 232-15, L. 232-15-1 ou L. 232-17, l'Agence française de lutte contre le dopage exerce un pouvoir de sanction dans les
-conditions suivantes : 
+I.-En cas d'infraction aux dispositions des articles L. 232-9, L. 232-9-1, L. 232-10, L. 232-14-5, L. 232-15, L. 232-15-1 ou
+L. 232-17, l'Agence française de lutte contre le dopage exerce un pouvoir disciplinaire dans les conditions prévues au
+présent article. 
 
-1° Elle est compétente pour infliger des sanctions disciplinaires aux personnes non licenciées : 
+II.-Le collège peut engager des poursuites disciplinaires : 
+
+1° A l'encontre de personnes non licenciées : 
 
 a) Participant à des manifestations ou entraînements mentionnés aux 2° ou 3° du I de l'article L. 232-5 ; 
 
 b) Organisant ou participant à l'organisation des manifestations ou entraînements mentionnés aux 2° ou 3° du I de l'article
 L. 232-5 ; 
 
-2° Elle est compétente pour infliger des sanctions disciplinaires aux personnes relevant du pouvoir disciplinaire d'une
-fédération sportive lorsque celle-ci n'a pas statué dans les délais prévus à l'article L. 232-21. Dans ce cas, l'agence se
-saisit d'office dès l'expiration de ces délais ; lorsqu'elle intervient en cas de carence de l'instance disciplinaire
-fédérale d'appel, l'agence peut aggraver la sanction prononcée par la fédération ; 
+2° A l'encontre des personnes relevant du pouvoir disciplinaire d'une fédération sportive lorsque celle-ci n'a pas statué
+dans les délais prévus à l'article L. 232-21. Dans ce cas, le collège de l'agence est saisi d'office dès l'expiration de ces
+délais ; 
 
-3° Elle peut réformer les décisions prises en application de l'article L. 232-21. Dans ces cas, l'agence se saisit, dans un
-délai de deux mois à compter de la réception du dossier complet, des décisions prises par les fédérations agréées ; 
+3° Aux fins de la réformation des décisions prises en application de l'article L. 232-21, dans un délai de deux mois à
+compter de la réception du dossier complet, des décisions prises par les fédérations agréées ; 
 
-4° Elle peut décider l'extension d'une sanction disciplinaire prononcée par une fédération aux activités de l'intéressé
-relevant des autres fédérations, de sa propre initiative ou à la demande de la fédération ayant prononcé la sanction ; 
+4° Aux fins de l'extension d'une sanction disciplinaire prononcée par une fédération aux activités de l'intéressé relevant
+des autres fédérations, de sa propre initiative ou à la demande de la fédération ayant prononcé la sanction ; 
 
-5° Elle est également compétente pour infliger des sanctions disciplinaires aux complices des auteurs d'infractions aux
-dispositions des articles L. 232-9, L. 232-9-1, L. 232-10, L. 232-14-5, L. 232-15, L. 232-15-1 ou L. 232-17. 
+5° A l'encontre des complices des auteurs d'infractions aux dispositions des articles L. 232-9, L. 232-9-1, L. 232-10, L.
+232-14-5, L. 232-15, L. 232-15-1 ou L. 232-17. 
 
-La saisine de l'agence n'est pas suspensive, sauf décision contraire de celle-ci.
+Lorsque le collège décide d'engager des poursuites, il arrête la liste des griefs transmis à la commission des sanctions. 
+
+Sauf décision contraire du collège, l'engagement des poursuites au titre du 3° ou du 4° n'est pas suspensif des décisions
+prises en application de l'article L. 232-21. 
+
+Le collège peut déléguer au président de l'agence certaines de ses compétences prévues au présent II. 
+
+III.-La récusation d'un membre de la commission des sanctions est prononcée à la demande d'une personne mise en cause s'il
+existe une raison sérieuse de mettre en doute l'impartialité de ce membre. 
+
+Toute personne convoquée a le droit de se faire assister ou représenter par un conseil de son choix. 
+
+La personne concernée est convoquée à l'audience. Elle peut y présenter ses observations. 
+
+La commission des sanctions délibère hors la présence des parties. 
+
+IV.-Le décret en Conseil d'Etat prévu à l'article L. 232-31 fixe les conditions d'application du présent article.
 
 **Nota:**
 
-Conformément à l'article 1 de la décision n° 2017-688 QPC du 2 février 2018, le 3° de l'article L. 232-22 du code du sport,
-dans sa rédaction résultant de l' ordonnance n° 2015-1207 du 30 septembre 2015 relative aux mesures relevant du domaine de la
-loi nécessaires pour assurer le respect des principes du code mondial antidopage, est contraire à la Constitution.
-
-Conformément à l'article 2, la déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées aux
-paragraphes 12 et 13 de cette décision.
-
-Conformément au paragraphe 12, l’effet de l’abrogation des dispositions contestées est reporté au 1er septembre 2018 ;
-
-Aux termes du paragraphe 13 : " Afin de faire cesser l'inconstitutionnalité constatée à compter de la publication de la
-présente décision, il y a lieu de juger que, pour préserver le rôle régulateur confié par le législateur à l'agence française
-de lutte contre le dopage jusqu'à l'entrée en vigueur d'une nouvelle loi ou, au plus tard, jusqu'au 1er septembre 2018, le 3°
-de l'article L. 232-22 du code du sport impose à l'agence française de lutte contre le dopage de se saisir de toutes les
-décisions rendues en application de l'article L. 232-21 du même code postérieurement à la présente décision et de toutes les
-décisions rendues antérieurement à cette décision dont elle ne s'est pas encore saisie dans les délais légaux. Il y a lieu de
-juger, en outre, que la déclaration d'inconstitutionnalité peut être invoquée dans toutes les instances relatives à une
-décision rendue sur le fondement de l'article L. 232-21 dont l'agence s'est saisie en application des dispositions contestées
-et non définitivement jugées à la date de la présente décision. "
+Conformément aux dispositions de l'article 15 de l'ordonnance n° 2018-603 du 11 juillet 2018, lorsque des griefs notifiés par
+l'Agence française de lutte contre le dopage n'ont pas encore, au 1er septembre 2018, donné lieu à décision de son collège,
+la commission des sanctions de l'agence est saisie du dossier en l'état. La notification des griefs est réputée avoir été
+transmise par le collège à la commission des sanctions.
 
 **Liens relatifs à cet article**
 
@@ -8548,7 +8641,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 19
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 4
 
 _Anciens textes_:
 
@@ -8560,8 +8653,10 @@ _Cite_:
   - Code du sport. - art. L232-10
   - Code du sport. - art. L232-14-5
   - Code du sport. - art. L232-15
+  - Code du sport. - art. L232-15-1
   - Code du sport. - art. L232-17
   - Code du sport. - art. L232-21
+  - Code du sport. - art. L232-31
   - Code du sport. - art. L232-9
 
 
@@ -8598,8 +8693,7 @@ _Cité par_:
 
 ###### Article L232-23
 
-I.-L'Agence française de lutte contre le dopage, dans l'exercice de son pouvoir de sanction en matière de lutte contre le
-dopage, peut prononcer : 
+I.-La commission des sanctions de l'Agence française de lutte contre le dopage peut prononcer : 
 
 1° A l'encontre des sportifs ayant enfreint les dispositions des articles L. 232-9, L. 232-9-1, L. 232-14-5, L. 232-15, L.
 232-15-1, L. 232-17 ou du 3° de l'article L. 232-10 : 
@@ -8647,9 +8741,12 @@ de ces infractions ; ou
 
 b) Avouent les faits sans délai après qu'une infraction aux dispositions du présent chapitre leur a été notifiée. 
 
-IV.-Les sanctions sont prononcées dans le respect des droits de la défense. 
+IV.-La commission des sanctions peut, le cas échéant, prononcer l'extension prévue au 4° de l'article L. 232-22. 
 
-Le produit des sanctions pécuniaires prévues au présent article est recouvré comme les créances de l'Etat étrangères à
+V.-Lorsqu'elle intervient en cas de carence de l'instance disciplinaire fédérale d'appel, la commission des sanctions peut
+aggraver la sanction prononcée par la fédération. 
+
+VI.-Le produit des sanctions pécuniaires prévues au présent article est recouvré comme les créances de l'Etat étrangères à
 l'impôt et au domaine.
 
 **Liens relatifs à cet article**
@@ -8677,7 +8774,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1528 du 15 novembre 2016 - art. 2
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 5
 
 _Anciens textes_:
 
@@ -8686,29 +8783,31 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
+  - Code du sport. - art. L212-1
   - Code du sport. - art. L232-10
   - Code du sport. - art. L232-14-5
   - Code du sport. - art. L232-15
   - Code du sport. - art. L232-17
+  - Code du sport. - art. L232-22
+  - Code du sport. - art. L232-23-3-1 (VD)
   - Code du sport. - art. L232-9
 
 
 ###### Article L232-23-1
 
-A la demande d'un sportif susceptible de faire l'objet d'une sanction ou de sa propre initiative, l'agence peut, si elle ne
-s'estime pas suffisamment informée au vu des pièces du dossier, proposer à l'intéressé de se soumettre à une expertise afin
-de déterminer s'il a respecté les dispositions de l'article L. 232-9.
+A la demande d'un sportif susceptible de faire l'objet d'une sanction ou de leur propre initiative, le collège et la
+commission des sanctions peuvent, s'ils ne s'estiment pas suffisamment informés au vu des pièces du dossier, proposer à
+l'intéressé de se soumettre à une expertise afin de déterminer s'il a respecté les dispositions de l'article L. 232-9.
 
 L'expertise est réalisée par un expert choisi par le sportif sur une liste établie par l'agence. Les résultats de l'expertise
-sont communiqués à l'agence et à l'intéressé, qui peut présenter des observations. Les frais de l'expertise sont à la charge
-de l'agence.
+sont communiqués à l'autorité qui en a fait la demande et à l'intéressé, qui peut présenter des observations. Les frais de
+l'expertise sont à la charge de l'agence.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2010-379 du 14 avril 2010 - art. 13
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 6
 
 _Cite_:
 
@@ -8719,24 +8818,29 @@ _Cite_:
 
 Lorsque, à la suite d'un contrôle effectué au cours d'une manifestation sportive organisée par une fédération agréée ou
 autorisée par la fédération délégataire compétente, un sportif a fait l'objet d'une sanction administrative prévue à
-l'article L. 232-23, la fédération annule, à la demande de l'Agence française de lutte contre le dopage, les résultats
-individuels du sportif ayant fait l'objet de la sanction avec toutes les conséquences en résultant, y compris le retrait de
-médailles, points, prix et gains.
+l'article L. 232-23, la fédération annule, à la demande de la commission des sanctions de l'Agence française de lutte contre
+le dopage, les résultats individuels du sportif ayant fait l'objet de la sanction avec toutes les conséquences en résultant,
+y compris le retrait de médailles, points, prix et gains.
 
-La fédération compétente annule en outre, à la demande de l'Agence française de lutte contre le dopage, les résultats
-individuels du sportif ayant fait l'objet de la sanction, avec toutes les conséquences en résultant, y compris le retrait de
-médailles, points, prix et gains, obtenus au cours de manifestations auxquelles le sportif a participé entre la date des
-faits motivant la sanction et la date à laquelle la sanction ou la suspension provisoire lui a été notifiée.
+La fédération compétente annule en outre, à la demande de la commission des sanctions de l'Agence française de lutte contre
+le dopage, les résultats individuels du sportif ayant fait l'objet de la sanction, avec toutes les conséquences en résultant,
+y compris le retrait de médailles, points, prix et gains, obtenus au cours de manifestations auxquelles le sportif a
+participé entre la date des faits motivant la sanction et la date à laquelle la sanction ou la suspension provisoire lui a
+été notifiée.
 
-Lorsqu'elle prononce une sanction d'interdiction temporaire d'une durée supérieure ou égale à deux ans, l'Agence française de
-lutte contre le dopage peut saisir la fédération compétente d'une demande de retrait provisoire de la licence de la personne
-concernée pour la durée de la période de suspension.
+Lorsqu'elle prononce une sanction d'interdiction temporaire d'une durée supérieure ou égale à deux ans, la commission des
+sanctions de l'Agence française de lutte contre le dopage peut saisir la fédération compétente d'une demande de retrait
+provisoire de la licence de la personne concernée pour la durée de la période de suspension.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 21
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2018-1178 du 19 décembre 2018 - art. 25
 
 _Cite_:
 
@@ -8767,54 +8871,65 @@ _Cite_:
 
 ###### Article L232-23-3-1
 
-Les  décisions de l'Agence française de lutte contre le dopage sont rendues  publiques après avoir été notifiées aux
-personnes en ayant fait l'objet.  A cette fin l'agence ordonne l'affichage, la publication, aux frais de  la personne
-condamnée, de l'intégralité ou d'une partie de la décision  ou d'un résumé informant le public des motifs et du dispositif de
-celle-ci.
+Les décisions de la commission des sanctions de l'Agence française de lutte contre le dopage sont rendues publiques après
+avoir été notifiées aux personnes en ayant fait l'objet. A cette fin la commission ordonne l'affichage, la publication, aux
+frais de la personne condamnée, de l'intégralité ou d'une partie de la décision ou d'un résumé informant le public des motifs
+et du dispositif de celle-ci.
 
-La publication de la sanction s'effectue de  manière nominative, sauf si la personne qui fait l'objet de la sanction  est
-mineure ou si l'agence, par une décision spécialement motivée,  décide d'ordonner la publication anonyme de cette sanction.
+La publication de la sanction s'effectue de manière nominative, sauf si la personne qui fait l'objet de la sanction est
+mineure ou si la commission, par une décision spécialement motivée, décide d'ordonner la publication anonyme de cette
+sanction.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 22
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 8
+
+_Abrogé par_:
+
+  - Ordonnance n°2018-1178 du 19 décembre 2018 - art. 25
+
+_Cité par_:
+
+  - Code du sport. - art. L232-23 (VD)
 
 
 ###### Article L232-23-3-2
 
-I.-L'Agence française de lutte contre le dopage peut, dans les cas et selon les conditions prévues ci-après, assortir une
-sanction d'un sursis à exécution lorsque la personne a fourni une aide substantielle permettant : 
+I.-La commission des sanctions de l'Agence française de lutte contre le dopage peut, dans les cas et selon les conditions
+prévues ci-après, assortir une sanction d'un sursis à exécution lorsque la personne a fourni une aide substantielle
+permettant :
 
-a) D'éviter qu'il ne soit contrevenu aux dispositions du présent chapitre ; 
+a) D'éviter qu'il ne soit contrevenu aux dispositions du présent chapitre ;
 
-b) Ou d'identifier des personnes contrevenant ou tentant de contrevenir aux dispositions du présent chapitre ; 
+b) Ou d'identifier des personnes contrevenant ou tentant de contrevenir aux dispositions du présent chapitre ;
 
-c) Ou de faire cesser un manquement aux dispositions du présent chapitre. 
+c) Ou de faire cesser un manquement aux dispositions du présent chapitre.
 
 Les sanctions mentionnées aux b à e du 1° et aux b à d du 2° du I de l'article L. 232-23 peuvent être assorties du sursis à
 concurrence des trois quarts de leur durée. Lorsque la sanction encourue est une interdiction définitive, le sursis ne peut
-s'appliquer aux huit premières années d'exécution de la sanction. 
+s'appliquer aux huit premières années d'exécution de la sanction.
 
-Pour tenir compte de circonstances exceptionnelles tenant à la qualité de l'aide substantielle apportée, l'Agence française
-de lutte contre le dopage peut, avec l'accord de l'Agence mondiale antidopage, préalablement saisie par elle ou par la
-personne qui fait l'objet d'une sanction, étendre le sursis jusqu'à la totalité de la durée des sanctions mentionnées à
-l'alinéa précédent et l'appliquer à l'ensemble des sanctions mentionnées à l'article L. 232-23. 
+Pour tenir compte de circonstances exceptionnelles tenant à la qualité de l'aide substantielle apportée, la commission des
+sanctions de l'Agence française de lutte contre le dopage peut, avec l'accord de l'Agence mondiale antidopage, préalablement
+saisie par elle ou par la personne qui fait l'objet d'une sanction, étendre le sursis jusqu'à la totalité de la durée des
+sanctions mentionnées à l'alinéa précédent et l'appliquer à l'ensemble des sanctions mentionnées à l'article L. 232-23.
 
-II.-L'Agence française de lutte contre le dopage peut révoquer le sursis lorsque la personne qui en bénéficie : 
+II.-La commission des sanctions de l'Agence française de lutte contre le dopage peut révoquer le sursis lorsque la personne
+qui en bénéficie :
 
 1° A commis, dans le délai de dix ans à compter de la date du prononcé de la sanction faisant l'objet du sursis, une
-infraction aux dispositions du présent chapitre ; 
+infraction aux dispositions du présent chapitre ;
 
 2° Ou cesse de transmettre les informations qu'elle s'était engagée à fournir et qui lui ont permis de bénéficier de ce
 sursis.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 23
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 9
 
 _Cite_:
 
@@ -8824,23 +8939,22 @@ _Cite_:
 ###### Article L232-23-3-3
 
 I.-La durée des mesures d'interdiction mentionnées au 1° du I de l'article L. 232-23 à raison d'un manquement à l'article L.
-232-9 : 
+232-9 :
 
 a) Est de quatre ans lorsque ce manquement est consécutif à l'usage ou à la détention d'une substance non spécifiée. Cette
-durée est ramenée à deux ans lorsque le sportif démontre qu'il n'a pas eu l'intention de commettre ce manquement ; 
+durée est ramenée à deux ans lorsque le sportif démontre qu'il n'a pas eu l'intention de commettre ce manquement ;
 
 b) Est de deux ans lorsque ce manquement est consécutif à l'usage ou à la détention d'une substance spécifiée. Cette durée
-est portée à quatre ans lorsque l'Agence française de lutte contre le dopage démontre que le sportif a eu l'intention de
-commettre ce manquement. 
+est portée à quatre ans lorsqu'il est démontré que le sportif a eu l'intention de commettre ce manquement.
 
 II.-Les substances spécifiées et les substances non spécifiées mentionnées au I, dont l'usage ou la détention sont prohibés
 par l'article L. 232-9, sont celles qui figurent à l'annexe I à la convention internationale mentionnée à l'article L. 230-2.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 23
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 10
 
 _Cite_:
 
@@ -9111,18 +9225,19 @@ _Créé par_:
 
 ###### Article L232-24
 
-Les parties intéressées peuvent former un recours de pleine juridiction contre les décisions de l'Agence française de lutte
-contre le dopage prises en application des articles L. 232-22 et L. 232-23. 
+Les parties intéressées et le président de l'Agence française de lutte contre le dopage peuvent former un recours de pleine
+juridiction contre les décisions de la commission des sanctions de l'Agence française de lutte contre le dopage prises en
+application de l'article L. 232-23. 
 
-L'Agence mondiale antidopage, une organisation nationale antidopage étrangère  ou un organisme sportif international
-mentionné à l'article L. 230-2 peut saisir la juridiction administrative compétente d'une décision prise par l'organe
-disciplinaire d'une fédération sportive délégataire ainsi que d'une décision de l'Agence française de lutte contre le dopage.
+L'Agence mondiale antidopage, une organisation nationale antidopage étrangère ou un organisme sportif international mentionné
+à l'article L. 230-2 peut saisir la juridiction administrative compétente d'une décision prise par l'organe disciplinaire
+d'une fédération sportive délégataire ainsi que d'une décision de l'Agence française de lutte contre le dopage.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1207 du 30 septembre 2015 - art. 25
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 11
 
 _Cité par_:
 
@@ -9136,7 +9251,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code du sport. - art. L230-2
-  - Code du sport. - art. L232-22
+  - Code du sport. - art. L232-23
 
 
 ###### Article L232-24-1
@@ -9398,33 +9513,40 @@ II.-Elle exerce les missions qui lui sont confiées par le présent titre dans l
 1° Une personnalité ayant compétence en médecine vétérinaire participe aux délibérations du collège relatives à la lutte
 contre le dopage animal ; 
 
-2° Pour l'application des dispositions des articles L. 241-6 et L. 241-7, le collège de l'agence délibère en formation
-disciplinaire composée d'au moins quatre de ses membres, dont la personnalité mentionnée au 1° du présent article, et sous la
-présidence de l'un des membres désignés au 1° de l'article L. 232-6 ; 
+2° Pour l'application des dispositions des articles L. 241-6 et L. 241-7, le collège de l'agence délibère, aux fins de
+poursuites, en formation disciplinaire composée d'au moins quatre de ses membres, dont la personnalité mentionnée au 1° du
+présent article, et sous la présidence de l'un des membres désignés au 1° de l'article L. 232-6 ; 
 
 3° Cette personnalité est désignée par le président de l'Académie vétérinaire de France, dans les conditions prévues à
 l'article L. 232-6 pour la désignation et le renouvellement des membres du collège ; 
 
 4° Le renouvellement du mandat de cette personnalité intervient en même temps que celui du membre du collège désigné par le
-président de l'Académie nationale de médecine.
+président de l'Académie nationale de médecine ; 
 
-**Nota:**
+5° Deux personnalités compétentes en médecine vétérinaire participent aux délibérations de la commission des sanctions de
+l'Agence relatives à la lutte contre le dopage animal ; ces personnalités, qui comprennent une femme et un homme, sont
+désignées par le président de l'Académie vétérinaire de France, dans les conditions prévues à l'article L. 232-7-2 pour la
+désignation et le renouvellement des membres de la commission des sanctions. 
 
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+6° Pour l'application des articles L. 241-6 et L. 241-7, la commission des sanctions de l'Agence délibère en présence d'au
+moins l'une des personnalités mentionnées au 5° du présent article. Sa présidence est assurée dans les conditions prévues aux
+articles L. 232-7-2 et L. 232-7-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
 
 _Cité par_:
 
   - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1 (V)
-  - Code du sport. - art. L232-7 (V)
+  - Code du sport. - art. L232-7 (VD)
   - Code du sport. - art. L232-7-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 12
 
 _Anciens textes_:
 
@@ -9433,9 +9555,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du sport. - art. L232-5 (V)
-  - Code du sport. - art. L232-6 (V)
-  - Code du sport. - art. L241-6 (V)
+  - Code du sport. - art. L232-5
+  - Code du sport. - art. L232-6
+  - Code du sport. - art. L232-7-2
+  - Code du sport. - art. L241-6
 
 
 ###### Article L241-2
@@ -9693,24 +9816,24 @@ _Cite_:
 
 ###### Article L241-8
 
-Les parties intéressées peuvent former un recours de pleine juridiction contre les décisions de l'Agence française de lutte
-contre le dopage prises en application des articles L. 241-6 et L. 241-7.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+Les parties intéressées et le président de l'Agence française de lutte contre le dopage peuvent former un recours de pleine
+juridiction contre les décisions de la commission des sanctions de l'Agence française de lutte contre le dopage prises en
+application des articles L. 241-6 et L. 241-7.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2018-603 du 11 juillet 2018 - art. 13
 
 _Cite_:
 
-  - Code du sport. - art. L241-6 (V)
+  - Code du sport. - art. L241-6
+  - Code du sport. - art. L241-7
 
 _Anciens textes_:
 
@@ -29808,20 +29931,22 @@ _Cite_:
 ###### Article R232-11
 
 Le collège de l'Agence française de lutte contre le dopage peut, dans les limites qu'il détermine, déléguer au président les
-décisions individuelles mentionnées aux articles R. 232-78 et R. 232-79. 
+décisions individuelles mentionnées aux articles R. 232-78 et R. 232-79.
 
-Il peut, dans les mêmes conditions, déléguer : 
+Il peut, dans les mêmes conditions, déléguer :
 
-1°     Au directeur du département des contrôles : la désignation des sportifs aux fins de constituer le groupe cible
-mentionné à l'article L. 232-15, les décisions d'octroi et de retrait de l'agrément des vétérinaires prévu aux articles R.
-241-1 et R. 241-2 et les décisions d'octroi et de retrait de l'agrément individuel prévu à l'article R. 232-68 ; 
+1° Au directeur du département des contrôles : la désignation des sportifs aux fins de constituer le groupe cible mentionné à
+l'article L. 232-15, les décisions d'octroi et de retrait de l'agrément des vétérinaires prévu aux articles R. 241-1 et R.
+241-2 et les décisions d'octroi et de retrait de l'agrément individuel prévu à l'article R. 232-68 ;
 
 2° Au directeur du département des analyses : l'établissement des listes d'experts prévues par l'article R. 232-64 et par
-l'article R. 241-11. 
+l'article R. 241-11.
 
 Le président de l'agence, le directeur du département des contrôles et le directeur du département des analyses rendent
 compte au collège, lors de la séance la plus proche, des décisions prises en vertu des délégations qui leur sont ainsi
 consenties.
+
+Le collège peut désigner un de ses membres ou un agent de l'agence pour le représenter devant la commission des sanctions.
 
 **Liens relatifs à cet article**
 
@@ -29835,12 +29960,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 7
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
 
 _Cite_:
 
   - Code du sport. - art. R232-64
-  - Code du sport. - art. R232-68 (V)
+  - Code du sport. - art. R232-68
   - Code du sport. - art. R232-78
   - Code du sport. - art. R241-1
   - Code du sport. - art. R241-11
@@ -29862,6 +29987,8 @@ Le collège se prononce à la majorité des trois quarts de ses membres autres q
 
 Le président informe de la démission d'office l'autorité de nomination ainsi que le ministre chargé des sports.
 
+Les dispositions du présent article s'appliquent également à la commission des sanctions.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -29875,7 +30002,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1235 du 3 août 2017 - art. 2
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
+
+
+###### Article R232-12-1
+
+La commission des sanctions peut constituer des sections de cinq membres.
+
+La commission des sanctions ne peut siéger, le cas échéant en section, que si trois au moins de ses membres sont présents.
+
+Le président de la commission des sanctions convoque les séances de la commission et de ses sections. Il fixe leur ordre du
+jour.
+
+La commission des sanctions établit son règlement intérieur en présence d'au moins six de ses membres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
 
 
 ###### Article R232-13
@@ -29929,7 +30074,7 @@ _Créé par_:
 
 ###### Article R232-15
 
-Le président représente l'agence en justice et agit en son nom.
+Le président de l'agence représente l'agence en justice et agit en son nom.
 
 **Liens relatifs à cet article**
 
@@ -29940,25 +30085,29 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
 
 
 ###### Article R232-16
 
-Le président est ordonnateur des recettes et des dépenses. Il peut désigner le secrétaire général comme ordonnateur
-secondaire. 
+Le président de l'agence est ordonnateur des recettes et des dépenses. Il peut désigner le secrétaire général comme
+ordonnateur secondaire.
 
 Il peut transiger dans les conditions fixées par le 10° du I de l'article R. 232-10 du présent code et par les articles 2044
-à 2058 du code civil. 
+à 2058 du code civil.
 
-Dans le cadre des règles générales fixées par le collège, il a qualité pour : 
+Dans le cadre des règles générales fixées par le collège, il a qualité pour :
 
-1° Décider des placements ; 
+1° Décider des placements ;
 
-2° Passer au nom de l'agence les conventions et marchés ; 
+2° Passer au nom de l'agence les conventions et marchés ;
 
 3° Recruter le personnel et fixer les rémunérations et les indemnités autres que celles prévues aux premier et deuxième
-alinéas de l'article R. 232-21 du présent code ; 
+alinéas de l'article R. 232-21 du présent code ;
 
 4° Tenir la comptabilité des engagements.
 
@@ -29970,13 +30119,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
 
 _Cite_:
 
-  - Code civil - art. 2044 (V)
-  - Code du sport. - art. R232-10 (V)
-  - Code du sport. - art. R232-21 (V)
+  - Code civil - art. 2044
+  - Code du sport. - art. R232-10
+  - Code du sport. - art. R232-21
 
 
 ###### Article R232-17
@@ -29997,13 +30150,12 @@ _Codifié par_:
 ###### Article R232-18
 
 Le président de l'agence peut donner délégation au secrétaire général, au directeur du département des contrôles et au
-directeur du département des analyses, dans la limite de leurs attributions, pour signer tous actes relatifs au
-fonctionnement de l'agence et à l'exercice de ses missions, à l'exception de ceux mentionnés aux articles R. 232-93, R.
-232-94 et R. 232-97. 
+directeur du département des analyses dans le respect de leurs attributions, pour signer tous actes relatifs au
+fonctionnement de l'agence et à l'exercice de ses missions dans les limites qu'il détermine.
 
 Dans les matières relevant de leur compétence, le directeur du département des contrôles et le directeur du département des
 analyses peuvent déléguer leur signature, dans les limites qu'ils déterminent, et désigner les agents habilités à les
-représenter. 
+représenter.
 
 Le directeur du département des contrôles peut également, dans les limites qu'il détermine, déléguer la signature des
 décisions prévues à l'article R. 232-46 aux directeurs et agents des services du ministre chargé des sports auxquels l'agence
@@ -30017,13 +30169,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. L232-5 (V)
-  - Code du sport. - art. R232-46 (V)
-  - Code du sport. - art. R232-93 (V)
+  - Code du sport. - art. L232-5
+  - Code du sport. - art. R232-46
 
 
 ###### Article R232-19
@@ -30070,19 +30225,23 @@ _Codifié par_:
 
 ###### Article R232-21
 
-Le président de l'Agence française de lutte contre le dopage perçoit une indemnité de fonction fixée par arrêté des ministres
-chargés du budget et des sports.
+Le président du collège et le président de la commission des sanctions de l'Agence française de lutte contre le dopage
+perçoivent une indemnité de fonction fixée par arrêté des ministres chargés du budget, de la fonction publique et des sports.
 
-Les membres du collège autres que le président perçoivent une indemnité par séance du collège à laquelle ils participent.
+Les membres du collège et de la commission des sanctions autres que leurs présidents perçoivent une indemnité par séance du
+collège ou de la commission à laquelle ils participent. Une indemnité supplémentaire est attribuée aux membres de la
+commission lorsqu'ils siègent en tant que président de celle-ci ou de l'une de ses formations.
 
-Le taux de l'indemnité par séance ainsi que le plafond annuel de rémunération attribuable à ce titre sont fixés par arrêté
-des ministres chargés du budget et des sports.
+Le montant de l'indemnité par séance, le plafond annuel de rémunération attribuable à ce titre et le montant de l'indemnité
+supplémentaire sont fixés par arrêté des ministres chargés du budget, de la fonction publique et des sports.
 
-Les membres du collège peuvent également recevoir des indemnités au titre des rapports qu'ils établissent. Le montant de ces
-indemnités est fixé, en fonction du temps nécessaire à leur préparation et leur complexité, par le président de l'agence.
+Les membres du collège et de la commission des sanctions peuvent également recevoir des indemnités au titre des rapports
+qu'ils établissent. Le montant de ces indemnités est fixé, en fonction du temps nécessaire à leur préparation et leur
+complexité, par le président de l'agence pour les membres du collège et par le président de la commission des sanctions pour
+les membres de la commission.
 
 Le montant maximal de l'indemnité attribuable par rapport ainsi que le plafond annuel de rémunération attribuable à ce titre
-sont fixés par arrêté des ministres chargés du budget et des sports.
+sont fixés par arrêté des ministres chargés du budget, de la fonction publique et des sports.
 
 Les arrêtés prévus ci-dessus sont publiés au Journal officiel de la République française.
 
@@ -30095,7 +30254,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -30106,12 +30265,17 @@ _Cité par_:
   - Arrêté du 27 mars 2012 - art. 3 (V)
   - Code du sport. - art. R232-16 (VD)
 
+_Modifié par_:
+
+  - Décret n°2018-868 du 8 octobre 2018 - art. 1
+
 
 ###### Article R232-22
 
-Les frais occasionnés par les déplacements et les séjours des personnels et des membres du collège de l'agence sont
-remboursés dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de
-règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat. 
+Les frais occasionnés par les déplacements et les séjours des personnels et des membres du collège et de la commission des
+sanctions de l'agence sont remboursés dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les
+conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de
+l'Etat.
 
 Les délibérations prévues au 8° de l'article 2 ainsi qu'aux articles 3 et 7 du décret mentionné à l'alinéa précédent sont
 prises par le collège de l'agence.
@@ -30120,7 +30284,7 @@ prises par le collège de l'agence.
 
 _Cite_:
 
-  - Décret n°2006-781 du 3 juillet 2006 (V)
+  - Décret n°2006-781 du 3 juillet 2006
 
 _Anciens textes_:
 
@@ -30128,7 +30292,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 2
 
 
 ###### Article R232-23
@@ -30928,22 +31096,22 @@ S'il apparaît, en l'état des informations portées à la connaissance de l'Age
 sportif tombe sous le coup de l'interdiction édictée par l'article L. 232-9-1, le secrétaire général de l'agence l'en avise
 par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore par tout moyen
 permettant d'en garantir l'origine et la réception. Le sportif est mis à même de présenter ses observations et dispose à cet
-effet d'un délai de quinze jours. 
+effet d'un délai de quinze jours.
 
 Après avoir pris connaissance des observations du sportif, ou en l'absence d'observations de ce dernier dans ce délai, le
 secrétaire général lui notifie par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé
 ou encore par tout moyen permettant de garantir l'origine et la réception de la notification, l'identité de la personne à
-laquelle il lui est interdit d'avoir recours et la durée de l'incapacité dont elle est frappée. 
+laquelle il lui est interdit d'avoir recours et la durée de l'incapacité dont elle est frappée.
 
 Faute pour le sportif d'apporter la preuve à l'Agence française de lutte contre le dopage, dans les dix jours de la réception
-de cette notification, qu'il a cessé de faire appel aux services de la personne concernée, le secrétaire général en informe,
-le cas échéant, la fédération dont il est licencié aux fins d'engagement d'une procédure disciplinaire.
+de cette notification, qu'il a cessé de faire appel aux services de la personne concernée, le secrétaire général en informe
+la fédération dont il est licencié ou, à défaut, le collège aux fins d'engagement d'une procédure disciplinaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 9
+  - Décret n°2018-634 du 17 juillet 2018 - art. 3
 
 
 ###### Article R232-41-14
@@ -32314,23 +32482,24 @@ _Créé par_:
 ###### Article R232-67-15
 
 La confirmation par le comité de sa position initiale entraîne l'engagement d'une procédure disciplinaire à l'encontre du
-sportif concerné. 
+sportif concerné.
 
 Si le sportif est licencié auprès d'une fédération agréée, le secrétaire général de l'Agence française de lutte contre le
 dopage transmet le dossier de l'intéressé à la fédération dont il relève ; celle-ci exerce les compétences en matière de
 sanctions disciplinaires prévues à l'article L. 232-21 sans préjudice des compétences de l'Agence française de lutte contre
-le dopage mentionnées aux 2°, 3° et 4° de l'article L. 232-22. Le dossier est également transmis à la fédération
+le dopage mentionnées aux 2°, 3° et 4° du II de l'article L. 232-22. Le dossier est également transmis à la fédération
 internationale compétente, à l'Agence mondiale antidopage et, le cas échéant, à l'organisation nationale antidopage
 compétente.
 
-Si le sportif n'a pas ou a cessé d'avoir la qualité de licencié, l'Agence française de lutte contre le dopage est compétente
-pour infliger une des sanctions prévues à l'article L. 232-23.
+Si le sportif n'a pas ou a cessé d'avoir la qualité de licencié, le collège de l'agence est compétent pour engager la
+procédure disciplinaire en application du 1° du II de l'article L. 232-22 et des sanctions prévues à l'article L. 232-23
+peuvent, le cas échéant, être prononcées par la commission des sanctions.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 18
+  - Décret n°2018-634 du 17 juillet 2018 - art. 4
 
 
 ##### Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles.<a id=279></a>
@@ -33192,19 +33361,19 @@ _Créé par_:
 
 ###### Article R232-88
 
-Dans le cas prévu au 3° de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-ci de
-la décision prise par l'organe disciplinaire de la fédération sportive et de l'ensemble du dossier. 
+Dans le cas prévu au 3° du II de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-
+ci de la décision prise par l'organe disciplinaire de la fédération sportive et de l'ensemble du dossier.
 
-Dans le cas prévu au 4° du même article : 
+Dans le cas prévu au 4° du II du même article :
 
 1° Lorsque la demande émane d'une fédération sportive, la saisine de l'agence doit intervenir dans le délai de deux mois à
 compter du jour où la décision de la fédération est devenue définitive. L'agence est saisie dès la date de réception de la
 demande d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que de l'ensemble du
-dossier ; 
+dossier ;
 
-2° Lorsque l'agence se saisit de sa propre initiative, elle dispose d'un délai de deux mois qui court à partir de la date de
-réception par celle-ci de la décision prise par l'organe disciplinaire de la fédération sportive ainsi que de l'ensemble du
-dossier.
+2° Lorsque le collège de l'agence, de sa propre initiative, saisit la commission des sanctions, il dispose d'un délai de deux
+mois qui court à partir de la date de réception par l'agence de la décision prise par l'organe disciplinaire de la fédération
+sportive ainsi que de l'ensemble du dossier.
 
 **Liens relatifs à cet article**
 
@@ -33219,7 +33388,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-58 du 13 janvier 2011 - art. 5
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cite_:
 
@@ -33228,22 +33397,25 @@ _Cite_:
 
 ###### Article R232-89
 
-Dans tous les cas mentionnés à l'article L. 232-22, le secrétaire général de l'agence informe l'intéressé par lettre
-recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise : 
+Dans tous les cas mentionnés au II de l'article L. 232-22, le secrétaire général de l'agence informe l'intéressé par lettre
+recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise :
 
-1° Le fondement sur lequel l'agence est saisie ; 
+1° Le fondement sur lequel l'agence est saisie ;
 
-2° Les griefs formulés à l'encontre de l'intéressé ; 
+2° Les griefs formulés à l'encontre de l'intéressé ;
 
-3° Les droits qui lui sont reconnus aux articles R. 232-91 à R. 232-95 pour présenter sa défense ; 
+3° Les droits qui lui sont reconnus aux articles R. 232-91 à R. 232-95 pour présenter sa défense ;
 
 4° La possibilité d'apporter au directeur des contrôles de l'Agence française de lutte contre le dopage des éléments
 constitutifs d'une aide substantielle au sens de l'article L. 230-4 et, le cas échéant, de voir la sanction d'interdiction
-qu'elle encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article L. 232-23-3-2. 
+qu'elle encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article L. 232-23-3-2.
+
+La notification est transmise simultanément au président de la commission des sanctions.
 
 Le secrétaire général de l'agence transmet également ces documents, par tout moyen, à l'Agence mondiale antidopage, la
 fédération internationale concernée et le cas échéant l'organisation nationale antidopage étrangère intéressée ainsi qu'à la
-fédération sportive concernée. Cette fédération sportive peut adresser des observations écrites à l'agence.
+fédération sportive concernée. Cette fédération sportive peut adresser des observations écrites à la commission des
+sanctions.
 
 **Liens relatifs à cet article**
 
@@ -33258,7 +33430,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-84 du 29 janvier 2016 - art. 4
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cite_:
 
@@ -33268,21 +33440,20 @@ _Cite_:
 
 ###### Article R232-90
 
-Dans les cas mentionnés aux 1° et 2° de l'article L. 232-22, l'agence peut prendre une décision de classement si le sportif
-justifie le résultat du contrôle soit par :
+Dans les cas mentionnés aux 1° et 2° du II de l'article L. 232-22, le collège peut prendre une décision de classement si le
+sportif justifie le résultat du contrôle par soit :
 
-- soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'Agence française de lutte contre le
-dopage ; 
+- une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'Agence française de lutte contre le dopage ;
 
-- soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage
-étrangère, par une organisation responsable d'une grande manifestation sportive internationale mentionnée au 4° de l'article
-L. 230-2 ou par une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la
-convention internationale mentionnée à l'article L. 230-2 ; 
+- une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage étrangère,
+par une organisation responsable d'une grande manifestation sportive internationale mentionnée au 4° de l'article L. 230-2 ou
+par une fédération internationale et dont le collège reconnaît la validité conformément à l'annexe II de la convention
+internationale mentionnée à l'article L. 230-2 ;
 
-- soit à une autorisation d'usage à des fins thérapeutiques dont l'Agence mondiale antidopage a reconnu la validité ou
-qu'elle a accordée.
+- une autorisation d'usage à des fins thérapeutiques dont l'Agence mondiale antidopage a reconnu la validité ou qu'elle a
+accordée.
 
-- une raison médicale dûment justifiée définie à l'article R. 232-85-1. 
+- une raison médicale dûment justifiée définie à l'article R. 232-85-1.
 
 Cette décision est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
 l'intéressé, à la fédération sportive à laquelle il appartient le cas échéant, ainsi que, par tout moyen, à l'Agence mondiale
@@ -33302,7 +33473,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-84 du 29 janvier 2016 - art. 5
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cite_:
 
@@ -33314,10 +33485,10 @@ _Cite_:
 
 L'intéressé peut être représenté par une personne qu'il mandate à cet effet. Il peut également être assisté par une ou
 plusieurs personnes de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, sur
-sa demande, de l'aide d'un interprète aux frais de l'agence. 
+sa demande, de l'aide d'un interprète aux frais de l'agence.
 
-L'intéressé, la ou les personnes investies de l'autorité parentale ou le représentant légal et, le cas échéant, le défenseur
-peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie. 
+L'intéressé, la ou les personnes investies de l'autorité parentale ou le représentant légal et, le cas échéant, le conseil
+peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie.
 
 Le document formulant les griefs retenus à l'encontre du sportif doit mentionner la possibilité pour l'intéressé de demander
 par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours à compter de sa réception, qu'il soit
@@ -33337,19 +33508,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1235 du 3 août 2017 - art. 6
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cite_:
 
-  - Code du sport. - art. R232-64 (V)
+  - Code du sport. - art. R232-64
 
 
 ###### Article R232-92
 
-L'intéressé et son défenseur, accompagnés, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du
-représentant légal, sont convoqués devant la formation disciplinaire de l'Agence française de lutte contre le dopage par
+L'intéressé et son conseil, accompagnés, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du
+représentant légal, sont convoqués devant la commission des sanctions de l'Agence française de lutte contre le dopage par
 lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, quinze jours au moins avant la
-date de la séance au cours de laquelle l'agence est appelée à se prononcer.
+date de l'audience.
+
+La convocation est simultanément adressée au président de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -33360,28 +33533,70 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+
+
+###### Article R232-92-1
+
+La personne mise en cause qui veut récuser un membre de la commission des sanctions doit, à peine d'irrecevabilité, en former
+la demande dans le délai de quinze jours à compter de la notification qui lui est faite de la composition de cette
+commission.
+
+La demande de récusation doit, à peine d'irrecevabilité, viser nominativement le membre concerné de la commission, indiquer
+avec précision les motifs de la récusation et être accompagnée des pièces propres à la justifier.
+
+Copie en est transmise au membre qui en fait l'objet, lequel fait connaître par écrit, dans les huit jours de cette
+communication, son acquiescement à la récusation ou les motifs pour lesquels il s'y oppose.
+
+Dans le cas où le motif invoqué n'a pu être connu de la personne mise en cause dans ce délai, celle-ci peut former la demande
+de récusation au plus tard avant la fin de l'audience.
+
+Si le membre concerné s'oppose à la récusation, la commission se prononce sur la demande. L'auteur de celle-ci est averti par
+tous moyens de la date à laquelle elle sera examinée, ainsi que de la possibilité qu'il aura de présenter des observations
+orales.
+
+La commission statue sans la participation de celui de ses membres dont la récusation est demandée. Elle se prononce sur la
+demande de récusation par une décision non motivée. Sa décision est notifiée à l'auteur de la demande et au membre intéressé.
+
+Les actes éventuellement accomplis par le membre récusé avant qu'il ait eu connaissance de la demande de récusation ne
+peuvent être remis en cause.
+
+La décision de la commission ne peut donner lieu à recours qu'avec la décision statuant sur les griefs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ###### Article R232-93
 
-L'intéressé et son défenseur ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
-représentant légal, peuvent présenter devant l'Agence française de lutte contre le dopage des observations écrites ou orales.
-Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence dans un délai de six jours au moins avant
-la réunion de l'organe disciplinaire.
+L'intéressé et son conseil, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal,
+ainsi que le représentant du collège de l'agence peuvent présenter devant la commission des sanctions des observations
+écrites ou orales. Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence dans un délai de six
+jours au moins avant l'audience.
 
 Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole.
 
-L'intéressé et son défenseur ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
-représentant légal, peuvent demander que soient entendues les personnes de leur choix dont ils communiquent le nom au moins
-six  jours avant la séance. Le président de l'agence peut refuser, par décision motivée, les demandes d'audition
-manifestement abusives.
+Les observations écrites régulièrement reçues par la commission sont transmises sans délai aux parties.
 
-Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
+L'intéressé et son conseil, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal et
+le représentant du collège peuvent demander que soient entendues les personnes de leur choix dont ils communiquent le nom au
+moins six jours avant l'audience. Le président de la commission des sanctions ou de la section appelée à se prononcer peut
+refuser, par décision motivée, les demandes d'audition manifestement abusives.
 
-L'agence peut également demander à entendre toute personne. Si une telle audition est décidée, le président de l'agence en
-informe l'intéressé et, le cas échéant, ses représentants avant la séance. Si cette information s'avère impossible avant la
-séance initialement prévue, l'examen du dossier de l'intéressé est renvoyé à une séance ultérieure.
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole.
+
+La commission des sanctions peut également procéder à toutes les auditions et consultations qu'elle estime utiles. Si une
+telle audition est décidée, le président de la formation de la commission des sanctions appelée à se prononcer en informe
+avant la séance l'intéressé et, le cas échéant, ses représentants, ainsi que le représentant du collège. Si cette information
+s'avère impossible avant la séance initialement prévue, l'examen du dossier de l'intéressé est renvoyé à une séance
+ultérieure. Si une consultation est décidée, son résultat est transmis aux mêmes personnes.
 
 Les frais de déplacement des personnes dont l'audition est décidée dans les conditions prévues à l'alinéa précédent sont pris
 en charge par l'agence.
@@ -33399,7 +33614,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-58 du 13 janvier 2011 - art. 8
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cité par_:
 
@@ -33408,12 +33623,12 @@ _Cité par_:
 
 ###### Article R232-94
 
-Le président de l'Agence française de lutte contre le dopage désigne un rapporteur parmi les membres du collège. Celui-ci
-établit un rapport exposant les faits et rappelant les conditions du déroulement de la procédure, tant, le cas échéant,
-devant la fédération sportive que devant l'agence. Le rapporteur procède, sans pouvoir les assortir de mesures de contrainte,
-à toute investigation utile dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé.
+Le président de la commission des sanctions attribue l'affaire soit à cette dernière soit à l'une de ses sections.
 
-Le président de la formation disciplinaire peut exercer les fonctions de rapporteur.
+Le président de la commission des sanctions désigne un rapporteur parmi ses membres. Celui-ci établit un rapport exposant les
+faits et rappelant les conditions du déroulement de la procédure, tant, le cas échéant, devant la fédération sportive que
+devant l'agence. Le rapporteur peut procéder, sans pouvoir les assortir de mesures de contrainte, à toute investigation utile
+dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé et au collège.
 
 **Liens relatifs à cet article**
 
@@ -33424,18 +33639,25 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ###### Article R232-95
 
-Le rapporteur présente oralement son rapport à la formation disciplinaire.
+Le rapporteur présente oralement son rapport à la commission des sanctions. 
 
-L'intéressé, son défenseur, et le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal
-sont invités à prendre la parole en dernier.
+Le membre du collège ou l'agent de l'agence désigné en application du dernier alinéa de l'article R. 232-11 peut assister à
+l'audience et présenter des observations. Le cas échéant, le membre du collège peut être assisté par un agent de l'agence. 
+
+L'intéressé, son conseil, et le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal
+sont invités à prendre la parole en dernier. 
 
 Les débats ne sont pas publics sauf demande contraire formulée, avant l'ouverture de la séance, par l'intéressé, ou son
-défenseur, ou le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal.
+conseil, ou le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -33446,31 +33668,42 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+
+_Cite_:
+
+  - Code du sport. - art. R232-11
 
 
 ###### Article R232-95-1
 
 Pour tenir compte de l'éloignement géographique ou de contraintes professionnelles ou médicales, à la demande des personnes à
 l'encontre desquelles une procédure disciplinaire est engagée, des moyens de conférence audiovisuelle peuvent être mis en
-place par l'agence avec son accord. 
+place par la commission des sanctions avec l'accord du président de la formation appelée à se prononcer.
 
 Les moyens de conférence audiovisuelle doivent respecter un niveau suffisant de sécurité et de confidentialité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-84 du 29 janvier 2016 - art. 6
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ###### Article R232-96
 
-La formation disciplinaire délibère à huis clos, hors de la présence de l'intéressé, de son défenseur, le cas échéant de la
-ou des personnes investies de l'autorité parentale ou du représentant légal, ainsi que des personnes entendues à l'audience.
+La commission des sanctions délibère à huis clos, hors de la présence de l'intéressé, de son conseil, le cas échéant de la ou
+des personnes investies de l'autorité parentale ou du représentant légal, du représentant du collège ou de l'agent de
+l'agence chargé de représenter ou d'assister celui-ci, ainsi que des personnes entendues à l'audience.
 
-Le secrétaire général de l'agence assiste de droit au délibéré sans y participer. Lorsque les fonctions de secrétaire de
-séance sont assurées par une personne qui n'est pas membre du collège, celle-ci peut assister au délibéré sans y participer.
+Lorsque les fonctions de secrétaire de séance sont assurées par un agent de l'agence, celui-ci est désigné par le président
+de la commission des sanctions avec l'accord du président de l'agence. Il peut assister au délibéré sans y participer. Il
+exerce ces fonctions sous la seule autorité du président de la formation de la commission des sanctions appelée à se
+prononcer.
 
 **Liens relatifs à cet article**
 
@@ -33481,29 +33714,34 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ###### Article R232-97
 
-La formation disciplinaire statue par décision motivée.
+La commission des sanctions statue par décision motivée.
 
-La décision est signée par le président de la formation disciplinaire et le secrétaire de séance. Elle est notifiée par
-lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à l'intéressé, à la fédération
-sportive à laquelle appartient le cas échéant l'intéressé et au ministre chargé des sports, ainsi que, par tout moyen, à
-l'agence mondiale antidopage et à la fédération internationale concernée. Le cas échéant, la ou les personnes investies de
-l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
+La décision est signée par le président de la formation de la commission des sanctions qui a statué et le secrétaire de
+séance. Elle est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
+l'intéressé, à la fédération sportive à laquelle appartient le cas échéant l'intéressé, au président de l'agence et au
+ministre chargé des sports, ainsi que, par tout moyen, à l'agence mondiale antidopage et à la fédération internationale
+concernée. Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont
+informés selon les mêmes modalités.
 
-L'organe disciplinaire détermine dans sa décision les modalités de publication de la sanction qu'il prononce, notamment en
-fixant le délai de publication et en désignant le support de celle-ci. Ces modalités sont proportionnées à la gravité de la
-sanction prononcée à titre principal et adaptées à la situation de l'auteur de l'infraction. 
+La commission des sanctions détermine dans sa décision les modalités de publication de la sanction qu'elle prononce,
+notamment en fixant le délai de publication et le support de celle-ci. Ces modalités sont proportionnées à la gravité de la
+sanction prononcée à titre principal et adaptées à la situation de l'auteur de l'infraction.
 
 La publication de la sanction s'effectue de manière nominative, sauf si la personne qui fait l'objet de la sanction est
-mineure ou si l'organe disciplinaire, par une décision spécialement motivée, décide d'ordonner la publication anonyme de
-cette sanction. 
+mineure ou si la commission des sanctions, par une décision spécialement motivée, décide d'ordonner la publication anonyme de
+cette sanction.
 
 La publication d'une décision de relaxe s'effectue de manière anonyme, sauf si, dans le délai d'un mois suivant la
-notification de la décision, la personne qui en fait l'objet demande une publication nominative. 
+notification de la décision, la personne qui en fait l'objet demande une publication nominative.
 
 La dispense de publication d'une décision de sanction assortie d'un sursis à exécution ne peut intervenir qu'après avis
 conforme de l'Agence mondiale antidopage.
@@ -33521,27 +33759,27 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-84 du 29 janvier 2016 - art. 7
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ###### Article R232-98
 
-Lorsque la formation disciplinaire de l'agence décide d'exercer son pouvoir de sanction, conformément aux articles L. 232-22
+Lorsque la commission des sanctions de l'agence décide d'exercer son pouvoir de sanction, conformément aux articles L. 232-22
 et L. 232-23, la durée de la suspension provisoire ou de l'interdiction temporaire ou définitive que la personne intéressée a
 déjà effectuée en exécution de la décision prononcée, respectivement, par le président de l'organe disciplinaire de première
 instance fédéral et par l'organe disciplinaire fédéral en application des dispositions de l'article L. 232-21 est déduite des
-sanctions éventuellement prononcées. 
+sanctions éventuellement prononcées.
 
 Lorsque le président de l'Agence française de lutte contre le dopage prononce, sur le fondement de l'article L. 232-23-4, une
 mesure conservatoire, la durée de la suspension provisoire déjà effectuée par l'intéressé en exécution de la décision
 prononcée par le président de l'organe disciplinaire fédéral est déduite de la suspension provisoire éventuellement
-prononcée. 
+prononcée.
 
 Les sanctions d'interdiction temporaire inférieures à six mois pour la participation aux manifestations mentionnées au 1° de
-l'article L. 230-3 ne peuvent être accomplies en dehors de la période de compétition. 
+l'article L. 230-3 ne peuvent être accomplies en dehors de la période de compétition.
 
-Lorsque la formation disciplinaire fait application des dispositions du 4° de l'article L. 232-22, l'extension ne vaut que
-pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
+Lorsque la commission des sanctions fait application des dispositions du 4° du II de l'article L. 232-22, l'extension ne vaut
+que pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -33556,7 +33794,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-58 du 13 janvier 2011 - art. 10
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 _Cite_:
 
@@ -33571,24 +33809,24 @@ _Cite_:
 S'il apparaît, en l'état des informations portées à la connaissance de l'Agence française de lutte contre le dopage, qu'une
 personne qui a fait l'objet d'une sanction assortie d'un sursis à exécution cesse de transmettre les informations qu'elle
 s'était engagée à fournir, le secrétaire général de l'agence l'avise qu'il s'agit d'un motif de révocation de ce sursis. Il
-saisit le collège du dossier. 
+saisit la commission des sanctions du dossier.
 
-L'intéressé est alors mis à même de présenter ses observations écrites ou orales au collège de l'agence. 
+L'intéressé est alors mis à même de présenter ses observations écrites ou orales à la commission des sanctions de l'agence.
 
-Le collège de l'agence est seul compétent pour révoquer le sursis à exécution d'une sanction qu'il a prononcé ou dont il a
-admis le bien-fondé. 
+La commission des sanctions de l'agence est seule compétente pour révoquer le sursis à exécution d'une sanction qu'elle a
+prononcée ou dont elle a admis le bien-fondé.
 
-La décision de révocation du sursis est publiée dans les conditions prévues à l'article L. 232-23-3-1. 
+La décision de révocation du sursis est publiée dans les conditions prévues à l'article L. 232-23-3-1.
 
-Les échanges entre l'intéressé et l'Agence française de lutte contre le dopage prévus aux premier et deuxième alinéas sont
-réalisés par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore par tout
-moyen permettant de garantir l'origine et la réception de la notification.
+Les échanges entre l'intéressé et l'Agence française de lutte contre le dopage ou la commission des sanctions prévus aux
+premier et deuxième alinéas sont réalisés par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
+récépissé ou encore par tout moyen permettant de garantir l'origine et la réception de la notification.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-84 du 29 janvier 2016 - art. 8
+  - Décret n°2018-634 du 17 juillet 2018 - art. 5
 
 
 ##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes<a id=285></a>
@@ -34159,19 +34397,19 @@ _Cite_:
 
 ###### Article R241-15
 
-Dans le cas prévu au 3° de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-ci de
-la décision prise par l'organe disciplinaire de la fédération sportive et du dossier soumis à cet organe.
+Dans le cas prévu au 3° du II de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-
+ci de la décision prise par l'organe disciplinaire de la fédération sportive et du dossier soumis à cet organe.
 
-Dans le cas prévu au 4° de l'article L. 232-22 :
+Dans le cas prévu au 4° du II de l'article L. 232-22 :
 
 1° Lorsque la demande émane d'une fédération, la saisine de l'agence doit intervenir dans le délai de deux mois à compter du
 jour où la décision de la fédération est devenue définitive. L'agence est saisie dès la date de réception de la demande
 d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que du dossier soumis à cet
 organe ;
 
-2° Lorsque l'agence se saisit de sa propre initiative, elle dispose d'un délai de huit jours qui court à partir de la date de
-réception par celle-ci de la décision prise par l'organe disciplinaire de la fédération sportive ainsi que du dossier soumis
-à cet organe.
+2° Lorsque le collège de l'agence, de sa propre initiative, saisit la commission des sanctions, il dispose d'un délai de deux
+mois qui court à partir de la date de réception par l'agence de la décision prise par l'organe disciplinaire de la fédération
+sportive ainsi que de l'ensemble du dossier.
 
 **Liens relatifs à cet article**
 
@@ -34182,22 +34420,28 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du sport. - art. L232-22 (V)
+  - Code du sport. - art. L232-22
 
 
 ###### Article R241-16
 
-Dans tous les cas mentionnés à l'article L. 232-22, le président de l'agence informe l'intéressé par lettre recommandée avec
-demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise le fondement sur lequel
-l'agence est saisie, indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits qui lui sont reconnus
-aux articles R. 241-17 à R. 241-22 pour présenter sa défense.
+Dans tous les cas mentionnés au II de l'article L. 232-22, le secrétaire général de l'agence informe l'intéressé par lettre
+recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise le fondement
+sur lequel l'agence est saisie, indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits qui lui sont
+reconnus aux articles R. 241-17 à R. 241-22 pour présenter sa défense.
 
-Le cas échéant, le président de l'agence informe dans les mêmes conditions la fédération sportive concernée par lettre
-recommandée avec demande d'avis de réception. Cette fédération peut adresser des observations écrites à l'agence.
+La notification est transmise simultanément au président de la commission des sanctions.
+
+Le cas échéant, le secrétaire général de l'agence informe dans les mêmes conditions et par tout moyen la fédération sportive
+concernée. Cette fédération peut adresser des observations écrites à la commission des sanctions.
 
 **Liens relatifs à cet article**
 
@@ -34208,12 +34452,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du sport L232-22, R241-17 à R241-22
-  - Code du sport. - art. L232-22 (V)
+  - Code du sport.
+  - Code du sport. - art. L232-22
 
 
 ###### Article R241-17
@@ -34236,7 +34484,7 @@ _Codifié par_:
 
 ###### Article R241-18
 
-L'intéressé et, le cas échéant, son défenseur peuvent consulter au secrétariat de l'agence l'intégralité du dossier. Ils
+L'intéressé et, le cas échéant, son conseil peuvent consulter au secrétariat de l'agence l'intégralité du dossier. Ils
 peuvent en obtenir copie.
 
 **Liens relatifs à cet article**
@@ -34248,14 +34496,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-19
 
-L'intéressé et, le cas échéant, son défenseur sont convoqués devant la formation disciplinaire de l'Agence française de lutte
-contre le dopage par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, quinze jours
-au moins avant la date de la séance au cours de laquelle l'agence est appelée à se prononcer.
+L'intéressé et son conseil, accompagnés, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du
+représentant légal, sont convoqués devant la commission des sanctions de l'Agence française de lutte contre le dopage par
+lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, quinze jours au moins avant la
+date de l'audience.
+
+La convocation est simultanément adressée au président de l'Agence.
 
 **Liens relatifs à cet article**
 
@@ -34266,22 +34521,34 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+
+
+###### Article R241-19-1
+
+La personne mise en cause peut demander la récusation d'un membre de la commission des sanctions dans les conditions et selon
+les modalités prévues à l'article R. 232-92-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-20
 
-L'intéressé et, le cas échéant, son défenseur peuvent présenter devant l'Agence française de lutte contre le dopage des
-observations écrites ou orales. Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence au plus
-tard la veille du jour au cours duquel le dossier disciplinaire de l'intéressé est examiné par la formation disciplinaire.
+L'intéressé et son conseil, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal,
+ainsi que le représentant du collège de l'agence peuvent présenter devant la commission des sanctions des observations
+écrites ou orales et demander que soient entendues les personnes de leur choix, dans les conditions prévues à l'article R.
+232-93.
 
-L'intéressé et, le cas échéant, son défenseur peuvent demander que soient entendues les personnes de leur choix dont ils
-communiquent le nom au moins huit jours avant la séance. Le président de l'agence peut refuser, par décision motivée, les
-demandes d'audition manifestement abusives.
-
-L'agence peut également demander à entendre toute personne. Si une telle audition est décidée, le président de l'agence en
-informe l'intéressé et ses représentants avant la séance. Si cette information s'avère impossible avant la séance
-initialement prévue, l'examen du dossier de l'intéressé est renvoyé à une séance ultérieure.
+La commission des sanctions peut également procéder à toutes les auditions et consultations qu'elle estime utiles, dans les
+conditions prévues à l'article R. 232-93.
 
 Les frais de déplacement des personnes dont l'audition est décidée dans les conditions prévues à l'alinéa précédent sont pris
 en charge par l'agence.
@@ -34295,17 +34562,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-21
 
-Le président de l'agence désigne un rapporteur parmi les membres du collège. Celui-ci établit un rapport exposant les faits
-et rappelant les conditions du déroulement de la procédure tant, le cas échéant, devant la fédération sportive que devant
-l'agence. Le rapporteur procède, sans pouvoir les assortir de mesures de contrainte, à toute investigation utile dont le
-résultat est versé au dossier et communiqué avant la séance à l'intéressé.
-
-Le président de la formation disciplinaire peut exercer les fonctions de rapporteur.
+Le président de la commission des sanctions désigne un rapporteur parmi ses membres. Celui-ci établit un rapport exposant les
+faits et rappelant les conditions du déroulement de la procédure tant, le cas échéant, devant la fédération sportive que
+devant l'agence. Le rapporteur peut procéder, sans pouvoir les assortir de mesures de contrainte, à toute investigation utile
+dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -34316,17 +34585,24 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-22
 
-Le rapporteur présente oralement son rapport à la formation disciplinaire.
+Le rapporteur présente oralement son rapport à la commission des sanctions .
 
-L'intéressé et son défenseur sont invités à prendre la parole en dernier.
+L'intéressé et son conseil sont invités à prendre la parole en dernier.
 
 Les débats ne sont pas publics sauf demande contraire formulée, avant l'ouverture de la séance, par l'intéressé ou son
-défenseur.
+conseil.
+
+Le membre du collège ou l'agent de l'agence désigné en application du dernier alinéa de l'article R. 232-11 peut assister à
+l'audience et présenter des observations. Le cas échéant, le membre du collège peut être assisté par un agent de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -34337,16 +34613,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-23
 
-La formation disciplinaire délibère à huis clos, hors la présence de l'intéressé, de son défenseur, ainsi que des personnes
-entendues à l'audience.
-
-Le secrétaire général de l'agence assiste de droit au délibéré sans y participer. Lorsque les fonctions de secrétaire de
-séance sont assurées par une personne qui n'est pas membre du collège, celle-ci peut assister au délibéré sans y participer.
+La commission des sanctions délibère dans les conditions prévues à l'article R. 232-96.
 
 **Liens relatifs à cet article**
 
@@ -34357,23 +34633,29 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-24
 
-La formation disciplinaire statue par décision motivée.
+La commission des sanctions statue par décision motivée.
 
-La décision est signée par le président de la formation disciplinaire et le secrétaire de séance. Elle est notifiée par
-lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à l'intéressé, à la fédération
-sportive à laquelle appartient le cas échéant l'intéressé, ainsi que, par tout moyen, à l'organisme international chargé de
-la lutte contre le dopage reconnu par le Comité international olympique et à la fédération internationale intéressée.
+La décision est signée par le président de laformation de la commission qui a statué et le secrétaire de séance. Elle est
+notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à l'intéressé, à la
+fédération sportive à laquelle appartient le cas échéant l'intéressé, au collège de l'agence ainsi que, par tout moyen, à
+l'organisme international chargé de la lutte contre le dopage reconnu par le Comité international olympique et à la
+fédération internationale intéressée.
 
-Les décisions de la formation disciplinaire sont rendues publiques. Le collège de l'agence peut décider de faire publier la
-décision au Journal officiel de la République française, au bulletin officiel du ministère chargé des sports ou de
+Les décisions de la commission des sanctions sont rendues publiques. La commission des sanctions peut décider de faire
+publier la décision au Journal officiel de la République française, au bulletin officiel du ministère chargé des sports ou de
 l'agriculture ou au bulletin de la fédération sportive concernée. Cette publication s'effectue de manière nominative pour les
 majeurs, de manière anonyme pour les mineurs. Toutefois, pour les personnes majeures, cette publication pourra, en cas de
-circonstances exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de l'agence.
+circonstances exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de la commission des
+sanctions.
 
 **Liens relatifs à cet article**
 
@@ -34384,19 +34666,22 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 
 ###### Article R241-25
 
-Lorsque la formation disciplinaire de l'agence décide d'exercer son pouvoir de sanction, conformément aux articles L. 241-6
-et L. 241-7, la durée de la suspension que l'animal ou la personne intéressée a déjà effectuée en exécution de la décision
-prononcée par le président de l'organe disciplinaire fédéral en application des dispositions de l'article 18 de l'annexe II-3
-ou de la sanction prononcée par l'organe disciplinaire de la fédération est déduite, le cas échéant, de la sanction
-prononcée.
+Lorsque la commission des sanctions décide d'exercer son pouvoir de sanction, conformément aux articles L. 241-6 et L. 241-7,
+la durée de la suspension que l'animal ou la personne intéressée a déjà effectuée en exécution de la décision prononcée par
+le président de l'organe disciplinaire fédéral en application des dispositions de l'article 18 de l'annexe II-3 ou de la
+sanction prononcée par l'organe disciplinaire de la fédération est déduite, le cas échéant, de la sanction prononcée.
 
-Lorsque la formation disciplinaire fait application des dispositions du 4° de l'article L. 232-22, l'extension ne vaut que
-pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
+Lorsque la commission des sanctions fait application des dispositions du 4° du II de l'article L. 232-22, l'extension ne vaut
+que pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -34407,14 +34692,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2018-634 du 17 juillet 2018 - art. 6
 
 _Cite_:
 
-  - Code du sport L241-6, L241-7, annexe II-3, L232-22
-  - Code du sport. - art. L232-22 (V)
-  - Code du sport. - art. L241-6 (V)
-  - Code du sport. - art. L241-7 (V)
+  - Code du sport.
+  - Code du sport. - art. L232-22
+  - Code du sport. - art. L241-6
+  - Code du sport. - art. L241-7
 
 
 ###### Article R241-26
