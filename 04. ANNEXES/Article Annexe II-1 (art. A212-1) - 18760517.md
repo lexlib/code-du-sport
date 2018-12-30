@@ -441,7 +441,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -652,7 +652,7 @@ td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités équestres"</td>
     </tr>
@@ -831,7 +831,7 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B</td>
     </tr>
@@ -905,7 +905,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe D</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F</td>
     </tr>
@@ -1004,7 +1004,7 @@ Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...) 
 de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G</td>
     </tr>
@@ -1029,7 +1029,7 @@ BP JEPS, spécialité "activités pugilistiques"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités pugilistiques"</td>
     </tr>
@@ -1170,17 +1170,11 @@ compétition en tout-terrain.</td>
       <td>
     </td></tr>
     <tr>
+      <td align="left">BP JEPS, spécialité "activités physiques pour tous".</td>
+      <td align="left">Animation à destination de différents publics à travers notamment la découverte des activités
+physiques.</td>
       <td align="left">
-
-BP JEPS, spécialité "activités physiques pour tous".</td>
-      <td align="left">
-
-Animation à destination de différents publics à travers notamment la découverte des activités physiques.</td>
-      <td align="left">
-
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
-handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -1316,7 +1310,7 @@ BP JEPS, spécialité "vol libre"</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "vol libre"</td>
     </tr>
@@ -1389,7 +1383,7 @@ BP JEPS, spécialité "parachutisme".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"</td>
     </tr>
@@ -1410,9 +1404,7 @@ et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
       <td align="left">Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de
 sécurité définies aux articles A. 322-147 et suivants du code du sport.</td>
       <td align="left">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -1469,7 +1461,7 @@ disciplines associées.</td>
 A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "lutte et disciplines associées"</td>
     </tr>
@@ -2286,11 +2278,121 @@ sécurité définies aux articles A. 322-147 et suivants du code du sport.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C).
-
-</td>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C).</td>
       <td align="left">Encadrement en autonomie du saut en tandem, dans les conditions techniques et de sécurité définies aux
 articles A. 322-147 et suivants du code du sport.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "hockey".</td>
+      <td align="left">
+
+Encadrement, initiation et conduite de cycles d'apprentissage et de séances d'entraînement en hockey.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du cyclisme"</td>
+      <td align="left">
+
+Encadrement et animation des activités du cyclisme.</td>
+      <td align="left">
+
+A l'exclusion :
+
+- de toute pratique compétitive ;
+
+- du VTT de descente (VTT downhill) et des disciplines associées ;
+
+- du VTT pratiqué sur des parcours et pistes nécessitant des techniques de pilotage (sentiers monotraces comportant des
+obstacles nombreux, importants) ;
+
+- du BMX pratiqué au-delà d'un niveau initiation découverte.</td>
+    </tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "karaté, wushu et disciplines associées".</td>
+      <td align="left">
+
+Encadrement, animation initiation et préparation aux grades du 1er au 4e dan. Conduite de cycles d'apprentissage en karaté,
+wushu et disciplines associées jusqu'au premier niveau de compétition fédérale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "tennis de table".</td>
+      <td align="left">
+
+Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en tennis de table, jusqu'au
+premier niveau de compétition fédérale</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "aviron et disciplines associées".</td>
+      <td align="left">
+
+Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en aviron et disciplines associées
+sur tout lieu de pratique.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "char à voile".</td>
+      <td align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation en char à voile en pratique assise et allongée, en
+pratique debout et en pratique tractée, sur tout lieu de pratique aménagé ou ouvert. Conduite de cycles d'apprentissage
+jusqu'aux premiers niveaux de compétition.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "surf et disciplines associées".</td>
+      <td align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation en surf et disciplines associées dont le stand up paddle,
+sur tout lieu de pratique. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "ski nautique-wakeboard, disciplines associées et tous supports de glisse
+tractés", option "traction bateau".</td>
+      <td align="left">
+
+Encadrement, enseignement et animation du ski nautique-wakeboard et disciplines associées et de tous supports de glisse
+tractés dans l'option, sur tout lieu de pratique</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "ski nautique-wakeboard, disciplines associées et tous supports de glisse
+tractés", option "traction câble".</td>
+      <td align="left">
+
+Encadrement, enseignement et animation du ski nautique-wakeboard et disciplines associées et de tous supports de glisse
+tractés dans l'option, sur tout lieu de pratique</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+BP JEPS, spécialité "éducateur sportif", mention "pêche de loisirs".</td>
+      <td align="left">
+
+Encadrement, animation et initiation d'activités de pêche de loisirs et sportive en eau douce et depuis le bord sur le
+littoral.</td>
       <td align="left">
     </td></tr>
   </tbody>
@@ -2453,7 +2555,7 @@ Enseignement, animation, encadrement de la spéléologie ou entraînement de ses
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS</td>
     </tr>
@@ -2497,7 +2599,7 @@ Découverte, animation et initiation, jusqu'au premier niveau de compétition en
       <td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
+      <td align="center" colspan="3">Certificats complémentaires (CC) associés au DE JEPS et au DES JEPS</td>
     </tr>
     <tr>
       <td>Certificat complémentaire "plongée profonde et tutorat".</td>
@@ -2780,7 +2882,7 @@ identifiés.
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -4087,6 +4189,83 @@ d'apprentissage du rugby à XIII.</td>
 niveau national.</td>
       <td>Dans la limite de douze pratiquants.</td>
     </tr>
+    <tr>
+      <td>
+
+CQP "moniteur de roller sports", options : "patinage artistique et danse", "course", "rink-hockey", "roller hockey", "roller
+freestyle", "roller randonnée" et "roller derby".
+
+</td>
+      <td>
+
+Initiation aux activités du roller sports dans l'ensemble des options. Encadrement en autonomie dans l'option considérée,
+jusqu'aux premiers niveaux de compétition inclus.
+
+</td>
+      <td>
+
+Dans la limite de vingt pratiquants.
+
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte, milieu urbain et skatepark.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de
+pratiquants est supérieur à 8 et comprend un public mineur.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CQP "moniteur de roller sports", option "skateboard"
+
+</td>
+      <td>
+
+Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus.
+
+</td>
+      <td>
+
+Dans la limite de 20 pratiquants.
+
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CQP "animateur de tennis".
+
+</td>
+      <td>
+
+Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au padel.
+
+</td>
+      <td>
+
+A l'exclusion de l'entraînement et des pratiques compétitives.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+CQP "éducateur de tennis".
+
+</td>
+      <td>
+
+Initiation au tennis en cours collectifs pour tout public.
+
+</td>
+      <td>
+
+A l'exclusion de l'entraînement et des pratiques compétitives.
+
+</td>
+    </tr>
   </tbody>
 </table>
 
@@ -4152,4 +4331,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 28 mars 2018 - art. 1
+  - Arrêté du 20 décembre 2018 - art. 1
