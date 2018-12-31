@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -409,7 +409,7 @@ Version Consolidée au 2018-12-31
               - [Paragraphe 3 : Les modalités de la formation (art. A212-35 à A212-45)](#406)
                 - [Sous-Paragraphe 1 : Les conditions d'inscription des candidats (art. A212-35 à A212-39)](#407)
                 - [Sous-Paragraphe 2 : L'harmonisation nationale (art. A212-40)](#408)
-                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43)](#409)
+                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43-6)](#409)
                 - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#410)
             - [Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. A212-46 à A212-47-4)](#411)
               - [Paragraphe 1: Spécialité “ animateur ” (art. A212-46)](#412)
@@ -3916,27 +3916,29 @@ _Anciens textes_:
 I.-Seuls peuvent, contre rémunération, enseigner, animer ou encadrer une activité physique ou sportive ou entraîner ses
 pratiquants, à titre d'occupation principale ou secondaire, de façon habituelle, saisonnière ou occasionnelle, sous réserve
 des dispositions du quatrième alinéa du présent article et de l'article L. 212-2 du présent code, les titulaires d'un
-diplôme, titre à finalité professionnelle ou certificat de qualification : 
+diplôme, titre à finalité professionnelle ou certificat de qualification professionnelle : 
 
 1° Garantissant la compétence de son titulaire en matière de sécurité des pratiquants et des tiers dans l'activité
 considérée ; 
 
-2° Et enregistré au répertoire national des certifications professionnelles dans les conditions prévues au II de l'article L.
-335-6 du code de l'éducation. 
+2° Et enregistré au répertoire national des certifications professionnelles dans les conditions prévues à l'article L. 6113-5
+du code du travail. 
 
 Peuvent également exercer contre rémunération les fonctions mentionnées au premier alinéa ci-dessus les personnes en cours de
-formation pour la préparation à un diplôme, titre à finalité professionnelle ou certificat de qualification conforme aux
-prescriptions des 1° et 2° ci-dessus, dans les conditions prévues par le règlement de ce diplôme, titre ou certificat. 
+formation pour la préparation à un diplôme, titre à finalité professionnelle ou certificat de qualification professionnelle
+conforme aux prescriptions des 1° et 2° ci-dessus, dans les conditions prévues par le règlement de ce diplôme, titre ou
+certificat. 
 
 II.-Le diplôme mentionné au I peut être un diplôme étranger admis en équivalence. 
 
 III.-Les dispositions du I s'appliquent à compter de l'inscription des diplômes, titres à finalité professionnelle ou
-certificats de qualification sur la liste des diplômes, titres à finalité professionnelle ou certificats de qualification
-répondant aux conditions prévues aux paragraphes I et II, au fur et à mesure de cette inscription. 
+certificats de qualification professionnelle sur la liste des diplômes, titres à finalité professionnelle ou certificats de
+qualification professionnelle répondant aux conditions prévues aux paragraphes I et II, au fur et à mesure de cette
+inscription. 
 
 IV.-Les personnes qui auront acquis, dans la période précédant l'inscription mentionnée au III et conformément aux
 dispositions législatives en vigueur, le droit d'exercer contre rémunération une des fonctions mentionnées au I conservent ce
-droit.
+droit. 
 
 V.-Un décret en Conseil d'Etat détermine les conditions d'application du présent article. Il fixe notamment les modalités
 selon lesquelles est établie la liste mentionnée au III.
@@ -4070,12 +4072,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L335-6 (V)
-  - Code du sport. - art. L212-2 (V)
+  - Loi n°2018-771 du 5 septembre 2018 - art. 45 (V)
 
 _Anciens textes_:
 
@@ -4083,6 +4084,11 @@ _Anciens textes_:
   - Code de l'éducation - art. L363-1-1 (Ab)
   - Code de l'éducation L363-1, alinéas 1 à 4, 6 (1ère, 2e phrases) et 9, L363-1-1, alinéas 1 et 3
   - Code de l'éducation - art. L363-1 (V)
+
+_Cite_:
+
+  - Code du sport. - art. L212-2
+  - Code du travail - art. L6113-5 (VD)
 
 
 ###### Article L212-1-1
@@ -23450,31 +23456,37 @@ _Modifié par_:
 
 ###### Article R212-10-2
 
-Le jury est présidé par un fonctionnaire de catégorie A. 
+Le jury est présidé par un fonctionnaire de catégorie A.
 
-En cas d'indisponibilité du président du jury, celui-ci peut être suppléé par un agent de catégorie A. 
+En cas d'indisponibilité du président du jury, celui-ci peut être suppléé par un agent de catégorie A.
 
-Outre le président, le jury est composé : 
+Outre le président, le jury est composé :
 
-- de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ; 
+– de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ;
 
-- d'employeurs et de salariés, désignés de façon paritaire sur proposition des organisations représentatives. A défaut de
-proposition des organisations représentatives, le directeur régional de la jeunesse, des sports et de la cohésion sociale
-désigne ces professionnels dans les conditions et délais fixés par arrêté des ministres chargés de la jeunesse et des
-sports. 
+– de représentants qualifiés des professions concernées sur proposition des commissions paritaires nationales de l'emploi et
+de la formation (CPNEF) compétentes dans le champ des métiers de l'animation et du sport. A défaut de proposition des
+commissions ou en cas d'empêchement de siéger des personnes désignées par elles, le directeur régional de la jeunesse, des
+sports et de la cohésion sociale désigne ces représentants qualifiés dans les conditions et délais fixés par arrêté des
+ministres chargés de la jeunesse et des sports.
 
-Ces professionnels représentent au moins un quart et au plus la moitié des membres du jury. 
+Ces professionnels représentent au moins un quart et au plus la moitié des membres du jury.
 
 Dans le cas où les proportions requises aux trois alinéas précédents ne sont pas atteintes lors de la tenue de ses réunions
 plénières, en raison de l'absence d'un ou de plusieurs de ses membres, le jury peut néanmoins délibérer valablement sous
 réserve de la présence d'au moins un formateur ou cadre technique, au moins un employeur et au moins un salarié, en dehors du
 président ou de son suppléant.
 
+**Nota:**
+
+Conformément à l'article 11 du décret n° 2018-827 du 28 septembre 2018, ces dispositions s'appliquent aux jurys composés à
+compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+  - Décret n°2018-827 du 28 septembre 2018 - art. 3
 
 _Cité par_:
 
@@ -44124,15 +44136,27 @@ _Modifié par_:
 
 ###### Article A212-20
 
-En l'absence de proposition des organisations représentatives mentionnées à l'article R. 212-10-2, deux mois après leur
-saisine, le directeur régional de la jeunesse, des sports et de la cohésion sociale désigne de façon paritaire des
-représentants qualifiés dans le champ de l'animation ou du sport.
+Les commissions paritaires nationales de l'emploi et de la formation compétentes dans le champ des métiers de l'animation et
+du sport proposent au plus tard le 31 décembre de chaque année  pour l'année suivante, à la demande du directeur des sports,
+une liste de représentants qualifiés des employeurs et des salariés des professions concernées dans le champ des métiers de
+l'animation et du sport.
+
+Conformément au cinquième alinéa de l'article R. 212-10-2, le directeur régional de la jeunesse, des sports et de la cohésion
+sociale, pour constituer un jury, s'adresse aux représentants désignés par la commission paritaire nationale de l'emploi et
+de la formation concernée en précisant, notamment, la date de la première session du jury. En cas de non réponse dans un
+délai de 15 jours ou d'empêchement, et si la liste proposée est épuisée, il désigne des représentants choisis parmi les
+employeurs et les salariés qualifiés dans le champ des métiers de l'animation et du sport.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 12 de l'arrêté du 6 novembre 2018, ces dispositions s'appliquent aux jurys
+composés à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 1
+  - Arrêté du 6 novembre 2018 - art. 2
 
 _Cité par_:
 
@@ -44722,26 +44746,8 @@ _Cite_:
 
 ###### Article A212-41
 
-Lorsque la certification est réalisée par la validation des acquis de l'expérience, le dossier de candidature est composé
-comme suit :
-
-- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
-
-- une notice explicative accompagnant le livret de recevabilité ;
-
-- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
-
-- un guide méthodologique. 
-
-Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
-la nature de son expérience au directeur régional de la jeunesse, des sports et de la cohésion sociale de son lieu de
-domicile, qui se prononce sur la recevabilité de sa demande. 
-
-La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
-diplôme visé. 
-
-En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
-l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation pour l'obtention de ce
+Conformément à l'article R. 335-7 du code de l'éducation, la procédure de la validation des acquis de l'expérience comprend
+une étape de recevabilité de la demande de validation des acquis de l'expérience et une étape d'évaluation par le jury du
 diplôme.
 
 **Liens relatifs à cet article**
@@ -44754,7 +44760,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 1
+  - Arrêté du 6 novembre 2018 - art. 8
 
 _Cite_:
 
@@ -44763,59 +44769,217 @@ _Cite_:
 
 ###### Article A212-42
 
-Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-41, dépose un dossier
-(première et seconde parties) auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, organisateur
-du jury du diplôme visé, au plus tard deux mois avant la date du jury. 
-
-Ce dossier est composé des pièces suivantes : 
-
-1° Une copie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et
-citoyenneté ; 
-
-2° L'attestation de l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent
-pour les candidats à un diplôme nécessitant sa possession ; 
-
-3° En outre, pour les personnes en situation de handicap, l'avis d'un médecin agréé par la Fédération Française Handisport ou
-par la Fédération Française de Sport Adapté ou désigné par la commission des droits et de l'autonomie des personnes
-handicapées sur la nécessité le cas échéant d'aménager l'épreuve selon la certification visée. 
-
-Seuls les dossiers complets sont présentés au jury. 
-
-Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
-référentiel du diplôme visé et, le cas échéant, les valide intégralement ou partiellement.
+Conformément aux articles  R. 335-6 et  R. 335-7 du code de l'éducation, le candidat établit son dossier de demande de
+recevabilité en y joignant les pièces justificatives attestant de la durée et de la nature de son expérience et le dépose,
+dans les conditions fixées au cinquième alinéa du II de l'article R. 335-7 précité, auprès de la direction régionale de la
+jeunesse, des sports et de la cohésion sociale du lieu de son domicile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 9 décembre 2016 - art. 2
+  - Arrêté du 6 novembre 2018 - art. 8
 
 _Cite_:
 
-  - Code du sport. - art. A212-41
+  - Code de l'éducation - art. R335-6
+  - Code de l'éducation - art. R335-7
+
+
+###### Article A212-42-1
+
+Lorsque la demande de recevabilité a pour objet un diplôme permettant l'encadrement d'activités s'exerçant en environnement
+spécifique, telles que définies à l'article R. 212-7, le candidat doit en outre attester, dans son dossier de recevabilité,
+qu'il a satisfait aux "exigences préalables à l'entrée dans la formation" pour l'obtention du diplôme visé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-42-2
+
+Lorsque la demande de recevabilité a pour objet un certificat complémentaire, le candidat doit joindre à son dossier de
+recevabilité la copie du diplôme auquel est associée la certification complémentaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-42-3
+
+Le candidat qui n'est pas domicilié sur le territoire national dépose son dossier de recevabilité, auprès de la direction
+régionale de la jeunesse des sports et de la cohésion sociale de son choix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-42-4
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale communique au candidat, dans le cadre de sa
+décision de recevabilité notifiée dans les conditions fixées au  III de l'article R. 335-7 du code de l'éducation , l'adresse
+du site internet des ministères chargés de la jeunesse et des sports sur lequel il pourra prendre connaissance des dates et
+lieux de tenue des jurys du diplôme visé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+_Cite_:
+
+  - Code de l'éducation - art. R335-7
+
+
+###### Article A212-42-5
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale renseigne l'outil national de suivi des
+inscriptions et des résultats aux épreuves certificatives des ministères chargés de la jeunesse et des sports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
 
 
 ###### Article A212-43
 
-Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
-liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités se
-déroulant dans un environnement spécifique définies aux articles R. 212-7 à R. 212-10. Elles font l'objet d'une validation
-dans le cadre d'un cursus de formation mis en œuvre par la voie des unités capitalisables par un établissement visé au
-premier alinéa de l'article L. 212-2 ayant reçu l'habilitation dans une mention du diplôme donné. 
+Le candidat dont la demande de validation des acquis de l'expérience est recevable constitue son dossier de validation
+conformément à l' article R. 335-8 du code de l'éducation .
 
-Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont fixées par
-l'arrêté créant la mention du diplôme.
+Le candidat utilise les modèles de dossier de validation annexés au présent arrêté. Le dossier comprend également les pièces
+suivantes :
+
+- une copie de la pièce d'identité conformément à l'arrêté du 29 novembre 2017 fixant le modèle de formulaire demande de
+recevabilité à la validation des acquis de l'expérience et à la notice enregistrée sous le n° 51260 # 02 ;
+
+- une copie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et citoyenneté
+pour les moins de 25 ans ;
+
+- l'attestation de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC1) ou tout titre équivalent pour les
+candidats à un diplôme dont l'arrêté portant création de la spécialité, de la mention ou du certificat complémentaire le
+prévoit.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 1
+  - Arrêté du 6 novembre 2018 - art. 8
 
 _Cite_:
 
-  - Code du sport. - art. L212-2
-  - Code du sport. - art. R212-7
+  - Code de l'éducation - art. R335-8
+  - arrêté du 29 novembre 2017
+
+
+###### Article A212-43-1
+
+Le candidat adresse son dossier de validation au directeur régional de la jeunesse, des sports et de la cohésion sociale en
+charge de l'organisation du jury du diplôme visé.
+
+Le dossier ne peut être traité que par un seul jury.
+
+A l'issue de la décision du jury en cas de non validation ou de validation partielle, le candidat peut procéder à un nouveau
+dépôt pour une nouvelle date de session de jury.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-43-2
+
+Tout dossier de validation complet déposé par un candidat au plus tard deux mois avant la date du jury doit être présenté par
+le directeur régional de la jeunesse, des sports et de la cohésion sociale à la date de la session d'évaluation du jury
+compétent la plus proche.
+
+Le directeur régional, pour des raisons d'organisation, peut reporter la présentation de ce dossier à la session de jury
+suivante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-43-3
+
+L'entretien prévu à l'article L. 335-5 du code de l'éducation est réalisé par au moins deux membres du jury. Sa durée est
+comprise entre 15 minutes et 30 minutes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-5
+
+
+###### Article A212-43-4
+
+Conformément aux articles R. 212-10-6 et R. 212-10-7, le directeur régional de la jeunesse, des sports et de la cohésion
+sociale notifie la décision au candidat et renseigne l'outil national de suivi des inscriptions et des résultats aux épreuves
+certificatives des ministères chargés de la jeunesse et des sports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-43-5
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut organiser :
+
+- un accompagnement des candidats à la validation des acquis de l'expérience ;
+
+- un suivi des candidats après leur passage devant le jury afin de les informer ou les conseiller sur la suite de leur
+parcours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A212-43-6
+
+Les dispositions du présent sous paragraphe 3 s'appliquent :
+
+- aux diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entrainement des sports de montagne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 8
+
+_Modifié par_:
+
+  - Arrêté du 15 avril 2019 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 15 avril 2019 - art. 1
 
 
 ##### Sous-Paragraphe 4 : Les personnes en situation de handicap<a id=410></a>
