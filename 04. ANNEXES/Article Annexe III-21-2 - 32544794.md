@@ -1,173 +1,185 @@
 # Article Annexe III-21-2
 
-Formulaire d'évaluation des impacts sur l'environnement pour les épreuves et compétitions de sports motorisés sur les voies
-non ouvertes à la circulation publique en complément de la demande d'autorisation et complétant l'évaluation des incidences
-Natura 2000 (en application de l'article R. 331-24-1 du code du sport)
+FORMULAIRE D'ÉVALUATION DES INCIDENCES SUR L'ENVIRONNEMENT POUR LES ÉPREUVES ET COMPÉTITIONS DE SPORTS MOTORISÉS SUR LES
+VOIES NON OUVERTES À LA CIRCULATION PUBLIQUE EN APPLICATION DE L'ARTICLE R. 331-24-1 DU CODE DU SPORT-FORMULAIRE PRIS EN
+APPLICATION DES DISPOSITIONS DE L'ARTICLE A. 331-21-1
 
-Nom de l'épreuve ou de la compétition de sports motorisés :
+Ce document est distinct de celui requis pour l'évaluation des incidences Natura 2000 prévue en application de l'article R.
+414-19 du code de l'environnement. Les manifestations font l'objet d'une évaluation des incidences Natura 2000, qu'elles
+soient situées ou non dans le périmètre d'un site Natura 2000 en application du II du même article et quel que soit le nombre
+de véhicules participants.
 
-Demande au titre de la demande d'autorisation de concentration ou de manifestation d'une épreuve ou d'une compétition de
-sports motorisés en date du 
-
-Ce document complète l'évaluation des incidences Natura 2000 dès lors que le budget de la manifestation sportive dépasse 100
-000 €. Il doit donc être impérativement annexé à l'évaluation des incidences Natura 2000 en complément de la demande
-d'autorisation.
-
-1. Analyse des impacts potentiels de la manifestation sur l'environnement
-
-Analyse des incidences sur l'environnement notamment celles relatives à la qualité de vie des riverains, de l'air, de l'eau,
-du sol si elles n'ont pas été fournies préalablement dans le cadre de la demande d'autorisation ou de l'évaluation des
-incidences Natura 2000. Elles servent ainsi d'éléments complémentaires dans le cadre de l'instruction de la demande
-d'autorisation.
-
-Nota. - Informations disponibles sur les sites :
-
-http://inpn.mnhn.fr/site/natura2000/listeSites
-
-http://www.geoportail.gouv.fr/actualite/219/carte-des-espaces-proteges-de-la-france-metropolitaine
-
-ou en mairie/établissement intercommunal en charge de l'urbanisme (pour mémoire : informations également disponibles en
-DREAL, DDT[M] ou auprès d'associations locales de protection de l'environnement).
-
-Les différents éléments composant la manifestation (parcours, cheminement, lieux de stationnement, localisation des
-spectateurs...) se situent-ils dans ou à proximité de ?
+Les deux documents sont joints à la demande d'autorisation.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>
-      </th><th>
+      <td align="left">Nom de l'épreuve ou de la compétition de sports motorisés :
 
-OUI
+Demande d'autorisation de manifestation, d'une épreuve ou d'une compétition de sports motorisés en date du …
 
-</th>
-      <th>
+Nombre estimé de passages des véhicules :</td>
+    </tr>
+  </tbody>
+</table>
 
-NON
+1. Analyse des incidences potentielles de la manifestation sur l'environnement
 
-</th>
-      <th>
+En vue de compléter le tableau 1.1, des informations sont disponibles sur les sites suivants :
 
-COMMENTAIRES
+- http :// inpn. mnhn. fr/ (Natura 2000, espaces protégés, ZNIEFF, habitats naturels, arrêté biotope …)
 
-</th>
+- https :// depot-legal-biodiversite. naturefrance. fr/ (données brutes de biodiversité)
+
+- https :// www. geoportail. gouv. fr/ thematiques/ developpement-durable-energie/ (espaces protégés, réserves, parcs)
+
+- https :// uicn. fr/ aires-protegees/
+
+- Site internet des préfectures (biotope, géotope, habitat naturel)
+
+- ou en mairie/ établissement intercommunal en charge de l'urbanisme (pour mémoire : informations également disponibles en
+DREAL, DDT (M) ou auprès d'associations locales de protection de l'environnement).
+
+1.1. Localisation et sensibilité environnementale :
+
+Un plan détaillé des voies et parcours sous forme de carte IGN 1/ 25000e comportant l'itinéraire de la manifestation et la
+localisation des principaux aménagements devra être fourni et le tableau suivant devra être rempli, sauf si ces informations
+ont déjà été fournies dans le cadre de la demande d'autorisation ou de l'évaluation des incidences Natura 2000. Les
+différents éléments composant la manifestation (parcours, cheminement, nombre total de véhicules, lieux de stationnement,
+localisation des spectateurs …) se situent-ils dans ou à proximité de ? (1).
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th> </th>
+      <th>OUI</th>
+      <th>NON</th>
+      <th>Commentaires</th>
     </tr>
     <tr>
-      <td>
-
-Zone naturelle d'intérêt écologique faunistique et floristique de type 1 (ZNIEFF 1) ou 2 (ZNIEFF 2)
-
-</td>
+      <td align="justify" colspan="4">Protection réglementaire</td>
+    </tr>
+    <tr>
+      <td align="left">Parc national ou réserve naturelle</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Sites gérés par un conservatoire d'espaces naturels ou le Conservatoire du littoral
-
-</td>
+      <td align="left">Réserve biologique</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Réserve nationale de chasse et de faune sauvage
-
-</td>
+      <td align="left">Réserve nationale de chasse et de faune sauvage</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Arrêtés de protection de biotope
-
-</td>
+      <td align="left">Zone couverte par un arrêté de protection de biotope ou d'habitat naturel ou de géotope</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Zone importante pour la conservation des oiseaux (ZICO)
-
-</td>
+      <td align="left">Site classé ou site inscrit</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Réserve biologique
-
-</td>
+      <td align="justify" colspan="4">Protection par la maîtrise foncière</td>
+    </tr>
+    <tr>
+      <td align="left">Espaces d'intervention des conservatoires d'espaces naturels ou du Conservatoire du littoral</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Zone humide d'importance internationale (Ramsar) ou zone humide prioritaire identifiée dans un SAGE
-
-</td>
+      <td align="justify" colspan="4">Protection conventionnelle et réglementaire</td>
+    </tr>
+    <tr>
+      <td align="justify">Parc naturel régional</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Parc naturel national ou régional ou réserve naturelle nationale ou régionale
-
-</td>
+      <td colspan="4" align="justify">Protection au titre d'un texte européen ou international</td>
+    </tr>
+    <tr>
+      <td align="left">Zone humide d'importance internationale (sites Ramsar)</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Monument historique (site classé ou inscrit) ou site classé au patrimoine mondial de l'UNESCO
-
-</td>
+      <td align="left">Réserve de biosphère</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Zone de montagne
-
-</td>
+      <td align="justify">Site Natura 2000</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Territoire d'une commune du littoral ou bande littorale des 100 m
-
-</td>
+      <td align="left">Site naturel et mixte inscrit au Patrimoine mondial de l'UNESCO</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td>
-
-Territoire couvert par un plan de prévention du bruit arrêté ou en cours d'élaboration
-
-</td>
+      <td colspan="4" align="justify">Inventaires</td>
+    </tr>
+    <tr>
+      <td align="left">Zone naturelle d'intérêt écologique faunistique et floristique de type 1 (ZNIEFF 1) ou 2 (ZNIEFF 2)</
+td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify" colspan="4">Autres</td>
+    </tr>
+    <tr>
+      <td align="left">Zone de montagne/ forestière</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Territoire d'une commune du littoral ou bande littorale des 100 m</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Territoire couvert par un plan de prévention du bruit arrêté ou en cours d'élaboration</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Zone couverte par un plan de prévention des risques technologiques ou un plan de prévention des
+risques naturels</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Franchissement de cours d'eau</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Autre (s) milieu (x) naturel (s) sensible (s)</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
@@ -175,131 +187,179 @@ Territoire couvert par un plan de prévention du bruit arrêté ou en cours d'é
   </tbody>
 </table>
 
-Impacts potentiels et mesures prévues :
+(1) Les informations sont disponibles sur les sites internet sus-mentionnés.
+
+1.2. Incidences potentielles et mesures prévues :
+
+Le tableau ci-dessous doit être rempli en fonction de l'importance de la manifestation en commençant par le niveau 1. Les
+organisateurs de manifestations de faible importance au sens du 1° de l'article A. 331-21-1 remplissent le niveau 1. Les
+organisateurs de manifestations de moyenne importance au sens du 2° de l'article A. 331-21-1 remplissent les niveaux 1 et 2.
+Les organisateurs de manifestations de grande importance au sens du 3° de l'article A. 331-21-1 remplissent les niveaux 1,2
+et 3.
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-LA MANIFESTATION SPORTIVE...
-
-</th>
-      <th colspan="2">
-
-INCIDENCES 
-
-</th>
-      <th colspan="2" rowspan="2">
-
-DE QUELLE NATURE ? 
-
-appréciez l'impact potentiel
-
-DESCRIPTION DES MESURES 
-
-préventives et/ou correctives 
-
-prévues
-
-</th>
+      <th colspan="2">Domaines de l'environnement</th>
+      <th colspan="2">Incidences potentielles de la manifestation</th>
+      <th>Nature et importance de l'incidence</th>
+      <th>Mesures préventives et correctives2</th>
     </tr>
     <tr>
-      <th>
-
-oui
-
-</th>
-      <th>
-
-non
-
-</th>
+      <td align="left" colspan="2">
+      </td><td align="center">OUI</td>
+      <td align="center">NON</td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td colspan="6" align="center">Niveau 1 : Manifestation de faible importance (moins de 100 véhicules)</td>
     </tr>
     <tr>
-      <td>
+      <td align="center">Milieu naturel</td>
+      <td align="justify">Est-elle susceptible
 
-Est-elle susceptible d'entraîner des perturbations, des dégradations, des destructions de la biodiversité existante : faune,
-flore, habitats, sols, eau, continuités écologiques ?
+d'entraîner des
 
-</td>
+perturbations, des
+
+dégradations, des
+
+destructions de la
+
+biodiversité existante : faune, flore, habitats,
+
+continuités
+
+écologiques ?</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="center" rowspan="4">Nuisances
 
-Est-elle source de bruit ?
+et
 
-</td>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
+Commodités de voisinage</td>
+      <td align="left">Est-elle source de
 
-Engendre-t-elle des nuisances olfactives ?
+bruit ?
 
-</td>
+Engendre-t-elle des
+
+vibrations ?</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="left">Engendre-t-elle des
 
-Engendre-t-elle des vibrations ?
-
-</td>
+odeurs ?</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="left">Engendre-t-elle des
 
-Engendre-t-elle des émissions lumineuses ?
+rejets polluants dans
 
-</td>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-Engendre-t-elle des rejets polluants dans l'air ?
-
-</td>
+l'air ou dans les sols ? (hydrocarbures, huile …)</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="left">
+      <td align="left">Engendre-t-elle des
 
-Produit-elle des déchets ?
-
-</td>
+émissions lumineuses ?</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
     </td></tr>
     <tr>
+      <td align="center" colspan="6">Niveau 2 : Manifestation de moyenne importance (à partir de 100 et jusqu'à 250
+véhicules)</td>
+    </tr>
+    <tr>
+      <td align="center">Pollution</td>
+      <td align="left">Engendre-t-elle des
+
+rejets hydrauliques ?
+
+Si oui, dans quel
+
+milieu ?</td>
       <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Aménagements du site</td>
+      <td align="left">Engendre-t-elle des nuisances liées à l'aménagement du site, à la circulation et à l'accès des
+riverains ?</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Risques</td>
+      <td align="left">Engendre-t-elle des
 
-Autres (à préciser) 
+risques sanitaires ?</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td colspan="6" align="center">Niveau 3 : Manifestation de grande importance (plus de 250 véhicules)</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2">Patrimoine/
 
-</td>
+Cadre de vie/
+
+Population</td>
+      <td align="justify">Est-elle susceptible de
+
+porter atteinte au
+
+patrimoine
+
+architectural, culturel,
+
+archéologique et
+
+paysager ?</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Engendre-t-elle des
+
+modifications sur les
+
+activités humaines
+
+(agriculture,
+
+sylviculture,
+
+urbanisme/
+
+aménagements) ?</td>
       <td align="left">
       </td><td align="left">
       </td><td align="left">
@@ -307,10 +367,22 @@ Autres (à préciser)
     </td></tr>
   </tbody>
 </table>
+
+(2) Cf. : 3. Aide à la mise en place de mesures préventives et correctives adaptées à l'importance de la manifestation
+
+Les organisateurs de manifestations, quel que soit le niveau d'importance dont elles relèvent, doivent répondre aux questions
+suivantes :
+
+Les incidences identifiées sont-elles susceptibles d'être cumulées avec d'autres manifestations ou projets connus ? Si oui,
+lesquels ?
+
+Les incidences de précédentes manifestations de sports motorisés ont-elles été constatées sur le site ?
+
+Les incidences identifiées sont-elles susceptibles d'avoir des effets de nature transfrontalière ? Si oui, lesquels ?
 
 2. Consignes environnementales spécifiques
 
-Indication des consignes environnementales spécifiques données aux participants, aux spectateurs et aux encadrants - Hors
+Indication des consignes environnementales spécifiques données aux participants, aux spectateurs et aux encadrants-Hors
 cahier des charges de cette manifestation ou règles techniques et de sécurité (RTS) mises en place par les différentes
 fédérations concernées (joints à la demande d'autorisation)
 
@@ -318,14 +390,77 @@ Peuvent ainsi être notamment concernés : la protection des riverains, le balis
 stationnement des véhicules (encadrants, participants, spectateurs) prévus en dehors des espaces naturels sensibles ou
 protégés, la mise en place éventuellement d'une navette temporaire, etc.
 
-A (lieu) : le (date) : Signature :
+3. Aide à la mise en place de mesures préventives et correctives adaptées à l'importance de la manifestation
+
+Il est établi ci-après une liste indicative de mesures préventives et correctives qui peuvent être indiquées et précisées
+dans le tableau 1.2. Il appartient à l'organisateur de mettre en œuvre la/ les mesure (s) qu'il aura identifiée (s).
+
+Nature des mesures préventives et correctives : géographique/ technique/ temporelle
+
+Mesures préventives des incidences environnementales :
+
+1-évitement des populations connues d'espèces protégées ou à fort enjeu et/ ou de leurs habitats (optimisation de
+l'implantation de la manifestation, du tracé de l'itinéraire, de l'implantation des aménagements connexes)
+
+1-1. évitement des sites à enjeux environnementaux et paysagers majeurs du territoire (préservation des milieux naturels,
+éviter la dénaturation d'un ensemble paysager cohérent, éviter les sites classés ou identifiés à forts enjeux patrimoniaux
+tels que sites Natura 2000, réservoirs de biodiversité, zonages d'inventaires tels que les ZNIEFF, les zones importantes pour
+la conservation des oiseaux (ZICO) …)
+
+1-2. redéfinition et adaptation des caractéristiques de la manifestation de sports motorisés (reconfiguration,
+redimensionnement, déviation, modification de l'emplacement, etc …)
+
+1-3. balisage préventif divers ou mise en défens ou dispositif de protection d'une station d'une espèce patrimoniale, d'un
+habitat d'une espèce patrimoniale, d'habitats ou d'espèces remarquables : toute mesure visant à matérialiser et à préserver
+des espaces tels que drapeau, clôture légère ou renforcée, affichette, rubalise, piquetage, palplanche, etc …
+
+1-4. éloignement de la manifestation vis-à-vis des populations humaines et/ ou sites sensibles
+
+1-5. organisation de la manifestation dans un secteur de moindre enjeu
+
+1-6. absence de rejet dans le milieu naturel (air, eau, sol, sous-sol)
+
+1-7. absence totale de tout produit polluant ou susceptible d'impacter négativement le milieu
+
+1-8. adaptation de la période de la manifestation sur l'année :
+
+Toute mesure visant à décaler la manifestation en dehors des périodes pendant lesquelles les espèces floristiques et
+faunistiques sont les plus vulnérables. Ex : périodes de floraison et de fructification, d'hibernation, périodes de
+reproduction et d'élevage, période de nidification.
+
+Toute mesure visant à organiser la manifestation en dehors des pics de pollution.
+
+1-9. adaptation des horaires de la manifestation
+
+Mesures correctives des incidences environnementales :
+
+2-dispositif limitant les impacts liés au passage des véhicules (pose de paille au sol …)
+
+2-1. clôture spécifique
+
+2-2. dispositif de limitation des nuisances envers les populations humaines
+
+2-3. dispositif de limitation des nuisances envers la faune
+
+2-4. dispositif de repli de la manifestation (suppression de pistes d'accès, déconstruction d'installation temporaire, de
+tout système d'assainissement provisoire et remise en état des terrains concernés)
+
+2-5. action sur les conditions de circulation
+
+2-6. dispositif de franchissement piscicole
+
+A (lieu) :
+
+le (date) :
+
+Signature :
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 4 mai 2016 - art.
+  - Arrêté du 2 avril 2019 - art.
 
 _Cité par_:
 
-  - Code du sport. - art. A331-21-1 (M)
+  - Code du sport. - art. A331-21-1 (V)
