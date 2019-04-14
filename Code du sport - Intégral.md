@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-04-11
+Version Consolidée au 2019-04-15
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -257,13 +257,13 @@ Version Consolidée au 2019-04-11
           - [Section 1 : L'Instance nationale du supportérisme (art. D224-1 à D224-4)](#254)
           - [Section 2 : Relations entre les associations et sociétés sportives et leurs supporters (art. D224-5 à D224-8)](#255)
           - [Section 3 : Agrément des associations de supporters (art. D224-9 à D224-13)](#256)
-      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. R231-1 à D232-103)](#257)
+      - [TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. R231-1 à R232-104)](#257)
         - [Chapitre Ier : Suivi médical des sportifs (art. R231-1 à R231-11)](#258)
           - [Section 1 : Certificat médical (art. R231-1 à D231-1-5)](#259)
             - [Sous-section 1 : Surveillance médicale des sportifs professionnels (art. R231-1)](#260)
             - [Sous-section 2 : Certificat médical et questionnaire de santé (art. D231-1-1 à D231-1-5)](#261)
           - [Section 2 : Rôle des fédérations sportives (art. R231-2 à R231-11)](#262)
-        - [Chapitre II : Lutte contre le dopage (art. D232-1 à D232-103)](#263)
+        - [Chapitre II : Lutte contre le dopage (art. D232-1 à R232-104)](#263)
           - [Section 1 : Prévention (art. D232-1 à D232-6)](#264)
             - [Sous-section 1 : Rôle des antennes médicales de prévention du dopage (art. D232-1 à D232-3)](#265)
             - [Sous-section 2 :  Agrément des antennes médicales de prévention du dopage (art. D232-4 à D232-6)](#266)
@@ -278,300 +278,301 @@ Version Consolidée au 2019-04-11
             - [Sous-section 1 : Organisation des contrôles (art. R232-42 à R232-71)](#275)
               - [Paragraphe 1 : Principes. (art. R232-42 à R232-44)](#276)
               - [Paragraphe 2 : Examens et prélèvements autorisés. (art. D232-47 à R232-67)](#277)
-              - [Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 230-3 (art. R232-67-1 à R232-67-15)](#278)
+              - [Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 230-3 (art. R232-67-1 à R232-67-16)](#278)
               - [Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles. (art. R232-68 à R232-71)](#279)
-            - [Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques (art. D232-72 à R232-85-1)](#280)
+            - [Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques (art. D232-72 à R232-82)](#280)
             - [Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs" (art. R232-85-2 à R232-85-9)](#281)
-          - [Section 4 : Sanctions administratives (art. R232-86 à R232-98-1)](#282)
-            - [Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées (art. R232-86 à R232-87-1)](#283)
-            - [Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R232-88 à R232-98-1)](#284)
-          - [Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes (art. D232-99 à D232-103)](#285)
-      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. R241-1 à R241-26)](#286)
-        - [Chapitre unique (art. R241-1 à R241-26)](#287)
-          - [Section 1 : Contrôles et prélèvements (art. R241-1 à R241-12)](#288)
-          - [Section 2 : Procédure disciplinaire devant les fédérations sportives agréées (art. R241-13 à R241-14)](#289)
-          - [Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art. R241-15 à R241-26)](#290)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. R311-1 à R333-14)](#291)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. R311-1 à D312-26)](#292)
-        - [Chapitre Ier : Sports de nature (art. R311-1 à R311-3)](#293)
-          - [Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature (art. R311-1 à R311-3)](#294)
-        - [Chapitre II : Equipements sportifs (art. D312-1 à D312-26)](#295)
-          - [Section 1 : Dispositions communes (art. D312-1 à R312-7)](#296)
-            - [Sous-section 1 : Schéma de services collectifs du sport (art. D312-1)](#297)
-            - [Sous-section 2 : Déclaration des équipements sportifs (art. R312-2 à R312-7)](#298)
-          - [Section 2 : Installations fixes (art. R312-8 à R312-15)](#299)
-          - [Section 3 : Installations provisoires (art. R312-16 à R312-21)](#300)
-          - [Section 4 : La Commission nationale de sécurité des enceintes sportives (art. R312-22 à R312-25)](#301)
-          - [Section 5 : Commission consultative départementale de sécurité et d'accessibilité (art. D312-26)](#302)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. D321-1 à R322-43)](#303)
-        - [Chapitre Ier : Obligation d'assurance (art. D321-1 à D321-6)](#304)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. R322-4 à R322-43)](#305)
-          - [Section 1 : Dispositions générales (art. R322-4 à R322-10)](#306)
-            - [Sous-section 2 : Obligations générales (art. R322-4 à R322-7)](#307)
-            - [Sous-section 3 : Rôle du préfet du département (art. R322-8 à R322-10)](#308)
-          - [Section 2 : Etablissements de natation et d'activités aquatiques (art. D322-11 à R322-18)](#309)
-          - [Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball (art. R322-19 à R322-26)](#310)
-          - [Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. R322-27 à R322-38)](#311)
-          - [Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique (art. R322-39 à R322-43)](#312)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. D331-1 à R333-14)](#313)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. D331-1 à R331-54)](#314)
-          - [Section 1 : Rôle des fédérations (art. D331-1 à D331-2)](#315)
-          - [Section 2 : Autorisation et déclaration préalable (art. R331-3 à R331-4-1)](#316)
-          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. D331-5)](#317)
-          - [Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. R331-6 à R331-17-2)](#318)
-            - [Sous-section 1 : Dispositions générales (art. R331-6 à R331-7)](#319)
-            - [Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance (art. R331-8)](#320)
-            - [Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance (art. R331-9 à R331-11)](#321)
-            - [Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives (art. R331-14 à R331-17-1)](#322)
-            - [Sous-section 5 : Dispositions pénales (art. R331-17-2)](#323)
-          - [Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur (art. R331-18 à R331-45-1)](#324)
-            - [Sous-section 1 : Dispositions générales. (art. R331-18 à R331-21)](#325)
-            - [Sous-section 2 : Obligation déclarative. (art. R331-22 à R331-22-1)](#326)
-            - [Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation (art. R331-23 à R331-28)](#327)
-            - [Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation. (art. R331-30 à R331-34)](#328)
-            - [Sous-section 5 : Homologation des circuits. (art. R331-35 à R331-44)](#329)
-            - [Sous-section 6 : Dispositions pénales. (art. R331-45 à R331-45-1)](#330)
-          - [Section 6 : Organisation de manifestations publiques de sports de combat (art. R331-46 à R331-54)](#331)
-        - [Chapitre II : Sécurité des manifestations sportives (art. R332-1 à R332-20)](#332)
-          - [Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive (art. R332-1 à R332-9)](#333)
-          - [Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive (art. R332-10 à R332-13)](#334)
-          - [Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1 (art. R332-14 à R332-20)](#335)
-        - [Chapitre III : Retransmission des manifestations sportives (art. R333-1 à R333-4)](#336)
-          - [Section 1 : Droit d'exploitation (art. R333-1 à R333-3)](#337)
-          - [Section 2 :  Liberté de diffusion (art. R333-4)](#338)
-        - [Chapitre IV : Dispositions relatives aux paris sportifs (art. R333-5 à R333-14)](#339)
-          - [Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4 (art. R333-5 à R333-9)](#340)
-          - [Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4 (art. R333-10 à R333-14)](#341)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. R411-1 à R429-1)](#342)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. R411-1 à R411-28)](#343)
-        - [Chapitre unique (art. R411-1 à R411-28)](#344)
-          - [Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées (art. R411-1)](#345)
-          - [Section 2 : Missions et fonctionnement du Centre national pour le développement du sport (art. R411-2 à R411-28)](#346)
-            - [Sous-section 1 : Dispositions générales (art. R411-2)](#347)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R*411-4 à R411-23)](#348)
-              - [Paragraphe 1 : Dispositions générales (art. R*411-4 à R411-11)](#349)
-              - [Paragraphe 2 : Organisation territoriale (art. R411-12 à R411-21)](#350)
-              - [Paragraphe 3 : Dispositions particulières à la Corse (art. R411-22)](#351)
-              - [Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer (art. R411-23)](#352)
-            - [Sous-section 3 : Régime financier et comptable (art. R411-24 à R411-28)](#353)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. R421-1 à R429-1)](#354)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. R421-1 à R421-4)](#355)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. R422-1 à R422-3)](#356)
-        - [Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna (art. R423-1)](#357)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R424-1)](#358)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#359)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#360)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#361)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. R428-1)](#362)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. R429-1)](#363)
-  - [Partie réglementaire - Arrêtés (art. A112-0 à A429-1)](#364)
-    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-0 à A142-32)](#365)
-      - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-0 à A114-7)](#366)
-        - [Chapitre II : Etablissements publics nationaux (art. A112-0 à A112-10)](#367)
-          - [Section unique : Le Musée national du sport (art. A112-0 à A112-10)](#368)
-            - [Sous-section unique : Contrôle budgétaire (art. A112-1 à A112-10)](#369)
-        - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive (art. A114-1 à A114-7)](#370)
-          - [Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration (art. A114-1 à A114-3)](#371)
-          - [Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel (art. A114-4 à A114-7)](#372)
-      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#373)
-        - [Chapitre Ier : Associations sportives (art. A121-1)](#374)
-        - [Chapitre II : Sociétés sportives (art. A122-1)](#375)
-      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-3 à A131-6)](#376)
-        - [Chapitre Ier : Fédérations sportives (art. A131-3 à A131-6)](#377)
-      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#378)
-        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#379)
-        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#380)
-          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#381)
-          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#382)
-            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#383)
-          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#384)
-    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-5)](#385)
-      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#386)
-        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-63-1)](#387)
-          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#388)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#389)
-          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-39 à A211-49-1)](#390)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection des représentants des personnels au conseil d'administration (art. A211-39 à A211-42)](#391)
-            - [Sous-section 2 : Contrôle budgétaire (art. A211-43 à A211-49-1)](#392)
-          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63-1)](#393)
-            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#394)
-            - [Sous-section 2 : Contrôle budgétaire (art. A211-57 à A211-63-1)](#395)
-        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#396)
-          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-19)](#397)
-            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#398)
-            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#399)
-              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#400)
-              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#401)
-              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#402)
-              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#403)
-            - [Sous-section 2 bis : Dispositions générales et communes au certificat professionnel, au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (CPJEPS, BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires (art. A212-17 à A212-45)](#404)
-              - [Paragraphe 1 : Le jury (art. A212-17 à A212-28)](#405)
-              - [Paragraphe 2 : L'habilitation (art. A212-29 à A212-34)](#406)
-              - [Paragraphe 3 : Les modalités de la formation (art. A212-35 à A212-45)](#407)
-                - [Sous-Paragraphe 1 : Les conditions d'inscription des candidats (art. A212-35 à A212-39)](#408)
-                - [Sous-Paragraphe 2 : L'harmonisation nationale (art. A212-40)](#409)
-                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43-6)](#410)
-                - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#411)
-            - [Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. A212-46 à A212-47-4)](#412)
-              - [Paragraphe 1: Spécialité “ animateur ” (art. A212-46)](#413)
-              - [Paragraphe 2 : Spécialité “ éducateur sportif ” (art. A212-47 à A212-47-4)](#414)
-            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52-1)](#415)
-              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-48)](#416)
-              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52-1)](#417)
-            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57-1)](#418)
-              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-53)](#419)
-              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57-1)](#420)
-            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#421)
-              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#422)
-              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#423)
-              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#424)
-              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#425)
-              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-120 à A212-128)](#426)
-                - [Sous-paragraphe 1 : Partie commune (art. A212-120 à A212-121)](#427)
-                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#428)
-              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#429)
-              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#430)
-              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#431)
-              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#432)
-              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#433)
-              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#434)
-            - [Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne (art. A212-168 à A212-175)](#435)
-            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#436)
-            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#437)
-            - [Sous-section 10 : Commissions spécialisées des dans et grades équivalents (art. A212-175-15 à A212-175-19)](#438)
-              - [Paragraphe 1 : Fédérations sportives disposant d'une commission spécialisée des dans et grades équivalents (art. A212-175-15)](#439)
-              - [Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents (art. A212-175-16 à A212-175-19)](#440)
-          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#441)
-            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#442)
-            - [Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-228)](#443)
-              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#444)
-                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#445)
-                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#446)
-              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#447)
-                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#448)
-                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#449)
-              - [Paragraphe 3  : Plongée subaquatique (art. A212-193 à A212-198)](#450)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-193)](#451)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-194)](#452)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-195 à A212-197)](#453)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-198)](#454)
-              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#455)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#456)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#457)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#458)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#459)
-              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#460)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#461)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#462)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#463)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#464)
-              - [Paragraphe 7 : Alpinisme-Guide de haute montagne (art. A212-221 à A212-228)](#465)
-                - [Sous-paragraphe 1 : Déclaration (art. A212-221)](#466)
-                - [Sous-paragraphe 2 : Différence substantielle (art. A212-222 à A212-224)](#467)
-                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-225 à A212-227)](#468)
-                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-228)](#469)
-      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#470)
-        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#471)
-          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#472)
-      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-5)](#473)
-        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-5)](#474)
-          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#475)
-          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#476)
-            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#477)
-            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#478)
-          - [Section 3 : Sportifs professionnels salariés (art. A231-5)](#479)
-    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#480)
-      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#481)
-        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#482)
-          - [Section 1 : Dispositions communes (art. A312-1)](#483)
-          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#484)
-          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#485)
-      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#486)
-        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#487)
-          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#488)
-            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#489)
-            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#490)
-          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#491)
-            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#492)
-            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#493)
-              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#494)
-              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#495)
-              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#496)
-              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#497)
-              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#498)
-            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#499)
-              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#500)
-              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#501)
-              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#502)
-              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#503)
-            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#504)
-          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#505)
-            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#506)
-            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#507)
-            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#508)
-              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#509)
-              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#510)
-              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#511)
-            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#512)
-          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#513)
-            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#514)
-            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#515)
-            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#516)
-            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#517)
-          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#518)
-          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#519)
-            - [Paragraphe 1 : Champ d'application (art. A322-147)](#520)
-            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#521)
-            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#522)
-            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#523)
-            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#524)
-            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#525)
-            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#526)
-            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#527)
-              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#528)
-              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#529)
-              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#530)
-              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#531)
-          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#532)
-      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#533)
-        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#534)
-          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#535)
-            - [Sous-section 1 : Dispositions générales (art. A331-1)](#536)
-            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur (art. A331-2 à A331-5)](#537)
-            - [Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur (art. A331-16 à A331-21-3)](#538)
-              - [Paragraphe 1 : Manifestations et concentrations soumises à déclaration (art. A331-16 à A331-19)](#539)
-              - [Paragraphe 2 : Manifestations soumises à autorisation (art. A331-20 à A331-21)](#540)
-              - [Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000 (art. A331-21-1)](#541)
-              - [Paragraphe 4 : Dossier de demande d'homologation de circuit (art. A331-21-2 à A331-21-3)](#542)
-            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#543)
-          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#544)
-            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#545)
-            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#546)
-          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#547)
-        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#548)
-          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#549)
-    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#550)
-      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#551)
-        - [Chapitre unique (art. A411-1 à A411-10)](#552)
-          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#553)
-      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#554)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#555)
-        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#556)
-        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#557)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#558)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#559)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#560)
-        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#561)
-        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#562)
-        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#563)
-  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#564)
-    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#565)
-      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#566)
-      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-3 (art. R241-12))](#567)
-      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#568)
-    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#569)
-      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#570)
-      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#571)
+          - [Section 4 : Sanctions administratives (art. R232-88 à R232-98-1)](#282)
+            - [Sous-section 1 : Composition administrative (art. R232-88 à R232-89-1)](#283)
+            - [Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage (art.  à R232-89-1)](#284)
+            - [Sous-section 2 : Procédure disciplinaire devant la commission des sanctions (art. R232-90 à R232-98-1)](#285)
+          - [Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes (art. D232-99 à D232-103)](#286)
+          - [Section 6 : Reconnaissance des décisions (art. R232-104)](#287)
+      - [TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL (art. R241-1 à R241-26)](#288)
+        - [Chapitre unique (art. R241-1 à R241-26)](#289)
+          - [Section 1 : Contrôles et prélèvements (art. R241-1 à R241-12)](#290)
+          - [Section 2 : Procédure disciplinaire (art. R241-16 à R241-26)](#291)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. R311-1 à R333-14)](#292)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. R311-1 à D312-26)](#293)
+        - [Chapitre Ier : Sports de nature (art. R311-1 à R311-3)](#294)
+          - [Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature (art. R311-1 à R311-3)](#295)
+        - [Chapitre II : Equipements sportifs (art. D312-1 à D312-26)](#296)
+          - [Section 1 : Dispositions communes (art. D312-1 à R312-7)](#297)
+            - [Sous-section 1 : Schéma de services collectifs du sport (art. D312-1)](#298)
+            - [Sous-section 2 : Déclaration des équipements sportifs (art. R312-2 à R312-7)](#299)
+          - [Section 2 : Installations fixes (art. R312-8 à R312-15)](#300)
+          - [Section 3 : Installations provisoires (art. R312-16 à R312-21)](#301)
+          - [Section 4 : La Commission nationale de sécurité des enceintes sportives (art. R312-22 à R312-25)](#302)
+          - [Section 5 : Commission consultative départementale de sécurité et d'accessibilité (art. D312-26)](#303)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. D321-1 à R322-43)](#304)
+        - [Chapitre Ier : Obligation d'assurance (art. D321-1 à D321-6)](#305)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. R322-4 à R322-43)](#306)
+          - [Section 1 : Dispositions générales (art. R322-4 à R322-10)](#307)
+            - [Sous-section 2 : Obligations générales (art. R322-4 à R322-7)](#308)
+            - [Sous-section 3 : Rôle du préfet du département (art. R322-8 à R322-10)](#309)
+          - [Section 2 : Etablissements de natation et d'activités aquatiques (art. D322-11 à R322-18)](#310)
+          - [Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball (art. R322-19 à R322-26)](#311)
+          - [Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. R322-27 à R322-38)](#312)
+          - [Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique (art. R322-39 à R322-43)](#313)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. D331-1 à R333-14)](#314)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. D331-1 à R331-54)](#315)
+          - [Section 1 : Rôle des fédérations (art. D331-1 à D331-2)](#316)
+          - [Section 2 : Autorisation et déclaration préalable (art. R331-3 à R331-4-1)](#317)
+          - [Section 3 : Obligation d'assurance des organisateurs de manifestations sportives (art. D331-5)](#318)
+          - [Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur (art. R331-6 à R331-17-2)](#319)
+            - [Sous-section 1 : Dispositions générales (art. R331-6 à R331-7)](#320)
+            - [Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance (art. R331-8)](#321)
+            - [Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance (art. R331-9 à R331-11)](#322)
+            - [Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives (art. R331-14 à R331-17-1)](#323)
+            - [Sous-section 5 : Dispositions pénales (art. R331-17-2)](#324)
+          - [Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur (art. R331-18 à R331-45-1)](#325)
+            - [Sous-section 1 : Dispositions générales. (art. R331-18 à R331-21)](#326)
+            - [Sous-section 2 : Obligation déclarative. (art. R331-22 à R331-22-1)](#327)
+            - [Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation (art. R331-23 à R331-28)](#328)
+            - [Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation. (art. R331-30 à R331-34)](#329)
+            - [Sous-section 5 : Homologation des circuits. (art. R331-35 à R331-44)](#330)
+            - [Sous-section 6 : Dispositions pénales. (art. R331-45 à R331-45-1)](#331)
+          - [Section 6 : Organisation de manifestations publiques de sports de combat (art. R331-46 à R331-54)](#332)
+        - [Chapitre II : Sécurité des manifestations sportives (art. R332-1 à R332-20)](#333)
+          - [Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive (art. R332-1 à R332-9)](#334)
+          - [Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive (art. R332-10 à R332-13)](#335)
+          - [Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1 (art. R332-14 à R332-20)](#336)
+        - [Chapitre III : Retransmission des manifestations sportives (art. R333-1 à R333-4)](#337)
+          - [Section 1 : Droit d'exploitation (art. R333-1 à R333-3)](#338)
+          - [Section 2 :  Liberté de diffusion (art. R333-4)](#339)
+        - [Chapitre IV : Dispositions relatives aux paris sportifs (art. R333-5 à R333-14)](#340)
+          - [Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4 (art. R333-5 à R333-9)](#341)
+          - [Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4 (art. R333-10 à R333-14)](#342)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. R411-1 à R429-1)](#343)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. R411-1 à R411-28)](#344)
+        - [Chapitre unique (art. R411-1 à R411-28)](#345)
+          - [Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées (art. R411-1)](#346)
+          - [Section 2 : Missions et fonctionnement du Centre national pour le développement du sport (art. R411-2 à R411-28)](#347)
+            - [Sous-section 1 : Dispositions générales (art. R411-2)](#348)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R*411-4 à R411-23)](#349)
+              - [Paragraphe 1 : Dispositions générales (art. R*411-4 à R411-11)](#350)
+              - [Paragraphe 2 : Organisation territoriale (art. R411-12 à R411-21)](#351)
+              - [Paragraphe 3 : Dispositions particulières à la Corse (art. R411-22)](#352)
+              - [Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer (art. R411-23)](#353)
+            - [Sous-section 3 : Régime financier et comptable (art. R411-24 à R411-28)](#354)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. R421-1 à R429-1)](#355)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. R421-1 à R421-4)](#356)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. R422-1 à R422-3)](#357)
+        - [Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna (art. R423-1)](#358)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R424-1)](#359)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. R425-1)](#360)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. R426-1)](#361)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. R427-1)](#362)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. R428-1)](#363)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. R429-1)](#364)
+  - [Partie réglementaire - Arrêtés (art. A112-0 à A429-1)](#365)
+    - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES (art. A112-0 à A142-32)](#366)
+      - [TITRE Ier :  PERSONNES PUBLIQUES (art. A112-0 à A114-7)](#367)
+        - [Chapitre II : Etablissements publics nationaux (art. A112-0 à A112-10)](#368)
+          - [Section unique : Le Musée national du sport (art. A112-0 à A112-10)](#369)
+            - [Sous-section unique : Contrôle budgétaire (art. A112-1 à A112-10)](#370)
+        - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive (art. A114-1 à A114-7)](#371)
+          - [Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration (art. A114-1 à A114-3)](#372)
+          - [Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel (art. A114-4 à A114-7)](#373)
+      - [TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES (art. A121-1 à A122-1)](#374)
+        - [Chapitre Ier : Associations sportives (art. A121-1)](#375)
+        - [Chapitre II : Sociétés sportives (art. A122-1)](#376)
+      - [TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES (art. A131-3 à A131-6)](#377)
+        - [Chapitre Ier : Fédérations sportives (art. A131-3 à A131-6)](#378)
+      - [TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION (art. A141-1 à A142-32)](#379)
+        - [Chapitre Ier : Le Comité national olympique et sportif français (art. A141-1)](#380)
+        - [Chapitre II : Autres organismes de concertation (art. A142-0 à A142-32)](#381)
+          - [Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs (art. A142-0)](#382)
+          - [Section 2 : Le Conseil supérieur des sports de montagne (art. A142-5 à A142-14)](#383)
+            - [Sous-section 1  La commission de la formation et de l'emploi (art. A142-5 à A142-14)](#384)
+          - [Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation (art. A142-20 à A142-32)](#385)
+    - [LIVRE II : ACTEURS DU SPORT (art. A211-1 à A231-5)](#386)
+      - [TITRE Ier : FORMATION ET ENSEIGNEMENT (art. A211-1 à A212-228)](#387)
+        - [Chapitre Ier : Formation aux professions du sport (art. A211-1 à A211-63-1)](#388)
+          - [Section 1 : L'Institut national du sport, de l'expertise et de la performance (art. A211-1 à A211-3)](#389)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration (art. A211-1 à A211-3)](#390)
+          - [Section 3 : L'Ecole nationale de voile et des sports nautiques (art. A211-39 à A211-49-1)](#391)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection des représentants des personnels au conseil d'administration (art. A211-39 à A211-42)](#392)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-43 à A211-49-1)](#393)
+          - [Section 4 : L'Ecole nationale des sports de montagne (art. A211-50 à A211-63-1)](#394)
+            - [Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne (art. A211-50 à A211-54)](#395)
+            - [Sous-section 2 : Contrôle budgétaire (art. A211-57 à A211-63-1)](#396)
+        - [Chapitre II : Enseignement du sport contre rémunération (art. A212-1 à A212-228)](#397)
+          - [Section 1 : Obligation de qualification (art. A212-1 à A212-175-19)](#398)
+            - [Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification (art. A212-1 à A212-1-1)](#399)
+            - [Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports (art. A212-2 à A212-16-4)](#400)
+              - [Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme (art. A212-4 à A212-8)](#401)
+              - [Paragraphe 2 : Délivrance du diplôme (art. A212-9 à A212-14)](#402)
+              - [Paragraphe 3 : Dispositions transitoires (art. A212-15 à A212-16)](#403)
+              - [Paragraphe 4 :  Validation des acquis de l'expérience (art. A212-16-1 à A212-16-4)](#404)
+            - [Sous-section 2 bis : Dispositions générales et communes au certificat professionnel, au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (CPJEPS, BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires (art. A212-17 à A212-45)](#405)
+              - [Paragraphe 1 : Le jury (art. A212-17 à A212-28)](#406)
+              - [Paragraphe 2 : L'habilitation (art. A212-29 à A212-34)](#407)
+              - [Paragraphe 3 : Les modalités de la formation (art. A212-35 à A212-45)](#408)
+                - [Sous-Paragraphe 1 : Les conditions d'inscription des candidats (art. A212-35 à A212-39)](#409)
+                - [Sous-Paragraphe 2 : L'harmonisation nationale (art. A212-40)](#410)
+                - [Sous-Paragraphe 3 : La validation des acquis de l'expérience (art. A212-41 à A212-43-6)](#411)
+                - [Sous-Paragraphe 4 : Les personnes en situation de handicap (art. A212-44 à A212-45)](#412)
+            - [Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. A212-46 à A212-47-4)](#413)
+              - [Paragraphe 1: Spécialité “ animateur ” (art. A212-46)](#414)
+              - [Paragraphe 2 : Spécialité “ éducateur sportif ” (art. A212-47 à A212-47-4)](#415)
+            - [Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport (art. A212-48 à A212-52-1)](#416)
+              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-48)](#417)
+              - [Paragraphe 2 : Spécialité “perfectionnement sportif” (art. A212-49 à A212-52-1)](#418)
+            - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport (art. A212-53 à A212-57-1)](#419)
+              - [Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle” (art. A212-53)](#420)
+              - [Paragraphe 2 : Spécialité "performance sportive" (art. A212-54 à A212-57-1)](#421)
+            - [Sous-section 6 : Brevet d'Etat d'éducateur sportif (art. A212-102 à 212-167-5)](#422)
+              - [Paragraphe 1 : Présentation du diplôme (art. A212-102 à A212-107)](#423)
+              - [Paragraphe 2 : Conditions et formalités d'inscription (art. A212-108 à A212-111)](#424)
+              - [Paragraphe 3 : Composition du jury (art. A212-112 à A212-114)](#425)
+              - [Paragraphe 4 : Points de bonification pour titres sportifs (art. A212-115)](#426)
+              - [Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés (art. A212-120 à A212-128)](#427)
+                - [Sous-paragraphe 1 : Partie commune (art. A212-120 à A212-121)](#428)
+                - [Sous-paragraphe 2 : Partie spécifique (art. A212-122 à A212-128)](#429)
+              - [Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports (art. A212-129 à A212-139)](#430)
+              - [Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire (art. A212-140 à A212-150)](#431)
+              - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau (art. A212-151 à A212-157)](#432)
+              - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées (art. A212-158 à A212-162)](#433)
+              - [Paragraphe 10 : Dispositions générales (art. A212-163 à A212-167)](#434)
+              - [Paragraphe 11 : Validation des acquis de l'expérience (art. 212-167-1 à 212-167-5)](#435)
+            - [Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne (art. A212-168 à A212-175)](#436)
+            - [Sous-section 8 : Commission de reconnaissance des qualifications (art. A212-175-10)](#437)
+            - [Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique (art. A212-175-11 à A212-175-14)](#438)
+            - [Sous-section 10 : Commissions spécialisées des dans et grades équivalents (art. A212-175-15 à A212-175-19)](#439)
+              - [Paragraphe 1 : Fédérations sportives disposant d'une commission spécialisée des dans et grades équivalents (art. A212-175-15)](#440)
+              - [Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents (art. A212-175-16 à A212-175-19)](#441)
+          - [Section 2 : Obligation de déclaration d'activité (art. A212-176 à A212-228)](#442)
+            - [Sous-section 1 : Principes (art. A212-176 à A212-181)](#443)
+            - [Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-228)](#444)
+              - [Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services (art. A212-182 à A212-182-2)](#445)
+                - [Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France (art. A212-182 à A212-182-1)](#446)
+                - [Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services (art. A212-182-2)](#447)
+              - [Paragraphe 2 : Ski (art. A212-183 à A212-192-9)](#448)
+                - [Sous-paragraphe 1 : Ski alpin et activités dérivées. (art. A212-183 à A212-192)](#449)
+                - [Sous-paragraphe 2 : Ski nordique de fond et activités dérivées. (art. A212-192-1 à A212-192-9)](#450)
+              - [Paragraphe 3  : Plongée subaquatique (art. A212-193 à A212-198)](#451)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-193)](#452)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-194)](#453)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-195 à A212-197)](#454)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-198)](#455)
+              - [Paragraphe 5 : Parachutisme (art. A212-209 à A212-214)](#456)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-209)](#457)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-210)](#458)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-211 à A212-213)](#459)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-214)](#460)
+              - [Paragraphe 6 : Spéléologie (art. A212-215 à A212-220)](#461)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-215)](#462)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-216)](#463)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-217 à A212-219)](#464)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-220)](#465)
+              - [Paragraphe 7 : Alpinisme-Guide de haute montagne (art. A212-221 à A212-228)](#466)
+                - [Sous-paragraphe 1 : Déclaration (art. A212-221)](#467)
+                - [Sous-paragraphe 2 : Différence substantielle (art. A212-222 à A212-224)](#468)
+                - [Sous-paragraphe 3 : Epreuve d'aptitude (art. A212-225 à A212-227)](#469)
+                - [Sous-paragraphe 4 : Conditions d'exercice (art. A212-228)](#470)
+      - [TITRE II : SPORTIFS (art. A222-1 à A222-6)](#471)
+        - [Chapitre II : Sport professionnel (art. A222-1 à A222-6)](#472)
+          - [Section unique  Agents sportifs (art. A222-1 à A222-6)](#473)
+      - [TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE (art. A231-1 à A231-5)](#474)
+        - [Chapitre Ier : Suivi médical des sportifs (art. A231-1 à A231-5)](#475)
+          - [Section 1 : Certificat médical et questionnaire de santé (art. A231-1 à A231-2)](#476)
+          - [Section 2 : Rôle des fédérations sportives (art. A231-3 à A231-4)](#477)
+            - [Sous-section 1 : Sportifs de haut niveau (art. A231-3)](#478)
+            - [Sous-section 2 : Sportifs Espoirs et des collectifs nationaux (art. A231-4)](#479)
+          - [Section 3 : Sportifs professionnels salariés (art. A231-5)](#480)
+    - [LIVRE III : PRATIQUE SPORTIVE (art. A312-1 à A331-42)](#481)
+      - [TITRE Ier : LIEUX DE PRATIQUES SPORTIVES (art. A312-1 à A312-12)](#482)
+        - [Chapitre II : Equipements sportifs (art. A312-1 à A312-12)](#483)
+          - [Section 1 : Dispositions communes (art. A312-1)](#484)
+          - [Section 2 : Installations fixes (art. A312-2 à A312-9)](#485)
+          - [Section 3 : La Commission nationale de sécurité  des enceintes sportives (art. A312-10 à A312-12)](#486)
+      - [TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES (art. A322-1 à A322-177)](#487)
+        - [Chapitre II : Garanties d'hygiène et de sécurité (art. A322-1 à A322-177)](#488)
+          - [Section 1 : Dispositions générales (art. A322-1 à A322-3)](#489)
+            - [Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives (art. A322-1 à A322-2)](#490)
+            - [Paragraphe 2 : Information des pratiquants (art. A322-3)](#491)
+          - [Section 2 : Etablissements d'activités aquatiques et nautiques (art. A322-3-1 à A322-70)](#492)
+            - [Sous-section préliminaire : Dispositions communes (art. A322-3-1 à A322-3-5)](#493)
+            - [Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade (art. A322-4 à A322-41)](#494)
+              - [Paragraphe 1 : Obligation de déclaration (art. A322-4 à A322-7)](#495)
+              - [Paragraphe 2 : Obligation de surveillance (art. A322-8 à A322-11)](#496)
+              - [Paragraphe 3 : Plan d'organisation de la surveillance et des secours (art. A322-12 à A322-17)](#497)
+              - [Paragraphe 4 : Normes d'hygiène et de sécurité (art. A322-18)](#498)
+              - [Paragraphe 5 : Garanties de techniques et de sécurité (art. A322-19 à A322-41)](#499)
+            - [Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques (art. A322-42 à A322-52)](#500)
+              - [Paragraphe 1 : Dispositions préliminaires (art. A322-42 à A322-43)](#501)
+              - [Paragraphe 2 : Conditions de pratique (art. A322-44)](#502)
+              - [Paragraphe 3 : Dispositions relatives au matériel et équipement (art. A322-45 à A322-47)](#503)
+              - [Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique (art. A322-48 à A322-52)](#504)
+            - [Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile (art. A322-64 à A322-70)](#505)
+          - [Section 3 : Etablissements organisant la pratique   de la plongée subaquatique (art. A322-71 à A322-101)](#506)
+            - [Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air (art. A322-72 à A322-81)](#507)
+            - [Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air (art. A322-82 à A322-89)](#508)
+            - [Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-97)](#509)
+              - [Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air (art. A322-90 à A322-94)](#510)
+              - [Paragraphe 2 : Dispositions particulières au nitrox (art. A322-95)](#511)
+              - [Paragraphe 3 : Dispositions particulières au trimix et à l'héliox (art. A322-96 à A322-97)](#512)
+            - [Sous-section 4 : Dispositions diverses (art. A322-98 à A322-101)](#513)
+          - [Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés (art. A322-116 à A322-125)](#514)
+            - [Paragraphe 1 : Dispositions préliminaires (art. A322-116)](#515)
+            - [Paragraphe 2 : Conditions de pratique (art. A322-117 à A322-119)](#516)
+            - [Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle (art. A322-120 à A322-122)](#517)
+            - [Paragraphe 4 : Dispositions relatives aux installations (art. A322-123 à A322-125)](#518)
+          - [Section 6 : Etablissements de pratique  de tir aux armes de chasse (art. A322-142 à A322-146)](#519)
+          - [Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie (art. A322-147 à A322-171)](#520)
+            - [Paragraphe 1 : Champ d'application (art. A322-147)](#521)
+            - [Paragraphe 2 : Les séances de saut (art. A322-148 à A322-154)](#522)
+            - [Paragraphe 3 : Les zones d'atterrissage (art. A322-155 à A322-156)](#523)
+            - [Paragraphe 4 : Les équipements (art. A322-157 à A322-158)](#524)
+            - [Paragraphe 5 : L'encadrement (art. A322-159 à A322-161)](#525)
+            - [Paragraphe 6 : Les moyens matériels (art. A322-162 à A322-163)](#526)
+            - [Paragraphe 7 : Les procédures d'enquête en cas d'accident (art. A322-164)](#527)
+            - [Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie (art. A322-165 à A322-171)](#528)
+              - [Sous-paragraphe 1er : Les séances de vol (art. A322-165 à A322-168)](#529)
+              - [Sous-paragraphe 2 :  Les machines (art. A322-169)](#530)
+              - [Sous-paragraphe 3 : Les équipements (art. A322-170)](#531)
+              - [Sous-paragraphe 4 : L'encadrement (art. A322-171)](#532)
+          - [Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs (art. A322-176 à A322-177)](#533)
+      - [TITRE III : MANIFESTATIONS SPORTIVES (art. A331-1 à A331-42)](#534)
+        - [Chapitre Ier : Organisation des manifestations sportives (art. A331-1 à A331-36)](#535)
+          - [Section 2 : Autorisation et déclaration préalable (art. A331-1 à A331-23)](#536)
+            - [Sous-section 1 : Dispositions générales (art. A331-1)](#537)
+            - [Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur (art. A331-2 à A331-5)](#538)
+            - [Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur (art. A331-16 à A331-21-3)](#539)
+              - [Paragraphe 1 : Manifestations et concentrations soumises à déclaration (art. A331-16 à A331-19)](#540)
+              - [Paragraphe 2 : Manifestations soumises à autorisation (art. A331-20 à A331-21)](#541)
+              - [Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000 (art. A331-21-1)](#542)
+              - [Paragraphe 4 : Dossier de demande d'homologation de circuit (art. A331-21-2 à A331-21-3)](#543)
+            - [Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19 (art. A331-22 à A331-23)](#544)
+          - [Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives (art. A331-25 à A331-32)](#545)
+            - [Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur. (art. A331-25)](#546)
+            - [Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur (art. A331-32)](#547)
+          - [Section 4 : Organisation de manifestations publiques de sports de combat (art. A331-33 à A331-36)](#548)
+        - [Chapitre II : Sécurité des manifestations sportives (art. A331-37 à A331-42)](#549)
+          - [Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique (art. A331-37 à A331-42)](#550)
+    - [LIVRE IV : DISPOSITIONS DIVERSES (art. A411-1 à A429-1)](#551)
+      - [TITRE Ier : FINANCEMENT DU SPORT (art. A411-1 à A411-10)](#552)
+        - [Chapitre unique (art. A411-1 à A411-10)](#553)
+          - [Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport (art. A411-1 à A411-10)](#554)
+      - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. A421-1 à A429-1)](#555)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. A421-1 à A421-5)](#556)
+        - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon (art. A422-1)](#557)
+        - [Chapitre III : Dispositions applicables à Wallis et Futuna (art. A423-1 à A423-5)](#558)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. A424-1 à A424-4)](#559)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. A425-1 à A425-5)](#560)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy (art. A426-1)](#561)
+        - [Chapitre VII : Dispositions applicables à Saint-Martin (art. A427-1)](#562)
+        - [Chapitre VIII : Dispositions applicables à la Martinique (art. A428-1)](#563)
+        - [Chapitre IX : Dispositions applicables à la Guyane (art. A429-1)](#564)
+  - [ANNEXES (art. Annexe I-1 (art. R122-4) à Annexe III-28)](#565)
+    - [Annexes partie réglementaire - Décrets (art. Annexe I-1 (art. R122-4) à Annexe III-8)](#566)
+      - [Annexes I (art. Annexe I-1 (art. R122-4) à Annexe I-7 (art. R*131-46))](#567)
+      - [Annexes II (art. Annexe II-1 art R212-88 et R212-89 à Annexe II-1-1 (art. D232-3))](#568)
+      - [Annexes III (art. Annexe III-3 (art. R322-27) à Annexe III-8)](#569)
+    - [Annexes partie réglementaire - Arrêtés (art. Annexe I-0-1 (art. A114-3) à Annexe III-28)](#570)
+      - [Annexes II (art. Annexe I-0-1 (art. A114-3) à Annexe II-22(art. A231-2))](#571)
+      - [Annexes III (art. Annexe III-1 (art. A312-1) à Annexe III-28)](#572)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES<a id=2></a>
@@ -17052,11 +17053,11 @@ _Cité par_:
 
 ###### Article R131-3
 
-Les fédérations sportives qui sollicitent l'agrément prévu à l'article L. 131-8 doivent : 
+Les fédérations sportives qui sollicitent l'agrément prévu à l'article L. 131-8 doivent :
 
 1° Avoir adopté des statuts comportant des dispositions qui garantissent leur fonctionnement démocratique, la transparence de
 leur gestion et l'égal accès des femmes et des hommes à leurs instances dirigeantes, et qui comprennent les dispositions
-obligatoires prévues à l'annexe I-5 ; 
+obligatoires prévues à l'annexe I-5 ;
 
 2° Avoir adopté un règlement disciplinaire conforme au règlement disciplinaire type figurant à l'annexe I-6. Dans ce cas,
 lorsque la notification des griefs aux intéressés est antérieure à la date d'entrée en vigueur du règlement disciplinaire
@@ -17064,38 +17065,28 @@ conforme au règlement disciplinaire type, les procédures disciplinaires engag�
 dispositions antérieurement applicables ;
 
 Les fédérations sportives peuvent adopter un règlement disciplinaire comportant des dispositions complémentaires à celles du
-règlement disciplinaire type ; 
+règlement disciplinaire type ;
 
-Le ministre chargé des sports contrôle la conformité du règlement disciplinaire adopté au règlement disciplinaire type ; 
+Le ministre chargé des sports contrôle la conformité du règlement disciplinaire adopté au règlement disciplinaire type ;
 
-3° Avoir adopté un règlement disciplinaire particulier en matière de lutte contre le dopage conforme aux prescriptions de
-l'article L. 232-21 ; 
+3° (Abrogé)
 
-4° Justifier d'une existence d'au moins trois ans ; 
+4° Justifier d'une existence d'au moins trois ans ;
 
 5° Justifier d'être en mesure d'offrir à leurs membres les structures administratives et l'encadrement technique que requiert
 la pratique de la discipline.
-
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2016-1054 du 1er août 2016, les fédérations sportives doivent avoir adopté le
-règlement disciplinaire prévu à l'article R. 131-3 au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Art. 1er et 13 du décret n°2004-22 du 7 janvier 2004 pris pour l'application de l'article 16 de la loi n°84-610 du 16 juillet 1984 et relatif à l'agrément des fédérations sportives, aux dispositions obligatoires des statuts des fédérations sportive
   - Décret n°2004-22 du 7 janvier 2004 - art. 1 (Ab)
   - Décret n°2004-22 du 7 janvier 2004 - art. 13 (Ab)
+  - Art. 1er et 13 du décret n°2004-22 du 7 janvier 2004 pris pour l'application de l'article 16 de la loi n°84-610 du 16 juillet 1984 et relatif à l'agrément des fédérations sportives, aux dispositions obligatoires des statuts des fédérations sportive
 
 _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2016-1054 du 1er août 2016 - art. 1
 
 _Cité par_:
 
@@ -17104,9 +17095,13 @@ _Cité par_:
   - Code du sport. - art. R131-11 (Ab)
   - Code du sport. - art. R131-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 2
+
 _Cite_:
 
-  - Code du sport. - art. Annexe I-6 art R131-3 et R132-7 (M)
+  - Code du sport. - art. Annexe I-6 art R131-3 et R132-7
   - Code du sport. - art. L131-8
   - Code du sport. - art. L232-21
 
@@ -17146,14 +17141,13 @@ _Cité par_:
 
 ###### Article R131-5
 
-Sont joints à la demande d'agrément : 
+Sont joints à la demande d'agrément :
 
-1° Un exemplaire des statuts, du règlement intérieur, du règlement disciplinaire et du règlement disciplinaire particulier en
-matière de lutte contre le dopage ; 
+1° Un exemplaire des statuts, du règlement intérieur et du règlement disciplinaire ;
 
-2° Les procès-verbaux des trois dernières assemblées générales ; 
+2° Les procès-verbaux des trois dernières assemblées générales ;
 
-3° Les bilans et comptes d'exploitation des trois derniers exercices clos et le budget de l'exercice en cours. 
+3° Les bilans et comptes d'exploitation des trois derniers exercices clos et le budget de l'exercice en cours.
 
 Les fédérations mentionnées à l'article R. 131-4 produisent les documents mentionnés aux 2° et 3° pour leur durée
 d'existence.
@@ -17169,11 +17163,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 2
 
 _Cite_:
 
-  - Code du sport. - art. R131-4 (V)
+  - Code du sport. - art. R131-4
 
 
 ###### Article R131-6
@@ -17218,10 +17216,10 @@ _Cite_:
 
 ###### Article R131-8
 
-Toute modification des statuts, du règlement intérieur, du règlement disciplinaire, du règlement disciplinaire particulier en
-matière de lutte contre le dopage ou du règlement financier adoptée       postérieurement à la délivrance de l'agrément entre
-en vigueur à compter de son adoption par l'assemblée générale et est notifiée sans délai au ministre chargé des sports. Elle
-est accompagnée du procès-verbal de l'assemblée générale qui l'a approuvée. 
+Toute modification des statuts, du règlement intérieur, du règlement disciplinaire ou du règlement financier adoptée
+postérieurement à la délivrance de l'agrément entre en vigueur à compter de son adoption par l'assemblée générale et est
+notifiée sans délai au ministre chargé des sports. Elle est accompagnée du procès-verbal de l'assemblée générale qui l'a
+approuvée.
 
 Si la modification n'est pas compatible avec l'agrément accordé à la fédération, le ministre chargé des sports demande, par
 décision motivée, qu'il soit procédé aux régularisations nécessaires.
@@ -17239,23 +17237,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-387 du 29 mars 2016 - art. 3
+  - Décret n°2019-322 du 12 avril 2019 - art. 2
 
 
 ###### Article R131-9
 
-L'agrément peut être retiré à la fédération qui cesse de remplir les conditions prévues pour sa délivrance, notamment : 
+L'agrément peut être retiré à la fédération qui cesse de remplir les conditions prévues pour sa délivrance, notamment :
 
-1° En cas de modification des statuts, du règlement disciplinaire ou du règlement disciplinaire particulier en matière de
-lutte contre le dopage incompatible avec les dispositions législatives et réglementaires ; 
+1° En cas de modification des statuts ou du règlement disciplinaire incompatible avec les dispositions législatives et
+réglementaires ;
 
 2° Pour un motif grave tiré soit de la violation par la fédération de ses statuts, soit d'une atteinte à l'ordre public ou à
-la moralité publique ; 
+la moralité publique ;
 
-3° En cas de méconnaissance des règles d'hygiène ou de sécurité ; 
+3° En cas de méconnaissance des règles d'hygiène ou de sécurité ;
 
 4° En cas de méconnaissance des dispositions des articles L. 212-1 et L. 212-2 relatives aux exigences requises des personnes
-qui enseignent, animent ou encadrent une activité physique ou sportive ou entraînent ses pratiquants ; 
+qui enseignent, animent ou encadrent une activité physique ou sportive ou entraînent ses pratiquants ;
 
 5° Pour un motif justifié par l'intérêt général qui s'attache à la promotion et au développement des activités physiques et
 sportives.
@@ -17264,16 +17262,20 @@ sportives.
 
 _Anciens textes_:
 
-  - Art. 7 du décret n°2004-22 du 7 janvier 2004 pris pour l'application de l'article 16 de la loi n°84-610 du 16 juillet 1984 et relatif à l'agrément des fédérations sportives, aux dispositions obligatoires des statuts des fédérations sportives agréée
   - Décret n°2004-22 du 7 janvier 2004 - art. 7 (Ab)
+  - Art. 7 du décret n°2004-22 du 7 janvier 2004 pris pour l'application de l'article 16 de la loi n°84-610 du 16 juillet 1984 et relatif à l'agrément des fédérations sportives, aux dispositions obligatoires des statuts des fédérations sportives agréée
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 2
 
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
+  - Code du sport. - art. L212-1
 
 
 ###### Article R131-10
@@ -27007,7 +27009,7 @@ l'exclusion des personnes :
 
 2° Qui font l'objet d'une des mesures prévues au II de l'article L. 212-9 ou L. 212-13 ; 
 
-3° Qui font l'objet d'une interdiction prévue aux d du 1° et c du 2° de l'article L. 232-23 ; 
+3° Qui font l'objet              de l'interdiction prévue au 2° du I de l'article L. 232-23 ; 
 
 4° Qui font l'objet d'une interdiction judiciaire d'exercer les activités mentionnées à l'article L. 212-1. 
 
@@ -27045,17 +27047,17 @@ _Cité par_:
   - Arrêté du 28 février 2008 - art. (V)
   - Arrêté du 20 juin 2016 - art. 1 (V)
   - Arrêté du 9 novembre 2016 - art. 1 (V)
-  - Décret n°2017-766 du 4 mai 2017 (V)
   - Arrêté du 13 juillet 2017 - art. 1 (V)
   - Arrêté du 9 août 2017 - art. 2 (V)
   - Arrêté du 30 août 2017 - art. 2 (V)
   - Arrêté du 3 octobre 2017 - art. 2 (V)
+  - Décret n°2017-766 du 4 mai 2017 (V)
   - Code du sport. - art. A212-181 (V)
   - Code du sport. - art. R322-5 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-1269 du 9 août 2017 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 3
 
 _Cite_:
 
@@ -27064,7 +27066,7 @@ _Cite_:
   - Code du sport. - art. L212-3
   - Code du sport. - art. L212-9
   - Code du sport. - art. L232-23
-  - Code du sport. - art. R212-85 (V)
+  - Code du sport. - art. R212-85
 
 
 ###### Article R212-87
@@ -30875,7 +30877,7 @@ _Cite_:
 ###### Article R232-11
 
 Le collège de l'Agence française de lutte contre le dopage peut, dans les limites qu'il détermine, déléguer au président les
-décisions individuelles mentionnées aux articles R. 232-78 et R. 232-79.
+décisions individuelles mentionnées à l'article D. 232-78.
 
 Il peut, dans les mêmes conditions, déléguer :
 
@@ -30883,8 +30885,7 @@ Il peut, dans les mêmes conditions, déléguer :
 l'article L. 232-15, les décisions d'octroi et de retrait de l'agrément des vétérinaires prévu aux articles R. 241-1 et R.
 241-2 et les décisions d'octroi et de retrait de l'agrément individuel prévu à l'article R. 232-68 ;
 
-2° Au directeur du département des analyses : l'établissement des listes d'experts prévues par l'article R. 232-64 et par
-l'article R. 241-11.
+2° Au directeur du département des analyses l'établissement de la liste d'experts prévue par l'article R. 241-11.
 
 Le président de l'agence, le directeur du département des contrôles et le directeur du département des analyses rendent
 compte au collège, lors de la séance la plus proche, des décisions prises en vertu des délégations qui leur sont ainsi
@@ -30904,12 +30905,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 1
+  - Décret n°2019-322 du 12 avril 2019 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. R232-64
-  - Code du sport. - art. R232-68
+  - Code du sport. - art. R232-64 (V)
+  - Code du sport. - art. R232-68 (V)
   - Code du sport. - art. R232-78
   - Code du sport. - art. R241-1
   - Code du sport. - art. R241-11
@@ -31095,15 +31096,14 @@ _Codifié par_:
 
 Le président de l'agence peut donner délégation au secrétaire général, au directeur du département des contrôles et au
 directeur du département des analyses dans le respect de leurs attributions, pour signer tous actes relatifs au
-fonctionnement de l'agence et à l'exercice de ses missions dans les limites qu'il détermine.
+fonctionnement de l'agence et à l'exercice de ses missions dans les limites qu'il détermine. 
 
 Dans les matières relevant de leur compétence, le directeur du département des contrôles et le directeur du département des
 analyses peuvent déléguer leur signature, dans les limites qu'ils déterminent, et désigner les agents habilités à les
-représenter.
+représenter. 
 
 Le directeur du département des contrôles peut également, dans les limites qu'il détermine, déléguer la signature des
-décisions prévues à l'article R. 232-46 aux directeurs et agents des services du ministre chargé des sports auxquels l'agence
-fait appel dans les conditions prévues au Il de l'article L. 232-5.
+décisions prévues à l'article R. 232-46                               aux agents placés sous son autorité hiérarchique.
 
 **Liens relatifs à cet article**
 
@@ -31117,11 +31117,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 1
+  - Décret n°2019-322 du 12 avril 2019 - art. 7
 
 _Cite_:
 
-  - Code du sport. - art. L232-5
   - Code du sport. - art. R232-46
 
 
@@ -31773,17 +31772,17 @@ _Cite_:
 
 ###### Article R232-41-2
 
-Le traitement mentionné à l'article R. 232-41-1 a pour finalités de :
+Le traitement mentionné à l'article R. 232-41-1 a pour finalités de : 
 
 1° Rassembler des informations biologiques sur tout sportif au sens de l'article L. 230-3 faisant l'objet d'un contrôle
-antidopage ;
+antidopage ; 
 
 2° Détecter l'utilisation d'une substance ou d'une méthode interdite et la sanctionner dans les conditions fixées par les
-articles L. 232-21 et suivants ;
+articles      L. 232-21-1 à L. 232-23-3-12 ; 
 
-3° Favoriser la mise en œuvre de contrôles relatifs à la lutte contre le dopage ;
+3° Favoriser la mise en œuvre de contrôles relatifs à la lutte contre le dopage ; 
 
-4° Dissuader les sportifs de recourir à des substances ou méthodes interdites ;
+4° Dissuader les sportifs de recourir à des substances ou méthodes interdites ; 
 
 5° Préserver la santé des intéressés.
 
@@ -31791,7 +31790,7 @@ articles L. 232-21 et suivants ;
 
 _Modifié par_:
 
-  - Décret n°2018-373 du 18 mai 2018 - art. 4
+  - Décret n°2019-322 du 12 avril 2019 - art. 8
 
 
 ###### Article R232-41-3
@@ -31915,30 +31914,28 @@ française de lutte contre le dopage ;
 
 2° Pour les données mentionnées aux 4° et 5° du même article, les agents du département des analyses de cette agence ;
 
-3° Pour l'ensemble des données mentionnées à cet article, les personnes désignées par le président de l'agence pour exercer
-les fonctions de responsable du service médical de l'Agence et de responsable de l'unité de gestion du profil biologique du
-sportif mentionnée à l'article R. 232-67-8 ainsi que les agents placés sous leur autorité.
+3° Pour l'ensemble des données mentionnées à cet article, le responsable de l'unité de gestion du passeport de l'athlète
+mentionnée à l'article R. 232-67-8 ainsi que les agents placés sous son autorité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+  - Décret n°2019-322 du 12 avril 2019 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 9
 
 
 ###### Article R232-41-6
 
 Le rapprochement aux fins d'interprétation entre les données mentionnées aux b et c du 1°, au 2° et au 3° de l'article R.
-232-41-3, d'une part, et celles mentionnées aux 4° et 5° du même article, d'autre part, ne peut être réalisé que par la
-personne désignée par le président de l'agence pour exercer les fonctions de conseiller scientifique, ou, en cas
-d'empêchement de cette dernière, par le président du comité d'orientation scientifique mentionné à l'article R. 232-44, à la
-condition d'avoir le titre de docteur en médecine ou de docteur en pharmacie.
+232-41-3, d'une part, et celles mentionnées aux 4° et 5° du même article, d'autre part, ne peut être réalisé que par
+le responsable de l'unité de gestion du passeport de l'athlète.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+  - Décret n°2019-322 du 12 avril 2019 - art. 10
 
 _Cité par_:
 
@@ -31974,21 +31971,20 @@ _Modifié par_:
 
 ###### Article R232-41-9
 
-Le responsable du service médical de l'Agence française de lutte contre le dopage, suppléé, le cas échéant, par le
-responsable de l'unité de gestion du profil biologique des sportifs, est responsable du respect des règles de gestion du
+Le responsable de l'unité de gestion du passeport de l'athlète est responsable du respect des règles de gestion du
 traitement.
 
-Le droit d'accès et de rectification s'exerce auprès de ce dernier dans les conditions prévues aux articles 39, 40 et 43 de
-la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Le responsable du traitement
-dispose d'un délai de deux mois pour donner suite à la demande.
+Le droit d'accès et de rectification s'exerce auprès de ce dernier dans les conditions prévues par les articles 15 et 16 du
+règlement (UE) 2016/679 du 27 avril 2016. Le responsable du traitement dispose d'un délai de deux mois pour donner suite à la
+demande.
 
-Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+Le droit d'opposition prévu à l'article 21 du même règlement ne s'applique pas au présent traitement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+  - Décret n°2019-322 du 12 avril 2019 - art. 11
 
 
 ##### Sous-section 5 : Transmission de documents par voie électronique<a id=272></a>
@@ -32007,14 +32003,14 @@ obligations liées à l'appartenance à ce groupe cible ;
 
 4° Aux demandes d'autorisation d'usage à des fins thérapeutiques ou de reconnaissance d'une telle autorisation ; 
 
-5° A la procédure disciplinaire prévue aux articles R. 232-87 à R. 232-98, y compris la transmission de tout ou partie du
-dossier disciplinaire.
+5° A la procédure disciplinaire prévue aux articles          R. 232-88 à R. 232-98-1, y compris la transmission de tout ou
+partie du dossier disciplinaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 8
+  - Décret n°2019-322 du 12 avril 2019 - art. 12
 
 
 ###### Article R232-41-11
@@ -32044,22 +32040,22 @@ S'il apparaît, en l'état des informations portées à la connaissance de l'Age
 sportif tombe sous le coup de l'interdiction édictée par l'article L. 232-9-1, le secrétaire général de l'agence l'en avise
 par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore par tout moyen
 permettant d'en garantir l'origine et la réception. Le sportif est mis à même de présenter ses observations et dispose à cet
-effet d'un délai de quinze jours.
+effet d'un délai de quinze jours. 
 
 Après avoir pris connaissance des observations du sportif, ou en l'absence d'observations de ce dernier dans ce délai, le
 secrétaire général lui notifie par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé
 ou encore par tout moyen permettant de garantir l'origine et la réception de la notification, l'identité de la personne à
-laquelle il lui est interdit d'avoir recours et la durée de l'incapacité dont elle est frappée.
+laquelle il lui est interdit d'avoir recours et la durée de l'incapacité dont elle est frappée. 
 
 Faute pour le sportif d'apporter la preuve à l'Agence française de lutte contre le dopage, dans les dix jours de la réception
 de cette notification, qu'il a cessé de faire appel aux services de la personne concernée, le secrétaire général en informe
-la fédération dont il est licencié ou, à défaut, le collège aux fins d'engagement d'une procédure disciplinaire.
+le collège aux fins d'engagement d'une procédure disciplinaire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 3
+  - Décret n°2019-322 du 12 avril 2019 - art. 13
 
 
 ###### Article R232-41-14
@@ -32076,15 +32072,16 @@ _Créé par_:
 
 ###### Article R232-41-15
 
-Le secrétaire général de l'Agence française de lutte contre le dopage informe également l'Agence mondiale antidopage et la
-fédération internationale concernée de l'identité des personnes auxquelles les sportifs ne peuvent avoir recours ou dont ils
-ne peuvent solliciter les services au titre de l'article L. 232-9-1.
+Le secrétaire général de l'Agence française de lutte contre le dopage informe également         l'Agence mondiale antidopage,
+la fédération internationale concernée et, le cas échéant, l'organisation nationale antidopage étrangère intéressée, de
+l'identité des personnes auxquelles les sportifs ne peuvent avoir recours ou dont ils ne peuvent solliciter les services au
+titre de l'article L. 232-9-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 9
+  - Décret n°2019-322 du 12 avril 2019 - art. 14
 
 
 ###### Article R232-41-16
@@ -32093,13 +32090,14 @@ Les fédérations informent l'Agence française de lutte contre le dopage, par l
 réception ou par tout moyen permettant de garantir l'origine et la réception de cette transmission d'information, de
 l'identité de leurs sportifs licenciés qui recourent, directement ou indirectement, dans le cadre de leur activité sportive,
 aux services d'une personne qui a fait l'objet d'une sanction administrative, disciplinaire ou pénale consécutive au non-
-respect des dispositions des articles L. 232-9, L. 232-9-1, L. 232-10 ou L. 232-17.
+respect des dispositions des articles L. 232-9, L. 232-9-1,          L. 232-9-2, L. 232-9-3, L. 232-10, L. 232-14-5 ou L.
+232-17.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 9
+  - Décret n°2019-322 du 12 avril 2019 - art. 15
 
 
 ##### Sous-section 1 : Organisation des contrôles<a id=275></a>
@@ -32109,13 +32107,12 @@ _Créé par_:
 ###### Article R232-42
 
 Les opérations de contrôle sont diligentées, dans le respect du programme national annuel de contrôle défini par le collège,
-par le directeur du département des contrôles, conformément aux dispositions de l'article L. 232-12. Dans l'exercice de cette
-compétence, le directeur du département des contrôles ne peut recevoir aucune instruction.
+par le directeur du département des contrôles, conformément aux dispositions de l'article L. 232-12.
 
-Seuls le directeur du département des contrôles, les agents de ce département habilités par le directeur et, le cas échéant,
-les agents des services déconcentrés du ministre chargé des sports, dans des conditions définies par voie conventionnelle,
-connaissent l'identité des personnes qui seront soumises à un contrôle ou les critères retenus pour la convocation aux
-contrôles.
+Seuls le directeur du département des contrôles, les agents de ce département habilités par le directeur, les agents relevant
+du secrétariat général de l'agence et, le cas échéant, les agents des services déconcentrés du ministre chargé des sports,
+dans des conditions définies par voie conventionnelle, connaissent l'identité des personnes qui seront soumises à un contrôle
+ou les critères retenus pour la convocation aux contrôles.
 
 **Liens relatifs à cet article**
 
@@ -32126,17 +32123,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 16
 
 _Cite_:
 
-  - Code du sport. - art. L232-12 (V)
+  - Code du sport. - art. L232-12
 
 
 ###### Article R232-43
 
-Le département des analyses ne procède aux analyses mentionnées à l'article L. 232-18 que si les échantillons qui lui sont
-transmis sont anonymes.
+Le laboratoire chargé des analyses ne procède aux analyses mentionnées à l'article L. 232-18 que si les échantillons qui lui
+sont transmis sont anonymes.
 
 Ces analyses sont effectuées conformément aux normes internationales. Pour leur réalisation, le directeur du département des
 analyses ne peut recevoir aucune instruction.
@@ -32150,11 +32151,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 17
 
 _Cite_:
 
-  - Code du sport. - art. L232-18 (V)
+  - Code du sport. - art. L232-18
 
 
 ###### Article R232-44
@@ -32263,11 +32268,7 @@ _Cite_:
 
 Sont soumis aux dispositions de la présente section les contrôles diligentés, en application des 1°, 2°, 3° et 4° du I de
 l'article L. 232-5, par l'Agence française de lutte contre le dopage, soit de sa propre initiative, soit à la demande des
-fédérations sportives agréées. 
-
-Les organes disciplinaires des fédérations sportives agréées peuvent également demander à l'Agence française de lutte contre
-le dopage qu'un contrôle soit effectué dans le délai qu'ils proposent sur une personne ayant fait l'objet d'une procédure
-disciplinaire close par une de leurs décisions.
+fédérations sportives agréées.
 
 **Liens relatifs à cet article**
 
@@ -32282,7 +32283,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-57 du 13 janvier 2011 - art. 2
+  - Décret n°2019-322 du 12 avril 2019 - art. 18
 
 _Cite_:
 
@@ -32411,10 +32412,10 @@ _Cite_:
 ###### Article R232-48
 
 La personne physique ou morale responsable des lieux mentionnés à l'article L. 232-13-1 met des locaux appropriés à la
-disposition de la personne chargée du contrôle. 
+disposition de la personne chargée du contrôle.
 
 Les fédérations sportives agréées et les organisateurs de compétition ou de manifestation sportives sont tenus de prévoir la
-présence d'un délégué fédéral lors de toute compétition ou manifestation sportive.
+présence d'un délégué antidopage lors de toute compétition ou manifestation sportive.
 
 **Liens relatifs à cet article**
 
@@ -32429,7 +32430,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-57 du 13 janvier 2011 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cite_:
 
@@ -32583,17 +32584,20 @@ _Cité par_:
 La personne chargée du contrôle vérifie, par tout moyen, l'identité du sportif contrôlé, au besoin avec l'assistance
 notamment :
 
-- du délégué fédéral prévu à l'article R. 232-60 ou d'une personne désignée par la fédération en cas d'absence de désignation
-d'un délégué fédéral ou d'inexécution de sa part de l'obligation mentionnée à l'article R. 232-60 ;
+- du délégué antidopage prévu à l'article L. 232-14 ou d'une personne désignée par la fédération en cas d'absence de
+désignation d'un délégué antidopage ou d'inexécution de sa part de l'obligation mentionnée à l'article R. 232-60 ;
 
 - de l'organisateur de la compétition ou de la manifestation ;
 
-- de l'escorte prévue à l'article R. 232-55. 
+- de l'escorte prévue à l'article R. 232-55.
 
-Si le sportif contrôlé est un mineur ou un majeur protégé, tout prélèvement nécessitant une technique invasive, notamment un
-prélèvement de sang, ne peut être effectué qu'au vu d'une autorisation écrite de la ou des personnes investies de l'autorité
-parentale ou du représentant légal de l'intéressé remise lors de la prise ou du renouvellement de la licence.L'absence
-d'autorisation est constitutive d'un refus de se soumettre aux mesures de contrôle.
+Si le sportif contrôlé est un mineur, tout prélèvement nécessitant une technique invasive ne peut être effectué qu'au vu,
+outre de l'autorisation de l'intéressé lui-même, d'une autorisation écrite de la ou des personnes investies de l'autorité
+parentale remise lors de la prise ou du renouvellement de la licence. Si le sportif contrôlé est un majeur protégé et que la
+réalisation d'un tel prélèvement entre dans les catégories d'actes pour lesquelles l'intéressé bénéficie de l'assistance de
+la personne chargée de sa protection dans les conditions de l'article 459 du code civil, ce prélèvement ne peut être réalisé
+qu'au vu d'une autorisation écrite de cette personne remise dans les mêmes conditions. L'absence d'autorisation est
+constitutive d'une soustraction au prélèvement d'un échantillon au sens du 1° de l'article L. 232-9-2.
 
 **Liens relatifs à cet article**
 
@@ -32608,17 +32612,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-57 du 13 janvier 2011 - art. 7
+  - Décret n°2019-322 du 12 avril 2019 - art. 19
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cité par_:
 
   - Code du sport. - art. D232-47-1 (V)
-  - Code du sport. - art. R232-61 (M)
+  - Code du sport. - art. R232-61 (V)
 
 _Cite_:
 
   - Code du sport. - art. R232-55
-  - Code du sport. - art. R232-60
 
 
 ###### Article R232-53
@@ -32693,15 +32697,15 @@ _Cité par_:
 
 ###### Article R232-56
 
-Dans le cas prévu à l'article R. 232-55, le délégué fédéral désigne les escortes mises à la disposition de la personne
+Dans le cas prévu à l'article R. 232-55, le délégué antidopage désigne les escortes mises à la disposition de la personne
 chargée du contrôle.
 
 Celle-ci s'assure que les escortes ainsi désignées ont suivi la formation prévue à l'article R. 232-57. A défaut, la personne
-chargée du contrôle peut assurer elle-même la formation des escortes mises à sa disposition par le délégué fédéral.
+chargée du contrôle peut assurer elle-même la formation des escortes mises à sa disposition par le délégué antidopage.
 
 En l'absence d'escortes mises à sa disposition et formées à cet effet, la personne chargée du contrôle peut décider soit de
-procéder au contrôle, soit de l'annuler. Dans ce dernier cas, elle établit un rapport à l'intention de l'Agence française de
-lutte contre le dopage et en transmet une copie à la fédération sportive intéressée.
+procéder au contrôle, soit de l'annuler. Dans ce dernier cas, elle établit un rapport à l'attention de l'Agence française de
+lutte contre le dopage et en transmet une copie à la fédération sportive ou à l'organisateur intéressé.
 
 **Liens relatifs à cet article**
 
@@ -32712,20 +32716,25 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 20
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cite_:
 
-  - Code du sport. - art. R232-55 (V)
-  - Code du sport. - art. R232-57 (V)
+  - Code du sport. - art. R232-55
+  - Code du sport. - art. R232-57
 
 
 ###### Article R232-57
 
 Les fédérations sportives agréées et les organisateurs de compétition ou de manifestation sportive sont tenus d'organiser la
-formation des délégués fédéraux mentionnés à l'article R. 232-60 et des escortes prévues à l'article R. 232-55. Le contenu et
-les modalités de ces formations sont définis par l'Agence française de lutte contre le dopage. La liste des personnes ainsi
-formées lui est transmise chaque année.
+formation des délégués antidopage mentionnés à l'article L. 232-14 et des escortes prévues à l'article R. 232-55. Le contenu
+et les modalités de ces formations sont définis par l'Agence française de lutte contre le dopage. La liste des personnes
+ainsi formées lui est transmise chaque année.
 
 **Liens relatifs à cet article**
 
@@ -32736,12 +32745,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
-_Cite_:
+_Modifié par_:
 
-  - Code du sport. - art. R232-55 (V)
-  - Code du sport. - art. R232-60 (V)
+  - Décret n°2019-322 du 12 avril 2019 - art. 21
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cité par_:
 
@@ -32826,8 +32835,8 @@ _Cite_:
 
 ###### Article R232-60
 
-Le délégué fédéral est tenu, à la demande de la personne chargée du contrôle, de participer à la désignation des sportifs à
-contrôler et d'assister celle-ci dans le déroulement des opérations de contrôle.
+Le délégué antidopage est tenu, à la demande de la personne chargée du contrôle, de participer à la désignation des sportifs
+à contrôler et d'assister celle-ci dans le déroulement des opérations de contrôle.
 
 Il ne peut être présent aux opérations prévues aux 1° à 3° de l'article R. 232-49.
 
@@ -32840,28 +32849,32 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cité par_:
 
   - Code du sport. - art. D232-47 (V)
   - Code du sport. - art. R232-52 (M)
   - Code du sport. - art. R232-57 (M)
-  - Code du sport. - art. R232-61 (M)
+  - Code du sport. - art. R232-61 (V)
 
 _Cite_:
 
-  - Code du sport. - art. R232-49 (V)
+  - Code du sport. - art. R232-49
 
 
 ###### Article R232-61
 
-En l'absence de désignation d'un délégué fédéral ou en cas d'inexécution de l'obligation mentionnée à l'article R. 232-60 de
-prêter son concours, la personne chargée du contrôle en fait mention au procès-verbal. 
+En l'absence de désignation d'un délégué antidopage ou en cas d'inexécution de l'obligation mentionnée à l'article R. 232-60
+de prêter son concours, la personne chargée du contrôle en fait mention au procès-verbal.
 
-Elle peut demander l'assistance d'une personne mentionnée à l'article R. 232-52. 
+Elle peut demander l'assistance d'une personne mentionnée à l'article R. 232-52.
 
-En aucun cas, l'absence ou le refus de concours d'un délégué fédéral ne peut empêcher la personne chargée du contrôle de
+En aucun cas, l'absence ou le refus de concours d'un délégué antidopage ne peut empêcher la personne chargée du contrôle de
 désigner les sportifs à contrôler et de procéder aux opérations de contrôle.
 
 **Liens relatifs à cet article**
@@ -32877,23 +32890,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-57 du 13 janvier 2011 - art. 9
+  - Décret n°2019-322 du 12 avril 2019 - art. 6
 
 _Cite_:
 
-  - Code du sport. - art. R232-52
-  - Code du sport. - art. R232-60
+  - Code du sport. - art. R232-52 (V)
+  - Code du sport. - art. R232-60 (V)
 
 
 ###### Article R232-62
 
 La personne chargée du contrôle transmet une copie du procès-verbal de contrôle à l'intéressé, le cas échéant, aux personnes
-investies de l'autorité parentale ou aux représentants légaux, à la fédération et à l'Agence française de lutte contre le
-dopage.
+investies de l'autorité parentale ou aux représentants légaux et à l'Agence française de lutte contre le dopage.
 
-Elle transmet au département des analyses de l'agence ou au laboratoire auquel il a été fait appel en application de
-l'article L. 232-18, sous une forme respectant l'anonymat, les échantillons recueillis, accompagnés d'une copie du procès-
-verbal de contrôle.
+Elle transmet au laboratoire auquel il a été fait appel en application de l'article L. 232-18, sous une forme respectant
+l'anonymat, les échantillons recueillis, accompagnés d'une copie du procès-verbal de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -32904,11 +32915,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
-_Cite_:
+_Modifié par_:
 
-  - Code du sport. - art. L232-18 (V)
+  - Décret n°2019-322 du 12 avril 2019 - art. 22
 
 _Cité par_:
 
@@ -32917,10 +32928,9 @@ _Cité par_:
 
 ###### Article R232-63
 
-L'acheminement des échantillons au département des analyses de l'Agence française de lutte contre le dopage ou au laboratoire
-auquel il a été fait appel en application de l'article L. 232-18 et leur conservation par celui-ci s'effectuent dans des
-conditions de température adaptées, spécifiées par le directeur du département des analyses de l'agence. Ils doivent assurer
-l'intégrité des échantillons, la sécurité des personnels et la confidentialité des procédures.
+L'acheminement des échantillons au laboratoire auquel il a été fait appel en application de l'article L. 232-18 et leur
+conservation par celui-ci s'effectuent dans des conditions de température adaptées, spécifiées par l'agence. Ils doivent
+assurer l'intégrité des échantillons, la sécurité des personnels et la confidentialité des procédures.
 
 **Liens relatifs à cet article**
 
@@ -32931,30 +32941,29 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
-_Cite_:
+_Modifié par_:
 
-  - Code du sport. - art. L232-18 (V)
+  - Décret n°2019-322 du 12 avril 2019 - art. 23
 
 
 ###### Article R232-64
 
-Le département des analyses de l'Agence française de lutte contre le dopage ou le laboratoire auquel il a été fait appel en
-application de l'article L. 232-18 procède à l'analyse de l'échantillon A, transmis en application de l'article R. 232-62.
+Le laboratoire auquel il a été fait appel en application de l'article L. 232-18 procède à l'analyse de l'échantillon A,
+transmis en application de l'article R. 232-62.
 
-Il conserve l'échantillon B en vue d'une éventuelle analyse de contrôle. Celle-ci est de droit à la demande de l'intéressé.
-Elle est effectuée à ses frais et en présence éventuellement d'un expert convoqué par ses soins et choisi par lui, le cas
-échéant, sur une liste arrêtée par l'agence et transmise à l'intéressé.
+Sauf demande contraire de l'agence, il conserve l'échantillon B en vue d'une éventuelle analyse de contrôle. Celle-ci est de
+droit à la demande de l'intéressé. Elle est effectuée à ses frais et dans les conditions prévues par les normes
+internationales.
 
-L'utilisation d'une substance interdite est établie :
+La présence d'une substance interdite dans l'échantillon d'un sportif est établie :
 
 - soit au vu de la présence de cette substance, de l'un de ses métabolites ou de ses marqueurs, dans l'échantillon A lorsque
 le sportif ne demande pas l'analyse de l'échantillon B ;
 
-- soit, lorsque l'analyse de l'échantillon B est demandée par le sportif ou, dans le cadre de leur compétence disciplinaire
-respective, par la fédération ou par l'agence, si les résultats de cette analyse confirment la présence de la substance
-décelée dans l'échantillon A, ou de l'un de ses métabolites ou de ses marqueurs.
+- soit, lorsque l'analyse de l'échantillon B est demandée par le sportif ou par l'agence, si les résultats de cette analyse
+confirment la présence de la substance décelée dans l'échantillon A, ou de l'un de ses métabolites ou de ses marqueurs.
 
 **Liens relatifs à cet article**
 
@@ -32969,12 +32978,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-57 du 13 janvier 2011 - art. 10
+  - Décret n°2019-322 du 12 avril 2019 - art. 24
 
 _Cité par_:
 
   - Code du sport. - art. Annexe II-2 (art R232-86) (M)
-  - Code du sport. - art. R232-11 (VD)
+  - Code du sport. - art. R232-11 (V)
   - Code du sport. - art. R232-91 (VD)
 
 _Cite_:
@@ -32985,25 +32994,24 @@ _Cite_:
 
 ###### Article R232-65
 
-Le département des analyses de l'Agence française de lutte contre le dopage ou le laboratoire auquel ce département ou le
-département des contrôles a fait appel en application de l'article L. 232-18 établit un rapport d'analyse qui présente le
-résultat des analyses ainsi que les types de méthodes utilisées. 
+Le laboratoire auquel il a été fait appel en application de l'article L. 232-18 établit un rapport d'analyse qui présente le
+résultat des analyses ainsi que les types de méthodes utilisées.
 
-Le département des analyses de l'Agence française de lutte contre le dopage transmet, par tout moyen, le rapport d'analyse au
-secrétaire général de l'agence. 
+Le laboratoire transmet, par tout moyen, le rapport d'analyse au secrétaire général de l'agence.
 
-Conformément aux normes internationales, le département des analyses communique, par tout moyen, les résultats d'analyse
-atypiques ou anormaux à l'autorité de contrôle, si elle est autre que l'agence, à la fédération internationale et, le cas
-échéant, à l'organisation nationale antidopage concernée. 
+Conformément aux normes internationales, le laboratoire communique, par tout moyen, les résultats d'analyse atypiques ou
+anormaux à l'autorité de contrôle, si elle est autre que l'agence, à la fédération internationale et, le cas échéant, à
+l'organisation nationale antidopage concernée.
 
-Seul le résultat d'analyse positif est notifié par l'agence à la fédération nationale concernée, au sportif contrôlé et, le
-cas échéant, à la ou aux personnes investies à son égard de l'autorité parentale ou à son représentant légal. 
+Seul le résultat d'analyse positif est notifié par l'agence au sportif contrôlé et, le cas échéant, à la ou aux personnes
+investies à son égard de l'autorité parentale ou à son représentant légal.
 
 Le sportif contrôlé et la fédération nationale concernée peuvent demander, par écrit, à l'agence la communication du résultat
 d'analyse lorsque celui-ci est négatif.
 
-L'agence informe, le cas échéant, la personne chargée du contrôle de la présence d'une substance interdite dans les
-prélèvements qu'elle a effectués, ainsi que des décisions éventuellement prises.
+L'agence peut en outre informer la personne chargée du contrôle de la présence d'une substance interdite dans les
+prélèvements qu'elle a effectués, des décisions éventuellement prises ultérieurement, ainsi que de toute autre information
+nécessaire à l'exercice de sa mission.
 
 **Liens relatifs à cet article**
 
@@ -33018,35 +33026,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 16
-
-_Cite_:
-
-  - Code du sport. - art. L232-13
-  - Code du sport. - art. L232-18
+  - Décret n°2019-322 du 12 avril 2019 - art. 25
 
 
 ###### Article R232-66
 
-La conservation des échantillons après leur analyse par le département des analyses ou par le laboratoire auquel il a été
-fait appel par l'Agence française de lutte contre le dopage en application de l'article L. 232-18 s'effectue dans les
-conditions techniques prévues par les normes internationales. 
+La conservation des échantillons après leur analyse par le laboratoire auquel il a été fait appel par l'Agence française de
+lutte contre le dopage en application de l'article L. 232-18 s'effectue dans les conditions techniques prévues par les normes
+internationales.
 
 Le délai de conservation est d'une durée de dix ans à compter de la date de la première analyse lorsque le prélèvement a été
-effectué : 
+effectué :
 
-1° Lors d'une manifestation sportive internationale, au sens de l'article L. 230-2 ; 
+1° Lors d'une manifestation sportive internationale, au sens de l'article L. 230-2 ;
 
 2° Lors d'une compétition sportive à l'issue de laquelle est délivré l'un des titres nationaux mentionnés à l'article L.
-131-15 ou à l'article R. 131-13 ; 
+131-15 ou à l'article R. 131-13 ;
 
-3° Ou sur un sportif soumis à l'obligation de localisation prévue à l'article L. 232-15. 
+3° Ou sur un sportif soumis à l'obligation de localisation prévue à l'article L. 232-15.
 
 Ce délai de dix ans peut être réduit par délibération motivée et publiée du collège de l'Agence française de lutte contre le
-dopage. 
+dopage.
 
 Dans tous les cas, le délai de conservation des échantillons ne peut être inférieur au délai minimum de conservation fixé par
-les normes internationales. 
+les normes internationales.
 
 Le délai de conservation est interrompu par tout acte d'instruction ou de poursuite.
 
@@ -33067,7 +33070,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 17
+  - Décret n°2019-322 du 12 avril 2019 - art. 26
 
 _Cite_:
 
@@ -33182,32 +33185,13 @@ _Modifié par_:
 
 ###### Article R232-67-5
 
-L'échantillon sanguin est acheminé dans des conditions de température comprises entre deux et douze degrés.
+L'échantillon sanguin est acheminé          et analysé dans les conditions prévues par les normes internationales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
-
-
-###### Article R232-67-6
-
-L'analyse de l'échantillon sanguin doit intervenir dans un délai correspondant aux recommandations de l'Agence mondiale
-antidopage pour le " passeport biologique de l'athlète ". 
-
-Toutefois, le dépassement de ce délai ne fait pas obstacle à la réalisation d'une analyse aux fins de mieux orienter des
-contrôles ultérieurs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 28
+  - Décret n°2019-322 du 12 avril 2019 - art. 27
 
 
 ###### Article R232-67-7
@@ -33232,120 +33216,53 @@ _Cite_:
 ###### Article R232-67-8
 
 Les résultats des analyses urinaires ou sanguines poursuivant les finalités énoncées au premier alinéa de l'article L.
-232-12-1 sont transmis, sous une forme anonyme, à une unité de gestion du profil biologique du sportif créée au sein de
-l'Agence française de lutte contre le dopage, selon des modalités déterminées par une délibération du collège de l'Agence.
+232-12-1 sont transmis, sous une forme anonyme, à une unité de gestion du passeport de l'athlète créée au sein de l'Agence
+française de lutte contre le dopage, selon des modalités déterminées par une délibération du collège de l'Agence, ou à une
+autre unité de gestion du passeport de l'athlète approuvée par l'Agence mondiale antidopage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+  - Décret n°2019-322 du 12 avril 2019 - art. 29
+  - Décret n°2019-322 du 12 avril 2019 - art. 5
 
 
 ###### Article R232-67-9
 
-L'unité de gestion du profil biologique du sportif traite les données biologiques portées à sa connaissance en les intégrant
-dans un algorithme de statistique prédictive.
+L'unité de gestion du passeport de l'athlète traite les données biologiques portées à sa connaissance en les intégrant dans
+un algorithme de statistique prédictive.
+
+Les modules hématologique et stéroïdien du profil biologique d'un sportif sont établis conformément aux normes
+internationales concernant les exigences et procédures de gestion des résultats pour le passeport biologique de l'athlète
+définies par l'Agence mondiale antidopage.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-645 du 9 juin 2015 - art. 2
-
-
-###### Article R232-67-9-1
-
-Pour l'établissement du module hématologique du profil biologique d'un sportif, sont pris en compte plus spécialement : 
-
-a) La concentration de l'hémoglobine (HGB) exprimée en g/ dL ou g/ L ; 
-
-b) Le pourcentage de réticulocytes (RET %) ; 
-
-c) L'index de stimulation ou " off-score ", destiné à apprécier les variations de sens inverses de la concentration
-d'hémoglobine et du pourcentage de réticulocytes. 
-
-Le conseiller scientifique de l'Agence française de lutte contre le dopage mentionné à l'article R. 232-41-6 et, en cas
-d'absence ou d'empêchement de ce dernier, le président du comité d'orientation scientifique, à condition d'avoir le titre de
-docteur en médecine ou de docteur en pharmacie, ont seuls compétence, au sein de l'agence, pour interpréter les données
-hématologiques énumérées aux a à c ci-dessus, qui leur ont été transmises sous une forme anonyme par l'unité de gestion du
-profil biologique du sportif.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-645 du 9 juin 2015 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 31
-
-_Cite_:
-
-  - Code du sport. - art. R232-41-6
-
-
-###### Article R232-67-9-2
-
-Pour l'établissement du module stéroïdien du profil biologique sont prises en compte, plus spécialement, les données ci-
-après : 
-
-a) Testostérone ; 
-
-b) Epitestostérone ; 
-
-c) Androstérone ; 
-
-d) Etiocholanolone ; 
-
-e) 5 β-androstanediol ; 
-
-f) 5 α-androstanediol ; 
-
-g) L'indice faisant apparaître la concentration de testostérone par rapport à celle d'épitestostérone, dénommé rapport T/
-E ; 
-
-h) L'indice faisant apparaître la concentration d'androstérone par rapport à celle de testostérone ; 
-
-i) L'indice faisant apparaître la concentration d'androstérone par rapport à celle d'étiocholanolone ; 
-
-j) L'indice faisant apparaître la concentration de 5 α-androstanediol par rapport à celle de 5 β-androstanediol ; 
-
-k) L'indice faisant apparaître la concentration de 5 α-androstanediol par rapport à celle d'épitestostérone. 
-
-Le directeur du département des analyses de l'Agence française de lutte contre le dopage et, en cas d'absence ou
-d'empêchement de ce dernier, le responsable de la section chimie, ont seuls compétence, au sein de l'agence, pour interpréter
-les données énumérées ci-dessus, qui sont examinées sous une forme anonyme.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-645 du 9 juin 2015 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 31
+  - Décret n°2019-322 du 12 avril 2019 - art. 30
+  - Décret n°2019-322 du 12 avril 2019 - art. 5
 
 
 ###### Article R232-67-10
 
-Lorsque le conseiller scientifique ou son remplaçant, au vu des données hématologiques successives concernant un sportif,
-considère que des valeurs de la nature de celles mentionnées au 4° de l'article R. 232-41-3 et à l'article R. 232-67-9-1 sont
-atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de gestion du profil
-biologique du sportif :
+L'unité de gestion du passeport de l'athlète procède à l'examen initial de tous les profils.
 
-- porter les constatations qu'il a effectuées à la connaissance du directeur du département des contrôles en lui
-recommandant, le cas échéant, de poursuivre le recueil de données physiologiques ou d'orienter des contrôles ultérieurs ;
+Au vu des données successives intégrées dans l'algorithme de statistique prédictive concernant un sportif, le responsable de
+l'unité de gestion du passeport de l'athlète peut :
 
-- décider de soumettre le dossier du sportif au comité d'experts mentionné à l'article L. 232-22-1.
+1° Porter les constatations qu'il a effectuées à la connaissance du directeur du département des contrôles en lui
+recommandant, le cas échéant, de poursuivre le recueil des données physiologiques ou d'orienter des contrôles ultérieurs ;
+
+2° Soumettre les données du profil à l'examen d'un expert choisi dans la liste mentionnée à l'article R. 232-67-11 lorsqu'il
+constate un résultat de profil atypique ou que d'autres éléments du profil le justifient.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-645 du 9 juin 2015 - art. 4
+  - Décret n°2019-322 du 12 avril 2019 - art. 32
 
 _Cite_:
 
@@ -33355,17 +33272,28 @@ _Cite_:
 
 ###### Article R232-67-10-1
 
-Lorsque le directeur du département des analyses ou son remplaçant, au vu des données stéroïdiennes successives concernant un
-sportif, considère que des valeurs de la nature de celles mentionnées au 5° du I de l'article R. 232-41-3 et à l'article R.
-232-67-9-2 sont atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de
-gestion du profil biologique du sportif, procéder suivant les dispositions des deuxième et troisième alinéas de l'article R.
-232-67-10.
+Au vu des premières constatations de l'expert mentionné au dernier alinéa de l'article R. 232-67-10, le responsable de
+l'unité de gestion du passeport de l'athlète peut recommander au directeur du département des contrôles de réaliser des
+contrôles ciblés.
+
+Lorsque l'expert considère, au vu des données hématologiques ou stéroïdiennes successives, qu'il est probable que les
+résultats observés soient attribuables à l'usage d'une substance ou d'une méthode interdite, et très peu probable qu'ils
+soient attribuables à un état physiologique normal ou à un état pathologique, le responsable de l'unité de gestion du
+passeport de l'athlète soumet le profil biologique à l'examen du comité d'experts mentionnés à l'article L. 232-22-1.
+
+Lorsque l'expert considère, au vu des données hématologiques ou stéroïdiennes successives, qu'il est probable que les
+résultats observés soient attribuables à un état pathologique, le responsable de l'unité de gestion du passeport de l'athlète
+en informe le sportif après avoir obtenu, s'il le juge nécessaire, la confirmation de la probable pathologie par d'autres
+experts.
+
+Dans le cadre de l'établissement du profil stéroïdien, le responsable de l'unité de gestion du passeport de l'athlète peut
+s'abstenir de désigner un expert et procéder lui-même selon les alinéas précédents.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-645 du 9 juin 2015 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 33
 
 _Cite_:
 
@@ -33374,99 +33302,113 @@ _Cite_:
 
 ###### Article R232-67-11
 
-Le collège de l'Agence française de lutte contre le dopage dresse la liste des experts susceptibles d'être désignés en vue de
-participer aux travaux du comité compétent pour le profil biologique. Il fixe également leur mode de rémunération selon des
-règles identiques à celles prévues pour les médecins auxquels il est fait appel au titre de l'examen des demandes
-d'autorisation d'usage à des fins thérapeutiques en vertu des 14° et 15° de l'article R. 232-10. 
+Sur proposition de l'unité de gestion du passeport de l'athlète, le collège de l'Agence française de lutte contre le dopage
+dresse la liste des experts susceptibles d'être désignés en vue de participer aux travaux du comité mentionné à l'article L.
+232-22-1. Il fixe également leur mode de rémunération selon des règles identiques à celles prévues pour les médecins auxquels
+il est fait appel au titre de l'examen des demandes d'autorisation d'usage à des fins thérapeutiques en vertu des 14° et 15°
+de l'article R. 232-10.
 
 La délibération du collège relative au mode de rémunération de ces experts est soumise aux dispositions du dix-huitième
 alinéa du même article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+  - Décret n°2019-322 du 12 avril 2019 - art. 34
 
 
 ###### Article R232-67-12
 
-Le président de l'Agence française de lutte contre le dopage, sur proposition du conseiller scientifique de l'agence, nomme
-les trois membres du comité mentionné à l'article L. 232-22-1 parmi les experts figurant sur la liste arrêtée en application
-de l'article R. 232-67-11. Le comité désigne parmi ses membres son président.
+Le comité est composé de trois membres. Il comprend l'expert mentionné au dernier alinéa de l'article R. 232-67-10 ou le
+responsable de l'unité de gestion du passeport de l'athlète lorsque celui-ci n'a pas désigné cet expert en application des
+dispositions du dernier alinéa de l'article R. 232-67-10-1.
+
+Les autres membres sont nommés par le responsable de l'unité de gestion du passeport de l'athlète parmi les experts figurant
+sur la liste arrêtée en application de l'article R. 232-67-11.
+
+Pour un examen de profil hématologique, les membres doivent disposer de compétences en hématologie clinique, en médecine
+sportive ou en physiologie de l'exercice.
+
+Pour un examen de profil stéroïdien, le comité doit comprendre des personnes qui ont des connaissances en analyse des
+stéroïdes en laboratoire, en dopage aux stéroïdes, en métabolisation des stéroïdes ou en endocrinologie clinique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+  - Décret n°2019-322 du 12 avril 2019 - art. 35
 
 
 ###### Article R232-67-13
 
-Lorsqu'il est saisi du dossier d'un sportif, le comité peut solliciter toutes explications complémentaires du conseiller
-scientifique de l'agence et du responsable de l'unité de gestion du profil biologique du sportif. 
-
-Le comité rend son avis dans un délai d'un mois suivant sa saisine. Cet avis figure au procès-verbal de la réunion, signé par
-le président du comité et adressé au responsable de l'unité de gestion du profil biologique du sportif. 
+Lorsqu'il est saisi du dossier d'un sportif, le comité rend un avis dans les conditions prévues par les normes
+internationales arrêtées par l'Agence mondiale antidopage.
 
 L'avis du comité peut être recueilli par voie de consultation électronique dans des conditions qui garantissent la
 confidentialité des échanges.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+  - Décret n°2019-322 du 12 avril 2019 - art. 36
 
 
 ###### Article R232-67-14
 
-Lorsque le comité, statuant à l'unanimité, estime, d'une part, qu'il est très probable que le sportif ait eu recours à une
-substance ou à une méthode interdite et, d'autre part, qu'il est peu probable que les résultats anormaux observés soient
-imputables à une autre cause, le sportif est, à l'initiative de l'unité de gestion du profil biologique du sportif, invité à
-présenter ses observations. 
+Lorsque le comité estime que les éléments recueillis indiquent l'usage d'une substance ou méthode interdite, en retenant à
+l'unanimité, d'une part, qu'il est probable que le sportif ait eu recours à une substance ou à une méthode interdite et,
+d'autre part, qu'il est très peu probable que les résultats anormaux observés soient imputables à une autre cause, le sportif
+est, à l'initiative de l'unité de gestion du passeport de l'athlète, invité à présenter ses observations.
 
-Le sportif dispose à cet effet d'un délai d'un mois. 
+Le sportif dispose à cet effet d'un délai d'un mois.
 
 Après avoir pris connaissance de ces observations, ou en cas d'absence d'observations présentées dans le délai d'un mois, le
 comité rend un nouvel avis. En cas d'empêchement d'un de ses membres, ce comité est alors complété suivant les modalités
-définies à l'article R. 232-67-12. 
+définies à l'article R. 232-67-12.
 
 Le comité doit soit réviser sa position initiale à la majorité de ses membres, soit la confirmer à l'unanimité de ses
-membres. 
+membres.
 
-Le nouvel avis est transmis sans délai par le président du comité au responsable de l'unité de gestion du profil biologique
-du sportif.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
-
-
-###### Article R232-67-15
-
-La confirmation par le comité de sa position initiale entraîne l'engagement d'une procédure disciplinaire à l'encontre du
-sportif concerné.
-
-Si le sportif est licencié auprès d'une fédération agréée, le secrétaire général de l'Agence française de lutte contre le
-dopage transmet le dossier de l'intéressé à la fédération dont il relève ; celle-ci exerce les compétences en matière de
-sanctions disciplinaires prévues à l'article L. 232-21 sans préjudice des compétences de l'Agence française de lutte contre
-le dopage mentionnées aux 2°, 3° et 4° du II de l'article L. 232-22. Le dossier est également transmis à la fédération
-internationale compétente, à l'Agence mondiale antidopage et, le cas échéant, à l'organisation nationale antidopage
-compétente.
-
-Si le sportif n'a pas ou a cessé d'avoir la qualité de licencié, le collège de l'agence est compétent pour engager la
-procédure disciplinaire en application du 1° du II de l'article L. 232-22 et des sanctions prévues à l'article L. 232-23
-peuvent, le cas échéant, être prononcées par la commission des sanctions.
+Le nouvel avis est transmis sans délai au responsable de l'unité de gestion du passeport de l'athlète.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 4
+  - Décret n°2019-322 du 12 avril 2019 - art. 37
+  - Décret n°2019-322 du 12 avril 2019 - art. 5
+
+
+###### Article R232-67-15
+
+La confirmation par le comité de sa position initiale entraîne l'engagement d'une procédure disciplinaire à l'encontre du
+sportif concerné pour une violation présumée des dispositions du 3° du II de l'article L. 232-9, dans les conditions prévues
+aux articles L. 232-21-1 à L. 232-23-6.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 38
+
+
+###### Article R232-67-16
+
+Lorsque le sportif est sanctionné pour une violation des règles antidopage consécutivement à un résultat de profil anormal,
+son profil biologique est remis à l'état initial au début de la période d'interdiction qui lui est imposée.
+
+Lorsque le sportif est sanctionné pour une violation des règles antidopage sur la base d'autres informations que son profil
+biologique, ce profil demeure en vigueur sauf si l'usage d'une substance ou méthode interdite a donné lieu à une altération
+des marqueurs hématologiques ou stéroïdiens. Dans cette hypothèse, le profil du sportif est remis à l'état initial dès
+l'entrée en vigueur de la sanction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 39
 
 
 ##### Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles.<a id=279></a>
@@ -33474,11 +33416,10 @@ _Modifié par_:
 ###### Article R232-68
 
 L'agrément des personnes chargées du contrôle au titre de l'article L. 232-11 est accordé par l'Agence française de lutte
-contre le dopage dans les conditions qu'elle définit. 
+contre le dopage dans les conditions qu'elle définit.
 
 Il ne peut être accordé aux professionnels de santé qui ont fait l'objet d'une sanction disciplinaire dans les cinq années
-qui précèdent. De même, il ne peut être accordé aux personnes qui assurent des fonctions de membres d'un organe disciplinaire
-compétent en matière de dopage au sein d'une fédération sportive agréée. 
+qui précèdent.
 
 L'agrément est donné pour une durée de deux ans renouvelable.
 
@@ -33493,15 +33434,15 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
-
-  - Décret n°2016-83 du 29 janvier 2016 - art. 19
-
 _Cité par_:
 
   - Décret n°2016-83 du 29 janvier 2016 - art. 31 (V)
-  - Code du sport. - art. R232-11 (VD)
+  - Code du sport. - art. R232-11 (V)
   - Code du sport. - art. R232-46 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 40
 
 _Cite_:
 
@@ -33605,14 +33546,19 @@ _Créé par_:
 
 ###### Article R232-71
 
-L'agrément est retiré par l'Agence française de lutte contre le dopage :
-
-1° Au professionnel de santé qui a fait l'objet d'une sanction disciplinaire infligée postérieurement à son agrément ;
-
-2° A la personne chargée du contrôle qui commet une faute dans l'accomplissement de sa mission de contrôle. 
-
 Le directeur du département des contrôles organise, dans des conditions fixées par l'Agence française de lutte contre le
 dopage, le contrôle du respect de leurs obligations par les personnes agréées.
+
+Lorsque la personne chargée du contrôle commet une faute dans l'accomplissement de sa mission de contrôle ou lorsque, par son
+comportement, elle porte atteinte aux intérêts ou à l'image de l'Agence française de lutte contre le dopage et de la lutte
+contre le dopage, l'agence peut prendre à son égard, dans les conditions définies préalablement par une de ses délibérations,
+les mesures suivantes :
+
+1° Un avertissement ;
+
+2° Une suspension d'exercice des fonctions de personne chargée du contrôle ;
+
+3° Le retrait de l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -33627,7 +33573,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 23
+  - Décret n°2019-322 du 12 avril 2019 - art. 41
 
 
 ##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques<a id=280></a>
@@ -33961,45 +33907,6 @@ _Cité par_:
   - Code du sport. - art. R232-81 (Ab)
 
 
-###### Article R232-79
-
-Une autorisation à des fins thérapeutiques prend effet à la date à laquelle elle est notifiée. Toutefois, une autorisation
-peut prendre effet à une date antérieure, qu'elle mentionne : 
-
-1° Dans le cas d'une urgence médicale, d'un état pathologique aigu ou de circonstances exceptionnelles n'ayant pas permis au
-demandeur de déposer sa demande trente jours avant le contrôle ; 
-
-2° Dans le cas où l'agence n'a pas statué dans le délai prévu à l'article R. 232-74.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 8 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-  - Décret n°2007-461 du 25 mars 2007 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2011-57 du 13 janvier 2011 - art. 17
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 42
-
-_Cite_:
-
-  - Code du sport. - art. R232-74
-
-_Cité par_:
-
-  - Code du sport. - art. R232-75 (T)
-  - Code du sport. - art. R232-81 (Ab)
-
-
 ###### Article R232-82
 
 L'ensemble des examens médicaux et documents nécessaires à l'instruction de la demande d'autorisation est à la charge du
@@ -34019,37 +33926,6 @@ _Codifié par_:
 _Cité par_:
 
   - Code du sport. - art. R232-10 (V)
-
-
-###### Article R232-85-1
-
-Pour l'application de l'article L. 232-9, un sportif peut se prévaloir d'une raison médicale dûment justifiée s'il peut faire
-état soit : 
-
-1° D'une urgence médicale ; 
-
-2° Du traitement d'un état pathologique aigu ; 
-
-3° De circonstances exceptionnelles.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-57 du 13 janvier 2011 - art. 19
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 43
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe II-2 (art R232-86) (M)
-  - Code du sport. - art. R232-90 (V)
-
-_Cite_:
-
-  - Code du sport. - art. L232-9
 
 
 ##### Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs"<a id=281></a>
@@ -34274,118 +34150,51 @@ _Créé par_:
 
 ##### Section 4 : Sanctions administratives<a id=282></a>
 
-##### Sous-section 1 : Procédure disciplinaire devant les fédérations sportives agréées<a id=283></a>
-
-###### Article R232-86
-
-Les fédérations sportives agréées adoptent à l'identique, en application de l'article L. 232-21, le règlement type
-particulier de lutte contre le dopage reproduit en annexe II-2.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 1er du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
-  - Décret n°2006-1768 du 23 décembre 2006 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2016-84 du 29 janvier 2016 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 44
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe II-2 à l'article R232-86 (V)
-
-_Cite_:
-
-  - Code du sport. - art. L232-21
-
-
-###### Article R232-87
-
-Les fédérations informent par lettre recommandée avec demande d'avis de réception le président de l'Agence française de lutte
-contre le dopage de la composition des organes disciplinaires compétents pour statuer sur les infractions, commises par leurs
-licenciés, aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17. Elles l'informent dans les mêmes conditions de
-tout projet de modification de cette composition.
-
-Les membres des organes disciplinaires entrent en fonction à l'expiration d'un délai d'un mois après l'information de
-l'agence, sauf décision contraire motivée du président de l'Agence française de lutte contre le dopage, notifiée dans les
-mêmes formes. En cas d'urgence, le président de l'agence peut autoriser l'entrée en fonction d'un membre avant l'expiration
-du délai d'un mois.
-
-L'Agence française de lutte contre le dopage tient à jour la liste des membres des organes disciplinaires mentionnés au
-premier alinéa. A leur demande, les fédérations sont destinataires de cette liste qui peut également faire l'objet d'une
-publicité par voie électronique dans les conditions définies par le collège de l'Agence française de lutte contre le dopage.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 2 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
-  - Décret n°2006-1768 du 23 décembre 2006 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 44
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe II-2 (art R232-86) (M)
-
-_Cite_:
-
-  - Code du sport. - art. L232-10
-  - Code du sport. - art. L232-17
-  - Code du sport. - art. L232-9
-
-
-###### Article R232-87-1
-
-Les membres des organes disciplinaires ne peuvent être liés à la fédération qui les désigne par un lien contractuel autre que
-celui résultant de la licence. Les personnes qui ont fait l'objet d'une sanction disciplinaire, administrative ou pénale
-relative à la lutte contre le dopage ne peuvent être membres de ces organes disciplinaires. Il en est de même de celles qui
-ont fait l'objet d'une suspension provisoire relative à la lutte contre le dopage, pendant la durée de cette suspension.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-84 du 29 janvier 2016 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 44
-
-
-##### Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=284></a>
+##### Sous-section 1 : Composition administrative<a id=283></a>
 
 ###### Article R232-88
 
-Dans le cas prévu au 3° du II de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-
-ci de la décision prise par l'organe disciplinaire de la fédération sportive et de l'ensemble du dossier.
+Dans tous les cas mentionnés au premier alinéa de l'article L. 232-21-1, le secrétaire général de l'agence informe
+l'intéressé par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification
+précise :
 
-Dans le cas prévu au 4° du II du même article :
+1° Le fondement sur lequel l'agence est saisie ;
 
-1° Lorsque la demande émane d'une fédération sportive, la saisine de l'agence doit intervenir dans le délai de deux mois à
-compter du jour où la décision de la fédération est devenue définitive. L'agence est saisie dès la date de réception de la
-demande d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que de l'ensemble du
-dossier ;
+2° L'infraction présumée aux dispositions des articles L. 232-9, L. 232-9-1, L. 232-9-2, L. 232-9-3, L. 232-10, L. 232-14-5,
+L. 232-15-1 ou L. 232-17 ;
 
-2° Lorsque le collège de l'agence, de sa propre initiative, saisit la commission des sanctions, il dispose d'un délai de deux
-mois qui court à partir de la date de réception par l'agence de la décision prise par l'organe disciplinaire de la fédération
-sportive ainsi que de l'ensemble du dossier.
+3° Le cas échéant, la possibilité pour l'intéressé de demander par lettre recommandée avec demande d'avis de réception, dans
+un délai de cinq jours à compter de sa réception, qu'il soit procédé à ses frais à l'analyse de l'échantillon B, conformément
+aux dispositions prévues par l'article R. 232-64. Le délai de cinq jours est porté à dix jours lorsque l'intéressé est
+domicilié hors de la métropole ;
+
+4° Les sanctions et conséquences encourues en vertu des articles L. 232-21-1 à L. 232-23-6 ;
+
+5° La possibilité de prendre connaissance des pièces du dossier auprès du secrétariat général de l'agence, ainsi que de s'en
+faire délivrer ou adresser une copie, et de se faire assister ou représenter par tout conseil de son choix ;
+
+6° La possibilité de présenter des explications écrites concernant l'infraction présumée ;
+
+7° Les droits qui lui sont reconnus aux articles R. 232-91 à R. 232-95 pour présenter sa défense ;
+
+8° La possibilité de bénéficier de l'application des dispositions du 4° du II de l'article L. 232-23-3-10 et du troisième
+alinéa de l'article L. 232-23-3-11 en avouant sans délai l'infraction ;
+
+9° La possibilité d'apporter au directeur des contrôles de l'Agence française de lutte contre le dopage des éléments
+constitutifs d'une aide substantielle au sens de l'article L. 230-4 et, le cas échéant, de voir la sanction d'interdiction
+qu'elle encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article L. 232-23-3-2 ;
+
+10° La possibilité d'accepter la suspension provisoire prévue à l'article L. 232-23-4 lorsque le résultat d'analyse implique
+une substance spécifiée au sens de l'annexe I à la convention internationale mentionnée à l'article L. 230-2, ou lorsqu'une
+autre infraction aux dispositions du présent titre est en cause ;
+
+11° Qu'il lui sera proposé d'entrer en voie de composition administrative conformément aux dispositions du deuxième alinéa de
+l'article L. 232-21-1 ;
+
+La notification est transmise simultanément au président de la commission des sanctions.
+
+Le secrétaire général de l'agence transmet également ces documents, par tout moyen, à l'Agence mondiale antidopage, la
+fédération internationale concernée et le cas échéant, l'organisation nationale antidopage étrangère intéressée.
 
 **Liens relatifs à cet article**
 
@@ -34398,36 +34207,42 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 44
+
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
-
-_Cite_:
-
-  - Code du sport. - art. L232-22
+  - Décret n°2019-322 du 12 avril 2019 - art. 45
 
 
 ###### Article R232-89
 
-Dans tous les cas mentionnés au II de l'article L. 232-22, le secrétaire général de l'agence informe l'intéressé par lettre
-recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise :
+Au plus tard un mois après la réception par l'agence de la preuve de la notification prévue au premier alinéa de l'article L.
+232-21-1, le secrétaire général de l'agence adresse à l'intéressé une proposition d'entrée en voie de composition
+administrative, selon les modalités prévues au premier alinéa de l'article R. 232-88.
 
-1° Le fondement sur lequel l'agence est saisie ;
+Le destinataire dispose d'un délai de quinze jours à compter de la réception de cette proposition pour se prononcer par écrit
+sur celle-ci.
 
-2° Les griefs formulés à l'encontre de l'intéressé ;
+A compter de la réception par l'Agence française de lutte contre le dopage de l'acceptation de la proposition d'entrée en
+voie de composition administrative, l'accord mentionné au troisième alinéa de l'article L. 232-21-1 est conclu dans un délai
+de deux mois.
 
-3° Les droits qui lui sont reconnus aux articles R. 232-91 à R. 232-95 pour présenter sa défense ;
+Lorsque l'accord est validé par le collège, il est transmis pour homologation au président de la commission des sanctions qui
+en saisit à cette fin la commission dans une formation restreinte ou l'une de ses sections.
 
-4° La possibilité d'apporter au directeur des contrôles de l'Agence française de lutte contre le dopage des éléments
-constitutifs d'une aide substantielle au sens de l'article L. 230-4 et, le cas échéant, de voir la sanction d'interdiction
-qu'elle encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article L. 232-23-3-2.
+Lorsque l'accord n'est pas validé par le collège, celui-ci peut demander au secrétaire général de soumettre un nouveau projet
+d'accord à la personne à qui il a été proposé d'entrer en voie de composition administrative. Le nouvel accord est conclu
+dans un délai qui ne peut être supérieur à un mois à compter de la notification du refus de validation. La procédure prévue
+au présent alinéa ne peut être mise en œuvre qu'une seule fois.
 
-La notification est transmise simultanément au président de la commission des sanctions.
-
-Le secrétaire général de l'agence transmet également ces documents, par tout moyen, à l'Agence mondiale antidopage, la
-fédération internationale concernée et le cas échéant l'organisation nationale antidopage étrangère intéressée ainsi qu'à la
-fédération sportive concernée. Cette fédération sportive peut adresser des observations écrites à la commission des
-sanctions.
+Les décisions d'homologation des accords de composition administrative sont notifiées par lettre recommandée avec demande
+d'avis de réception ou par lettre remise contre récépissé, à la personne à qui il a été proposé d'entrer en voie de
+composition administrative et, par tous moyens, à la fédération sportive auprès de laquelle l'intéressé est, le cas échéant,
+licencié, au président de l'Agence française de lutte contre le dopage, au ministre chargé des sports, à l'Agence mondiale
+antidopage, à la fédération internationale concernée et, le cas échéant, à l'organisation nationale antidopage étrangère
+concernée.
 
 **Liens relatifs à cet article**
 
@@ -34440,20 +34255,49 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 44
+
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 46
 
-_Cite_:
 
-  - Code du sport.
-  - Code du sport. - art. L232-22
+###### Article R232-89-1
 
+Sans préjudice de la possibilité de parvenir ultérieurement à un accord, il est mis fin à la procédure de composition
+administrative :
+
+1° Lorsque la personne à laquelle elle a été proposée exprime un refus ou omet de se prononcer dans le délai fixé au deuxième
+alinéa de l'article R. 232-89 ;
+
+2° A défaut d'accord conclu dans les délais mentionnés aux troisième et cinquième alinéas de l'article R. 232-89 ;
+
+3° Lorsque l'accord n'est pas validé par le collège et qu'il n'est pas fait application de la procédure mentionnée au
+cinquième alinéa de l'article R. 232-89 ;
+
+4° Lorsque la commission des sanctions refuse d'homologuer l'accord validé par le collège ;
+
+5° En cas de non-respect de l'accord par la personne signataire.
+
+Il est alors fait application des articles R. 232-90 à R. 232-98-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 47
+
+
+##### Sous-section 2 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=284></a>
+
+##### Sous-section 2 : Procédure disciplinaire devant la commission des sanctions<a id=285></a>
 
 ###### Article R232-90
 
-Dans les cas mentionnés aux 1° et 2° du II de l'article L. 232-22, le collège peut prendre une décision de classement si le
-sportif justifie le résultat du contrôle par soit :
+Le collège peut prendre une décision de classement. Pour les infractions aux dispositions de l'article L. 232-9, cette
+décision intervient si le sportif justifie les faits qui lui sont reprochés par soit :
 
 - une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'Agence française de lutte contre le dopage ;
 
@@ -34465,12 +34309,11 @@ internationale mentionnée à l'article L. 230-2 ;
 - une autorisation d'usage à des fins thérapeutiques dont l'Agence mondiale antidopage a reconnu la validité ou qu'elle a
 accordée.
 
-- une raison médicale dûment justifiée définie à l'article R. 232-85-1.
-
 Cette décision est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
 l'intéressé, à la fédération sportive à laquelle il appartient le cas échéant, ainsi que, par tout moyen, à l'Agence mondiale
-antidopage et à la fédération internationale concernée. Le cas échéant, la ou les personnes investies de l'autorité parentale
-ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
+antidopage et à la fédération internationale concernée et, le cas échéant, à l'organisation nationale antidopage étrangère.
+Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés
+selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
@@ -34485,7 +34328,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 48
 
 _Cite_:
 
@@ -34502,11 +34345,6 @@ sa demande, de l'aide d'un interprète aux frais de l'agence.
 L'intéressé, la ou les personnes investies de l'autorité parentale ou le représentant légal et, le cas échéant, le conseil
 peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie.
 
-Le document formulant les griefs retenus à l'encontre du sportif doit mentionner la possibilité pour l'intéressé de demander
-par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours à compter de sa réception, qu'il soit
-procédé à ses frais à l'analyse de l'échantillon B, conformément aux dispositions prévues par l'article R. 232-64. Le délai
-de cinq jours est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -34520,11 +34358,33 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 49
 
-_Cite_:
 
-  - Code du sport. - art. R232-64
+###### Article R232-91-1
+
+Lorsque le collège décide de l'ouverture d'une procédure disciplinaire, la notification des griefs est adressée à l'intéressé
+par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé.
+
+La notification des griefs est transmise au président de la commission des sanctions. Copie en est adressée, par tout moyen,
+à l'Agence mondiale antidopage, la fédération internationale concernée et, le cas échéant, l'organisation nationale
+antidopage étrangère intéressée ainsi qu'à la fédération sportive concernée qui peuvent adresser des observations écrites à
+la commission des sanctions.
+
+L'intéressé dispose d'un délai d'un mois pour transmettre au président de la commission des sanctions des observations
+écrites sur les griefs qui lui ont été notifiés. La notification des griefs mentionne ce délai et précise que l'intéressé
+peut prendre connaissance des autres pièces du dossier auprès de la commission des sanctions, ainsi que s'en faire délivrer
+ou adresser une copie, et se faire assister ou représenter par tout conseil de son choix.
+
+Le membre du collège ou l'agent désigné en application du dernier alinéa de l'article R. 232-11, qui a accès à l'ensemble des
+pièces du dossier, reçoit, de la part du secrétariat de la commission, une copie des observations écrites de l'intéressé sur
+les griefs qui lui ont été notifiés et peut y répondre par écrit. La réponse est communiquée à la personne mise en cause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 50
 
 
 ###### Article R232-92
@@ -34535,6 +34395,10 @@ lettre recommandée avec demande d'avis de réception ou par lettre remise contr
 date de l'audience.
 
 La convocation est simultanément adressée au président de l'agence.
+
+L'Agence mondiale antidopage, la fédération internationale et, le cas échéant, l'organisation nationale antidopage étrangère
+ainsi que la fédération sportive concernée, sont informées de cette convocation, de leur possibilité d'être présentes à
+l'audience et d'y présenter des observations orales.
 
 **Liens relatifs à cet article**
 
@@ -34549,7 +34413,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 51
 
 
 ###### Article R232-92-1
@@ -34589,11 +34453,12 @@ _Créé par_:
 ###### Article R232-93
 
 L'intéressé et son conseil, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal,
-ainsi que le représentant du collège de l'agence peuvent présenter devant la commission des sanctions des observations
-écrites ou orales. Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence dans un délai de six
-jours au moins avant l'audience.
+ainsi que le représentant du collège de l'agence, l'Agence mondiale antidopage, la fédération internationale et, le cas
+échéant, l'organisation nationale étrangère et la fédération sportive de l'intéressé, peuvent présenter devant la commission
+des sanctions des observations écrites ou orales. Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de
+l'agence dans un délai de six jours au moins avant l'audience.
 
-Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole.
+Ce délai est ramené à trois jours lorsque la personne est domiciliée hors de la métropole.
 
 Les observations écrites régulièrement reçues par la commission sont transmises sans délai aux parties.
 
@@ -34626,7 +34491,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 52
 
 _Cité par_:
 
@@ -34638,9 +34503,9 @@ _Cité par_:
 Le président de la commission des sanctions attribue l'affaire soit à cette dernière soit à l'une de ses sections.
 
 Le président de la commission des sanctions désigne un rapporteur parmi ses membres. Celui-ci établit un rapport exposant les
-faits et rappelant les conditions du déroulement de la procédure, tant, le cas échéant, devant la fédération sportive que
-devant l'agence. Le rapporteur peut procéder, sans pouvoir les assortir de mesures de contrainte, à toute investigation utile
-dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé et au collège.
+faits et rappelant les conditions du déroulement de la procédure. Le rapporteur peut procéder, sans pouvoir les assortir de
+mesures de contrainte, à toute investigation utile dont le résultat est versé au dossier et communiqué avant la séance à
+l'intéressé et au collège.
 
 **Liens relatifs à cet article**
 
@@ -34655,7 +34520,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 53
 
 
 ###### Article R232-95
@@ -34740,20 +34605,20 @@ La commission des sanctions statue par décision motivée.
 La décision est signée par le président de la formation de la commission des sanctions qui a statué et le secrétaire de
 séance. Elle est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
 l'intéressé, à la fédération sportive à laquelle appartient le cas échéant l'intéressé, au président de l'agence et au
-ministre chargé des sports, ainsi que, par tout moyen, à l'agence mondiale antidopage et à la fédération internationale
-concernée. Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont
-informés selon les mêmes modalités.
+ministre chargé des sports. Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de
+l'intéressé sont informés selon les mêmes modalités. La décision est également transmise, par tout moyen, à l'Agence mondiale
+antidopage, à la fédération internationale concernée et, le cas échéant, à l'organisation nationale antidopage étrangère
+concernée.
 
 La commission des sanctions détermine dans sa décision les modalités de publication de la sanction qu'elle prononce,
-notamment en fixant le délai de publication et le support de celle-ci. Ces modalités sont proportionnées à la gravité de la
-sanction prononcée à titre principal et adaptées à la situation de l'auteur de l'infraction.
+notamment en fixant le délai de publication, pendant un mois ou pendant, le cas échéant, la durée de la sanction, selon celle
+de ces deux périodes qui est la plus longue.
 
 La publication de la sanction s'effectue de manière nominative, sauf si la personne qui fait l'objet de la sanction est
-mineure ou si la commission des sanctions, par une décision spécialement motivée, décide d'ordonner la publication anonyme de
-cette sanction.
+mineure.
 
 La publication d'une décision de relaxe s'effectue de manière anonyme, sauf si, dans le délai d'un mois suivant la
-notification de la décision, la personne qui en fait l'objet demande une publication nominative.
+notification de la décision, la personne qui en fait l'objet demande, par écrit, une publication nominative.
 
 La dispense de publication d'une décision de sanction assortie d'un sursis à exécution ne peut intervenir qu'après avis
 conforme de l'Agence mondiale antidopage.
@@ -34771,68 +34636,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
-
-
-###### Article R232-98
-
-Lorsque la commission des sanctions de l'agence décide d'exercer son pouvoir de sanction, conformément aux articles L. 232-22
-et L. 232-23, la durée de la suspension provisoire ou de l'interdiction temporaire ou définitive que la personne intéressée a
-déjà effectuée en exécution de la décision prononcée, respectivement, par le président de l'organe disciplinaire de première
-instance fédéral et par l'organe disciplinaire fédéral en application des dispositions de l'article L. 232-21 est déduite des
-sanctions éventuellement prononcées.
-
-Lorsque le président de l'Agence française de lutte contre le dopage prononce, sur le fondement de l'article L. 232-23-4, une
-mesure conservatoire, la durée de la suspension provisoire déjà effectuée par l'intéressé en exécution de la décision
-prononcée par le président de l'organe disciplinaire fédéral est déduite de la suspension provisoire éventuellement
-prononcée.
-
-Les sanctions d'interdiction temporaire inférieures à six mois pour la participation aux manifestations mentionnées au 1° de
-l'article L. 230-3 ne peuvent être accomplies en dehors de la période de compétition.
-
-Lorsque la commission des sanctions fait application des dispositions du 4° du II de l'article L. 232-22, l'extension ne vaut
-que pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 13 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
-  - Décret n°2006-1768 du 23 décembre 2006 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 55
-
-_Cite_:
-
-  - Code du sport. - art. L230-3
-  - Code du sport. - art. L232-21
-  - Code du sport. - art. L232-22
-  - Code du sport. - art. L232-23-4
+  - Décret n°2019-322 du 12 avril 2019 - art. 54
 
 
 ###### Article R232-98-1
 
 S'il apparaît, en l'état des informations portées à la connaissance de l'Agence française de lutte contre le dopage, qu'une
-personne qui a fait l'objet d'une sanction assortie d'un sursis à exécution cesse de transmettre les informations qu'elle
-s'était engagée à fournir, le secrétaire général de l'agence l'avise qu'il s'agit d'un motif de révocation de ce sursis. Il
-saisit la commission des sanctions du dossier.
+personne qui a fait l'objet d'une sanction assortie d'un sursis à exécution cesse de coopérer et de transmettre les
+informations qu'elle s'était engagée à fournir, le secrétaire général de l'agence l'avise qu'il s'agit d'un motif de
+révocation de ce sursis. Il saisit la commission des sanctions du dossier. 
 
-L'intéressé est alors mis à même de présenter ses observations écrites ou orales à la commission des sanctions de l'agence.
+L'intéressé est alors mis à même de présenter ses observations écrites ou orales à la commission des sanctions de l'agence. 
 
 La commission des sanctions de l'agence est seule compétente pour révoquer le sursis à exécution d'une sanction qu'elle a
-prononcée ou dont elle a admis le bien-fondé.
+prononcée ou dont elle a admis le bien-fondé. 
 
-La décision de révocation du sursis est publiée dans les conditions prévues à l'article L. 232-23-3-1.
+La décision de révocation du sursis est publiée dans les conditions prévues à l'article L. 232-23-3-1. 
 
 Les échanges entre l'intéressé et l'Agence française de lutte contre le dopage ou la commission des sanctions prévus aux
 premier et deuxième alinéas sont réalisés par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
@@ -34842,10 +34661,10 @@ récépissé ou encore par tout moyen permettant de garantir l'origine et la ré
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 5
+  - Décret n°2019-322 du 12 avril 2019 - art. 56
 
 
-##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes<a id=285></a>
+##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes<a id=286></a>
 
 ###### Article D232-99
 
@@ -34973,11 +34792,28 @@ _Cite_:
   - Code du sport. - art. L232-20
 
 
-### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=286></a>
+##### Section 6 : Reconnaissance des décisions<a id=287></a>
 
-#### Chapitre unique<a id=287></a>
+###### Article R232-104
 
-##### Section 1 : Contrôles et prélèvements<a id=288></a>
+Les effets sur les manifestations mentionnées aux 1° et 2° de l'article L. 230-3 des décisions prises par des signataires du
+Code mondial antidopage ainsi que des décisions prises par d'autres organisations qui ne sont pas signataires de ce document,
+mais dont les règles sont compatibles avec celui-ci, sont reconnus par le collège après que la personne intéressée a été mise
+à même de présenter des observations écrites et, le cas échéant, sur sa demande, des observations orales. Cette personne peut
+se faire assister par toute personne ou représenter par un mandataire de son choix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 57
+
+
+### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL<a id=288></a>
+
+#### Chapitre unique<a id=289></a>
+
+##### Section 1 : Contrôles et prélèvements<a id=290></a>
 
 ###### Article R241-1
 
@@ -35241,10 +35077,10 @@ _Cite_:
 
 ###### Article R241-9
 
-Le vétérinaire agréé transmet à l'Agence française de lutte contre le dopage et à la fédération agréée le procès-verbal ainsi
-que, le cas échéant, les conclusions qu'il tire pour l'exécution de sa mission de l'examen médical auquel il a procédé.
+Le vétérinaire agréé transmet à l'Agence française de lutte contre le dopage     le procès-verbal ainsi que, le cas échéant,
+les conclusions qu'il tire pour l'exécution de sa mission de l'examen médical auquel il a procédé. 
 
-Un double du procès-verbal est remis au responsable de l'animal.
+Un double du procès-verbal est remis au responsable de l'animal. 
 
 Le vétérinaire agréé transmet les prélèvements mentionnés à l'article R. 241-5 au laboratoire chargé de réaliser l'analyse.
 
@@ -35257,11 +35093,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 59
 
 _Cite_:
 
-  - Code du sport. - art. R241-5 (V)
+  - Code du sport. - art. R241-5
 
 
 ###### Article R241-10
@@ -35322,8 +35162,7 @@ _Cite_:
 
 ###### Article R241-12
 
-Les rapports d'analyse sont transmis à l'Agence française de lutte contre le dopage et à la fédération concernée dans les
-conditions prévues par le règlement type présenté en annexe II-3.
+Les rapports d'analyse sont transmis à l'Agence française de lutte contre le dopage.
 
 **Liens relatifs à cet article**
 
@@ -35338,138 +35177,58 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe II-3 (art. R241-12) (Ab)
-
-
-##### Section 2 : Procédure disciplinaire devant les fédérations sportives agréées<a id=289></a>
-
-###### Article R241-13
-
-Les fédérations sportives agréées qui organisent des compétitions et manifestations sportives avec le concours d'animaux
-doivent, en application de l'article L. 232-21, adopter un règlement disciplinaire particulier de lutte contre le dopage des
-animaux établi conformément au règlement type présenté en annexe II-3. Ce règlement particulier est joint à la demande
-d'agrément prévue par l'article L. 131-8.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 13 du décret n°2006-1629 du 18 décembre 2006 relatif à la lutte contre le dopage des animaux participant à des compétitions organisées ou autorisées par les fédérations sportives
-  - Décret n°2006-1629 du 18 décembre 2006 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 61
-
-_Cite_:
-
-  - Code du sport.
-  - Code du sport. - art. L131-8
-  - Code du sport. - art. L232-21
-
-
-###### Article R241-14
-
-Les fédérations informent par lettre recommandée avec demande d'avis de réception le président de l'Agence française de lutte
-contre le dopage de la composition des organes disciplinaires compétents pour statuer sur les infractions, commises par leurs
-licenciés, aux dispositions des articles L. 241-2 et L. 241-3. Elles l'informent dans les mêmes conditions de tout projet de
-modification de cette composition.
-
-Les membres des organes disciplinaires entrent en fonction à l'expiration d'un délai d'un mois après l'information de
-l'agence, sauf décision contraire motivée du président de l'Agence française de lutte contre le dopage, notifiée dans les
-mêmes formes. En cas d'urgence, le président de l'agence peut autoriser l'entrée en fonction d'un membre avant l'expiration
-du délai d'un mois.
-
-L'Agence française de lutte contre le dopage tient à jour la liste des membres des organes disciplinaires mentionnés au
-premier alinéa. A leur demande, les fédérations sont destinataires de cette liste qui peut également faire l'objet d'une
-publicité par voie électronique dans les conditions définies par le collège de l'Agence française de lutte contre le dopage.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 14 du décret n°2006-1629 du 18 décembre 2006 relatif à la lutte contre le dopage des animaux participant à des compétitions organisées ou autorisées par les fédérations sportives
-  - Décret n°2006-1629 du 18 décembre 2006 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 61
-
-_Cité par_:
-
-  - Code du sport. - art. Annexe II-3 (art. R241-12) (Ab)
-
-_Cite_:
-
-  - Code du sport. - art. L241-2
-  - Code du sport. - art. L241-3
-
-
-##### Section 3 : Procédure disciplinaire devant l'Agence française de lutte contre le dopage<a id=290></a>
-
-###### Article R241-15
-
-Dans le cas prévu au 3° du II de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-
-ci de la décision prise par l'organe disciplinaire de la fédération sportive et du dossier soumis à cet organe.
-
-Dans le cas prévu au 4° du II de l'article L. 232-22 :
-
-1° Lorsque la demande émane d'une fédération, la saisine de l'agence doit intervenir dans le délai de deux mois à compter du
-jour où la décision de la fédération est devenue définitive. L'agence est saisie dès la date de réception de la demande
-d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que du dossier soumis à cet
-organe ;
-
-2° Lorsque le collège de l'agence, de sa propre initiative, saisit la commission des sanctions, il dispose d'un délai de deux
-mois qui court à partir de la date de réception par l'agence de la décision prise par l'organe disciplinaire de la fédération
-sportive ainsi que de l'ensemble du dossier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 15 du décret n°2006-1629 du 18 décembre 2006 relatif à la lutte contre le dopage des animaux participant à des compétitions organisées ou autorisées par les fédérations sportives
-  - Décret n°2006-1629 du 18 décembre 2006 - art. 15 (Ab)
-
-_Codifié par_:
-
   - Décret n°2007-1133 du 24 juillet 2007
 
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - Décret n°2019-322 du 12 avril 2019 - art. 60
 
-_Abrogé par_:
+_Cité par_:
 
-  - Décret n°2019-322 du 12 avril 2019 - art. 61
+  - Code du sport. - art. Annexe II-3 (art. R241-12) (Ab)
 
-_Cite_:
 
-  - Code du sport. - art. L232-22
-
+##### Section 2 : Procédure disciplinaire<a id=291></a>
 
 ###### Article R241-16
 
-Dans tous les cas mentionnés au II de l'article L. 232-22, le secrétaire général de l'agence informe l'intéressé par lettre
-recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise le fondement
-sur lequel l'agence est saisie, indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits qui lui sont
-reconnus aux articles R. 241-17 à R. 241-22 pour présenter sa défense.
+Lorsque l'Agence française de lutte contre le dopage dispose d'éléments permettant de présumer une infraction aux
+dispositions des articles L. 241-2 et L. 241-3, le secrétaire général de l'agence informe l'intéressé par lettre recommandée
+avec demande d'avis de réception ou par lettre remise contre récépissé. Cette notification précise :
+
+1° Le fondement sur lequel l'agence est saisie ;
+
+2° L'infraction présumée aux dispositions des articles L. 241-2 et L. 241-3 ;
+
+3° Le cas échéant, la possibilité pour l'intéressé de demander par lettre recommandée avec demande d'avis de réception, dans
+un délai de cinq jours à compter de sa réception, qu'il soit procédé à ses frais à l'analyse de l'échantillon B, conformément
+aux dispositions prévues par l'article R. 241-11. Le délai de cinq jours est porté à dix jours lorsque l'intéressé est
+domicilié hors de la métropole ;
+
+4° Les sanctions encourues en vertu des articles L. 241-6 et L. 241-7 ;
+
+5° La possibilité de prendre connaissance des pièces du dossier auprès du secrétariat général de l'agence, ainsi que de s'en
+faire délivrer ou adresser une copie, et de se faire assister ou représenter par tout conseil de son choix ;
+
+6° La possibilité de présenter des explications écrites concernant l'infraction présumée ;
+
+7° Les droits qui lui sont reconnus aux articles R. 241-16 à R. 241-22 pour présenter sa défense ;
+
+8° La possibilité de bénéficier de l'application des dispositions du 4° du II de l'article L. 232-23-3-10 et du troisième
+alinéa de l'article L. 232-23-3-11 en avouant sans délai l'infraction ;
+
+9° La possibilité d'apporter au directeur des contrôles de l'Agence française de lutte contre le dopage des éléments
+constitutifs d'une aide substantielle au sens de l'article L. 230-4 et, le cas échéant, de voir la sanction d'interdiction
+qu'il encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article L. 232-23-3-2 ;
+
+10° La possibilité d'accepter la suspension provisoire prévue à l'article L. 232-23-4 lorsque le résultat d'analyse implique
+une substance spécifiée au sens de l'annexe I à la convention internationale mentionnée à l'article L. 230-2, ou lorsqu'une
+autre infraction aux dispositions du présent titre est en cause ;
+
+11° Qu'il lui sera proposé d'entrer en voie de composition administrative conformément aux dispositions du deuxième alinéa de
+l'article L. 232-21-1.
 
 La notification est transmise simultanément au président de la commission des sanctions.
-
-Le cas échéant, le secrétaire général de l'agence informe dans les mêmes conditions et par tout moyen la fédération sportive
-concernée. Cette fédération peut adresser des observations écrites à la commission des sanctions.
 
 **Liens relatifs à cet article**
 
@@ -35482,14 +35241,54 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
+
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - Décret n°2019-322 du 12 avril 2019 - art. 62
 
-_Cite_:
 
-  - Code du sport.
-  - Code du sport. - art. L232-22
+###### Article R241-16-1
+
+Le secrétaire général de l'Agence française de lutte contre le dopage propose à l'intéressé d'entrer en voie de composition
+administrative dans les conditions prévues à l'article R. 232-89.
+
+Sans préjudice de la possibilité de parvenir ultérieurement à un accord, la procédure de composition administrative est
+interrompue dans les conditions prévues à l'article R. 232-89-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 63
+
+
+###### Article R241-16-2
+
+Le collège peut prendre une décision de classement. Lorsque le collège décide de l'ouverture d'une procédure disciplinaire,
+la notification des griefs est adressée à l'intéressé par lettre recommandée avec demande d'avis de réception ou par lettre
+remise contre récépissé.
+
+La notification des griefs est transmise au président de la commission des sanctions. Le cas échéant, copie en est adressée,
+par tout moyen, à la fédération sportive concernée. Cette fédération peut adresser des observations écrites à la commission
+des sanctions.
+
+L'intéressé dispose d'un délai d'un mois pour transmettre au président de la commission des sanctions des observations
+écrites sur les griefs qui lui ont été notifiés. La notification des griefs mentionne ce délai et précise que l'intéressé
+peut prendre connaissance des autres pièces du dossier auprès de la commission des sanctions, ainsi que s'en faire délivrer
+ou adresser une copie, et se faire assister ou représenter par tout conseil de son choix.
+
+Le membre du collège ou l'agent désigné en application du dernier alinéa de l'article R. 232-11, qui a accès à l'ensemble des
+pièces du dossier, reçoit, de la part du secrétariat de la commission, une copie des observations écrites de l'intéressé sur
+les griefs qui lui ont été notifiés et peut y répondre par écrit. La réponse est communiquée à la personne mise en cause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-322 du 12 avril 2019 - art. 63
 
 
 ###### Article R241-17
@@ -35507,7 +35306,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-18
@@ -35526,9 +35329,9 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-19
@@ -35551,9 +35354,9 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-19-1
@@ -35563,9 +35366,9 @@ les modalités prévues à l'article R. 232-92-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-20
@@ -35592,17 +35395,17 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-21
 
 Le président de la commission des sanctions désigne un rapporteur parmi ses membres. Celui-ci établit un rapport exposant les
-faits et rappelant les conditions du déroulement de la procédure tant, le cas échéant, devant la fédération sportive que
-devant l'agence. Le rapporteur peut procéder, sans pouvoir les assortir de mesures de contrainte, à toute investigation utile
-dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé.
+faits et rappelant les conditions du déroulement de la procédure. Le rapporteur peut procéder, sans pouvoir les assortir de
+mesures de contrainte, à toute investigation utile dont le résultat est versé au dossier et communiqué avant la séance à
+l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -35615,9 +35418,13 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
+
 _Modifié par_:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - Décret n°2019-322 du 12 avril 2019 - art. 64
 
 
 ###### Article R241-22
@@ -35643,9 +35450,9 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-23
@@ -35663,9 +35470,9 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-24
@@ -35696,46 +35503,9 @@ _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
-
-
-###### Article R241-25
-
-Lorsque la commission des sanctions décide d'exercer son pouvoir de sanction, conformément aux articles L. 241-6 et L. 241-7,
-la durée de la suspension que l'animal ou la personne intéressée a déjà effectuée en exécution de la décision prononcée par
-le président de l'organe disciplinaire fédéral en application des dispositions de l'article 18 de l'annexe II-3 ou de la
-sanction prononcée par l'organe disciplinaire de la fédération est déduite, le cas échéant, de la sanction prononcée.
-
-Lorsque la commission des sanctions fait application des dispositions du 4° du II de l'article L. 232-22, l'extension ne vaut
-que pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 25 du décret n°2006-1629 du 18 décembre 2006 relatif à la lutte contre le dopage des animaux participant à des compétitions organisées ou autorisées par les fédérations sportives
-  - Décret n°2006-1629 du 18 décembre 2006 - art. 25 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2018-634 du 17 juillet 2018 - art. 6
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 65
-
-_Cite_:
-
-  - Code du sport.
-  - Code du sport. - art. L232-22
-  - Code du sport. - art. L241-6
-  - Code du sport. - art. L241-7
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 
 ###### Article R241-26
@@ -35758,20 +35528,24 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+**Liens**:
+
+  - DEPLACE: Décret n°2019-322 du 12 avril 2019 - art. 58
 
 _Cite_:
 
-  - Code du sport R241-4 à R241-7
+  - Code du sport.
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=291></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=292></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=292></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=293></a>
 
-#### Chapitre Ier : Sports de nature<a id=293></a>
+#### Chapitre Ier : Sports de nature<a id=294></a>
 
-##### Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature<a id=294></a>
+##### Section unique : Commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature<a id=295></a>
 
 ###### Article R311-1
 
@@ -35849,11 +35623,11 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-#### Chapitre II : Equipements sportifs<a id=295></a>
+#### Chapitre II : Equipements sportifs<a id=296></a>
 
-##### Section 1 : Dispositions communes<a id=296></a>
+##### Section 1 : Dispositions communes<a id=297></a>
 
-##### Sous-section 1 : Schéma de services collectifs du sport<a id=297></a>
+##### Sous-section 1 : Schéma de services collectifs du sport<a id=298></a>
 
 ###### Article D312-1
 
@@ -35880,7 +35654,7 @@ _Cité par_:
   - Code du sport. - art. R421-1 (V)
 
 
-##### Sous-section 2 : Déclaration des équipements sportifs<a id=298></a>
+##### Sous-section 2 : Déclaration des équipements sportifs<a id=299></a>
 
 ###### Article R312-2
 
@@ -36049,7 +35823,7 @@ _Cite_:
   - Code du sport. - art. R312-4 (V)
 
 
-##### Section 2 : Installations fixes<a id=299></a>
+##### Section 2 : Installations fixes<a id=300></a>
 
 ###### Article R312-8
 
@@ -36292,7 +36066,7 @@ _Cite_:
   - Code du sport. - art. L111-3 (V)
 
 
-##### Section 3 : Installations provisoires<a id=300></a>
+##### Section 3 : Installations provisoires<a id=301></a>
 
 ###### Article R312-16
 
@@ -36427,7 +36201,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 4 : La Commission nationale de sécurité des enceintes sportives<a id=301></a>
+##### Section 4 : La Commission nationale de sécurité des enceintes sportives<a id=302></a>
 
 ###### Article R312-22
 
@@ -36598,7 +36372,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 5 : Commission consultative départementale de sécurité et d'accessibilité<a id=302></a>
+##### Section 5 : Commission consultative départementale de sécurité et d'accessibilité<a id=303></a>
 
 ###### Article D312-26
 
@@ -36622,9 +36396,9 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=303></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=304></a>
 
-#### Chapitre Ier : Obligation d'assurance<a id=304></a>
+#### Chapitre Ier : Obligation d'assurance<a id=305></a>
 
 ###### Article D321-1
 
@@ -36825,11 +36599,11 @@ _Cite_:
   - Code du sport. - art. L321-4-1
 
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=305></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=306></a>
 
-##### Section 1 : Dispositions générales<a id=306></a>
+##### Section 1 : Dispositions générales<a id=307></a>
 
-##### Sous-section 2 : Obligations générales<a id=307></a>
+##### Sous-section 2 : Obligations générales<a id=308></a>
 
 ###### Article R322-4
 
@@ -36955,7 +36729,7 @@ _Cité par_:
   - Code du sport. - art. R322-9 (M)
 
 
-##### Sous-section 3 : Rôle du préfet du département<a id=308></a>
+##### Sous-section 3 : Rôle du préfet du département<a id=309></a>
 
 ###### Article R322-8
 
@@ -37047,7 +36821,7 @@ _Cite_:
   - Code du sport. - art. R322-9 (V)
 
 
-##### Section 2 : Etablissements de natation et d'activités aquatiques<a id=309></a>
+##### Section 2 : Etablissements de natation et d'activités aquatiques<a id=310></a>
 
 ###### Article D322-11
 
@@ -37251,7 +37025,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball<a id=310></a>
+##### Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball<a id=311></a>
 
 ###### Article R322-19
 
@@ -37558,7 +37332,7 @@ _Cite_:
   - Code du sport. - art. R322-25-1
 
 
-##### Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=311></a>
+##### Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=312></a>
 
 ###### Article R322-27
 
@@ -37992,7 +37766,7 @@ _Cite_:
   - Code du sport. - art. R322-37
 
 
-##### Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique<a id=312></a>
+##### Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique<a id=313></a>
 
 ###### Article R322-39
 
@@ -38097,11 +37871,11 @@ _Cite_:
   - Code du travail - art. R4461-21
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=313></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=314></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=314></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=315></a>
 
-##### Section 1 : Rôle des fédérations<a id=315></a>
+##### Section 1 : Rôle des fédérations<a id=316></a>
 
 ###### Article D331-1
 
@@ -38161,7 +37935,7 @@ _Cite_:
   - Code du sport. - art. L331-1 (V)
 
 
-##### Section 2 : Autorisation et déclaration préalable<a id=316></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=317></a>
 
 ###### Article R331-3
 
@@ -38253,7 +38027,7 @@ _Cite_:
   - Code du sport. - art. R331-6 (V)
 
 
-##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=317></a>
+##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives<a id=318></a>
 
 ###### Article D331-5
 
@@ -38273,9 +38047,9 @@ _Cite_:
   - Code du sport. - art. L331-9 (V)
 
 
-##### Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=318></a>
+##### Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur<a id=319></a>
 
-##### Sous-section 1 : Dispositions générales<a id=319></a>
+##### Sous-section 1 : Dispositions générales<a id=320></a>
 
 ###### Article R331-6
 
@@ -38357,7 +38131,7 @@ _Cite_:
   - Code du sport. - art. R331-6 (V)
 
 
-##### Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance<a id=320></a>
+##### Sous-section 2 : Déclaration des manifestations sportives sans chronométrage, sans classement et sans horaire fixé à l'avance<a id=321></a>
 
 ###### Article R331-8
 
@@ -38393,7 +38167,7 @@ _Cite_:
   - Code du sport. - art. R331-6 (V)
 
 
-##### Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance<a id=321></a>
+##### Sous-section 3 : Déclaration des manifestations avec classement, chronométrage ou horaire fixé à l'avance<a id=322></a>
 
 ###### Article R331-9
 
@@ -38523,7 +38297,7 @@ _Cité par_:
   - Code du sport. - art. R331-17-2 (V)
 
 
-##### Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives<a id=322></a>
+##### Sous-section 4 : Dispositions communes à l'ensemble des manifestations sportives<a id=323></a>
 
 ###### Article R331-14
 
@@ -38631,7 +38405,7 @@ _Créé par_:
   - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 
-##### Sous-section 5 : Dispositions pénales<a id=323></a>
+##### Sous-section 5 : Dispositions pénales<a id=324></a>
 
 ###### Article R331-17-2
 
@@ -38661,9 +38435,9 @@ _Cite_:
   - Code du sport. - art. R331-6
 
 
-##### Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur<a id=324></a>
+##### Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur<a id=325></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=325></a>
+##### Sous-section 1 : Dispositions générales.<a id=326></a>
 
 ###### Article R331-18
 
@@ -38880,7 +38654,7 @@ _Modifié par_:
   - Décret n°2017-1279 du 9 août 2017 - art. 12
 
 
-##### Sous-section 2 : Obligation déclarative.<a id=326></a>
+##### Sous-section 2 : Obligation déclarative.<a id=327></a>
 
 ###### Article R331-22
 
@@ -38957,7 +38731,7 @@ _Cite_:
   - Code du sport. - art. R131-26
 
 
-##### Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation<a id=327></a>
+##### Sous-section 3 : Déclaration des concentrations et délivrance de l'autorisation<a id=328></a>
 
 ###### Article R331-23
 
@@ -39180,7 +38954,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation.<a id=328></a>
+##### Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation.<a id=329></a>
 
 ###### Article R331-30
 
@@ -39289,7 +39063,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Sous-section 5 : Homologation des circuits.<a id=329></a>
+##### Sous-section 5 : Homologation des circuits.<a id=330></a>
 
 ###### Article R331-35
 
@@ -39645,7 +39419,7 @@ _Modifié par_:
   - Décret n°2017-1279 du 9 août 2017 - art. 23
 
 
-##### Sous-section 6 : Dispositions pénales.<a id=330></a>
+##### Sous-section 6 : Dispositions pénales.<a id=331></a>
 
 ###### Article R331-45
 
@@ -39718,7 +39492,7 @@ _Cite_:
   - Code du sport. - art. R331-35
 
 
-##### Section 6 : Organisation de manifestations publiques de sports de combat<a id=331></a>
+##### Section 6 : Organisation de manifestations publiques de sports de combat<a id=332></a>
 
 ###### Article R331-46
 
@@ -39977,9 +39751,9 @@ _Cite_:
   - Code du sport. - art. L331-6 (V)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=332></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=333></a>
 
-##### Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive<a id=333></a>
+##### Section 1 : Interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une manifestation sportive<a id=334></a>
 
 ###### Article R332-1
 
@@ -40226,7 +40000,7 @@ _Cite_:
   - Code du sport. - art. R332-8 (V)
 
 
-##### Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive<a id=334></a>
+##### Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive<a id=335></a>
 
 ###### Article R332-10
 
@@ -40314,7 +40088,7 @@ _Codifié par_:
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1<a id=335></a>
+##### Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1<a id=336></a>
 
 ###### Article R332-14
 
@@ -40510,9 +40284,9 @@ _Créé par_:
   - Décret n°2016-1954 du 28 décembre 2016 - art. 1
 
 
-#### Chapitre III : Retransmission des manifestations sportives<a id=336></a>
+#### Chapitre III : Retransmission des manifestations sportives<a id=337></a>
 
-##### Section 1 : Droit d'exploitation<a id=337></a>
+##### Section 1 : Droit d'exploitation<a id=338></a>
 
 ###### Article R333-1
 
@@ -40613,7 +40387,7 @@ _Cite_:
   - Code du sport. - art. R333-2
 
 
-##### Section 2 :  Liberté de diffusion<a id=338></a>
+##### Section 2 :  Liberté de diffusion<a id=339></a>
 
 ###### Article R333-4
 
@@ -40638,9 +40412,9 @@ _Cite_:
   - Code du sport. - art. L333-7
 
 
-#### Chapitre IV : Dispositions relatives aux paris sportifs<a id=339></a>
+#### Chapitre IV : Dispositions relatives aux paris sportifs<a id=340></a>
 
-##### Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4<a id=340></a>
+##### Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4<a id=341></a>
 
 ###### Article R333-5
 
@@ -40742,7 +40516,7 @@ _Créé par_:
   - Décret n°2016-760 du 8 juin 2016 - art. 2
 
 
-##### Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4<a id=341></a>
+##### Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4<a id=342></a>
 
 ###### Article R333-10
 
@@ -40833,13 +40607,13 @@ _Créé par_:
   - Décret n°2016-760 du 8 juin 2016 - art. 2
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=342></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=343></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=343></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=344></a>
 
-#### Chapitre unique<a id=344></a>
+#### Chapitre unique<a id=345></a>
 
-##### Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées<a id=345></a>
+##### Section 1 : Le financement par conventions d'objectifs des fédérations sportives agréées<a id=346></a>
 
 ###### Article R411-1
 
@@ -40862,9 +40636,9 @@ _Cité par_:
   - Code du sport. - art. R131-16 (V)
 
 
-##### Section 2 : Missions et fonctionnement du Centre national pour le développement du sport<a id=346></a>
+##### Section 2 : Missions et fonctionnement du Centre national pour le développement du sport<a id=347></a>
 
-##### Sous-section 1 : Dispositions générales<a id=347></a>
+##### Sous-section 1 : Dispositions générales<a id=348></a>
 
 ###### Article R411-2
 
@@ -40925,9 +40699,9 @@ _Cité par_:
   - Code du sport. - art. R427-1 (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=348></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=349></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=349></a>
+##### Paragraphe 1 : Dispositions générales<a id=350></a>
 
 ###### Article R*411-4
 
@@ -41301,7 +41075,7 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 8
 
 
-##### Paragraphe 2 : Organisation territoriale<a id=350></a>
+##### Paragraphe 2 : Organisation territoriale<a id=351></a>
 
 ###### Article R411-12
 
@@ -41530,7 +41304,7 @@ _Cite_:
   - Code du sport. - art. R411-6 (Ab)
 
 
-##### Paragraphe 3 : Dispositions particulières à la Corse<a id=351></a>
+##### Paragraphe 3 : Dispositions particulières à la Corse<a id=352></a>
 
 ###### Article R411-22
 
@@ -41567,7 +41341,7 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 8
 
 
-##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer<a id=352></a>
+##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer<a id=353></a>
 
 ###### Article R411-23
 
@@ -41607,7 +41381,7 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 8
 
 
-##### Sous-section 3 : Régime financier et comptable<a id=353></a>
+##### Sous-section 3 : Régime financier et comptable<a id=354></a>
 
 ###### Article R411-24
 
@@ -41740,9 +41514,9 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 8
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=354></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=355></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=355></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=356></a>
 
 ###### Article R421-1
 
@@ -41819,7 +41593,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (Ab)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=356></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=357></a>
 
 ###### Article R422-1
 
@@ -41884,7 +41658,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (Ab)
 
 
-#### Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna<a id=357></a>
+#### Chapitre III : Dispositions applicables dans les îles de Wallis et Futuna<a id=358></a>
 
 ###### Article R423-1
 
@@ -41927,7 +41701,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (Ab)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=358></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=359></a>
 
 ###### Article R424-1
 
@@ -41969,7 +41743,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (Ab)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=359></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=360></a>
 
 ###### Article R425-1
 
@@ -42011,7 +41785,7 @@ _Cité par_:
   - Code du sport. - art. R411-7 (Ab)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=360></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=361></a>
 
 ###### Article R426-1
 
@@ -42048,7 +41822,7 @@ _Cite_:
   - Code du sport. - art. R411-24
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=361></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=362></a>
 
 ###### Article R427-1
 
@@ -42085,7 +41859,7 @@ _Cite_:
   - Code du sport. - art. R411-24
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=362></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=363></a>
 
 ###### Article R428-1
 
@@ -42107,7 +41881,7 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 9
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=363></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=364></a>
 
 ###### Article R429-1
 
@@ -42129,15 +41903,15 @@ _Abrogé par_:
   - Décret n°2019-346 du 20 avril 2019 - art. 9
 
 
-# Partie réglementaire - Arrêtés<a id=364></a>
+# Partie réglementaire - Arrêtés<a id=365></a>
 
-## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES<a id=365></a>
+## LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES<a id=366></a>
 
-### TITRE Ier :  PERSONNES PUBLIQUES<a id=366></a>
+### TITRE Ier :  PERSONNES PUBLIQUES<a id=367></a>
 
-#### Chapitre II : Etablissements publics nationaux<a id=367></a>
+#### Chapitre II : Etablissements publics nationaux<a id=368></a>
 
-##### Section unique : Le Musée national du sport<a id=368></a>
+##### Section unique : Le Musée national du sport<a id=369></a>
 
 ###### Article A112-0
 
@@ -42150,7 +41924,7 @@ _Créé par_:
   - Arrêté du 1er juin 2015 - art. 2
 
 
-##### Sous-section unique : Contrôle budgétaire<a id=369></a>
+##### Sous-section unique : Contrôle budgétaire<a id=370></a>
 
 ###### Article A112-1
 
@@ -42415,9 +42189,9 @@ _Cité par_:
   - Code du sport. - art. A112-8 (V)
 
 
-#### Chapitre IV : Les centres de ressources, d'expertise et de performance sportive<a id=370></a>
+#### Chapitre IV : Les centres de ressources, d'expertise et de performance sportive<a id=371></a>
 
-##### Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration<a id=371></a>
+##### Section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration<a id=372></a>
 
 ###### Article A114-1
 
@@ -42490,7 +42264,7 @@ _Cite_:
   - Code du sport. - art. R114-7
 
 
-##### Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel<a id=372></a>
+##### Section 2 : Document prévisionnel de gestion des emplois et des crédits de personnel<a id=373></a>
 
 ###### Article A114-4
 
@@ -42577,9 +42351,9 @@ _Créé par_:
   - Arrêté du 13 septembre 2016 - art. 1
 
 
-### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=373></a>
+### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES<a id=374></a>
 
-#### Chapitre Ier : Associations sportives<a id=374></a>
+#### Chapitre Ier : Associations sportives<a id=375></a>
 
 ###### Article A121-1
 
@@ -42606,7 +42380,7 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-#### Chapitre II : Sociétés sportives<a id=375></a>
+#### Chapitre II : Sociétés sportives<a id=376></a>
 
 ###### Article A122-1
 
@@ -42629,9 +42403,9 @@ _Cite_:
   - Code du sport. - art. R122-5 (V)
 
 
-### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=376></a>
+### TITRE III : FÉDÉRATIONS SPORTIVES  ET LIGUES PROFESSIONNELLES<a id=377></a>
 
-#### Chapitre Ier : Fédérations sportives<a id=377></a>
+#### Chapitre Ier : Fédérations sportives<a id=378></a>
 
 ###### Article A131-3
 
@@ -42688,9 +42462,9 @@ _Modifié par_:
   - Arrêté du 24 août 2017 - art. 1
 
 
-### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=378></a>
+### TITRE IV : ORGANISMES DE REPRÉSENTATION  ET DE CONCILIATION<a id=379></a>
 
-#### Chapitre Ier : Le Comité national olympique et sportif français<a id=379></a>
+#### Chapitre Ier : Le Comité national olympique et sportif français<a id=380></a>
 
 ###### Article A141-1
 
@@ -42709,9 +42483,9 @@ _Cite_:
   - Code du sport. - art. R141-4 (V)
 
 
-#### Chapitre II : Autres organismes de concertation<a id=380></a>
+#### Chapitre II : Autres organismes de concertation<a id=381></a>
 
-##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=381></a>
+##### Section préliminaire : Commission d'examen des règlements fédéraux relatifs aux équipements sportifs<a id=382></a>
 
 ###### Article A142-0
 
@@ -42728,9 +42502,9 @@ _Cite_:
   - Code du sport. - art. R142-8
 
 
-##### Section 2 : Le Conseil supérieur des sports de montagne<a id=382></a>
+##### Section 2 : Le Conseil supérieur des sports de montagne<a id=383></a>
 
-##### Sous-section 1  La commission de la formation et de l'emploi<a id=383></a>
+##### Sous-section 1  La commission de la formation et de l'emploi<a id=384></a>
 
 ###### Article A142-5
 
@@ -43065,7 +42839,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=384></a>
+##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation<a id=385></a>
 
 ###### Article A142-20
 
@@ -43484,15 +43258,15 @@ _Modifié par_:
   - Arrêté du 10 juin 2009 - art. 1
 
 
-## LIVRE II : ACTEURS DU SPORT<a id=385></a>
+## LIVRE II : ACTEURS DU SPORT<a id=386></a>
 
-### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=386></a>
+### TITRE Ier : FORMATION ET ENSEIGNEMENT<a id=387></a>
 
-#### Chapitre Ier : Formation aux professions du sport<a id=387></a>
+#### Chapitre Ier : Formation aux professions du sport<a id=388></a>
 
-##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=388></a>
+##### Section 1 : L'Institut national du sport, de l'expertise et de la performance<a id=389></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=389></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration<a id=390></a>
 
 ###### Article A211-1
 
@@ -43583,9 +43357,9 @@ _Cite_:
   - Code du sport. - art. D211-4
 
 
-##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=390></a>
+##### Section 3 : L'Ecole nationale de voile et des sports nautiques<a id=391></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection des représentants des personnels au conseil d'administration<a id=391></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection des représentants des personnels au conseil d'administration<a id=392></a>
 
 ###### Article A211-39
 
@@ -43667,7 +43441,7 @@ _Cite_:
   - Code du sport. - art. D211-41
 
 
-##### Sous-section 2 : Contrôle budgétaire<a id=392></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=393></a>
 
 ###### Article A211-43
 
@@ -43939,9 +43713,9 @@ _Cité par_:
   - Code du sport. - art. A211-48 (V)
 
 
-##### Section 4 : L'Ecole nationale des sports de montagne<a id=393></a>
+##### Section 4 : L'Ecole nationale des sports de montagne<a id=394></a>
 
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=394></a>
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne<a id=395></a>
 
 ###### Article A211-50
 
@@ -44072,7 +43846,7 @@ _Cite_:
   - Code du sport. - art. D211-57
 
 
-##### Sous-section 2 : Contrôle budgétaire<a id=395></a>
+##### Sous-section 2 : Contrôle budgétaire<a id=396></a>
 
 ###### Article A211-57
 
@@ -44346,11 +44120,11 @@ _Cité par_:
   - Code du sport. - art. A211-62 (V)
 
 
-#### Chapitre II : Enseignement du sport contre rémunération<a id=396></a>
+#### Chapitre II : Enseignement du sport contre rémunération<a id=397></a>
 
-##### Section 1 : Obligation de qualification<a id=397></a>
+##### Section 1 : Obligation de qualification<a id=398></a>
 
-##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=398></a>
+##### Sous-section 1 : Liste des diplômes, titres à finalité professionnelle  ou certificats de qualification<a id=399></a>
 
 ###### Article A212-1
 
@@ -44395,7 +44169,7 @@ _Modifié par_:
   - Arrêté du 22 janvier 2016 - art. 2
 
 
-##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=399></a>
+##### Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports<a id=400></a>
 
 ###### Article A212-2
 
@@ -44441,7 +44215,7 @@ _Cité par_:
   - Code du sport. - art. A212-2 (V)
 
 
-##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=400></a>
+##### Paragraphe 1 : Organisation de la formation  en vue de l'accès au diplôme<a id=401></a>
 
 ###### Article A212-4
 
@@ -44578,7 +44352,7 @@ _Cité par_:
   - Code du sport. - art. A212-5 (VT)
 
 
-##### Paragraphe 2 : Délivrance du diplôme<a id=401></a>
+##### Paragraphe 2 : Délivrance du diplôme<a id=402></a>
 
 ###### Article A212-9
 
@@ -44739,7 +44513,7 @@ _Cité par_:
   - Code du sport. - art. A212-7 (VT)
 
 
-##### Paragraphe 3 : Dispositions transitoires<a id=402></a>
+##### Paragraphe 3 : Dispositions transitoires<a id=403></a>
 
 ###### Article A212-15
 
@@ -44791,7 +44565,7 @@ _Cite_:
   - Code du sport. - art. D212-11
 
 
-##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=403></a>
+##### Paragraphe 4 :  Validation des acquis de l'expérience<a id=404></a>
 
 ###### Article A212-16-1
 
@@ -44829,9 +44603,9 @@ _Abrogé par_:
   - Arrêté du 26 février 2019 - art. 1
 
 
-##### Sous-section 2 bis : Dispositions générales et communes au certificat professionnel, au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (CPJEPS, BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires<a id=404></a>
+##### Sous-section 2 bis : Dispositions générales et communes au certificat professionnel, au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (CPJEPS, BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires<a id=405></a>
 
-##### Paragraphe 1 : Le jury<a id=405></a>
+##### Paragraphe 1 : Le jury<a id=406></a>
 
 ###### Article A212-17
 
@@ -45128,7 +44902,7 @@ _Cite_:
   - Code du sport. - art. R212-10-2
 
 
-##### Paragraphe 2 : L'habilitation<a id=406></a>
+##### Paragraphe 2 : L'habilitation<a id=407></a>
 
 ###### Article A212-29
 
@@ -45272,9 +45046,9 @@ _Cite_:
   - Code du sport. - art. R212-10-8
 
 
-##### Paragraphe 3 : Les modalités de la formation<a id=407></a>
+##### Paragraphe 3 : Les modalités de la formation<a id=408></a>
 
-##### Sous-Paragraphe 1 : Les conditions d'inscription des candidats<a id=408></a>
+##### Sous-Paragraphe 1 : Les conditions d'inscription des candidats<a id=409></a>
 
 ###### Article A212-35
 
@@ -45473,7 +45247,7 @@ _Cite_:
   - Code du sport. - art. R212-10-13
 
 
-##### Sous-Paragraphe 2 : L'harmonisation nationale<a id=409></a>
+##### Sous-Paragraphe 2 : L'harmonisation nationale<a id=410></a>
 
 ###### Article A212-40
 
@@ -45517,7 +45291,7 @@ _Cite_:
   - Code du sport. - art. R212-10-18
 
 
-##### Sous-Paragraphe 3 : La validation des acquis de l'expérience<a id=410></a>
+##### Sous-Paragraphe 3 : La validation des acquis de l'expérience<a id=411></a>
 
 ###### Article A212-41
 
@@ -45757,7 +45531,7 @@ _Abrogé par_:
   - Arrêté du 15 avril 2019 - art. 1
 
 
-##### Sous-Paragraphe 4 : Les personnes en situation de handicap<a id=411></a>
+##### Sous-Paragraphe 4 : Les personnes en situation de handicap<a id=412></a>
 
 ###### Article A212-44
 
@@ -45808,9 +45582,9 @@ _Cite_:
   - Code du sport. - art. A212-44 (V)
 
 
-##### Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport<a id=412></a>
+##### Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport<a id=413></a>
 
-##### Paragraphe 1: Spécialité “ animateur ”<a id=413></a>
+##### Paragraphe 1: Spécialité “ animateur ”<a id=414></a>
 
 ###### Article A212-46
 
@@ -45824,7 +45598,7 @@ _Modifié par_:
   - Arrêté du 27 avril 2016 - art. 1
 
 
-##### Paragraphe 2 : Spécialité “ éducateur sportif ”<a id=414></a>
+##### Paragraphe 2 : Spécialité “ éducateur sportif ”<a id=415></a>
 
 ###### Article A212-47
 
@@ -45960,9 +45734,9 @@ _Créé par_:
   - Arrêté du 27 avril 2016 - art. 1
 
 
-##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=415></a>
+##### Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport<a id=416></a>
 
-##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=416></a>
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=417></a>
 
 ###### Article A212-48
 
@@ -45980,7 +45754,7 @@ _Cite_:
   - Code du sport. - art. D212-35
 
 
-##### Paragraphe 2 : Spécialité “perfectionnement sportif”<a id=417></a>
+##### Paragraphe 2 : Spécialité “perfectionnement sportif”<a id=418></a>
 
 ###### Article A212-49
 
@@ -46234,9 +46008,9 @@ _Créé par_:
   - Arrêté du 2 mai 2016 - art. 1
 
 
-##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=418></a>
+##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport<a id=419></a>
 
-##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=419></a>
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”<a id=420></a>
 
 ###### Article A212-53
 
@@ -46254,7 +46028,7 @@ _Cité par_:
   - Code du sport. - art. A212-54 (M)
 
 
-##### Paragraphe 2 : Spécialité "performance sportive"<a id=420></a>
+##### Paragraphe 2 : Spécialité "performance sportive"<a id=421></a>
 
 ###### Article A212-54
 
@@ -46503,9 +46277,9 @@ _Créé par_:
   - Arrêté du 2 mai 2016 - art. 2
 
 
-##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=421></a>
+##### Sous-section 6 : Brevet d'Etat d'éducateur sportif<a id=422></a>
 
-##### Paragraphe 1 : Présentation du diplôme<a id=422></a>
+##### Paragraphe 1 : Présentation du diplôme<a id=423></a>
 
 ###### Article A212-102
 
@@ -46716,7 +46490,7 @@ _Cite_:
   - Code du sport. - art. A212-104 (V)
 
 
-##### Paragraphe 2 : Conditions et formalités d'inscription<a id=423></a>
+##### Paragraphe 2 : Conditions et formalités d'inscription<a id=424></a>
 
 ###### Article A212-108
 
@@ -46898,7 +46672,7 @@ _Cité par_:
   - Code du sport. - art. Annexe II-10 (art. A212-167) (V)
 
 
-##### Paragraphe 3 : Composition du jury<a id=424></a>
+##### Paragraphe 3 : Composition du jury<a id=425></a>
 
 ###### Article A212-112
 
@@ -47083,7 +46857,7 @@ _Cite_:
   - Code du sport. - art. D212-73 (V)
 
 
-##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=425></a>
+##### Paragraphe 4 : Points de bonification pour titres sportifs<a id=426></a>
 
 ###### Article A212-115
 
@@ -47110,9 +46884,9 @@ _Cite_:
   - Code du sport. - art. D212-70 (V)
 
 
-##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=426></a>
+##### Paragraphe 5 : Nature des épreuves de l'examen conduisant à la délivrance  du brevet d'Etat d'éducateur sportif à trois degrés<a id=427></a>
 
-##### Sous-paragraphe 1 : Partie commune<a id=427></a>
+##### Sous-paragraphe 1 : Partie commune<a id=428></a>
 
 ###### Article A212-120
 
@@ -47191,7 +46965,7 @@ _Cite_:
   - Code du sport. - art. A212-120 (V)
 
 
-##### Sous-paragraphe 2 : Partie spécifique<a id=428></a>
+##### Sous-paragraphe 2 : Partie spécifique<a id=429></a>
 
 ###### Article A212-122
 
@@ -47449,7 +47223,7 @@ _Cite_:
   - Code du sport. - art. A212-127 (V)
 
 
-##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=429></a>
+##### Paragraphe 6 : Nature du contrôle continu des connaissances conduisant au brevet d'Etat d'éducateur sportif à trois degrés au cours d'une formation relevant du ministre chargé des sports<a id=430></a>
 
 ###### Article A212-129
 
@@ -47742,7 +47516,7 @@ _Cite_:
   - Code du sport. - art. A212-129 (V)
 
 
-##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=430></a>
+##### Paragraphe 7 : Nature des épreuves conduisant à la délivrance du brevet d'Etat  d'éducateur sportif à trois degrés à l'issue d'une formation modulaire<a id=431></a>
 
 ###### Article A212-140
 
@@ -48041,7 +47815,7 @@ _Cite_:
   - Code du sport. - art. A212-138 (V)
 
 
-##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=431></a>
+##### Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau<a id=432></a>
 
 ###### Article A212-151
 
@@ -48217,7 +47991,7 @@ _Cite_:
   - Code du sport. - art. A212-144 (V)
 
 
-##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=432></a>
+##### Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées<a id=433></a>
 
 ###### Article A212-158
 
@@ -48338,7 +48112,7 @@ _Cité par_:
   - Code du sport. - art. A212-111 (V)
 
 
-##### Paragraphe 10 : Dispositions générales<a id=433></a>
+##### Paragraphe 10 : Dispositions générales<a id=434></a>
 
 ###### Article A212-163
 
@@ -48467,7 +48241,7 @@ _Cite_:
   - Code du sport. - art. Annexe II-11 (V)
 
 
-##### Paragraphe 11 : Validation des acquis de l'expérience<a id=434></a>
+##### Paragraphe 11 : Validation des acquis de l'expérience<a id=435></a>
 
 ###### Article 212-167-1
 
@@ -48584,7 +48358,7 @@ _Créé par_:
   - Arrêté du 24 décembre 2008 - art. 8
 
 
-##### Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne<a id=435></a>
+##### Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne<a id=436></a>
 
 ###### Article A212-168
 
@@ -48753,7 +48527,7 @@ _Modifié par_:
   - Arrêté du 11 janvier 2013 - art. 2
 
 
-##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=436></a>
+##### Sous-section 8 : Commission de reconnaissance des qualifications<a id=437></a>
 
 ###### Article A212-175-10
 
@@ -48771,7 +48545,7 @@ _Anciens textes_:
   - Code du sport. - art. A212-175-2 (T)
 
 
-##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=437></a>
+##### Sous-Section 9 : Organisation des formations conduisant aux diplômes portant sur les activités physiques et sportives s'exerçant en environnement spécifique<a id=438></a>
 
 ###### Article A212-175-11
 
@@ -48848,9 +48622,9 @@ _Créé par_:
   - Arrêté du 11 septembre 2013 - art. 1
 
 
-##### Sous-section 10 : Commissions spécialisées des dans et grades équivalents<a id=438></a>
+##### Sous-section 10 : Commissions spécialisées des dans et grades équivalents<a id=439></a>
 
-##### Paragraphe 1 : Fédérations sportives disposant d'une commission spécialisée des dans et grades équivalents<a id=439></a>
+##### Paragraphe 1 : Fédérations sportives disposant d'une commission spécialisée des dans et grades équivalents<a id=440></a>
 
 ###### Article A212-175-15
 
@@ -48872,7 +48646,7 @@ _Créé par_:
   - Arrêté du 5 août 2016 - art. 1
 
 
-##### Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents<a id=440></a>
+##### Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents<a id=441></a>
 
 ###### Article A212-175-16
 
@@ -48931,9 +48705,9 @@ _Créé par_:
   - Arrêté du 5 août 2016 - art. 1
 
 
-##### Section 2 : Obligation de déclaration d'activité<a id=441></a>
+##### Section 2 : Obligation de déclaration d'activité<a id=442></a>
 
-##### Sous-section 1 : Principes<a id=442></a>
+##### Sous-section 1 : Principes<a id=443></a>
 
 ###### Article A212-176
 
@@ -49076,11 +48850,11 @@ _Cite_:
   - Code du sport. - art. R212-86 (V)
 
 
-##### Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=443></a>
+##### Sous-section 2 : Ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=444></a>
 
-##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=444></a>
+##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services<a id=445></a>
 
-##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=445></a>
+##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen souhaitant s'établir en France<a id=446></a>
 
 ###### Article A212-182
 
@@ -49121,7 +48895,7 @@ _Cite_:
   - Code du sport. - art. R212-88
 
 
-##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services<a id=446></a>
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen  souhaitant exercer en France dans le cadre d'une prestation de services<a id=447></a>
 
 ###### Article A212-182-2
 
@@ -49140,9 +48914,9 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Paragraphe 2 : Ski<a id=447></a>
+##### Paragraphe 2 : Ski<a id=448></a>
 
-##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=448></a>
+##### Sous-paragraphe 1 : Ski alpin et activités dérivées.<a id=449></a>
 
 ###### Article A212-183
 
@@ -49371,7 +49145,7 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=449></a>
+##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.<a id=450></a>
 
 ###### Article A212-192-1
 
@@ -49567,9 +49341,9 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Paragraphe 3  : Plongée subaquatique<a id=450></a>
+##### Paragraphe 3  : Plongée subaquatique<a id=451></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=451></a>
+##### Sous-paragraphe 1 : Déclaration<a id=452></a>
 
 ###### Article A212-193
 
@@ -49590,7 +49364,7 @@ _Cite_:
   - Code du sport. - art. R212-92 (V)
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=452></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=453></a>
 
 ###### Article A212-194
 
@@ -49617,7 +49391,7 @@ _Cite_:
   - Code du sport. - art. R212-93 (V)
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=453></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=454></a>
 
 ###### Article A212-195
 
@@ -49690,7 +49464,7 @@ _Cite_:
   - Code du sport. - art. A212-196 (V)
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=454></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=455></a>
 
 ###### Article A212-198
 
@@ -49718,9 +49492,9 @@ _Cite_:
   - Code du sport. - art. A322-71 (V)
 
 
-##### Paragraphe 5 : Parachutisme<a id=455></a>
+##### Paragraphe 5 : Parachutisme<a id=456></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=456></a>
+##### Sous-paragraphe 1 : Déclaration<a id=457></a>
 
 ###### Article A212-209
 
@@ -49736,7 +49510,7 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=457></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=458></a>
 
 ###### Article A212-210
 
@@ -49768,7 +49542,7 @@ _Cité par_:
   - Code du sport. - art. A212-211 (M)
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=458></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=459></a>
 
 ###### Article A212-211
 
@@ -49825,7 +49599,7 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=459></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=460></a>
 
 ###### Article A212-214
 
@@ -49853,9 +49627,9 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Paragraphe 6 : Spéléologie<a id=460></a>
+##### Paragraphe 6 : Spéléologie<a id=461></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=461></a>
+##### Sous-paragraphe 1 : Déclaration<a id=462></a>
 
 ###### Article A212-215
 
@@ -49889,7 +49663,7 @@ _Cite_:
   - Code du sport. - art. R212-92 (V)
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=462></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=463></a>
 
 ###### Article A212-216
 
@@ -49911,7 +49685,7 @@ _Cite_:
   - Code du sport. - art. R212-93 (V)
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=463></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=464></a>
 
 ###### Article A212-217
 
@@ -49975,7 +49749,7 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=464></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=465></a>
 
 ###### Article A212-220
 
@@ -49992,9 +49766,9 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Paragraphe 7 : Alpinisme-Guide de haute montagne<a id=465></a>
+##### Paragraphe 7 : Alpinisme-Guide de haute montagne<a id=466></a>
 
-##### Sous-paragraphe 1 : Déclaration<a id=466></a>
+##### Sous-paragraphe 1 : Déclaration<a id=467></a>
 
 ###### Article A212-221
 
@@ -50020,7 +49794,7 @@ _Cite_:
   - Code du sport. - art. R212-92
 
 
-##### Sous-paragraphe 2 : Différence substantielle<a id=467></a>
+##### Sous-paragraphe 2 : Différence substantielle<a id=468></a>
 
 ###### Article A212-222
 
@@ -50085,7 +49859,7 @@ _Cite_:
   - Code du sport. - art. R212-93
 
 
-##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=468></a>
+##### Sous-paragraphe 3 : Epreuve d'aptitude<a id=469></a>
 
 ###### Article A212-225
 
@@ -50151,7 +49925,7 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-##### Sous-paragraphe 4 : Conditions d'exercice<a id=469></a>
+##### Sous-paragraphe 4 : Conditions d'exercice<a id=470></a>
 
 ###### Article A212-228
 
@@ -50171,11 +49945,11 @@ _Modifié par_:
   - Arrêté du 4 décembre 2017 - art. 1
 
 
-### TITRE II : SPORTIFS<a id=470></a>
+### TITRE II : SPORTIFS<a id=471></a>
 
-#### Chapitre II : Sport professionnel<a id=471></a>
+#### Chapitre II : Sport professionnel<a id=472></a>
 
-##### Section unique  Agents sportifs<a id=472></a>
+##### Section unique  Agents sportifs<a id=473></a>
 
 ###### Article A222-1
 
@@ -50349,11 +50123,11 @@ _Cite_:
   - Code du sport. - art. L222-17
 
 
-### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=473></a>
+### TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE<a id=474></a>
 
-#### Chapitre Ier : Suivi médical des sportifs<a id=474></a>
+#### Chapitre Ier : Suivi médical des sportifs<a id=475></a>
 
-##### Section 1 : Certificat médical et questionnaire de santé<a id=475></a>
+##### Section 1 : Certificat médical et questionnaire de santé<a id=476></a>
 
 ###### Article A231-1
 
@@ -50479,9 +50253,9 @@ _Cite_:
   - Code du sport. - art. D231-1-4
 
 
-##### Section 2 : Rôle des fédérations sportives<a id=476></a>
+##### Section 2 : Rôle des fédérations sportives<a id=477></a>
 
-##### Sous-section 1 : Sportifs de haut niveau<a id=477></a>
+##### Sous-section 1 : Sportifs de haut niveau<a id=478></a>
 
 ###### Article A231-3
 
@@ -50524,7 +50298,7 @@ _Cite_:
   - Code du sport. - art. R221-2
 
 
-##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=478></a>
+##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux<a id=479></a>
 
 ###### Article A231-4
 
@@ -50554,7 +50328,7 @@ _Cite_:
   - Code du sport. - art. L221-2 (V)
 
 
-##### Section 3 : Sportifs professionnels salariés<a id=479></a>
+##### Section 3 : Sportifs professionnels salariés<a id=480></a>
 
 ###### Article A231-5
 
@@ -50576,13 +50350,13 @@ _Cite_:
   - Code du sport. - art. A231-3
 
 
-## LIVRE III : PRATIQUE SPORTIVE<a id=480></a>
+## LIVRE III : PRATIQUE SPORTIVE<a id=481></a>
 
-### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=481></a>
+### TITRE Ier : LIEUX DE PRATIQUES SPORTIVES<a id=482></a>
 
-#### Chapitre II : Equipements sportifs<a id=482></a>
+#### Chapitre II : Equipements sportifs<a id=483></a>
 
-##### Section 1 : Dispositions communes<a id=483></a>
+##### Section 1 : Dispositions communes<a id=484></a>
 
 ###### Article A312-1
 
@@ -50612,7 +50386,7 @@ _Cite_:
   - Code du sport. - art. R312-4
 
 
-##### Section 2 : Installations fixes<a id=484></a>
+##### Section 2 : Installations fixes<a id=485></a>
 
 ###### Article A312-2
 
@@ -50831,7 +50605,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-3 (V)
 
 
-##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=485></a>
+##### Section 3 : La Commission nationale de sécurité  des enceintes sportives<a id=486></a>
 
 ###### Article A312-10
 
@@ -50910,13 +50684,13 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=486></a>
+### TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES<a id=487></a>
 
-#### Chapitre II : Garanties d'hygiène et de sécurité<a id=487></a>
+#### Chapitre II : Garanties d'hygiène et de sécurité<a id=488></a>
 
-##### Section 1 : Dispositions générales<a id=488></a>
+##### Section 1 : Dispositions générales<a id=489></a>
 
-##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=489></a>
+##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives<a id=490></a>
 
 ###### Article A322-1
 
@@ -50959,7 +50733,7 @@ _Cite_:
   - Code du sport. - art. L322-1
 
 
-##### Paragraphe 2 : Information des pratiquants<a id=490></a>
+##### Paragraphe 2 : Information des pratiquants<a id=491></a>
 
 ###### Article A322-3
 
@@ -50978,9 +50752,9 @@ _Cite_:
   - Code du sport. - art. R322-1
 
 
-##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=491></a>
+##### Section 2 : Etablissements d'activités aquatiques et nautiques<a id=492></a>
 
-##### Sous-section préliminaire : Dispositions communes<a id=492></a>
+##### Sous-section préliminaire : Dispositions communes<a id=493></a>
 
 ###### Article A322-3-1
 
@@ -51127,9 +50901,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=493></a>
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade<a id=494></a>
 
-##### Paragraphe 1 : Obligation de déclaration<a id=494></a>
+##### Paragraphe 1 : Obligation de déclaration<a id=495></a>
 
 ###### Article A322-4
 
@@ -51202,7 +50976,7 @@ _Cite_:
   - Code de la santé publique - art. L1332-5 (V)
 
 
-##### Paragraphe 2 : Obligation de surveillance<a id=495></a>
+##### Paragraphe 2 : Obligation de surveillance<a id=496></a>
 
 ###### Article A322-8
 
@@ -51299,7 +51073,7 @@ _Cite_:
   - Code du sport. - art. A322-8 (V)
 
 
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=496></a>
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours<a id=497></a>
 
 ###### Article A322-12
 
@@ -51450,7 +51224,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=497></a>
+##### Paragraphe 4 : Normes d'hygiène et de sécurité<a id=498></a>
 
 ###### Article A322-18
 
@@ -51469,7 +51243,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=498></a>
+##### Paragraphe 5 : Garanties de techniques et de sécurité<a id=499></a>
 
 ###### Article A322-19
 
@@ -51900,9 +51674,9 @@ _Cité par_:
   - Code du sport. - art. A322-40 (V)
 
 
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=499></a>
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques<a id=500></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=500></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=501></a>
 
 ###### Article A322-42
 
@@ -51949,7 +51723,7 @@ _Cité par_:
   - Code du sport. - art. A322-53 (VT)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=501></a>
+##### Paragraphe 2 : Conditions de pratique<a id=502></a>
 
 ###### Article A322-44
 
@@ -51970,7 +51744,7 @@ _Cité par_:
   - Code du sport. - art. A322-58 (VT)
 
 
-##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=502></a>
+##### Paragraphe 3 : Dispositions relatives au matériel et équipement<a id=503></a>
 
 ###### Article A322-45
 
@@ -52063,7 +51837,7 @@ _Modifié par_:
   - Arrêté du 31 mars 2016 - art. 2
 
 
-##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=503></a>
+##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique<a id=504></a>
 
 ###### Article A322-48
 
@@ -52150,7 +51924,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
 
 
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=504></a>
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile<a id=505></a>
 
 ###### Article A322-64
 
@@ -52367,7 +52141,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=505></a>
+##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique<a id=506></a>
 
 ###### Article A322-71
 
@@ -52396,7 +52170,7 @@ _Cite_:
   - Code du sport. - art. L322-2
 
 
-##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=506></a>
+##### Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air<a id=507></a>
 
 ###### Article A322-72
 
@@ -52691,7 +52465,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-16 a
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=507></a>
+##### Sous-section 2 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'air<a id=508></a>
 
 ###### Article A322-82
 
@@ -52847,9 +52621,9 @@ _Cité par_:
   - Code du sport. - art. A322-88 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=508></a>
+##### Sous-section 3 : Dispositions relatives aux établissements organisant la pratique de la plongée subaquatique à l'oxygène ou aux mélanges autres que l'air<a id=509></a>
 
-##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=509></a>
+##### Paragraphe 1 : Dispositions générales relatives à l'oxygène ou aux mélanges autres que l'air<a id=510></a>
 
 ###### Article A322-90
 
@@ -52961,7 +52735,7 @@ _Modifié par_:
   - Arrêté du 5 janvier 2012 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières au nitrox<a id=510></a>
+##### Paragraphe 2 : Dispositions particulières au nitrox<a id=511></a>
 
 ###### Article A322-95
 
@@ -52982,7 +52756,7 @@ _Cite_:
   - Code du sport. - art. Annexe III-17 b (art. A322-91) (V)
 
 
-##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=511></a>
+##### Paragraphe 3 : Dispositions particulières au trimix et à l'héliox<a id=512></a>
 
 ###### Article A322-96
 
@@ -53025,7 +52799,7 @@ _Cite_:
   - Code du sport. - art. A322-78 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=512></a>
+##### Sous-section 4 : Dispositions diverses<a id=513></a>
 
 ###### Article A322-98
 
@@ -53132,9 +52906,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-19 (art. A322-78) (V)
 
 
-##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=513></a>
+##### Section 4 : Etablissements organisant la pratique d'activités utilisant des équidés<a id=514></a>
 
-##### Paragraphe 1 : Dispositions préliminaires<a id=514></a>
+##### Paragraphe 1 : Dispositions préliminaires<a id=515></a>
 
 ###### Article A322-116
 
@@ -53156,7 +52930,7 @@ _Cite_:
   - Code du sport. - art. L322-2 (V)
 
 
-##### Paragraphe 2 : Conditions de pratique<a id=515></a>
+##### Paragraphe 2 : Conditions de pratique<a id=516></a>
 
 ###### Article A322-117
 
@@ -53198,7 +52972,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=516></a>
+##### Paragraphe 3 : Dispositions relatives aux équipements de protection individuelle<a id=517></a>
 
 ###### Article A322-120
 
@@ -53237,7 +53011,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Paragraphe 4 : Dispositions relatives aux installations<a id=517></a>
+##### Paragraphe 4 : Dispositions relatives aux installations<a id=518></a>
 
 ###### Article A322-123
 
@@ -53279,7 +53053,7 @@ _Modifié par_:
   - Arrêté du 5 mai 2017 - art. 1
 
 
-##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=518></a>
+##### Section 6 : Etablissements de pratique  de tir aux armes de chasse<a id=519></a>
 
 ###### Article A322-142
 
@@ -53381,9 +53155,9 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=519></a>
+##### Section 7 : Etablissements organisant la pratique du parachutisme ou l'activité de chute libre en soufflerie<a id=520></a>
 
-##### Paragraphe 1 : Champ d'application<a id=520></a>
+##### Paragraphe 1 : Champ d'application<a id=521></a>
 
 ###### Article A322-147
 
@@ -53404,7 +53178,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 2 : Les séances de saut<a id=521></a>
+##### Paragraphe 2 : Les séances de saut<a id=522></a>
 
 ###### Article A322-148
 
@@ -53595,7 +53369,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 3 : Les zones d'atterrissage<a id=522></a>
+##### Paragraphe 3 : Les zones d'atterrissage<a id=523></a>
 
 ###### Article A322-155
 
@@ -53633,7 +53407,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 4 : Les équipements<a id=523></a>
+##### Paragraphe 4 : Les équipements<a id=524></a>
 
 ###### Article A322-157
 
@@ -53687,7 +53461,7 @@ _Cite_:
   - Code du sport. - art. A322-150 (V)
 
 
-##### Paragraphe 5 : L'encadrement<a id=524></a>
+##### Paragraphe 5 : L'encadrement<a id=525></a>
 
 ###### Article A322-159
 
@@ -53749,7 +53523,7 @@ _Cite_:
   - Code du sport. - art. A322-152 (V)
 
 
-##### Paragraphe 6 : Les moyens matériels<a id=525></a>
+##### Paragraphe 6 : Les moyens matériels<a id=526></a>
 
 ###### Article A322-162
 
@@ -53791,7 +53565,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=526></a>
+##### Paragraphe 7 : Les procédures d'enquête en cas d'accident<a id=527></a>
 
 ###### Article A322-164
 
@@ -53814,9 +53588,9 @@ _Cite_:
   - Code du sport. - art. R322-4
 
 
-##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=527></a>
+##### Paragraphe 8 : La pratique de l'activité de chute libre en soufflerie<a id=528></a>
 
-##### Sous-paragraphe 1er : Les séances de vol<a id=528></a>
+##### Sous-paragraphe 1er : Les séances de vol<a id=529></a>
 
 ###### Article A322-165
 
@@ -53911,7 +53685,7 @@ _Cité par_:
   - Code du sport. - art. A322-175 (VT)
 
 
-##### Sous-paragraphe 2 :  Les machines<a id=529></a>
+##### Sous-paragraphe 2 :  Les machines<a id=530></a>
 
 ###### Article A322-169
 
@@ -53925,7 +53699,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 3 : Les équipements<a id=530></a>
+##### Sous-paragraphe 3 : Les équipements<a id=531></a>
 
 ###### Article A322-170
 
@@ -53942,7 +53716,7 @@ _Modifié par_:
   - Arrêté du 25 mars 2016 - art. 1
 
 
-##### Sous-paragraphe 4 : L'encadrement<a id=531></a>
+##### Sous-paragraphe 4 : L'encadrement<a id=532></a>
 
 ###### Article A322-171
 
@@ -53972,7 +53746,7 @@ _Cite_:
   - Code du sport. - art. L212-1
 
 
-##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=532></a>
+##### Section 8 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs<a id=533></a>
 
 ###### Article A322-176
 
@@ -54013,13 +53787,13 @@ _Cite_:
   - Code du sport. - art. R322-37 (VD)
 
 
-### TITRE III : MANIFESTATIONS SPORTIVES<a id=533></a>
+### TITRE III : MANIFESTATIONS SPORTIVES<a id=534></a>
 
-#### Chapitre Ier : Organisation des manifestations sportives<a id=534></a>
+#### Chapitre Ier : Organisation des manifestations sportives<a id=535></a>
 
-##### Section 2 : Autorisation et déclaration préalable<a id=535></a>
+##### Section 2 : Autorisation et déclaration préalable<a id=536></a>
 
-##### Sous-section 1 : Dispositions générales<a id=536></a>
+##### Sous-section 1 : Dispositions générales<a id=537></a>
 
 ###### Article A331-1
 
@@ -54038,7 +53812,7 @@ _Cite_:
   - Code du sport. - art. L331-5 (V)
 
 
-##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur<a id=537></a>
+##### Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules terrestres à moteur<a id=538></a>
 
 ###### Article A331-2
 
@@ -54185,9 +53959,9 @@ _Cite_:
   - Code du sport. - art. R331-9-1
 
 
-##### Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur<a id=538></a>
+##### Sous-section 3 : Concentrations et manifestations sportives comportant la participation de véhicules terrestres à moteur<a id=539></a>
 
-##### Paragraphe 1 : Manifestations et concentrations soumises à déclaration<a id=539></a>
+##### Paragraphe 1 : Manifestations et concentrations soumises à déclaration<a id=540></a>
 
 ###### Article A331-16
 
@@ -54319,7 +54093,7 @@ _Cité par_:
   - Code du sport. - art. A331-18 (V)
 
 
-##### Paragraphe 2 : Manifestations soumises à autorisation<a id=540></a>
+##### Paragraphe 2 : Manifestations soumises à autorisation<a id=541></a>
 
 ###### Article A331-20
 
@@ -54404,7 +54178,7 @@ _Cite_:
   - Code de la route. - art. R411-29 (V)
 
 
-##### Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000<a id=541></a>
+##### Paragraphe 3 : Manifestations soumises à l'évaluation des incidences Natura 2000<a id=542></a>
 
 ###### Article A331-21-1
 
@@ -54442,7 +54216,7 @@ _Cite_:
   - Code de l'environnement - art. R414-19
 
 
-##### Paragraphe 4 : Dossier de demande d'homologation de circuit<a id=542></a>
+##### Paragraphe 4 : Dossier de demande d'homologation de circuit<a id=543></a>
 
 ###### Article A331-21-2
 
@@ -54496,7 +54270,7 @@ _Créé par_:
   - Arrêté du 24 novembre 2017 - art. 1
 
 
-##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=543></a>
+##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19<a id=544></a>
 
 ###### Article A331-22
 
@@ -54550,9 +54324,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-25 (V)
 
 
-##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=544></a>
+##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives<a id=545></a>
 
-##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=545></a>
+##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.<a id=546></a>
 
 ###### Article A331-25
 
@@ -54573,7 +54347,7 @@ _Cite_:
   - Code du sport. - art. R331-14
 
 
-##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=546></a>
+##### Sous-section 2 : Epreuves ou manifestations comportant la participation  de véhicules terrestres à moteur<a id=547></a>
 
 ###### Article A331-32
 
@@ -54596,7 +54370,7 @@ _Cite_:
   - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=547></a>
+##### Section 4 : Organisation de manifestations publiques de sports de combat<a id=548></a>
 
 ###### Article A331-33
 
@@ -54712,9 +54486,9 @@ _Cite_:
   - Code du sport. - art. Annexe III-28 (VD)
 
 
-#### Chapitre II : Sécurité des manifestations sportives<a id=548></a>
+#### Chapitre II : Sécurité des manifestations sportives<a id=549></a>
 
-##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=549></a>
+##### Section 1 : Organisation d'épreuves et compétitions sportives sur la voie publique<a id=550></a>
 
 ###### Article A331-37
 
@@ -54834,13 +54608,13 @@ _Cite_:
   - Code du sport. - art. A331-40
 
 
-## LIVRE IV : DISPOSITIONS DIVERSES<a id=550></a>
+## LIVRE IV : DISPOSITIONS DIVERSES<a id=551></a>
 
-### TITRE Ier : FINANCEMENT DU SPORT<a id=551></a>
+### TITRE Ier : FINANCEMENT DU SPORT<a id=552></a>
 
-#### Chapitre unique<a id=552></a>
+#### Chapitre unique<a id=553></a>
 
-##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=553></a>
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport<a id=554></a>
 
 ###### Article A411-1
 
@@ -55106,9 +54880,9 @@ _Cité par_:
   - Code du sport. - art. A411-8 (V)
 
 
-### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=554></a>
+### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER<a id=555></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=555></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=556></a>
 
 ###### Article A421-1
 
@@ -55224,7 +54998,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=556></a>
+#### Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=557></a>
 
 ###### Article A422-1
 
@@ -55258,7 +55032,7 @@ _Modifié par_:
   - Arrêté du 6 avril 2017 - art. 1
 
 
-#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=557></a>
+#### Chapitre III : Dispositions applicables à Wallis et Futuna<a id=558></a>
 
 ###### Article A423-1
 
@@ -55373,7 +55147,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=558></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=559></a>
 
 ###### Article A424-1
 
@@ -55474,7 +55248,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=559></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=560></a>
 
 ###### Article A425-1
 
@@ -55603,7 +55377,7 @@ _Créé par_:
   - Arrêté du 28 février 2008 - art. (V)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=560></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy<a id=561></a>
 
 ###### Article A426-1
 
@@ -55625,7 +55399,7 @@ _Cite_:
   - Code du sport. - art. R426-1
 
 
-#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=561></a>
+#### Chapitre VII : Dispositions applicables à Saint-Martin<a id=562></a>
 
 ###### Article A427-1
 
@@ -55647,7 +55421,7 @@ _Cite_:
   - Code du sport. - art. R427-1
 
 
-#### Chapitre VIII : Dispositions applicables à la Martinique<a id=562></a>
+#### Chapitre VIII : Dispositions applicables à la Martinique<a id=563></a>
 
 ###### Article A428-1
 
@@ -55674,7 +55448,7 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-#### Chapitre IX : Dispositions applicables à la Guyane<a id=563></a>
+#### Chapitre IX : Dispositions applicables à la Guyane<a id=564></a>
 
 ###### Article A429-1
 
@@ -55701,11 +55475,11 @@ _Créé par_:
   - Arrêté du 4 mars 2016 - art. 1
 
 
-# ANNEXES<a id=564></a>
+# ANNEXES<a id=565></a>
 
-## Annexes partie réglementaire - Décrets<a id=565></a>
+## Annexes partie réglementaire - Décrets<a id=566></a>
 
-### Annexes I<a id=566></a>
+### Annexes I<a id=567></a>
 
 ###### Article Annexe I-1 (art. R122-4)
 
@@ -57292,7 +57066,7 @@ _Créé par_:
   - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
-### Annexes II<a id=567></a>
+### Annexes II<a id=568></a>
 
 ###### Article Annexe II-1 art R212-88 et R212-89
 
@@ -57387,1379 +57161,7 @@ _Créé par_:
   - Décret n°2017-723 du 2 mai 2017 - art. 2
 
 
-###### Article Annexe II-2 (art. R232-86)
-
-RÈGLEMENT DISCIPLINAIRE TYPE DES FÉDÉRATIONS SPORTIVES AGRÉÉES RELATIF À LA LUTTE CONTRE LE DOPAGE 
-
-Article 1er 
-
-Le présent règlement, établi en application des articles L. 131-8, L. 232-21 et R. 232-86 du code du sport, remplace toutes
-les dispositions du règlement relatif à l'exercice du pouvoir disciplinaire en matière de lutte contre le dopage adopté à la
-suite de la publication du décret n° 2011-58 du 13 janvier 2011 relatif aux sanctions disciplinaires en matière de lutte
-contre le dopage. 
-
-Article 2 
-
-Tous les organes, préposés, membres mentionnés à l'article L. 131-3 du code du sport ainsi que les personnes titulaires d'une
-licence, au sens de l'article L. 131-6 du même code, de la fédération sont tenus de respecter les dispositions du code du
-sport relatives à la lutte contre le dopage, notamment celles contenues au titre III du livre II de ce code. 
-
-Chapitre Ier 
-
-Enquêtes et contrôles 
-
-Article 3 
-
-Les personnes mentionnées à l'article 2 sont tenues de prêter leur concours à la mise en œuvre des enquêtes, contrôles,
-perquisitions et saisies organisés en application des articles L. 232-11 à L. 232-20 du code du sport. 
-
-Article 4 
-
-Les enquêtes et contrôles mentionnés aux articles L. 232-11 et suivants du code du sport peuvent être demandés par l'instance
-dirigeante compétente de la fédération ou son président. La demande est adressée au directeur des contrôles de l'Agence
-française de lutte contre le dopage. 
-
-Article 5 
-
-Des membres délégués peuvent être choisis par l'instance dirigeante compétente de la fédération ou son président pour
-assister la personne chargée de procéder au prélèvement et agréée par l'Agence française de lutte contre le dopage, à sa
-demande, lors des compétitions, manifestations sportives ou aux entraînements y préparant. 
-
-Nul ne peut être choisi comme membre délégué de la fédération s'il est membre d'un organe disciplinaire prévu par le présent
-règlement. 
-
-Chapitre II 
-
-Organes et procédures disciplinaires 
-
-Section 1 
-
-Dispositions communes aux organes disciplinaires de première instance et d'appel 
-
-Article 6 
-
-Il est institué un organe disciplinaire de première instance et un organe disciplinaire d'appel investis du pouvoir
-disciplinaire à l'égard des membres mentionnés à l'article L. 131-3 du code du sport ainsi que les personnes titulaires d'une
-licence, au sens de l'article L. 131-6 du même code, qui ont contrevenu aux dispositions de ce code relatives à la lutte
-contre le dopage, notamment celles contenues au titre III du livre II ainsi qu'aux dispositions du présent règlement. 
-
-Les membres des organes disciplinaires, y compris leur président, sont désignés par les instances dirigeantes de la
-fédération. 
-
-Il ne peut être mis fin aux fonctions d'un membre en cours de mandat qu'en cas : 
-
-- d'empêchement définitif constaté par l'instance dirigeante compétente ; 
-
-- ou de démission ; 
-
-- ou d'exclusion. 
-
-Chacun de ces organes disciplinaires se compose d'au moins cinq membres titulaires et de membres suppléants choisis en raison
-de leurs compétences. Un membre au moins appartient à une profession de santé et un membre au moins est choisi en raison de
-ses compétences juridiques. 
-
-Ne peuvent être membres d'un organe disciplinaire : 
-
-- le président de la fédération ; 
-
-- les membres des instances dirigeantes de la fédération ; 
-
-- les professionnels de santé siégeant au sein des instances dirigeantes de la fédération ; 
-
-- les professionnels de santé chargés au sein de la fédération de coordonner les examens requis dans le cadre de la
-surveillance médicale particulière prévue à l'article L. 231-6 du code du sport ; 
-
-- les professionnels de santé désignés par la fédération qui sont en charge du suivi médical des Equipes de France. 
-
-Article 7 
-
-La durée du mandat des membres des organes disciplinaires est fixée à quatre ans. Elle court à compter de l'expiration du
-délai d'un mois mentionné au deuxième alinéa de l'article R. 232-87 du code du sport ou, en cas d'urgence, à compter de la
-date de la décision du président de l'Agence française de lutte contre le dopage autorisant l'entrée en fonctions. 
-
-En cas d'empêchement définitif, de démission ou d'exclusion d'un membre, constaté par le président de l'organe disciplinaire,
-un nouveau membre est désigné dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à courir. 
-
-Article 8 
-
-Les membres des organes disciplinaires se prononcent en toute indépendance et ne peuvent recevoir d'instruction. 
-
-Ils sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont connaissance en
-raison de leurs fonctions. 
-
-Toute infraction aux règles fixées au présent article, à l'article 6 du présent règlement ainsi qu'à l'article R. 232-87-1 du
-code du sport entraîne une décision d'exclusion du membre de l'organe disciplinaire par l'instance dirigeante compétente de
-la fédération. 
-
-Article 9 
-
-Les organes disciplinaires de première instance et d'appel se réunissent sur convocation de leur président ou d'une personne
-qu'il mandate à cet effet. Chacun de ces organes ne peut délibérer valablement que lorsque trois au moins de ses membres sont
-présents. 
-
-En cas de partage égal des voix, le président a voix prépondérante. 
-
-Les fonctions de secrétaire de séance sont assurées soit par un membre de l'organe disciplinaire, soit par une autre personne
-désignée par le président de l'organe disciplinaire. 
-
-En cas d'absence du président, le membre de l'organe disciplinaire le plus âgé assure les fonctions de président de séance. 
-
-Article 10 
-
-Les débats devant les organes disciplinaires sont publics. Toutefois, le président de l'organe disciplinaire peut, d'office
-ou à la demande de l'intéressé, de son représentant, le cas échéant de la ou des personnes investies de l'autorité parentale
-ou du représentant légal, ou de son avocat, interdire au public l'accès de la salle pendant tout ou partie de l'audience dans
-l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou du secret professionnel le justifie. 
-
-Article 11 
-
-Les membres des organes disciplinaires ne peuvent siéger lorsqu'ils ont un intérêt direct ou indirect à l'affaire. Dans ce
-cas, ils doivent faire connaître cet intérêt au président de l'organe dont ils sont membres. 
-
-A l'occasion d'une même affaire, nul ne peut siéger dans l'organe disciplinaire d'appel s'il a siégé dans l'organe
-disciplinaire de première instance. 
-
-Article 12 
-
-Pour tenir compte de l'éloignement géographique ou de contraintes professionnelles ou médicales, à la demande des personnes à
-l'encontre desquelles une procédure disciplinaire est engagée, des moyens de conférence audiovisuelle peuvent être mis en
-place par la fédération concernée avec l'accord de l'organe disciplinaire. 
-
-Les moyens de conférence audiovisuelle doivent respecter un niveau suffisant de sécurité et de confidentialité. 
-
-Article 13 
-
-Il est désigné par l'instance dirigeante compétente ou le président de la fédération une ou plusieurs personnes chargées de
-l'instruction des affaires soumises aux organes disciplinaires de première instance et d'appel. 
-
-Ces personnes ne peuvent être membres d'un de ces organes disciplinaires et ne peuvent avoir un intérêt direct ou indirect à
-l'affaire qui leur est confiée. 
-
-Dans le cas où l'une d'elles a un intérêt direct ou indirect à l'affaire, elle doit faire connaître cet intérêt à l'instance
-qui l'a désignée afin de pourvoir à son remplacement. 
-
-Elles sont astreintes à une obligation de confidentialité pour les faits, actes et informations dont elles ont pu avoir
-connaissance en raison de leurs fonctions. 
-
-Toute infraction à cette disposition fait l'objet d'une sanction. 
-
-Elles reçoivent délégation du président de la fédération pour toutes les correspondances relatives à l'instruction des
-affaires. 
-
-Les personnes chargées de l'instruction peuvent : 
-
-- entendre toute personne dont l'audition paraît utile ; 
-
-- demander à toute personne des informations nécessaires à la procédure. 
-
-Article 14 
-
-La transmission des documents et actes de procédure mentionnés au présent règlement ainsi que de tout ou partie du dossier
-disciplinaire peut être réalisée par voie électronique. 
-
-Cette transmission par voie électronique s'opère au moyen d'une application informatique dédiée accessible par le réseau
-internet. 
-
-Les caractéristiques techniques de cette application garantissent la fiabilité de l'identification des personnes à l'encontre
-desquelles une procédure disciplinaire est engagée, l'intégrité des documents adressés ainsi que la sécurité et la
-confidentialité des échanges entre ces personnes et l'instance disciplinaire, le président de cette instance ou la personne
-chargée de l'instruction. Elles permettent également d'établir de manière certaine la date et l'heure de la mise à
-disposition d'un document ainsi que celles de sa première consultation par son destinataire. 
-
-Section 2 
-
-Dispositions relatives aux organes disciplinaires de première instance 
-
-Article 15 
-
-I. - Lorsqu'une affaire concerne le non-respect des dispositions de l'article L. 232-9 du code du sport, établi à la suite
-d'une analyse positive, l'infraction est constatée par la réception, par la fédération, du procès-verbal de contrôle prévu à
-l'article L. 232-12 du code du sport relatant les conditions dans lesquelles les prélèvements et examens ont été effectués et
-mentionnant, le cas échéant, l'existence d'une autorisation accordée pour usage à des fins thérapeutiques ainsi que du
-rapport d'analyse faisant ressortir la présence d'une substance interdite, de l'un de ses métabolites ou de ses marqueurs, ou
-l'utilisation d'une méthode interdite, transmis par l'Agence française de lutte contre le dopage ou par un laboratoire auquel
-l'agence aura fait appel en application de l'article L. 232-18 du même code. Le délai prévu au cinquième alinéa de l'article
-L. 232-21 du même code court à compter de la réception du dernier de ces deux documents. 
-
-Le président de la fédération transmet ces documents au représentant de la fédération chargé de l'instruction. 
-
-II. - Lorsqu'une affaire concerne le non-respect des dispositions de l'article L. 232-9 du code du sport, établi en l'absence
-d'une analyse positive, l'infraction est constatée par la réception, par la fédération, de tout élément utile non couvert par
-le secret de l'instruction défini à l'article 11 du code de procédure pénale. 
-
-Le président de la fédération transmet ces éléments au représentant de la fédération chargé de l'instruction. 
-
-III. - Lorsque, en application de l'article L. 232-22-1 du code du sport, sont recueillis des éléments faisant apparaître
-l'utilisation par un sportif licencié d'une substance ou d'une méthode interdite en vertu de l'article L. 232-9 de ce code,
-le point de départ du délai mentionné au cinquième alinéa de l'article L. 232-21 du même code est la date de réception par la
-fédération du document transmis par le secrétaire général de l'Agence française de lutte contre le dopage sur le fondement du
-deuxième alinéa de l'article R. 232-67-15 du code précité. 
-
-Article 16 
-
-Lorsqu'une affaire concerne un licencié ou un membre de la fédération qui a contrevenu aux dispositions de l'article L.
-232-9-1 du code du sport, l'infraction est constatée par la réception, par la fédération, des éléments mentionnés au
-troisième alinéa de l'article R. 232-41-13 du code du sport. 
-
-Le président de la fédération transmet ces éléments au représentant chargé de l'instruction. 
-
-Article 17 
-
-Lorsqu'une affaire concerne un licencié ou un membre de la fédération qui a contrevenu aux dispositions des articles L.
-232-10 ou L. 232-15-1 du code du sport, l'infraction est constatée par la réception, par la fédération, de tout élément utile
-non couvert par le secret de l'instruction défini à l'article 11 du code de procédure pénale. 
-
-Le président de la fédération transmet ces éléments au représentant chargé de l'instruction ainsi que, le cas échéant, le
-procès-verbal de contrôle. 
-
-Article 18 
-
-Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions du I de l'article L. 232-17 du code du sport ou un
-licencié qui refuse de se soumettre à un contrôle diligenté en application de l'article L. 232-14-3 du code du sport ou
-autorisé en application de l'article L. 232-14-4 de ce code, l'infraction est constatée par la réception, par la fédération,
-du procès-verbal établi en application de l'article L. 232-12 du même code constatant la soustraction ou le refus de se
-soumettre aux mesures de contrôle ou par la réception, par la fédération, de tout élément utile non couvert par le secret de
-l'instruction défini à l'article 11 du code de procédure pénale. 
-
-Le président de la fédération transmet les éléments mentionnés à l'alinéa précédent au représentant chargé de l'instruction
-ainsi que, le cas échéant, tout élément utile non couvert par le secret de l'instruction défini à l'article 11 du code de
-procédure pénale. 
-
-Article 19 
-
-Lorsqu'une affaire concerne un licencié qui a contrevenu dans les conditions déterminées par une délibération de l'Agence
-française de lutte contre le dopage aux dispositions de l'article L. 232-15 du code du sport, l'agence informe la fédération
-concernée, par lettre recommandée avec demande d'avis de réception ou par tout moyen permettant d'en garantir l'émission et
-la réception dans les conditions prévues par l'article 14, que le sportif se trouve dans le cas prévu au II de l'article L.
-232-17 du même code. 
-
-Le délai prévu au cinquième alinéa de l'article L. 232-21 du code du sport court à compter de la réception de cette
-information par la fédération. 
-
-Article 20 
-
-Lorsqu'une affaire concerne le non-respect des dispositions de l'article L. 232-9 du code du sport, le président de l'organe
-disciplinaire de première instance prend une décision de classement de l'affaire lorsque le licencié justifie être
-titulaire : 
-
-- soit d'une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'Agence française de lutte contre le
-dopage ; 
-
-- soit d'une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage
-étrangère, par une organisation responsable d'une grande manifestation sportive internationale mentionnée au 4° de l'article
-L. 230-2 du code du sport ou par une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe
-II de la convention internationale mentionnée à l'article L. 230-2 du code du sport ; 
-
-- soit d'une autorisation d'usage à des fins thérapeutiques dont l'Agence mondiale antidopage a reconnu la validité ou
-qu'elle a accordée. 
-
-Il en est de même lorsque le licencié dispose d'une raison médicale dûment justifiée définie à l'article R. 232-85-1 du code
-du sport. 
-
-Cette décision est notifiée à l'intéressé et, le cas échéant, à la ou les personnes investies de l'autorité parentale ou au
-représentant légal par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore
-par tout moyen permettant d'en garantir l'émission et la réception dans les conditions prévues par l'article 14. 
-
-Cette décision est notifiée à l'Agence française de lutte contre le dopage. Celle-ci peut demander communication de
-l'ensemble du dossier. 
-
-L'agence peut exercer son pouvoir de réformation de la décision de classement dans le délai prévu à l'article L. 232-22 du
-code du sport. 
-
-Article 21 
-
-La personne chargée de l'instruction informe l'intéressé et, le cas échéant, son avocat qu'une procédure disciplinaire est
-engagée à son encontre et qu'il pourra faire l'objet d'une mesure de suspension provisoire dans les conditions prévues à
-l'article 23 du présent règlement ou de l'article L. 232-23-4 du code du sport. Cette information se matérialise par l'envoi
-d'un document énonçant les griefs retenus, par lettre recommandée avec demande d'avis de réception ou par tout moyen
-permettant d'en garantir l'émission et la réception dans les conditions prévues par l'article 14. 
-
-Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés
-selon les mêmes modalités. 
-
-L'intéressé est informé qu'il peut apporter au directeur des contrôles de l'Agence française de lutte contre le dopage des
-éléments constitutifs d'une aide substantielle au sens de l'article L. 230-4 du code du sport et, le cas échéant, de voir la
-sanction d'interdiction qu'il encourt assortie d'un sursis à exécution partiel dans les conditions prévues à l'article 51 du
-présent règlement. 
-
-Article 22 
-
-Le document énonçant les griefs retenus doit être accompagné, le cas échéant, du résultat de l'analyse prévue par l'article
-L. 232-18 du code du sport ou du procès-verbal de contrôle constatant que l'intéressé s'est soustrait, a refusé de se
-soumettre ou s'est opposé au contrôle. 
-
-Ce document doit mentionner la possibilité pour l'intéressé, d'une part, de demander par lettre recommandée avec demande
-d'avis de réception ou par tout moyen permettant d'en garantir l'émission et la réception dans les conditions prévues par
-l'article 14, dans un délai de cinq jours à compter de sa réception, qu'il soit procédé à ses frais à l'analyse de
-l'échantillon B, conformément aux dispositions prévues par l'article R. 232-64 du code du sport, et, d'autre part, qu'en cas
-d'absence de demande d'analyse de l'échantillon B de sa part, le résultat porté à sa connaissance constitue le seul résultat
-opposable, sauf décision de l'Agence française de lutte contre le dopage d'effectuer une analyse de l'échantillon B. 
-
-Le délai de cinq jours mentionné au deuxième alinéa est porté à dix jours lorsque l'intéressé est domicilié hors de la
-métropole. 
-
-L'intéressé peut demander l'analyse de l'échantillon B et désigner, le cas échéant, un expert de son choix. La liste
-indicative d'experts, établie par l'Agence française de lutte contre le dopage et prévue à l'article R. 232-64 du code du
-sport, est mise à la disposition de l'intéressé. 
-
-Lorsque l'analyse de l'échantillon B est pratiquée, la date de cette analyse est arrêtée, en accord avec le département des
-analyses de l'Agence française de lutte contre le dopage ou avec le laboratoire auquel il a été fait appel en application de
-l'article L. 232-18 du code du sport et, le cas échéant, avec l'expert désigné par l'intéressé. Le résultat de l'analyse de
-l'échantillon B est communiqué par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé
-ou encore par tout moyen permettant d'en garantir l'émission et la réception dans les conditions prévues par l'article 14 à
-l'intéressé, à la fédération et à l'Agence française de lutte contre le dopage. 
-
-Article 23 
-
-Lorsque les circonstances le justifient, telles que l'usage ou la détention d'une substance ou d'une méthode non spécifiée au
-sens de l'annexe I à la convention internationale mentionnée à l'article L. 230-2 du code du sport, le président de l'organe
-disciplinaire ordonne à l'encontre du sportif, à titre conservatoire et dans l'attente de la décision de l'organe
-disciplinaire, une suspension provisoire de sa participation aux manifestations organisées par la fédération. Cette décision
-est motivée. Elle est portée simultanément à la connaissance de l'intéressé et du président de l'Agence française de lutte
-contre le dopage. 
-
-Article 24 
-
-Lorsqu'ils en font la demande, le licencié et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
-représentant légal sont mis à même de faire valoir leurs observations sur la suspension provisoire mentionnée à l'article 23
-du présent règlement dans les meilleurs délais, par le président de l'organe disciplinaire ou, en cas d'empêchement, par une
-personne de l'organe disciplinaire qu'il mandate à cet effet. 
-
-Cette demande doit être transmise par tout moyen permettant de garantir son origine et sa réception, dans un délai de cinq
-jours à compter de la réception de la décision du président de l'organe disciplinaire. Ce délai est porté à dix jours lorsque
-l'intéressé est domicilié hors de la métropole. 
-
-Article 25 
-
-La suspension provisoire prend fin dans l'une ou l'autre des hypothèses suivantes : 
-
-a) Si l'analyse de l'échantillon B ne confirme pas celle de l'échantillon A ; 
-
-b) En cas de retrait par le président de l'organe disciplinaire de la décision de suspension provisoire ; 
-
-c) Si l'organe disciplinaire n'a pas statué dans le délai de dix semaines qui lui est imparti par l'article L. 232-21 du code
-du sport ; 
-
-d) En cas d'absence de sanction de l'intéressé par l'organe disciplinaire ; 
-
-e) Au cas où la durée de la sanction décidée par l'organe disciplinaire est inférieure ou égale à celle de la suspension déjà
-supportée à titre conservatoire. 
-
-Hors le cas mentionné au c, la levée de la suspension ne produit d'effet qu'à compter de la notification au sportif de l'acte
-la justifiant. 
-
-Article 26 
-
-Les décisions du président de l'organe disciplinaire relatives aux suspensions provisoires sont notifiées aux licenciés par
-tout moyen permettant de garantir leur origine et leur réception. 
-
-Article 27 
-
-Dès lors qu'une infraction a été constatée, la personne chargée de l'instruction ne peut clore d'elle-même une affaire. Sauf
-dans le cas prévu à l'article 20, l'organe disciplinaire est tenu de prendre une décision après convocation de l'intéressé. 
-
-Au vu des éléments du dossier, la personne chargée de l'instruction établit un rapport qu'elle adresse à l'organe
-disciplinaire et qui est joint au dossier avec l'ensemble des pièces. 
-
-Article 28 
-
-L'intéressé, accompagné, le cas échéant, de la ou des personnes investies de l'autorité parentale, de son représentant légal
-ou encore de son avocat, est convoqué par le président de l'organe disciplinaire ou par une personne mandatée à cet effet par
-ce dernier, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore par tout
-moyen permettant de garantir l'émission et la réception de la convocation dans les conditions prévues par l'article 14,
-quinze jours au moins avant la date de la séance, la date du récépissé ou de l'avis de réception faisant foi. 
-
-L'intéressé peut être représenté par un avocat. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut
-bénéficier, à sa demande, de l'aide d'un interprète aux frais de la fédération. 
-
-L'intéressé ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale, son représentant légal, ou
-encore son avocat peuvent consulter avant la séance le rapport et l'intégralité du dossier et en obtenir copie. 
-
-Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms dans un délai de six
-jours au moins avant la réunion de l'organe disciplinaire. 
-
-Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
-
-Le président de l'organe disciplinaire peut refuser, par décision motivée, les demandes d'audition manifestement abusives. 
-
-Article 29 
-
-Lors de la séance, le représentant de la fédération chargé de l'instruction présente oralement son rapport. En cas
-d'empêchement du représentant chargé de l'instruction, son rapport peut être lu par un des membres de l'organe
-disciplinaire. 
-
-Toute personne dont l'audition paraît utile peut être entendue par l'organe disciplinaire. Si une telle audition est décidée,
-le président en informe l'intéressé avant la séance. 
-
-L'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal ainsi que la
-ou les personnes qui l'assistent ou le représentent sont invités à prendre la parole en dernier. 
-
-Article 30 
-
-L'organe disciplinaire délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui l'assistent ou le
-représentent, le cas échéant de la ou des personnes investies de l'autorité parentale ou du représentant légal, des personnes
-entendues à l'audience et du représentant de la fédération chargé de l'instruction. 
-
-Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de l'organe disciplinaire,
-celle-ci peut assister au délibéré sans y participer. 
-
-L'organe disciplinaire prend une décision motivée, signée par le président et le secrétaire de séance. 
-
-La décision est notifiée sans délai à l'intéressé, le cas échéant à la ou les personnes investies de l'autorité parentale ou
-au représentant légal ainsi qu'au président de la fédération, par lettre recommandée avec demande d'avis de réception ou par
-lettre remise contre récépissé ou encore par tout moyen permettant d'en garantir l'émission et la réception dans les
-conditions prévues par l'article 14. La notification mentionne les voies et délais d'appel. 
-
-L'association sportive dont le licencié est membre et, le cas échéant, la société dont il est préposé sont informées de cette
-décision. 
-
-Dans les huit jours de son prononcé, la décision, accompagnée de l'ensemble du dossier, est notifiée pour information, par
-lettre recommandée avec demande d'avis de réception ou encore par tout moyen permettant d'en garantir l'émission et la
-réception dans les conditions prévues par l'article 14, à l'Agence française de lutte contre le dopage. La décision est
-notifiée dans les mêmes formes au ministre chargé des sports. Le ministre chargé des sports peut demander, le cas échéant,
-communication de toute pièce du dossier permettant la compréhension de la décision. 
-
-La décision est transmise par tout moyen à la fédération internationale intéressée ainsi qu'à l'Agence mondiale antidopage
-et, le cas échéant, à l'organisation nationale étrangère compétente, au Comité international olympique et au Comité
-international paralympique. 
-
-Article 31 
-
-L'organe disciplinaire de première instance doit se prononcer dans le délai de dix semaines prévu à l'article L. 232-21 du
-code du sport. 
-
-Faute d'avoir pris une décision dans ce délai, l'organe disciplinaire de première instance est dessaisi et l'ensemble du
-dossier est transmis à l'organe disciplinaire d'appel. 
-
-Section 3 
-
-Dispositions relatives à l'organe disciplinaire d'appel 
-
-Article 32 
-
-L'intéressé, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal, l'Agence
-mondiale antidopage, la fédération internationale compétente, le Comité international olympique, le Comité international
-paralympique ainsi que le président de la fédération peuvent interjeter appel de la décision de l'organe disciplinaire de
-première instance, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore
-par tout moyen permettant de garantir l'émission et la réception de l'appel dans les conditions prévues par l'article 14,
-dans un délai de dix jours. Ce délai est porté à quinze jours lorsque l'appelant est domicilié ou a son siège hors de la
-métropole. 
-
-L'exercice du droit d'appel ne peut être subordonné au versement d'une somme d'argent à la fédération ou limité par une
-décision d'un organe fédéral. 
-
-L'appel n'est pas suspensif. 
-
-Lorsque l'appel émane de la fédération sportive agréée ou de tout autre organisme mentionné au premier alinéa, l'organe
-disciplinaire d'appel le communique à l'intéressé par lettre recommandée avec avis de réception ou par lettre remise contre
-récépissé ou encore par tout moyen permettant de garantir l'émission et la réception de l'appel dans les conditions prévues
-par l'article 14 et l'informe qu'il peut produire ses observations dans un délai de six jours avant la tenue de l'audience. 
-
-Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. Le cas échéant, la ou les personnes
-investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités. 
-
-Article 33 
-
-L'organe disciplinaire d'appel statue en dernier ressort. 
-
-Il se prononce, au vu du dossier de première instance et des productions d'appel, dans le respect du principe du
-contradictoire. 
-
-Le président peut désigner, parmi les membres de l'organe disciplinaire, un rapporteur. Celui-ci établit un rapport exposant
-les faits et rappelant les conditions du déroulement de la procédure. Ce rapport est présenté oralement en séance puis joint
-au dossier. 
-
-L'organe disciplinaire d'appel doit se prononcer dans le délai de quatre mois prévu à l'article L. 232-21 du code du sport.
-Faute d'avoir pris une décision dans ce délai, il est dessaisi et l'ensemble du dossier est transmis sans délai à l'Agence
-française de lutte contre le dopage. 
-
-Article 34 
-
-L'intéressé, accompagné, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du représentant légal
-ainsi que de son avocat, est convoqué devant l'organe disciplinaire d'appel par son président ou une personne mandatée à cet
-effet par ce dernier, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore
-par tout moyen permettant d'en garantir l'émission et la réception dans les conditions prévues par l'article 14, quinze jours
-au moins avant la date de la séance. 
-
-L'intéressé peut être représenté par un avocat. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut
-bénéficier, à sa demande, de l'aide d'un interprète aux frais de la fédération. 
-
-L'intéressé ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal ou
-encore toute personne qu'il mandate à cet effet peuvent consulter avant la séance le rapport, s'il en a été établi un, ainsi
-que l'intégralité du dossier et en obtenir copie. 
-
-Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms dans un délai de six
-jours au moins avant la réunion de l'organe disciplinaire. 
-
-Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
-
-Le président de l'organe disciplinaire peut refuser les demandes d'audition manifestement abusives. 
-
-Article 35 
-
-Toute personne dont l'audition paraît utile peut être entendue par l'organe disciplinaire d'appel. Si une telle audition est
-décidée, le président en informe l'intéressé avant la séance. 
-
-Lors de la séance, l'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant
-légal ainsi que la ou les personnes qui l'assistent ou la représentent sont invités à prendre la parole en dernier. 
-
-Article 36 
-
-L'organe disciplinaire d'appel délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui
-l'assistent ou le représentent, le cas échéant de la ou des personnes investies de l'autorité parentale ou du représentant
-légal ainsi que des personnes entendues à l'audience. 
-
-Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de l'organe disciplinaire
-d'appel, celle-ci peut assister au délibéré sans y participer. 
-
-L'organe disciplinaire d'appel prend une décision motivée, signée par le président et le secrétaire de séance. 
-
-Article 37 
-
-La décision est notifiée sans délai à l'intéressé, le cas échéant à la ou les personnes investies de l'autorité parentale ou
-au représentant légal par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore
-par tout moyen permettant d'en garantir l'émission et la réception dans les conditions prévues par l'article 14, ainsi qu'au
-président. 
-
-L'association sportive dont le licencié est membre et le cas échéant la société dont il est le préposé sont informées de
-cette décision. 
-
-Dans les huit jours de son prononcé, la décision, accompagnée de l'ensemble du dossier, est notifiée pour information, par
-lettre recommandée avec demande d'avis de réception ou encore par tout moyen permettant d'en garantir l'émission et la
-réception dans les conditions prévues par l'article 14, à l'Agence française de lutte contre le dopage. La décision est
-notifiée dans les mêmes formes au ministre chargé des sports. Le ministre chargé des sports peut demander, le cas échéant,
-communication de toute pièce du dossier permettant la compréhension de la décision. 
-
-La décision est transmise par tout moyen à la fédération internationale concernée ainsi qu'à l'Agence mondiale antidopage et,
-le cas échéant, à l'organisation nationale étrangère compétente, au Comité international olympique ou au Comité international
-paralympique. 
-
-Chapitre III 
-
-Sanctions 
-
-Article 38 
-
-I. - Sans préjudice des sanctions pénales éventuellement encourues en application de la section 6 du chapitre II du titre III
-du livre II du code du sport, les organes disciplinaires, dans l'exercice de leur pouvoir de sanction en matière de lutte
-contre le dopage, peuvent prononcer : 
-
-1° A l'encontre des sportifs ayant enfreint les dispositions des articles L. 232-9, L. 232-9-1, L. 232-14-5, L. 232-15, L.
-232-15-1, L. 232-17 ou du 3° de l'article L. 232-10 du code du sport : 
-
-a) Un avertissement ; 
-
-b) Une interdiction temporaire ou définitive de participer aux manifestations sportives autorisées ou organisées par la
-fédération ainsi qu'aux entraînements y préparant organisés par la fédération agréée ou l'un de ses membres ; 
-
-c) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions et manifestations sportives autorisées ou organisées par la fédération ainsi qu'aux entraînements y
-préparant ; 
-
-d) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 du code du sport ; 
-
-e) Une interdiction d'exercer les fonctions de personnel d'encadrement au sein de la fédération ou d'un membre affilié à la
-fédération. 
-
-La sanction prononcée à l'encontre d'un sportif peut être complétée par une sanction pécuniaire dont le montant ne peut
-excéder 45 000 €. Elle est complétée par une décision de publication nominative de la sanction, dans les conditions fixées
-par l'article 47. En outre, elle peut être complétée par le retrait provisoire de la licence ; 
-
-2° A l'encontre de toute autre personne qui a enfreint les dispositions de l'article L. 232-10 du code du sport : 
-
-a) Un avertissement ; 
-
-b) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions et manifestations sportives autorisées ou organisées par la fédération ainsi qu'aux entraînements y
-préparant ; 
-
-c) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 du code du sport ; 
-
-d) Une interdiction d'exercer les fonctions de personnel d'encadrement. 
-
-La sanction prononcée peut être complétée par une sanction pécuniaire dont le montant ne peut excéder 150 000 €. Elle est
-complétée par une décision de publication nominative de la sanction, dans les conditions fixées par l'article 47. En outre,
-elle peut être complétée par le retrait provisoire de la licence. 
-
-II. - Les sanctions mentionnées au I peuvent être prononcées à l'encontre des complices des auteurs des infractions. 
-
-III. - Les sanctions mentionnées aux b à e du 1° et aux b à d du 2° du I prennent en compte la circonstance que les personnes
-qui en font l'objet : 
-
-a) Avouent avoir commis une infraction aux dispositions du titre III du livre II du code du sport et que ces aveux sont les
-seules preuves fiables de ces infractions ; ou 
-
-b) Avouent les faits sans délai après qu'une infraction aux dispositions du titre III du livre II du code du sport leur a été
-notifiée. 
-
-IV. - Pour l'application du chapitre III, l'organe disciplinaire, après avoir rappelé la sanction normalement encourue, en
-précisant aussi bien son maximum que son minimum, rend sa décision en tenant compte, d'une part, du degré de gravité de la
-faute commise et, d'autre part, de tout motif à même de justifier, selon les circonstances, la réduction du quantum de la
-sanction, une mesure de relaxe ou l'octroi du bénéfice du sursis à l'exécution de la sanction infligée. 
-
-Article 39 
-
-I. - La durée des mesures d'interdiction mentionnées au 1° du I de l'article 38 à raison d'un manquement à l'article L. 232-9
-du code du sport : 
-
-a) Est de quatre ans lorsque ce manquement est consécutif à l'usage ou à la détention d'une substance non spécifiée. Cette
-durée est ramenée à deux ans lorsque le sportif démontre qu'il n'a pas eu l'intention de commettre ce manquement ; 
-
-b) Est de deux ans lorsque ce manquement est consécutif à l'usage ou à la détention d'une substance spécifiée. Cette durée
-est portée à quatre ans lorsque l'instance disciplinaire démontre que le sportif a eu l'intention de commettre ce
-manquement. 
-
-II. - Les substances spécifiées et les substances non spécifiées mentionnées au I, dont l'usage ou la détention sont prohibés
-par l'article L. 232-9 du code du sport, sont celles qui figurent à l'annexe I à la convention internationale mentionnée à
-l'article L. 230-2 du code du sport. 
-
-Article 40 
-
-La durée des mesures d'interdiction mentionnées au 1° du I de l'article 38 à raison d'un manquement au 4° de l'article L.
-232-10 du code du sport et au I de l'article L. 232-17 du même code est de quatre ans. 
-
-Lorsque le sportif démontre que le manquement au I de l'article L. 232-17 du code du sport n'est pas intentionnel, la durée
-des mesures d'interdiction prévues à l'alinéa précédent est ramenée à deux ans. 
-
-Article 41 
-
-La durée des mesures d'interdiction mentionnées au 1° du I de l'article 38 à raison de manquements aux obligations de
-localisation prévues par l'article L. 232-15 du code du sport est de deux ans. 
-
-Cette durée peut être réduite sans toutefois pouvoir être inférieure à un an en fonction de la gravité du manquement et du
-comportement du sportif. 
-
-Article 42 
-
-La durée des mesures d'interdiction mentionnées au 2° du I de l'article 38 à raison d'un manquement à l'article L. 232-10 du
-code du sport est au minimum de quatre ans. 
-
-Cette sanction peut aller jusqu'à l'interdiction définitive en fonction de la gravité du manquement à l'article L. 232-10 du
-code du sport. La gravité du manquement s'apprécie notamment au regard des éléments suivants : 
-
-a) La personne qui fait l'objet de la sanction a la qualité de personnel d'encadrement d'un sportif ; 
-
-b) Le manquement implique une substance non spécifiée au sens de l'annexe I à la convention internationale mentionnée à
-l'article L. 230-2 du code du sport ; 
-
-c) Le manquement est commis à l'égard d'un ou plusieurs sportifs mineurs. 
-
-Article 43 
-
-La durée des mesures d'interdiction mentionnées au 1° du I de l'article 38 à raison d'un manquement à l'article L. 232-9-1 du
-code du sport est de deux ans. 
-
-Cette durée peut être réduite sans toutefois pouvoir être inférieure à un an en fonction de la gravité du manquement et du
-comportement du sportif. 
-
-Article 44 
-
-Une personne qui a fait l'objet d'une sanction définitive pour un manquement aux articles L. 232-9, L. 232-9-1, L. 232-10, L.
-232-15, L. 232-15-1 ou L. 232-17 du code du sport et qui commet, dans le délai de dix ans à compter de la notification de
-ladite sanction, un deuxième manquement à l'un de ces articles encourt une interdiction d'une durée qui ne peut être
-inférieure à six mois et qui peut aller jusqu'au double de la sanction encourue pour ce manquement. 
-
-Lorsque cette même personne commet un troisième manquement dans ce même délai, la durée des sanctions mentionnées à l'article
-L. 232-23 du code du sport ne peut être inférieure à huit ans et peut aller jusqu'aux interdictions définitives prévues au
-même article. 
-
-Article 45 
-
-Les sanctions mentionnées aux articles 39 à 44 ne font pas obstacle au prononcé de sanctions complémentaires prévues au
-dernier alinéa des 1° et 2° du I de l'article 38. 
-
-Article 46 
-
-La durée des mesures d'interdiction prévues aux articles 39 à 44 peut être réduite par une décision spécialement motivée
-lorsque les circonstances particulières de l'affaire le justifient au regard du principe de proportionnalité. 
-
-Article 47 
-
-L'organe disciplinaire détermine dans sa décision les modalités de publication de la sanction qu'il prononce, notamment en
-fixant le délai de publication et en désignant le support de celle-ci. Ces modalités sont proportionnées à la gravité de la
-sanction prononcée à titre principal et adaptées à la situation de l'auteur de l'infraction. 
-
-La publication de la sanction s'effectue de manière nominative, sauf si la personne qui fait l'objet de la sanction est
-mineure ou si l'organe disciplinaire, par une décision spécialement motivée, décide d'ordonner la publication anonyme de
-cette sanction. 
-
-La publication d'une décision de relaxe s'effectue de manière anonyme, sauf si, dans le délai d'un mois suivant la
-notification de la décision, la personne qui en fait l'objet demande une publication nominative. 
-
-Article 48 
-
-La dispense de publication d'une décision de sanction assortie d'un sursis à exécution ne peut intervenir qu'après avis
-conforme de l'Agence mondiale antidopage. 
-
-Article 49 
-
-L'organe disciplinaire peut saisir l'Agence française de lutte contre le dopage d'une demande d'extension de la sanction
-disciplinaire afin qu'elle soit étendue aux activités de l'intéressé relevant d'autres fédérations, conformément aux
-dispositions du 4° de l'article L. 232-22 du code du sport. 
-
-Article 50 
-
-I. - a) Les sanctions infligées à un sportif prévues à l'article 39 entraînent l'annulation des résultats individuels avec
-toutes les conséquences en résultant, y compris le retrait des médailles, points, gains et prix relatifs à la manifestation
-ou à la compétition à l'occasion de laquelle l'infraction a été constatée ; 
-
-b) Dans les sports collectifs, sont annulés les résultats de l'équipe avec les mêmes conséquences que celles figurant au a
-dès lors que l'organe disciplinaire constate que plus de deux membres ont méconnu les dispositions des articles contenues au
-titre III du livre II du code du sport ; 
-
-c) Il en est de même dans les sports individuels dans lesquels certaines épreuves se déroulent par équipes, dès lors que
-l'organe disciplinaire constate qu'au moins un des membres a méconnu les dispositions des articles contenues au titre III du
-livre II du code du sport. 
-
-II. - L'organe disciplinaire qui inflige une sanction peut, en outre, à titre de pénalités, procéder aux annulations et
-retraits mentionnés au I pour les compétitions et manifestations qui se sont déroulées entre le contrôle et la date de
-notification de la sanction. 
-
-Ces sanctions sont prononcées dans le respect des droits de la défense. 
-
-Chapitre IV 
-
-Exécution des sanctions 
-
-Article 51 
-
-Les organes disciplinaires peuvent, dans les cas et selon les conditions prévues ci-après, assortir une sanction d'un sursis
-à exécution lorsque la personne a fourni une aide substantielle permettant, par sa divulgation, dans une déclaration écrite
-signée, d'informations en sa possession en relation avec des infractions aux règles relatives à la lutte contre le dopage et
-par sa coopération à l'enquête et à l'examen de toute affaire liée à ces informations : 
-
-a) D'éviter qu'il ne soit contrevenu aux dispositions du code du sport relatives à la lutte contre le dopage ; 
-
-b) Ou d'identifier des personnes contrevenant ou tentant de contrevenir aux dispositions du code du sport relatives à la
-lutte contre le dopage ; 
-
-c) Ou de faire cesser un manquement aux dispositions du code du sport relatives à la lutte contre le dopage. 
-
-Les sanctions mentionnées aux b à e du 1° et aux b à d du 2° du I de l'article 38 peuvent être assorties du sursis à
-concurrence des trois quarts de leur durée. Lorsque la sanction encourue est une interdiction définitive, le sursis ne peut
-s'appliquer aux huit premières années d'exécution de la sanction. 
-
-Pour tenir compte de circonstances exceptionnelles tenant à la qualité de l'aide substantielle apportée, les organes
-disciplinaires peuvent, avec l'accord de l'Agence mondiale antidopage, préalablement saisie par elle ou par la personne qui
-fait l'objet d'une sanction, étendre le sursis jusqu'à la totalité de la durée des sanctions mentionnées à l'alinéa précédent
-et l'appliquer à l'ensemble des sanctions mentionnées à l'article 38. 
-
-Article 52 
-
-Le sursis à l'exécution de la sanction peut être révoqué lorsque la personne qui en bénéficie : 
-
-1° A commis, dans le délai de dix ans à compter de la date du prononcé de la sanction faisant l'objet du sursis, une
-infraction aux dispositions du code du sport relatives à la lutte contre le dopage ; 
-
-2° Ou cesse de transmettre les informations qu'elle s'était engagée à fournir et qui lui ont permis de bénéficier de ce
-sursis. 
-
-Article 53 
-
-La révocation du sursis mentionnée au 1° de l'article 52 est prononcée dans le cadre de la procédure disciplinaire conduite
-au titre de la seconde infraction. 
-
-La révocation du sursis mentionnée au 2° du même article est prononcée dans les conditions prévues aux articles 54 et 55. 
-
-Article 54 
-
-L'organe disciplinaire de première instance est compétent pour ordonner la révocation du sursis prononcé par lui ou par
-l'organe d'appel, dès lors qu'il n'y a pas eu d'intervention, dans la procédure antérieurement diligentée, de l'Agence
-française de lutte contre le dopage sur le fondement de l'article L. 232-22 du code du sport. 
-
-Article 55 
-
-S'il apparaît, en l'état des informations portées à la connaissance de la fédération, qu'une personne qui a fait l'objet
-d'une sanction assortie d'un sursis à exécution cesse de transmettre les informations qu'elle s'était engagée à fournir, une
-procédure de révocation du sursis est engagée. 
-
-La décision de révocation du sursis doit intervenir dans un délai de dix semaines à compter du jour où les informations
-mentionnées au premier alinéa sont en possession de la fédération, à peine de dessaisissement au profit de l'Agence française
-de lutte contre le dopage. 
-
-La personne chargée de l'instruction avise l'intéressé des motifs qui peuvent conduire à la révocation du sursis dont il
-bénéficie et saisit l'instance disciplinaire qui a prononcé le sursis. 
-
-L'intéressé est alors mis à même de présenter ses observations écrites ou orales à l'instance disciplinaire. 
-
-La décision de révocation du sursis est publiée dans les conditions prévues à l'article 47. 
-
-Les échanges entre l'intéressé et la fédération prévus aux troisième et quatrième alinéas sont réalisés par lettre
-recommandée avec demande d'avis de réception ou par lettre remise contre récépissé ou encore par tout moyen permettant de
-garantir l'origine et la réception de la notification. 
-
-Article 56 
-
-Les sanctions prononcées par les organes disciplinaires entrent en vigueur à compter de leur notification aux intéressés. 
-
-Les sanctions d'interdiction temporaire inférieures à six mois portant sur la participation aux manifestations mentionnées au
-1° de l'article L. 230-3 du code du sport ne peuvent être exécutées en dehors des périodes de compétition. Dans ce cas, leur
-date d'entrée en vigueur est fixée par l'organe qui a infligé la sanction. 
-
-La période de suspension provisoire ou d'interdiction portant sur la participation aux manifestations mentionnées au 1° de
-l'article L. 230-3 du code du sport prononcée pour les mêmes faits à l'encontre du sportif est déduite de la période totale
-de l'interdiction restant à accomplir. 
-
-Article 57 
-
-Lorsqu'une personne ayant fait l'objet d'une sanction mentionnée à l'article 38 du présent règlement sollicite la
-restitution, le renouvellement ou la délivrance d'une licence sportive, la fédération subordonne cette restitution, ce
-renouvellement ou cette délivrance à la production de l'attestation nominative prévue à l'article L. 232-1 du code du sport
-et, s'il y a lieu, à la transmission au département des contrôles de l'Agence française de lutte contre le dopage des
-informations permettant la localisation du sportif, conformément aux dispositions de l'article L. 232-15 du même code. 
-
-L'inscription à une manifestation ou compétition sportive d'un sportif ou d'un membre d'une équipe ayant fait l'objet de la
-mesure prévue au I de l'article 50 est subordonnée à la restitution des médailles, gains et prix en relation avec les
-résultats annulés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2016-84 du 29 janvier 2016 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 66
-
-_Cité par_:
-
-  - Code du sport. - art. D232-3 (VD)
-
-
-###### Article Annexe II-3 (art. R241-12)
-
-RÈGLEMENT DISCIPLINAIRE TYPE DE LUTTE CONTRE LE DOPAGE DES ANIMAUX DES FÉDÉRATIONS SPORTIVES AGRÉÉES
-
-Article 1er
-
-Le présent règlement, établi en application des articles L. 131-8, L. 241-6 et R. 241-12 du code du sport, remplace toutes
-les dispositions du règlement du ... (1) relatif à l'exercice du pouvoir disciplinaire en matière de lutte contre le dopage
-des animaux.
-
-Article 2
-
-Aux termes de l'article L. 241-2 du code du sport :
-
-" Il est interdit d'administrer ou d'appliquer aux animaux, au cours des compétitions et manifestations sportives organisées
-ou autorisées par les fédérations intéressées ou par une commission spécialisée instituée en application de l'article L.
-131-19, ou en vue d'y participer, des substances ou procédés de nature à modifier artificiellement leurs capacités ou à
-masquer l'emploi de substances ou procédés ayant cette propriété.
-
-" La liste des substances ou procédés mentionnés au présent article est fixée par arrêté conjoint des ministres chargés des
-sports, de la santé et de l'agriculture. "
-
-Aux termes de l'article L. 241-3 du même code :
-
-" I. - Il est interdit de faciliter l'administration des sub-stances mentionnées à l'article L. 241-2 ou d'inciter à leur
-administration, ainsi que de faciliter l'application des procédés mentionnés au même article ou d'inciter à leur application.
-
-" Il est interdit de prescrire, de céder ou d'offrir un ou plusieurs procédés ou substances mentionnés à l'article L. 241-2.
-
-" II. - Il est interdit de soustraire un animal ou de s'opposer par quelque moyen que ce soit aux mesures de contrôles
-prévues par le présent titre. "
-
-TITRE Ier : ENQUÊTES ET CONTRÔLES
-
-Article 3
-
-Tous les organes, les agents et les licenciés de la fédération sont tenus de prêter leur concours à la mise en oeuvre des
-enquêtes, contrôles, perquisitions et saisies organisés en application des articles L. 232-11 et suivants et de l'article L.
-241-4 du code du sport.
-
-Article 4
-
-Les enquêtes et contrôles mentionnés aux articles L. 232-11 et suivants et à l'article L. 241-4 du code du sport peuvent être
-demandés par le ou les organes suivants :.......... (2).
-
-La demande est adressée au directeur des contrôles de l'Agence française de lutte contre le dopage.
-
-Article 5
-
-Peut être choisi par ... (3) en tant que membre délégué de la fédération, pour assister le vétérinaire agréé, à sa demande,
-lors des compétitions, manifestations sportives ou aux entraînements y préparant, ...... (4).
-
-Nul ne peut être choisi comme membre délégué de la fédération s'il est membre d'un organe disciplinaire prévu par le présent
-règlement.
-
-TITRE II : ORGANES ET PROCÉDURES DISCIPLINAIRES
-
-Section 1 : Dispositions communes aux organes disciplinaires de première instance et d'appel
-
-Article 6
-
-Il est institué un organe disciplinaire de première instance et un organe disciplinaire d'appel investis du pouvoir
-disciplinaire à l'égard des licenciés de la fédération qui ont contrevenu aux dispositions des articles L. 241-2 et L. 241-3
-du code du sport.
-
-Les membres des organes disciplinaires, y compris leur président, sont désignés par ... ( 5).
-
-Chacun de ces organes se compose de cinq membres titulaires choisis en raison de leurs compétences. Un membre au moins est un
-vétérinaire, un membre au moins est choisi en raison de ses compétences juridiques ; un membre au plus peut appartenir aux
-instances dirigeantes de la fédération. Le président de la fédération ne peut être membre d'aucun organe disciplinaire.
-
-Chacun de ces organes disciplinaires peut également comporter des membres suppléants, dont le nombre ne peut excéder cinq,
-désignés dans les conditions prévues à l'alinéa précédent.
-
-Les membres des organes disciplinaires ne peuvent être liés à la fédération par un lien contractuel autre que celui résultant
-éventuellement de leur adhésion. Les personnes qui auront fait l'objet d'une mesure de sanction pour l'une des infractions
-prévues aux articles L. 232-9, L. 232-10, L. 232-17, L. 241-2 et L. 241-3 du code du sport ne peuvent être membres de ces
-organes disciplinaires.
-
-Article 7
-
-La durée du mandat des membres des organes disciplinaires est fixée à quatre ans et court à compter de l'expiration du délai
-d'un mois mentionné au deuxième alinéa de l'article R. 241-14 du code du sport. En cas d'empêchement définitif ou d'exclusion
-d'un membre, constaté par le président, un nouveau membre est désigné dans les mêmes conditions que son prédécesseur pour la
-durée du mandat restant à courir.
-
-En cas d'absence, d'exclusion ou d'empêchement définitif du président constaté par .. (5), un membre de l'organe
-disciplinaire est désigné pour assurer la présidence selon les modalités suivantes :...... (6).
-
-En dehors des cas prévus ci-dessus et au troisième alinéa de l'article 8, un membre ne peut être démis de ses fonctions en
-cours de mandat.
-
-Article 8
-
-Les membres des organes disciplinaires se prononcent en toute indépendance et ne peuvent recevoir d'instruction de quiconque.
-
-Ils sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont connaissance en
-raison de leurs fonctions.
-
-Toute infraction à cette obligation ainsi qu'aux dispositions de l'alinéa 5 de l'article 6 du présent règlement entraîne
-l'exclusion du membre de l'organe disciplinaire, par décision de....... (7).
-
-Article 9
-
-Les organes disciplinaires de première instance et d'appel se réunissent sur convocation de leur président. Chacun de ces
-organes ne peut délibérer valablement que lorsque trois au moins de ses membres sont présents. Au moins un vétérinaire figure
-obligatoirement parmi ces trois membres.
-
-En cas de partage égal des voix, le président a voix prépondérante.
-
-Les fonctions de secrétaire de séance sont assurées soit par un membre de l'organe disciplinaire, soit par une autre personne
-désignée par le président de l'organe disciplinaire.
-
-Article 10
-
-Les débats devant les organes disciplinaires ne sont pas publics, sauf demande contraire formulée, avant l'ouverture de la
-séance, par l'intéressé, son représentant ou ses défenseurs.
-
-Article 11
-
-Les membres des organes disciplinaires ne peuvent prendre part aux délibérations lorsqu'ils ont un intérêt direct ou indirect
-à l'affaire. Dans ce cas, ils doivent faire connaître cet intérêt au président de l'organe dont ils sont membres avant le
-début de la séance.
-
-A l'occasion d'une même affaire, nul ne peut siéger dans l'organe disciplinaire d'appel s'il a siégé dans l'organe
-disciplinaire de première instance.
-
-Section 2 : Dispositions relatives aux organes disciplinaires de première instance
-
-Article 12
-
-Il est désigné au sein de la fédération, par.......... (5), une ou plusieurs personnes chargées de l'instruction des affaires
-soumises à l'organe disciplinaire de première instance.
-
-Ces personnes ne peuvent être membres d'un des organes disciplinaires prévus à l'article 6 et ne peuvent avoir un intérêt
-direct ou indirect à l'affaire.
-
-Elles sont astreintes à une obligation de confidentialité pour les faits, actes et informations dont elles ont pu avoir
-connaissance en raison de leurs fonctions. Toute infraction à cette disposition est sanctionnée .... (8).
-
-Elles reçoivent délégation du président de la fédération pour toutes les correspondances relatives à l'instruction des
-affaires.
-
-Article 13
-
-I. - Lorsqu'une affaire concerne une infraction aux dispositions de l'article L. 241-2 du code du sport, l'infraction est
-constatée par la réception, par la fédération, du procès-verbal de contrôle prévu à l'article L. 232-12 du même code ainsi
-que du rapport d'analyse faisant ressortir l'utilisation d'une substance ou d'un procédé interdit, transmis par l'Agence
-française de lutte contre le dopage ou par un laboratoire auquel l'agence aura fait appel en application de l'article L.
-232-18 du code du sport. Le délai prévu au quatrième alinéa de l'article L. 232-21 du même code court à compter de la
-réception du dernier de ces deux documents.
-
-II. - Lorsqu'une affaire concerne une infraction aux dispositions du I de l'article L. 241-3 du code du sport, l'infraction
-est constatée par la réception, par la fédération, de tout élément utile non couvert par le secret de l'instruction défini à
-l'article 11 du code de procédure pénale.
-
-III. - En cas d'infraction au II de l'article L. 241-3 du code du sport, l'infraction est constatée par la réception, par la
-fédération, du procès-verbal indiquant l'impossibilité d'effectuer le contrôle.
-
-Article 14
-
-Lorsqu'une affaire concerne un licencié qui a prescrit, cédé, offert, administré ou appliqué aux animaux participant aux
-compétitions et manifestations organisées ou autorisées par une fédération agréée une ou plusieurs substances ou procédés
-mentionnés à l'article L. 241-2 du code du sport ou facilité leur utilisation ou incité à leur usage, le président de la
-fédération adresse au représentant chargé de l'instruction, le cas échéant, le procès-verbal de contrôle, ainsi que tout
-élément utile non couvert par le secret de l'instruction défini à l'article 11 du code de procédure pénale.
-
-Article 15
-
-Lorsqu'une affaire concerne un licencié qui a soustrait un animal ou s'est opposé par quelque moyen que ce soit aux mesures
-de contrôle prévues par les articles L. 241-4, L. 232-11 et suivants du code du sport, le président de la fédération adresse
-au représentant chargé de l'instruction le procès-verbal établi en application de l'article L. 232-12 du même code, ainsi que
-tout élément utile non couvert par le secret de l'instruction défini à l'article 11 du code de procédure pénale.
-
-Article 16
-
-Le représentant de la fédération chargé de l'instruction informe l'intéressé qu'une procédure disciplinaire est engagée à son
-encontre et qu'il pourra faire l'objet, ainsi que son animal, si les circonstances le justifient, d'une mesure de suspension
-provisoire dans les conditions prévues à l'article 18 du présent règlement. Cette information est réalisée par l'envoi d'un
-document énonçant les griefs retenus, sous forme d'une lettre recommandée avec demande d'avis de réception ou par tout autre
-moyen (9)
-
-permettant de faire la preuve de sa réception par le destinataire.
-
-Article 17
-
-Le document énonçant les griefs retenus doit être accompagné soit du résultat de l'analyse prévue par l'article L. 232-12 du
-code du sport, soit du procès-verbal de contrôle constatant le refus de soumettre l'animal à celui-ci. Il doit mentionner la
-possibilité pour l'intéressé de demander par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours
-à compter de la réception de la lettre recommandée prévue à l'article précédent, qu'il soit procédé à ses frais à une seconde
-analyse dans les conditions prévues à l'article R. 241-11 du code du sport. Le délai de cinq jours est porté à dix jours
-lorsque l'intéressé est domicilié hors de la métropole.
-
-Une liste des experts agréés par l'Agence française de lutte contre le dopage est transmise à l'intéressé afin que celui-ci
-puisse, en demandant une seconde analyse, désigner un expert.
-
-La date de la seconde analyse est arrêtée, dans le respect du calendrier fixé par la loi, en accord avec le département des
-analyses de l'Agence française de lutte contre le dopage, ou avec le laboratoire auquel il a été fait appel en application de
-l'article L. 232-18 du code du sport et, le cas échéant, avec l'expert désigné par l'intéressé. Ces résultats sont
-communiqués, par lettre recommandée avec avis de réception ou par lettre remise contre récépissé, à l'intéressé, à la
-fédération et à l'Agence française de lutte contre le dopage.
-
-Article 18
-
-Lorsque les circonstances le justifient, et dans l'attente de la décision de l'organe disciplinaire, le président de celui-ci
-peut décider une suspension provisoire du licencié, de l'animal, ou du licencié et de l'animal, à titre conservatoire, pour
-les compétitions organisées ou autorisées par la fédération concernée. La décision de suspension doit être motivée.
-
-L'intéressé dispose alors d'un délai de cinq jours, à compter de la réception de la décision du président de l'organe
-disciplinaire, pour présenter ses observations. Ce délai est porté à dix jours lorsque l'intéressé est domicilié hors de la
-métropole.
-
-Si l'analyse de contrôle éventuellement demandée ne confirme pas le rapport de la première analyse, cette suspension
-provisoire prend fin à compter de la réception par la fédération du rapport de l'analyse de contrôle.
-
-La suspension provisoire prend également fin en cas de relaxe de l'intéressé par l'organe disciplinaire, si la durée de la
-sanction décidée en application du 2° du I de l'article 30 est inférieure à celle de la suspension déjà supportée à titre
-conservatoire ou si l'organe disciplinaire n'est pas en mesure de statuer dans le délai de dix semaines qui lui est imparti à
-l'article L. 232-21 du code du sport. Dans le cas contraire, la durée de la suspension provisoire s'impute sur celle de
-l'interdiction devenue définitive prononcée en application du 2° du I de l'article 30 ou des dispositions de l'article L.
-232-23 du code du sport.
-
-Article 19
-
-Dès lors qu'une infraction a été constatée le représentant de la fédération chargé de l'instruction ne peut clore de lui-même
-une affaire. L'organe disciplinaire est tenu de prendre une décision après convocation de l'intéressé.
-
-Au vu des éléments du dossier, le représentant de la fédération chargé de l'instruction établit un rapport qu'il adresse à
-l'organe disciplinaire et qui est joint au dossier.
-
-Le président de l'organe disciplinaire de première instance peut faire entendre par celui-ci toute personne dont l'audition
-lui paraît utile. Si une telle audition est décidée, le président en informe l'intéressé avant la séance.
-
-Article 20
-
-L'intéressé ou son représentant légal, accompagné le cas échéant de son défenseur, est convoqué (10)
-
-devant l'organe disciplinaire, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé,
-quinze jours au moins avant la date de la séance, la date du récépissé ou de l'avis de réception faisant foi.
-
-L'intéressé peut être représenté par une personne de son choix. Il peut également être assisté par une ou plusieurs personnes
-de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa demande, de l'aide
-d'un interprète aux frais de la fédération.
-
-L'intéressé et son défenseur peuvent consulter avant la séance le rapport et l'intégralité du dossier. Ils peuvent en obtenir
-copie. Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms huit jours au
-moins avant la réunion de l'organe disciplinaire. Le président de ce dernier peut refuser, par décision motivée, les demandes
-d'audition manifestement abusives.
-
-Article 21
-
-Lors de la séance, le représentant de la fédération chargé de l'instruction présente oralement son rapport. En cas
-d'empêchement du représentant chargé de l'instruction, son rapport peut être lu par l'un des membres de l'organe
-disciplinaire.
-
-L'intéressé ou son représentant et, le cas échéant, la ou les personnes qui l'assistent sont invités à prendre la parole en
-dernier.
-
-Article 22
-
-L'organe disciplinaire délibère à huis clos, hors de la présence de l'intéressé, des personnes qui l'assistent, des personnes
-entendues à l'audience et du représentant de la fédération chargé de l'instruction. Lorsque les fonctions de secrétaire de
-séance sont assurées par une personne qui n'est pas membre de l'organe disciplinaire, celle-ci assiste au délibéré sans y
-participer.
-
-L'organe disciplinaire statue par une décision motivée, signée par le président et le secrétaire de séance.
-
-Elle est aussitôt notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé à
-l'intéressé, et à (11).
-
-La notification mentionne les voies et délais d'appel.
-
-Dans les huit jours de son prononcé, la décision est également notifiée pour information, par lettre recommandée avec demande
-d'avis de réception, à l'Agence française de lutte contre le dopage, aux ministres chargés des sports et de l'agriculture
-ainsi qu'aux fédérations internationales lorsque ces dernières sont intéressées par cette décision.
-
-Lorsque l'organe disciplinaire de première instance a pris une décision de sanction, telle que définie à l'article 30 du
-présent règlement, et que cette dernière est devenue définitive, cette décision est alors publiée de manière nominative pour
-les majeurs, de manière anonyme pour les mineurs, au prochain bulletin de la fédération sportive intéressée ou dans le
-document qui en tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances
-exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de l'organe disciplinaire.
-
-Article 23
-
-L'organe disciplinaire de première instance doit se prononcer dans le délai prévu à l'article L. 232-21 du code du sport.
-
-Faute d'avoir statué dans ce délai, l'organe disciplinaire de première instance est dessaisi et l'ensemble du dossier est
-transmis à l'organe disciplinaire d'appel.
-
-Section 3 : Dispositions relatives à l'organe disciplinaire d'appel
-
-Article 24
-
-La décision de l'organe disciplinaire de première instance peut être frappée d'appel par l'intéressé et par (12),
-
-par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, dans un délai de dix jours. Ce
-délai est porté à quinze jours lorsque l'intéressé est domicilié hors de la métropole.
-
-L'exercice du droit d'appel ne peut être subordonné au versement d'une somme d'argent à la fédération ou limité par une
-décision d'un organe fédéral.
-
-L'appel n'est pas suspensif.
-
-Lorsque l'appel émane de la fédération, l'organe disciplinaire d'appel en donne communication à l'intéressé par lettre
-recommandée avec avis de réception ou par lettre remise contre récépissé et l'informe qu'il peut produire ses observations
-dans un délai de cinq jours à compter de la date du récépissé ou de l'avis de réception. Ce délai est porté à dix jours
-lorsque l'intéressé est domicilié hors de la métropole.
-
-Article 25
-
-L'organe disciplinaire d'appel statue en dernier ressort.
-
-Il se prononce, au vu du dossier de première instance et des productions d'appel, dans le respect du principe du
-contradictoire.
-
-Le président désigne, parmi les membres de l'organe disciplinaire, un rapporteur. Celui-ci établit un rapport exposant les
-faits et rappelant les conditions du déroulement de la procédure. Ce rapport est présenté oralement en séance puis joint au
-dossier.
-
-A compter de la constatation de l'infraction, l'organe disciplinaire d'appel doit se prononcer dans le délai prévu à
-l'article L. 232-21 du code du sport. Faute d'avoir statué dans ce délai, il est dessaisi et l'ensemble du dossier est
-transmis à l'Agence française de lutte contre le dopage.
-
-Article 26
-
-L'intéressé, accompagné le cas échéant de son défenseur, est convoqué ..... (10) devant l'organe disciplinaire d'appel, par
-lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, quinze jours au moins avant la
-date de la séance.
-
-L'intéressé peut être représenté par une personne de son choix. Il peut également être assisté par une ou plusieurs personnes
-de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa demande, de l'aide
-d'un interprète aux frais de la fédération.
-
-L'intéressé et son défenseur peuvent consulter avant la séance le rapport et l'intégralité du dossier. Ils peuvent en obtenir
-copie. Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms huit jours au
-moins avant la réunion de l'organe disciplinaire. Le président de ce dernier peut refuser les demandes d'audition
-manifestement abusives.
-
-Article 27
-
-Le président de l'organe disciplinaire d'appel peut faire entendre par celui-ci toute personne dont l'audition lui paraît
-utile. Si une telle audition est décidée, le président en informe l'intéressé avant la séance.
-
-Lors de la séance, l'intéressé ou son représentant et, le cas échéant, la ou les personnes qui l'assistent sont invités à
-prendre la parole en dernier.
-
-Article 28
-
-L'organe disciplinaire d'appel délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui
-l'assistent et des personnes entendues à l'audience. Lorsque les fonctions de secrétaire de séance sont assurées par une
-personne qui n'est pas membre de l'organe disciplinaire d'appel, celle-ci peut assister au délibéré sans y participer.
-
-L'organe disciplinaire d'appel statue par une décision motivée, signée par le président et le secrétaire de séance.
-
-Article 29
-
-La décision est aussitôt notifiée à l'intéressé et à.......... (11) par lettre recommandée avec demande d'avis de réception
-ou par lettre remise contre récépissé.
-
-Elle est notifiée dans les huit jours à l'Agence française de lutte contre le dopage et aux ministres chargés des sports et
-de l'agriculture par lettre recommandée avec demande d'avis de réception. La décision est transmise par tout moyen à la
-fédération internationale concernée.
-
-La décision mentionne les voies et délais de recours.
-
-Lorsque l'organe disciplinaire d'appel a pris une décision de sanction, telle que définie à l'article 30 du présent
-règlement, et que cette dernière est devenue définitive, cette décision est alors publiée de manière nominative pour les
-majeurs, de manière anonyme pour les mineurs, au prochain bulletin de la fédération sportive intéressée ou dans le document
-qui en tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances exceptionnelles,
-être effectuée sous forme anonyme par décision spécialement motivée de l'organe disciplinaire.
-
-TITRE III : SANCTIONS DISCIPLINAIRES
-
-Article 30
-
-Sans préjudice des sanctions pénales éventuellement encourues en application de l'article L. 241-5 du code du sport, les
-sanctions applicables sont en cas d'infraction aux articles L. 241-2 et L. 241-3 du code du sport :
-
-I. - Pour les personnes désignées à l'article L. 241-7 du code du sport :
-
-1° Les pénalités sportives suivantes :
-
-- l'annulation des résultats individuels obtenus par le licencié lors de la compétition ;
-
-- toutes les conséquences résultant de cette annulation, y compris le retrait des médailles, points et prix.
-
-Dans les sports collectifs ou dans les sports individuels dans lesquels certaines épreuves se déroulent par équipes, le
-dispositif prévu ci-dessus peut être appliqué à l'ensemble de l'équipe, dès lors que l'organe disciplinaire constate qu'au
-moins l'un de ses membres a méconnu les dispositions des articles L. 241-2 et L. 241-3 du code du sport durant la
-manifestation à l'occasion de laquelle a été effectué le contrôle (13).
-
-2° Des sanctions disciplinaires choisies parmi les mesures ci-après, à l'exclusion de toute sanction pécuniaire :
-
-a) Une interdiction temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L.
-241-2 du code du sport ;
-
-b) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions ou manifestations sportives mentionnées à l'article L. 241-2 du code du sport et aux entraînements y
-préparant ;
-
-c) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 du code du sport ;
-
-d) Le retrait provisoire de la licence ;
-
-e) La radiation.
-
-II. - Pour l'animal :
-
-1° Les pénalités sportives suivantes :
-
-- l'annulation des résultats individuels obtenus par l'animal lors de la compétition ;
-
-- toutes les conséquences résultant de cette annulation, y compris le retrait des médailles, points et prix.
-
-2° L'interdiction temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L. 241-2
-du code du sport.
-
-Article 31
-
-Lorsque l'organe disciplinaire constate que l'intéressé a méconnu les dispositions de l'article L. 241-2 du code du sport ou
-du II de l'article L. 241-3 du même code, il prononce une interdiction de compétition comprise entre deux ans et six ans. A
-partir de la seconde infraction l'interdiction est au minimum de quatre ans et peut aller jusqu'à l'interdiction définitive.
-
-Article 32
-
-En cas d'infraction aux dispositions du I de l'article L. 241-3 du code du sport, les sanctions prévues aux a, b et c du 2°
-du I de l'article 30 ont une durée minimum de quatre ans et peuvent aller jusqu'à l'interdiction définitive.
-
-Article 33
-
-Il n'est encouru aucune sanction disciplinaire prévue au 2° du I de l'article 30 lorsque l'intéressé démontre que la
-violation des dispositions de l'article L. 241-2 du code du sport ou du I de l'article L. 241-3 du même code qui lui est
-reprochée n'est due à aucune faute ou négligence de sa part. Dans ce cas, l'intéressé devra démontrer comment la substance
-interdite a pénétré dans l'organisme de l'animal.
-
-Article 34
-
-L'organe disciplinaire fixe la date d'entrée en vigueur des sanctions.
-
-Article 35
-
-Lorsqu'un animal a fait l'objet d'une interdiction de participation aux compétitions sportives, il ne peut reprendre la
-compétition qu'après avoir subi un nouveau contrôle effectué aux frais de son responsable dans les conditions prévues aux
-articles R. 241-4 à R. 241-6 du code du sport. L'intéressé en informe la fédération.
-
-Le rapport d'analyse est envoyé par le laboratoire à la fédération concernée.
-
-La participation à la première épreuve à laquelle l'animal est inscrit après la période d'interdiction est subordonnée à la
-présentation du résultat négatif du rapport d'analyse.
-
-Article 36
-
-Dans les deux mois à compter du jour où sa décision est devenue définitive, le président de l'organe disciplinaire ayant pris
-une décision de sanction peut décider de saisir l'Agence française de lutte contre le dopage d'une demande d'extension de la
-sanction disciplinaire prononcée aux activités de l'intéressé relevant d'autres fédérations, conformément aux dispositions du
-4° de l'article L. 232-22 du code du sport.
-
-Article 37
-
-Lorsqu'une personne licenciée d'une fédération étrangère affiliée à une fédération internationale a contrevenu aux
-dispositions des articles L. 241-2 et L. 241-3 du code du sport, le/les .... (14) de la fédération française intéressée
-adresse(nt) copie des procès-verbaux de contrôle et d'analyse à la fédération internationale.
-
-(1) Indiquer la référence des dispositions antérieures devenues caduques.
-
-(2) Préciser le ou les organes de la fédération pouvant demander qu'une enquête ou un contrôle soit effectué.
-
-(3) Préciser le ou les organes de la fédération pouvant désigner des membres délégués.
-
-(4) Préciser les personnes pouvant être désignées, telles que membre du comité directeur, arbitre, entraîneur, etc.
-
-(5) Préciser l'organe de la fédération investi du pouvoir de désignation et les modalités de celle-ci : président, comité
-directeur, etc.
-
-(6) Telle que membre le plus ancien, vice-président (dans ce cas, prévoir l'organe qui le désigne).
-
-(7) Préciser l'organe compétent pour proposer l'exclusion.
-
-(8) Préciser l'organe compétent pour prononcer la sanction et la nature de celle-ci.
-
-(9) Tels que remise par voie d'huissier, remise en mains propres avec décharge...
-
-(10) Préciser qui a le pouvoir de convoquer : le président de l'organe disciplinaire semble ici le plus indiqué.
-
-(11) Préciser le ou les organes de la fédération qui seront destinataires.
-
-(12) Préciser le ou les organes compétents de la fédération.
-
-(13) Pénalité collective facultative que la fédération inclut dans son règlement le cas échéant (pertinence de la sanction),
-et si elle le souhaite (opportunité de la sanction).
-
-(14) Préciser le ou les organes compétents.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-322 du 12 avril 2019 - art. 66
-
-_Cite_:
-
-  - Code du sport.
-  - Code du sport. - art. L131-19
-  - Code du sport. - art. L131-8
-  - Code du sport. - art. L212-1
-  - Code du sport. - art. L232-10
-  - Code du sport. - art. L232-11
-  - Code du sport. - art. L232-12
-  - Code du sport. - art. L232-17
-  - Code du sport. - art. L232-18
-  - Code du sport. - art. L232-21
-  - Code du sport. - art. L232-22
-  - Code du sport. - art. L232-23
-  - Code du sport. - art. L232-9
-  - Code du sport. - art. L241-2
-  - Code du sport. - art. L241-3
-  - Code du sport. - art. L241-4
-  - Code du sport. - art. L241-5
-  - Code du sport. - art. L241-6
-  - Code du sport. - art. L241-7
-  - Code du sport. - art. R241-12
-  - Code du sport. - art. R241-14
-
-
-### Annexes III<a id=568></a>
+### Annexes III<a id=569></a>
 
 ###### Article Annexe III-3 (art. R322-27)
 
@@ -59263,9 +57665,9 @@ _Cité par_:
   - Code du sport. - art. R322-35 (VD)
 
 
-## Annexes partie réglementaire - Arrêtés<a id=569></a>
+## Annexes partie réglementaire - Arrêtés<a id=570></a>
 
-### Annexes II<a id=570></a>
+### Annexes II<a id=571></a>
 
 ###### Article Annexe I-0-1 (art. A114-3)
 
@@ -70212,7 +68614,7 @@ _Cité par_:
   - Code du sport. - art. A231-2 (V)
 
 
-### Annexes III<a id=571></a>
+### Annexes III<a id=572></a>
 
 ###### Article Annexe III-1 (art. A312-1)
 
