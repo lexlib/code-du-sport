@@ -441,7 +441,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT</td>
     </tr>
@@ -711,7 +711,7 @@ BP JEPS, spécialité "activités nautiques".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions monovalentes de la spécialité "activités nautiques"</td>
     </tr>
@@ -826,12 +826,12 @@ sur tout lieu de pratique de l'activité. Au-delà de 12 milles nautiques d'un a
 sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.</td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions plurivalentes de la spécialité "activités nautiques"</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe A</td>
     </tr>
@@ -859,7 +859,7 @@ Encadrement et animation d'activités de découverte et d'initiation.</td>
 Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe B</td>
     </tr>
@@ -889,7 +889,7 @@ Pour tout public en eau calme et en mer, dans la limite de la navigation en 6e c
 au maximum par vent de force 4 sur le site d'évolution. Conduite de séances d'initiation en kayak de vagues.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe C</td>
     </tr>
@@ -964,7 +964,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.</td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F</td>
     </tr>
@@ -1115,7 +1115,7 @@ BP JEPS, spécialité "sport automobile".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "sport automobile"</td>
     </tr>
@@ -1183,7 +1183,7 @@ BP JEPS, spécialité "activités gymniques de la forme et de la force".</td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités gymniques de la forme et de la force"</td>
     </tr>
@@ -1567,7 +1567,7 @@ niveaux de compétition.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS</td>
     </tr>
@@ -2395,6 +2395,59 @@ Encadrement, animation et initiation d'activités de pêche de loisirs et sporti
 littoral.</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "voile multi-supports jusqu'à 6 milles nautiques d'un abri".</td>
+      <td align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation de la voile sur l'ensemble des supports.
+
+Entraînement jusqu'au niveau de compétition national, sur l'ensemble des supports voile.
+
+Encadrement et animation du stand up paddle (SUP).</td>
+      <td align="left">
+
+A l'exclusion de l'activité croisière.
+
+A l'exclusion des activités dérivées du surf de mer.</td>
+    </tr>
+    <tr>
+      <td>BP JEPS, spécialité "éducateur sportif", mention "voile croisière jusqu'à 200 milles nautiques d'un abri".</td>
+      <td align="left">Encadrement et animation d'activités de découverte et d'initiation en voile croisière. Entraînement
+jusqu'au niveau de compétition national en voile croisière. Encadrement et animation du stand up paddle (SUP).</td>
+      <td align="left">
+
+A l'exclusion des embarcations légères.
+
+A l'exclusion des activités dérivées du surf de mer.</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">Certificats complémentaires (CC) associés au BP JEPS, spécialité "éducateur sportif"</
+td>
+    </tr>
+    <tr>
+      <td>
+
+Certificat complémentaire
+
+"voile multi-supports à moins de 6 milles nautiques d'un abri".</td>
+      <td align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation de la voile sur l'ensemble des supports. Entraînement
+jusqu'au niveau de compétition national, sur l'ensemble des supports voile.
+
+Encadrement et animation du stand up paddle (SUP).</td>
+      <td align="left">A l'exclusion des activités dérivées du surf de mer.</td>
+    </tr>
+    <tr>
+      <td>Certificat complémentaire "voile croisière jusqu'à 200 milles nautiques d'un abri".</td>
+      <td align="left">
+
+Encadrement et animation d'activités de découverte et d'initiation en voile croisière.
+
+Entraînement jusqu'au niveau de compétition national, en voile croisière. Encadrement et animation du stand up paddle
+(SUP).</td>
+      <td align="left">A l'exclusion des activités dérivées du surf de mer.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2989,6 +3042,75 @@ A l'exclusion de la surveillance des lieux de pratique.</td>
   </tbody>
 </table>
 
+D-5. - Titres à finalité professionnelle délivrés par la Fédération française de handball
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+INTITULÉ DU TITRE</th>
+      <th>
+
+CONDITIONS D'EXERCICE</th>
+      <th>
+
+LIMITES DES CONDITIONS D'EXERCICE</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Educateur de handball, mention "entraîneur territorial".</td>
+      <td align="left">
+
+Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage et d'entraînement de
+joueurs et d'équipes de handball jusqu'au plus haut niveau régional.</td>
+      <td align="left">
+
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Educateur de handball, mention "animateur des pratiques socio-éducatives et sociétales".
+
+</td>
+      <td align="left">Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage de
+tout public, dans les différentes offres de pratique de handball.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Entraîneur de handball.
+
+</td>
+      <td align="left">Encadrement, enseignement, entraînement en handball jusqu'au niveau national.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Entraîneur de handball du secteur professionnel, mention "entraîneur professionnel".
+
+</td>
+      <td align="left">Encadrement, enseignement et entraînement de joueurs et joueuses professionnels en handball, dans une
+équipe professionnelle ou auprès d'une sélection nationale.</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Entraîneur de handball du secteur professionnel, mention "entraîneur-formateur".
+
+</td>
+      <td align="left">Encadrement, enseignement et entraînement de joueurs en formation en handball, dans une structure de
+formation d'un club professionnel ou fédérale.</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
 E. - Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-
@@ -3131,19 +3253,12 @@ Sur des parcours connus et reconnus.
 CQP "animateur de tir à l'arc".</td>
       <td align="left">
 
-Encadrement en autonomie du tir à l'arc, par la découverte et l'animation.</td>
+Encadrement en autonomie des activités d'animation de tir à l'arc pour tout public.</td>
       <td align="left">
 
-Dans la limite de 12 pratiquants ;
+Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat.
 
-Durant la période allant du début des vacances de printemps à la fin des vacances d'été, conformément aux dates du calendrier
-des vacances scolaires fixé par les ministères de l'enseignement supérieur et de l'éducation nationale ;
-
-A l'exclusion du temps scolaire contraint ;
-
-Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
-
-</td>
+Dans la limite de 6 pratiquants par groupe, pour le tir en parcours.</td>
     </tr>
     <tr>
       <td align="left">
@@ -3746,6 +3861,16 @@ Encadrement de séances collectives de tennis de table, de l'initiation jusqu'au
 </td>
     </tr>
     <tr>
+      <td>
+
+CQP "moniteur de tennis de table".
+
+</td>
+      <td>Encadrement de séances collectives de tennis de table de l'initiation, jusqu'aux premiers niveaux de compétition
+inclus.</td>
+      <td>
+    </td></tr>
+    <tr>
       <td align="left">
 
 CQP "moniteur de tir sportif".
@@ -4193,15 +4318,11 @@ niveau national.</td>
       <td>
 
 CQP "moniteur de roller sports", options : "patinage artistique et danse", "course", "rink-hockey", "roller hockey", "roller
-freestyle", "roller randonnée" et "roller derby".
-
-</td>
+freestyle", "roller randonnée" et "roller derby".</td>
       <td>
 
 Initiation aux activités du roller sports dans l'ensemble des options. Encadrement en autonomie dans l'option considérée,
-jusqu'aux premiers niveaux de compétition inclus.
-
-</td>
+jusqu'aux premiers niveaux de compétition inclus.</td>
       <td>
 
 Dans la limite de vingt pratiquants.
@@ -4209,63 +4330,82 @@ Dans la limite de vingt pratiquants.
 Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte, milieu urbain et skatepark.
 
 Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de
-pratiquants est supérieur à 8 et comprend un public mineur.
-
-</td>
+pratiquants est supérieur à 8 et comprend un public mineur.</td>
     </tr>
     <tr>
       <td>
 
-CQP "moniteur de roller sports", option "skateboard"
-
-</td>
+CQP "moniteur de roller sports", option "skateboard"</td>
       <td>
 
-Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus.
-
-</td>
+Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus.</td>
       <td>
 
 Dans la limite de 20 pratiquants.
 
-Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark.
-
-</td>
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark.</td>
     </tr>
     <tr>
       <td>
 
-CQP "animateur de tennis".
-
-</td>
+CQP "animateur de tennis".</td>
       <td>
 
-Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au padel.
-
-</td>
+Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au
+padel.</td>
       <td>
 
-A l'exclusion de l'entraînement et des pratiques compétitives.
-
-</td>
+A l'exclusion de l'entraînement et des pratiques compétitives.</td>
     </tr>
     <tr>
       <td>
 
-CQP "éducateur de tennis".
-
-</td>
+CQP "éducateur de tennis".</td>
       <td>
 
-Initiation au tennis en cours collectifs pour tout public.
-
-</td>
+Initiation au tennis en cours collectifs pour tout public.</td>
       <td>
 
-A l'exclusion de l'entraînement et des pratiques compétitives.
-
-</td>
+A l'exclusion de l'entraînement et des pratiques compétitives.</td>
     </tr>
+    <tr>
+      <td>
+
+CQP "initiateur voile".
+
+</td>
+      <td>
+
+Animation et initiation de la voile sur l'ensemble des supports, jusqu'au premier niveau de compétition.
+
+Encadrement et animation du stand up paddle (SUP)</td>
+      <td>
+
+Sous l'autorité d'un titulaire :
+
+- d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau IV ou supérieur
+
+ou
+
+- d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau IV minimum et d'un CQP
+"initiateur voile".
+
+Cette autorité s'exerce sur un nombre maximal de 10 titulaires du CQP et dans la limite de 140 pratiquants.
+
+Dans la limite de 60 milles nautiques pour l'activité croisière.
+
+A l'exclusion des activités dérivées du surf de mer.</td>
+    </tr>
+    <tr>
+      <td>
+
+CQP "animateur de course d'orientation".
+
+</td>
+      <td>Animation et initiation des activités de course d'orientation jusqu'au niveau jaune de compétition
+départementale.</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -4331,4 +4471,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 20 décembre 2018 - art. 1
+  - Arrêté du 12 avril 2019 - art. 1
