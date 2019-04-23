@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-04-22
+Version Consolidée au 2019-04-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -90,7 +90,7 @@ Version Consolidée au 2019-04-22
     - [LIVRE IV : DISPOSITIONS DIVERSES (art. L411-1 à L425-12)](#87)
       - [TITRE Ier : FINANCEMENT DU SPORT (art. L411-1 à L411-2)](#88)
         - [Chapitre unique (art. L411-1 à L411-2)](#89)
-          - [Section unique : Financements affectés à l'établissement public chargé du développement du sport (art. L411-1 à L411-2)](#90)
+          - [Section unique : Financements affectés à l'Agence nationale du sport chargée de la haute performance sportive et du développement de l'accès à la pratique sportive (art. L411-1 à L411-2)](#90)
       - [TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER (art. L421-1 à L425-12)](#91)
         - [Chapitre Ier : Dispositions applicables à Mayotte (art. L421-1 à L421-3)](#92)
         - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon (art. L422-1 à L422-3)](#93)
@@ -13045,27 +13045,42 @@ _Cité par_:
 
 #### Chapitre unique<a id=89></a>
 
-##### Section unique : Financements affectés à l'établissement public chargé du développement du sport<a id=90></a>
+##### Section unique : Financements affectés à l'Agence nationale du sport chargée de la haute performance sportive et du développement de l'accès à la pratique sportive<a id=90></a>
 
 ###### Article L411-1
 
 Un prélèvement effectué chaque année dans les conditions déterminées par la loi de finances sur les sommes misées sur les
-jeux exploités en France et dans les départements d'outre-mer par La Française des jeux est affecté à l'établissement public
-chargé du développement du sport.
+jeux exploités en France et dans les départements d'outre-mer par La Française des jeux est affecté à l'Agence nationale du
+sport chargée de la haute performance sportive et du développement de l'accès à la pratique sportive.
+
+**Nota:**
+
+Conformément aux dispositions du XV de l'article 83 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard le 1er septembre 2019.
+
+Conformément à l'article 1er du décret n° 2019-347 du 21 avril 2019, ces dispositions entrent en vigueur le 24 avril 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 51
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 83 (V)
 
 
 ###### Article L411-2
 
 Une contribution sur la cession à tout service de télévision des droits de diffusion de manifestations ou compétitions
-sportives perçue dans les conditions prévues à l'article 302 bis ZE du code général des impôts est affectée à l'établissement
-public chargé du développement du sport. Le produit de cette contribution est destiné à financer le développement des
-associations sportives locales et la formation de leurs animateurs.
+sportives perçue dans les conditions prévues à l'article 302 bis ZE du code général des impôts est affectée à l'Agence
+nationale du sport chargée de la haute performance sportive et du développement de l'accès à la pratique sportive. Le produit
+de cette contribution est destiné à financer le développement des associations sportives locales et la formation de leurs
+animateurs.
+
+**Nota:**
+
+Conformément aux dispositions du XV de l'article 83 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard le 1er septembre 2019.
+
+Conformément à l'article 1er du décret n° 2019-347 du 21 avril 2019, ces dispositions entrent en vigueur le 24 avril 2019.
 
 **Liens relatifs à cet article**
 
@@ -13076,7 +13091,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 51
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 83 (V)
 
 _Cite_:
 
