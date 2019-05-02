@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-04-24
+Version Consolidée au 2019-05-03
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -29261,73 +29261,61 @@ _Créé par_:
 
 ###### Article D224-2
 
-L'Instance nationale du supportérisme est présidée par le ministre chargé des sports ou son représentant.
+L'Instance nationale du supportérisme est présidée par le ministre chargé des sports ou son représentant. 
 
-Outre son président, elle comprend :
+Outre son président ainsi que le député et le sénateur prévus à l'article L. 224-2, elle comprend : 
 
-1° Dix représentants des associations de supporters disposant de l'agrément du ministre chargé des sports ;
+1° Dix représentants des associations de supporters disposant de l'agrément du ministre chargé des sports ; 
 
 2° Cinq représentants d'associations sportives ou de sociétés sportives qui participent aux compétitions organisées par une
-ligue professionnelle ;
+ligue professionnelle ; 
 
-3° Un représentant des ligues professionnelles désigné par l'Association nationale des ligues de sport professionnel ;
+3° Un représentant des ligues professionnelles désigné par l'Association nationale des ligues de sport professionnel ; 
 
-4° Un représentant du Comité national olympique et sportif français désigné par son président ;
+4° Un représentant du Comité national olympique et sportif français désigné par son président ; 
 
-5° Un représentant du Comité paralympique et sportif français désigné par son président ;
+5° Un représentant du Comité paralympique et sportif français désigné par son président ; 
 
-6° Trois personnalités qualifiées à raison de leurs compétences en matière de supportérisme ;
+6° Trois personnalités qualifiées à raison de leurs compétences en matière de supportérisme ; 
 
 7° Quatre représentants de l'Etat désignés, respectivement, sur proposition des ministres chargés des sports, de l'intérieur,
-de la justice et des transports ;
+de la justice et des transports ; 
 
 8° Deux représentants élus désignés respectivement par l'Association des maires de France et l'Association nationale des élus
-en charge du sport ;
-
-9° Elle peut en outre comprendre un député et un sénateur désignés respectivement par le président de l'Assemblée nationale
-et par le président du Sénat.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 3 du décret n° 2017-653 du 26 avril 2017, ces dispositions s'appliquent à compter
-du 1er mai 2017. Le mandat des membres qui n'ont pas été nommés dans les conditions prévues par ledit décret cesse à compter
-de cette date.
+en charge du sport.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-653 du 26 avril 2017 - art. 1
+  - Décret n°2019-396 du 29 avril 2019 - art. 1
 
 _Cité par_:
 
   - Code du sport. - art. D224-3 (V)
 
+_Cite_:
+
+  - Code du sport. - art. L224-2
+
 
 ###### Article D224-3
 
 Les membres de l'Instance nationale du supportérisme mentionnés aux 1° à 8° de l'article D. 224-2 sont nommés par arrêté du
-ministre chargé des sports pour une durée de trois ans. Les membres désignés en application du 9° sont nommés respectivement
-jusqu'au prochain renouvellement de l'Assemblée nationale et jusqu'au prochain renouvellement partiel du Sénat. 
+ministre chargé des sports pour une durée de trois ans.
 
-Le mandat est renouvelable une fois. 
+Le mandat est renouvelable une fois.
 
 Les dispositions de l'article 74 de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes et
 du décret n° 2015-354 du 27 mars 2015 relatif à l'égal accès des femmes et des hommes aux commissions et instances
 consultatives ou délibératives placées auprès du Premier ministre, des ministres ou de la Banque de France sont applicables à
-l'Instance nationale du supportérisme. 
+l'Instance nationale du supportérisme.
 
-Les fonctions de membre de l'Instance nationale du supportérisme sont exercées à titre gratuit. 
+Les fonctions de membre de l'Instance nationale du supportérisme sont exercées à titre gratuit.
 
 Les membres de l'Instance nationale du supportérisme peuvent se faire rembourser leurs frais de déplacement dans les
 conditions fixées par le décret n° 2006-781 du 3 juillet 2006 modifié fixant les conditions et les modalités de règlement des
 frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 3 du décret n° 2017-653 du 26 avril 2017, ces dispositions s'appliquent à compter
-du 1er mai 2017. Le mandat des membres qui n'ont pas été nommés dans les conditions prévues par ledit décret cesse à compter
-de cette date.
 
 **Liens relatifs à cet article**
 
@@ -29340,7 +29328,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-653 du 26 avril 2017 - art. 2
+  - Décret n°2019-396 du 29 avril 2019 - art. 2
 
 
 ###### Article D224-4
