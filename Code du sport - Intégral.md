@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-05-03
+Version Consolidée au 2019-05-12
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -30086,12 +30086,11 @@ _Cité par_:
 
 ###### Article D232-3
 
-Les sportifs qui ont fait l'objet d'une sanction en application des articles L. 232-21 ou L. 232-22 doivent bénéficier d'une
-consultation médicale au sein d'une antenne dans le mois qui suit la notification de la décision de la sanction. 
+Les sportifs qui ont fait l'objet d'une sanction en application des articles L. 232-21-1 à L. 232-23-3-12 doivent bénéficier
+d'une consultation médicale au sein d'une antenne dans le mois qui suit la notification de la décision de la sanction. 
 
-Dans le mois qui précède le terme des sanctions prévues aux b à e du 1° du I de l'article L. 232-23 ainsi que celles prévues
-aux b à e du I de l'article 38 du règlement disciplinaire type des fédérations sportives agréées relatif à la lutte contre le
-dopage reproduit en annexe II-2, les sportifs peuvent bénéficier d'une consultation médicale au sein d'une antenne. 
+Dans le mois qui précède le terme des sanctions prévues au 2° du I de l'article L. 232-23, les sportifs peuvent bénéficier
+d'une consultation médicale au sein d'une antenne. 
 
 A l'issue de la dernière consultation, une attestation nominative conforme au modèle type reproduit en annexe II-1-1 est
 remise au sportif concerné par le médecin de l'antenne et une copie est transmise sans délai, par tout moyen, à la fédération
@@ -30110,13 +30109,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-723 du 2 mai 2017 - art. 1
+  - Décret n°2019-432 du 9 mai 2019 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. Annexe II-2 (art. R232-86) (V)
-  - Code du sport. - art. L232-21 (V)
-  - Code du sport. - art. L232-23 (V)
+  - Code du sport. - art. L232-21-1
+  - Code du sport. - art. L232-23
+  - Code du sport. - art. L232-23-3-12
 
 
 ##### Sous-section 2 :  Agrément des antennes médicales de prévention du dopage<a id=257></a>
@@ -31652,40 +31651,43 @@ _Cite_:
 ###### Article D232-47
 
 Une notification du contrôle est remise au sportif désigné pour être contrôlé par la personne chargée du contrôle ou par une
-personne désignée par elle, cette dernière devant être : 
+personne désignée par elle, cette dernière devant être :
 
-― un délégué fédéral, ou une personne désignée par la fédération chargée de l'assister en cas d'absence de désignation d'un
-délégué fédéral ou d'inexécution de la part du délégué fédéral de son obligation mentionnée à l'article R. 232-60 ; 
+― le délégué antidopage prévu à l'article L. 232-14, ou une personne désignée par la fédération chargée de l'assister en cas
+d'absence de désignation d'un délégué antidopage ou d'inexécution de la part du délégué antidopage de son obligation
+mentionnée à l'article R. 232-60 ;
 
-― l'organisateur de la compétition ou de la manifestation ; 
+― l'organisateur de la compétition ou de la manifestation ;
 
-― l'escorte prévue à l'article R. 232-55. 
+― l'escorte prévue à l'article R. 232-55.
 
 La notification précise la date, l'heure, le lieu et la nature du contrôle. Elle doit être signée par le sportif et remise ou
-transmise sans délai à la personne chargée du contrôle ou à la personne désignée par elle. 
+transmise sans délai à la personne chargée du contrôle ou à la personne désignée par elle.
 
 Pour les sportifs désignés pour être contrôlés qui ne s'entraînent pas dans un lieu fixe, ou en cas de circonstances
 particulières ne permettant pas la notification du contrôle par écrit, l'agence fixe les modalités permettant de garantir
 l'origine et la réception de cette notification. Les fédérations sportives agréées en assurent la diffusion auprès des
-intéressés. 
+intéressés.
 
-Le refus de prendre connaissance, de signer ou de retourner la notification est constitutif d'un refus de se soumettre aux
-mesures de contrôle.
+Le refus de prendre connaissance, de signer ou de retourner la notification est constitutif d'une soustraction au prélèvement
+d'un échantillon au sens du 1° de l'article L. 232-9-2.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-59 du 13 janvier 2011 - art. 4
+  - Décret n°2019-432 du 9 mai 2019 - art. 2
+
+_Cite_:
+
+  - Code du sport. - art. L232-14
+  - Code du sport. - art. L232-9-2
+  - Code du sport. - art. R232-55
+  - Code du sport. - art. R232-60
 
 _Anciens textes_:
 
   - Code du sport. - art. R232-47 (T)
-
-_Cite_:
-
-  - Code du sport. - art. R232-55
-  - Code du sport. - art. R232-60
 
 
 ###### Article R232-45
@@ -33006,7 +33008,7 @@ _Modifié par_:
 
 L'autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite, prévue à l'article L. 232-2, est
 délivrée par l'Agence française de lutte contre le dopage lorsque chacune des conditions suivantes est remplie par
-prépondérance des probabilités remplies :
+prépondérance des probabilités :
 
 1° Le sportif subit un préjudice de santé significatif si la substance ou la méthode interdite ne peut lui être administrée,
 lors de la prise en charge d'un état pathologique aigu ou chronique ;
@@ -33030,7 +33032,7 @@ thérapeutiques.
 
 _Modifié par_:
 
-  - Décret n°2017-845 du 5 mai 2017 - art. 1
+  - Décret n°2019-432 du 9 mai 2019 - art. 3
 
 _Cite_:
 
@@ -33088,23 +33090,6 @@ silence gardé par l'agence au-delà de ce délai vaut décision de rejet.
 _Créé par_:
 
   - Décret n°2016-83 du 29 janvier 2016 - art. 24
-
-
-###### Article D232-73-2
-
-En cas d'urgence justifiée par la participation du demandeur à une manifestation sportive dans le délai mentionné à l'article
-D. 232-73-1, le président de l'agence peut, après avis du conseiller scientifique de l'agence, reconnaître, dans les
-meilleurs délais, une autorisation d'usage à des fins thérapeutiques.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-83 du 29 janvier 2016 - art. 24
-
-_Abrogé par_:
-
-  - Décret n°2019-432 du 9 mai 2019 - art. 4
 
 
 ###### Article D232-75
@@ -33229,21 +33214,23 @@ _Anciens textes_:
 ###### Article D232-84
 
 Les décisions accordant les autorisations d'usage à des fins thérapeutiques sont transmises par l'Agence française de lutte
-contre le dopage à l'Agence mondiale antidopage ainsi qu'à la fédération internationale concernée dans un délai de vingt et
-un jours à compter de leur notification. Il en va de même des décisions rejetant une demande recevable. 
+contre le dopage à l'Agence mondiale antidopage ainsi qu'à la fédération internationale concernée et, le cas échéant, à
+l'organisation nationale antidopage étrangère concernée, dans un délai de vingt et un jours à compter de leur notification.
+Il en va de même des décisions rejetant une demande recevable. 
 
-L'Agence française de lutte contre le dopage procède à un réexamen de sa décision si celui-ci est demandé par l'Agence
-mondiale antidopage dans le délai de vingt et un jours suivant la transmission de cette décision.
+Conformément à l'article L. 232-2, l'Agence française de lutte contre le dopage procède à un réexamen de sa décision si
+celui-ci est demandé par l'Agence mondiale antidopage dans le délai de vingt et un jours suivant la transmission de cette
+décision.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 27
+  - Décret n°2019-432 du 9 mai 2019 - art. 5
 
 _Cite_:
 
-  - Code du sport. - art. L232-15
+  - Code du sport. - art. L232-2
 
 _Anciens textes_:
 
@@ -33255,41 +33242,17 @@ _Anciens textes_:
 Lorsque l'Agence française de lutte contre le dopage décide de rejeter ou de faire droit à une demande de reconnaissance
 d'une autorisation d'usage à des fins thérapeutiques délivrée par une fédération internationale ou un organisme mentionné au
 4° de l'article L. 230-2, elle en informe l'autorité qui l'a délivrée ainsi que l'Agence mondiale antidopage dans un délai de
-vingt et un jours. 
-
-L'Agence française de lutte contre le dopage procède à un réexamen de sa décision si celui-ci est demandé par l'Agence
-mondiale antidopage dans le délai de vingt et un jours suivant la transmission de cette information.
+vingt et un jours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 28
-
-
-###### Article D232-85
-
-L'autorisation d'usage à des fins thérapeutiques prévue à l'article D. 232-77 accordée à un sportif qui a fait l'objet, lors
-d'un contrôle, d'un rapport d'analyse constatant des résultats positifs est transmise par l'agence à la fédération de
-laquelle le sportif est licencié.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2019-432 du 9 mai 2019 - art. 7
+  - Décret n°2019-432 du 9 mai 2019 - art. 6
 
 _Cite_:
 
-  - Code du sport. - art. D232-77
-
-_Anciens textes_:
-
-  - Code du sport. - art. R232-85 (T)
+  - Code du sport. - art. L230-2
 
 
 ###### Article R232-74
@@ -55370,8 +55333,8 @@ I.-Identification (Nom, adresse et coordonnées) de l'antenne médicale de prév
 
 II.-Identification (Nom, prénom, date et lieu de naissance) du sportif :
 
-III.-Motif des entretiens (Décision disciplinaire : fédération compétente ou AFLD, date de notification de la sanction, durée
-de la sanction, motif de la sanction) :
+III.-Motif des entretiens (Décision disciplinaire : date de notification de la sanction, durée de la sanction, motif de la
+sanction) :
 
 IV.-Réalisation des entretiens (Date et lieu de réalisation de l'entretien) :
 
@@ -55387,9 +55350,9 @@ Signature
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-723 du 2 mai 2017 - art. 2
+  - Décret n°2019-432 du 9 mai 2019 - art. 1
 
 
 ### Annexes III<a id=544></a>
