@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-07-07
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -14348,8 +14348,14 @@ _Modifié par_:
 ###### Article D112-21
 
 Des régies de recettes et des régies d'avances peuvent être créées par décision du directeur général, dans les conditions
-prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes
+prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes
 publics, et avec l'accord de l'agent comptable et du contrôleur budgétaire.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -14358,17 +14364,17 @@ _Anciens textes_:
   - Art. 19 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
   - Décret n°2006-254 du 2 mars 2006 - art. 19 (Ab)
 
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992
-
 _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article D112-23
@@ -21730,18 +21736,28 @@ _Codifié par_:
 
 ###### Article D211-51
 
-Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
-juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 2019-798 du 26
+juillet 2019 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
-
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R211-48
@@ -22441,22 +22457,28 @@ _Modifié par_:
 
 ###### Article D211-67
 
-Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
-juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 2019-798 du 26
+juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992
 
 _Codifié par_:
 
   - Décret n°2007-1133 du 24 juillet 2007
 
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
 _Modifié par_:
 
-  - Décret n°2010-1378 du 12 novembre 2010 - art. 4
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R211-64
@@ -30942,8 +30964,14 @@ _Codifié par_:
 ###### Article R232-39
 
 Des régies de recettes et de dépenses peuvent être créées auprès de l'agence par décision du président, sur avis conforme de
-l'agent comptable, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et
+l'agent comptable, dans les conditions fixées par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et
 aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -30952,13 +30980,17 @@ _Anciens textes_:
   - Art. 30 du décret n°2006-1204 du 29 septembre 2006 relatif à l'organisation et au fonctionnement de l'Agence française de lutte contre le dopage
   - Décret n°2006-1204 du 29 septembre 2006 - art. 30 (Ab)
 
-_Cite_:
-
-  - Décret n°92-681 1992-07-20
-
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R232-40
