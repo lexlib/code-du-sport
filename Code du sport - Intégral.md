@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-08-03
+Version Consolidée au 2019-08-10
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -44418,7 +44418,7 @@ Sont précisées, notamment :
 
 - les exigences préalables à l'entrée en formation ;
 
-- les exigences préalables à la mise en situation pédagogique définies en termes d'objectifs intermédiaires des unités
+- les exigences préalables à la mise en situation professionnelle définies en termes d'objectifs intermédiaires des unités
 capitalisables ;
 
 - les dispenses et équivalences avec d'autres certifications.
@@ -44429,13 +44429,13 @@ _Anciens textes_:
 
   - Arrêté du 20 novembre 2006 - art. 2 (Ab)
 
-_Modifié par_:
-
-  - Arrêté du 21 décembre 2015 - art. 3
-
 _Cité par_:
 
   - Arrêté du 21 septembre 2018 - art. 6 (VD)
+
+_Modifié par_:
+
+  - Arrêté du 29 juillet 2019 - art. 1
 
 
 ###### Article A212-51
@@ -44695,7 +44695,7 @@ Cet arrêté précise notamment, le cas échéant :
 
 - les exigences préalables à l'entrée en formation ;
 
-- les exigences préalables à la mise en situation pédagogique, définies en termes d'objectifs intermédiaires des unités
+- les exigences préalables à la mise en situation professionnelle, définies en termes d'objectifs intermédiaires des unités
 capitalisables ;
 
 - les dispenses et équivalences avec d'autres certifications.
@@ -44714,7 +44714,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 21 décembre 2015 - art. 4
+  - Arrêté du 29 juillet 2019 - art. 1
 
 
 ###### Article A212-56
