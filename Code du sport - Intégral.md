@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-08-10
+Version Consolidée au 2019-08-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -1748,8 +1748,8 @@ _Cite_:
 
 Les dirigeants d'une association sportive, titulaires d'une licence délivrée par une fédération agréée, qui, à titre
 bénévole, remplissent des fonctions de gestion et d'encadrement au sein de leur fédération ou d'une association qui lui est
-affiliée peuvent bénéficier de congés, dans les conditions fixées aux articles L. 6322-1 à L. 6322-3 du code du travail, afin
-de suivre la formation liée à leur fonction de bénévoles.
+affiliée peuvent mobiliser leur compte personnel de formation dans les conditions fixées au chapitre III du titre II du livre
+III du code du travail, afin de suivre la formation liée à leur fonction de bénévoles.
 
 **Liens relatifs à cet article**
 
@@ -1759,12 +1759,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 _Cite_:
 
-  - Code du travail - art. L6322-1 (V)
-  - Code du travail - art. L6322-3 (V)
+  - Code du travail - art. L6322-1
+  - Code du travail - art. L6322-3
 
 
 ##### Section 2 : Associations sportives sur le lieu de travail<a id=20></a>
