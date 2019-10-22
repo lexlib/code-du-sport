@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-10-10
+Version Consolidée au 2019-10-23
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -2059,11 +2059,10 @@ _Cite_:
 ###### Article L122-5
 
 Le capital de la société anonyme à objet sportif est composé d'actions nominatives. Toutefois, il peut être composé d'actions
-au porteur lorsque la société      souhaite procéder à une offre au public de ses actions ou les faire admettre aux
-négociations sur un marché réglementé. 
-
-Les membres élus des organes de direction de cette société ne peuvent recevoir aucune rémunération au titre de leurs
-fonctions. Le remboursement des frais est autorisé, sur justification.
+au porteur lorsque la société souhaite procéder à une offre au public de ses actions autre que les offres mentionnées au 1°
+ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, ou faire admettre ses
+actions aux négociations sur un marché réglementé. Les membres élus des organes de direction de cette société ne peuvent
+recevoir aucune rémunération au titre de leurs fonctions. Le remboursement des frais est autorisé, sur justification.
 
 **Liens relatifs à cet article**
 
@@ -2075,7 +2074,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 14
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 21
+
+_Cite_:
+
+  - Code monétaire et financier - art. L411-2
+  - Code monétaire et financier - art. L411-2-1
 
 
 ###### Article L122-6
@@ -2141,8 +2145,8 @@ _Cite_:
 ###### Article L122-8
 
 En vue de l'émission ou de la cession dans le public d'instruments financiers donnant accès au capital ou aux droits de vote,
-les sociétés sportives mentionnées à l'article L. 122-2 sont tenues d'insérer dans le document prévu par l'article L. 412-1
-du code monétaire et financier les informations relatives à leur projet de développement d'activités sportives et
+les sociétés sportives mentionnées à l'article L. 122-2 sont tenues d'insérer dans le document prévu au IV de l'article L.
+412-1 du code monétaire et financier les informations relatives à leur projet de développement d'activités sportives et
 d'acquisition d'actifs destinés à renforcer leur stabilité et leur pérennité, tels que la détention d'un droit réel sur les
 équipements sportifs utilisés pour l'organisation des manifestations ou compétitions sportives auxquelles elles participent.
 
@@ -2160,7 +2164,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-158 du 1er février 2012 - art. 10
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 21
 
 _Cite_:
 
@@ -2207,8 +2211,9 @@ limitée et de la société anonyme à objet sportif est affecté à la constitu
 aucune distribution. 
 
 Par exception aux dispositions du premier alinéa, les sociétés anonymes à objet sportif peuvent distribuer leurs bénéfices
-aux actionnaires si des actions de la société ont fait l'objet d'une offre au public ou d'une admission aux négociations sur
-un marché réglementé.
+aux actionnaires si des actions de la société ont fait l'objet d'une offre au public autre que celles mentionnées au 1° ou au
+2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code ou d'une admission aux
+négociations sur un marché réglementé.
 
 **Liens relatifs à cet article**
 
@@ -2220,11 +2225,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 14
+  - Ordonnance n°2019-1067 du 21 octobre 2019 - art. 21
 
 _Cite_:
 
   - Code de commerce - art. L232-11
+  - Code monétaire et financier - art. L411-2
+  - Code monétaire et financier - art. L411-2-1
 
 
 ###### Article L122-11
