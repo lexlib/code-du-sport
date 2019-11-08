@@ -242,7 +242,7 @@ inanimé si l'aérologie le permet ;
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque
 évaluateur, en utilisant les termes techniques appropriés.
 
-D.-Mention “ parachutisme ” du DE JEPS
+D.- Mention “ activités du parachutisme ” du DE JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.
 
@@ -323,7 +323,7 @@ des pratiquants ;
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 2
+  - Arrêté du 31 octobre 2019 - art. 2
 
 _Cité par_:
 
