@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-10-23
+Version Consolidée au 2019-11-09
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -47805,13 +47805,13 @@ b) Option B : progression accompagnée en chute (PAC) ;
 c) Option C : saut en tandem (TANDEM) ;
 
 2° Le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “perfectionnement sportif” ci-après
-dénommé “DE JEPS”, mention “parachutisme”.
+dénommé “ DE JEPS ”, mention “ activités du parachutisme ” .
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 31 octobre 2019 - art. 1
 
 _Cité par_:
 
@@ -47825,8 +47825,9 @@ _Cité par_:
 L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
 prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
 pratiquants en sécurité dans l'une des trois options A, B ou C de la mention “parachutisme” du BP JEPS, spécialité “éducateur
-sportif” ou dans la mention “parachutisme” du DE JEPS, spécialité “perfectionnement sportif ”, mentionnées à l'article A.
-212-210. Pour chacune des trois options de la première mention ou de la seconde mention, elle comporte deux tests :
+sportif” ou dans la mention “ activités du parachutisme ” du DE JEPS, spécialité “perfectionnement sportif ”, mentionnées à
+l'article A. 212-210. Pour chacune des trois options de la première mention ou de la seconde mention, elle comporte deux
+tests :
 
 1° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité ;
 
@@ -47842,7 +47843,7 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-1.
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 31 octobre 2019 - art. 2
 
 
 ###### Article A212-212
@@ -47893,14 +47894,14 @@ progression accompagnée en chute dans tout établissement” ;
 c) Pour l'option “saut en tandem” (TANDEM) de la mention “parachutisme” du BP JEPS : “Enseignement du saut en tandem dans
 tout établissement” ;
 
-d) Pour la mention “parachutisme” du DE JEPS : “Enseignement, animation, encadrement du parachutisme ou entraînement de ses
-pratiquants” .
+d) Pour la mention “ activités du parachutisme ” du DE JEPS : “Enseignement, animation, encadrement du parachutisme ou
+entraînement de ses pratiquants” .
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 31 octobre 2019 - art. 2
 
 
 ##### Paragraphe 6 : Spéléologie<a id=437></a>
@@ -64011,7 +64012,7 @@ inanimé si l'aérologie le permet ;
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque
 évaluateur, en utilisant les termes techniques appropriés.
 
-D.-Mention “ parachutisme ” du DE JEPS
+D.- Mention “ activités du parachutisme ” du DE JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.
 
@@ -64092,7 +64093,7 @@ des pratiquants ;
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 2
+  - Arrêté du 31 octobre 2019 - art. 2
 
 _Cité par_:
 
