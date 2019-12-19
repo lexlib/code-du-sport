@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-11-22
+Version Consolidée au 2019-12-20
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
