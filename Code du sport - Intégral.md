@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-11-09
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -3161,42 +3161,44 @@ _Cite_:
 
 ###### Article L131-16
 
-Les fédérations délégataires édictent : 
+Les fédérations délégataires édictent :
 
 1° Les règles techniques propres à leur discipline ainsi que les règles ayant pour objet de contrôler leur application et de
-sanctionner leur non-respect par les acteurs des compétitions sportives ; 
+sanctionner leur non-respect par les acteurs des compétitions sportives ;
 
-2° Les règlements relatifs à l'organisation de toute manifestation ouverte à leurs licenciés ; 
+2° Les règlements relatifs à l'organisation de toute manifestation ouverte à leurs licenciés ;
 
 3° Les règlements relatifs aux conditions juridiques, administratives et financières auxquelles doivent répondre les
 associations et sociétés sportives pour être admises à participer aux compétitions qu'elles organisent. Ils peuvent contenir
 des dispositions relatives au nombre minimal de sportifs formés localement dans les équipes participant à ces compétitions et
 au montant maximal, relatif ou absolu, de la somme des rémunérations versées aux sportifs par chaque société ou association
-sportive. 
+sportive.
 
 Les fédérations délégataires, le cas échéant en coordination avec les ligues professionnelles qu'elles ont créées, édictent
-également des règles ayant pour objet d'interdire aux acteurs des compétitions sportives dont la liste est fixée par
-décret : 
+également des règles ayant pour objet d'interdire aux acteurs des compétitions sportives dont la liste est fixée par décret :
 
 a) De réaliser des prestations de pronostics sportifs sur l'une des compétitions de leur discipline lorsqu'ils sont
 contractuellement liés à un opérateur de paris sportifs titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du
 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ou
-lorsque ces prestations sont effectuées dans le cadre de programmes parrainés par un tel opérateur ; 
+des droits exclusifs d'organiser et d'exploiter des jeux de paris sportifs prévus à l'article 137 de la loi n° 2019-486 du 22
+mai 2019 relative à la croissance et la transformation des entreprises ou lorsque ces prestations sont effectuées dans le
+cadre de programmes parrainés par un tel opérateur ;
 
-b) De détenir une participation au sein d'un opérateur de paris sportifs titulaire de l'agrément prévu au même article 21 qui
-propose des paris sur la discipline sportive concernée ; 
+b) De détenir une participation au sein d'un opérateur de paris sportifs titulaire de l'agrément prévu au même article 21 ou
+de l'opérateur titulaire des droits exclusifs mentionnés au a ci-dessus qui propose des paris sur la discipline sportive
+concernée ;
 
 c) D'engager, directement ou par personne interposée, des mises sur des paris reposant sur l'une des compétitions de leur
 discipline et de communiquer à des tiers des informations privilégiées, obtenues à l'occasion de leur profession ou de leurs
-fonctions, et qui sont inconnues du public. 
+fonctions, et qui sont inconnues du public.
 
 Un décret en Conseil d'Etat fixe les conditions d'entrée en vigueur des règlements fédéraux relatifs aux normes des
 équipements sportifs requises pour la participation aux compétitions sportives organisées par les fédérations délégataires.
 
 **Nota:**
 
-Conformément aux dispositions de l'article 28 de la loi n° 2017-261 du 1er mars 2017, ces dispositions entrent en vigueur le
-1er janvier 2018.
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3227,25 +3229,31 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-261 du 1er mars 2017 - art. 8
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 13
 
 
 ###### Article L131-16-1
 
-L'accès d'une fédération sportive délégataire, en vue de la mise en œuvre d'une éventuelle procédure de sanction contre un
-acteur d'une compétition sportive qui aurait parié sur l'une des compétitions de sa discipline, à des informations
-personnelles relatives à des opérations de jeu enregistrées par un opérateur de jeux ou de paris en ligne titulaire de
-l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée s'effectue par demande adressée à l'Autorité de
-régulation des jeux en ligne. 
+L'accès d'une fédération sportive délégataire à des informations personnelles relatives à des opérations de jeu, en vue de la
+mise en œuvre d'une éventuelle procédure de sanction contre un acteur d'une compétition sportive qui aurait parié sur l'une
+des compétitions de sa discipline, s'effectue :
 
-L'Autorité de régulation des jeux en ligne communique à des agents de la fédération délégataire spécialement habilités à
-cette fin dans des conditions prévues par décret les éléments strictement nécessaires, dans le respect des dispositions de la
-loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+1° Par demande adressée à l'Autorité nationale des jeux pour les opérations enregistrées par un opérateur de paris sportifs
+titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée ;
+
+2° Par demande adressée à la société titulaire des droits exclusifs d'organiser et d'exploiter des jeux de paris sportifs
+prévue à l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+pour les opérations de jeu dans le cadre desquelles elle identifie et vérifie l'identité des parieurs.
+
+L'Autorité ou la société mentionnées aux alinéas précédents communiquent à des agents de la fédération délégataire
+spécialement habilités à cette fin dans des conditions prévues par décret en Conseil d'Etat les éléments strictement
+nécessaires, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés.
 
 **Nota:**
 
-Conformément aux dispositions de l'article 28 de la loi n° 2017-261 du 1er mars 2017, ces dispositions entrent en vigueur le
-1er janvier 2018.
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3253,6 +3261,7 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
   - Loi n°2010-476 du 12 mai 2010 - art. 21
+  - Loi n°2019-486 du 22 mai 2019 - art. 137
 
 _Cité par_:
 
@@ -3260,7 +3269,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-261 du 1er mars 2017 - art. 8
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 13
 
 
 ###### Article L131-17
@@ -4065,7 +4074,12 @@ _Cite_:
 ###### Article L211-6
 
 Les stages destinés à la formation des éducateurs et animateurs sportifs nécessaires à l'encadrement des activités physiques
-et sportives dans l'entreprise peuvent être organisés conformément aux dispositions du livre IX du code du travail.
+et sportives dans l'entreprise peuvent être organisés conformément aux dispositions de la sixième partie du code du travail.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4076,7 +4090,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 
 ###### Article L211-7
@@ -5283,10 +5301,15 @@ _Cite_:
 ###### Article L221-13
 
 Les fonds attribués aux sportifs de haut niveau inscrits sur une liste mentionnée à l'article L. 221-2 du présent code, en
-vue de financer leur formation professionnelle au sens du livre IX du code du travail, dans le cadre de stages agréés par
-l'Etat, dans la perspective d'une insertion ou d'une conversion professionnelle, sont assimilés à des frais professionnels à
-déduire de l'assiette des cotisations de sécurité sociale. La déduction effective est subordonnée à la production de pièces
-justificatives.
+vue de financer leur formation professionnelle au sens de la sixième partie du code du travail, dans le cadre de stages
+agréés par l'Etat, dans la perspective d'une insertion ou d'une conversion professionnelle, sont assimilés à des frais
+professionnels à déduire de l'assiette des cotisations de sécurité sociale. La déduction effective est subordonnée à la
+production de pièces justificatives.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5297,11 +5320,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. L221-2 (V)
+  - Code du sport. - art. L221-2
 
 _Cité par_:
 
@@ -5835,19 +5862,24 @@ _Anciens textes_:
 
 ###### Article L222-4
 
-Le versement prévu à l'article L. 6322-37 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu en
+Le versement prévu à l'article L. 6331-6 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu en
 application de l'article L. 222-2-3 du présent code.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. L222-2-3 (V)
-  - Code du travail - art. L6322-37
+  - Code du sport. - art. L222-2-3
+  - Code du travail - art. L6331-6
 
 _Anciens textes_:
 
@@ -8550,11 +8582,11 @@ _Cité par_:
 ###### Article L232-14-4
 
 Lorsque le sportif a refusé son consentement aux opérations de contrôle mentionnées à l'article L. 232-14-1, le juge des
-libertés et de la détention du tribunal de grande instance dans le ressort duquel s'effectue le contrôle ou le juge des
-libertés et de la détention du tribunal de grande instance prévu par le décret mentionné au I de l'article 706-2 du code de
-procédure pénale peut, à la requête du directeur du département des contrôles de l'Agence française de lutte contre le
-dopage, de l'organisation nationale antidopage étrangère compétente ou d'un organisme sportif international compétent,
-autoriser les opérations mentionnées à l'article L. 232-14-1. 
+libertés et de la détention du   tribunal judiciaire dans le ressort duquel s'effectue le contrôle ou le juge des libertés et
+de la détention du   tribunal judiciaire prévu par le décret mentionné au I de l'article 706-2 du code de procédure pénale
+peut, à la requête du directeur du département des contrôles de l'Agence française de lutte contre le dopage, de
+l'organisation nationale antidopage étrangère compétente ou d'un organisme sportif international compétent, autoriser les
+opérations mentionnées à l'article L. 232-14-1. 
 
 Le juge des libertés et de la détention peut également autoriser des opérations de contrôle mentionnées à l'article L.
 232-14-1 sur un sportif dont le consentement n'aura pas été sollicité, selon les mêmes modalités que celles mentionnées à
@@ -8579,15 +8611,20 @@ des libertés et de la détention.
 Le fait que ces opérations révèlent des infractions pénales ou des manquements aux obligations du présent chapitre ne
 constitue pas une cause de nullité des procédures incidentes.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 102
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 706-2 (VT)
+  - Code de procédure pénale - art. 706-2 (VD)
   - Code du sport. - art. L232-14-1
 
 _Cité par_:
@@ -12890,26 +12927,39 @@ _Créé par_:
 ###### Article L333-1-2
 
 Lorsque le droit d'organiser des paris est consenti par une fédération sportive ou par un organisateur de manifestations
-sportives mentionné au premier alinéa de l'article L. 331-5 à des opérateurs de paris en ligne, le projet de contrat devant
-lier ces derniers est, préalablement à sa signature, transmis pour avis à l'Autorité de régulation des jeux en ligne qui se
-prononce dans un délai d'un mois à compter de la date de réception de ce document. 
+sportives mentionné au premier alinéa de l'article L. 331-5 à des opérateurs de paris titulaires de l'agrément prévu à
+l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des
+jeux d'argent et de hasard en ligne ou des droits exclusifs d'organiser et d'exploiter des jeux de paris sportifs sur le
+fondement des dispositions prévues au I de l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la
+transformation des entreprises, le projet de contrat entre la fédération ou l'organisateur et l'opérateur de paris est,
+préalablement à sa signature, transmis pour avis à l'Autorité nationale des jeux, qui rend cet avis dans un délai d'un mois à
+compter de la date de réception de ce document.
 
 L'organisateur de manifestations ou de compétitions sportives peut donner mandat à la fédération délégataire ou agréée
-concernée ou au comité mentionné à l'article L. 141-1 pour signer, avec les opérateurs de paris en ligne, le contrat
-mentionné à l'alinéa précédent. 
+concernée ou au comité mentionné à l'article L. 141-1 pour signer, avec les opérateurs de paris sportifs, le contrat
+mentionné à l'alinéa précédent.
 
-Les fédérations sportives et organisateurs de manifestations sportives ne peuvent ni attribuer à un opérateur le droit
-exclusif d'organiser des paris ni exercer une discrimination entre les opérateurs agréés pour une même catégorie de paris. 
+Les fédérations sportives et organisateurs de manifestations sportives ne peuvent ni attribuer à un opérateur de paris
+sportifs titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 précitée le droit exclusif
+d'organiser des paris, ni exercer pour une même catégorie de paris une discrimination entre les opérateurs de jeux ou de
+paris en ligne agréés ou entre ceux-ci et la société titulaire des droits exclusifs d'organiser et d'exploiter des paris
+sportifs sur le fondement des dispositions du I de l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la
+croissance et la transformation des entreprises.
 
 Tout refus de conclure un contrat d'organisation de paris est motivé par la fédération sportive ou l'organisateur de cette
-manifestation sportive et notifié par lui au demandeur et à l'Autorité de régulation des jeux en ligne. 
+manifestation sportive et notifié par lui au demandeur et à l'Autorité nationale des jeux.
 
-Le contrat mentionné à l'alinéa précédent précise les obligations à la charge des opérateurs de paris en ligne en matière de
+Le contrat mentionné à l'alinéa précédent précise les obligations à la charge des opérateurs de paris sportifs en matière de
 détection et de prévention de la fraude, notamment les modalités d'échange d'informations avec la fédération sportive ou
-l'organisateur de cette manifestation sportive. 
+l'organisateur de cette manifestation sportive.
 
 Il ouvre droit, pour ces derniers, à une rémunération tenant compte notamment des frais exposés pour la détection et la
 prévention de la fraude.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -12919,7 +12969,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 150
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 13
 
 _Cite_:
 
@@ -12930,21 +12980,30 @@ _Cite_:
 ###### Article L333-1-3
 
 Les associations visées à l'article L. 122-1 et les sociétés sportives visées à l'article L. 122-2 peuvent concéder aux
-opérateurs de paris en ligne, en tout ou partie, à titre gratuit ou onéreux, de manière exclusive ou non, des droits sur les
-actifs incorporels dont elles sont titulaires, sous réserve des dispositions des articles L. 333-1 et L. 333-2. 
+opérateurs de paris sportifs titulaires de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à
+l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ou des droits exclusifs
+d'organiser et d'exploiter des jeux de paris sportifs sur le fondement des dispositions prévus au I de l'article 137 de la
+loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises, en tout ou partie, à titre
+gratuit ou onéreux, de manière exclusive ou non, des droits sur les actifs incorporels dont elles sont titulaires, sous
+réserve des dispositions des articles L. 333-1 et L. 333-2.
 
 Les dispositions qui précèdent s'appliquent aux fédérations sportives et organisateurs de manifestations sportives mentionnés
 à l'article L. 331-5 pour les actifs incorporels dont ils sont titulaires, à l'exception du droit de consentir à
-l'organisation de paris mentionné à l'article L. 333-1-1. 
+l'organisation de paris mentionné à l'article L. 333-1-1.
 
 Les conditions de commercialisation du droit d'organiser des paris sur les manifestations ou compétitions sportives et la
-définition des actifs incorporels pouvant être concédés aux opérateurs de paris en ligne sont précisées par décret.
+définition des actifs incorporels pouvant être concédés aux opérateurs de paris sportifs sont précisées par décret.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 63
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 13
 
 _Cite_:
 
@@ -12956,30 +13015,41 @@ _Cite_:
 
 L'organisateur d'une manifestation ou d'une compétition sportive mentionné à l'article L. 331-5 qui interdit à ses acteurs
 d'engager, directement ou par personne interposée, des mises sur des paris reposant sur cette manifestation ou cette
-compétition sportive peut, en vue de sanctionner les manquements à cette interdiction, demander à l'Autorité de régulation
-des jeux en ligne l'accès à des informations personnelles relatives à des opérations de jeu enregistrées par un opérateur de
-jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à
-l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne. 
+compétition sportive peut, en vue de sanctionner les manquements à cette interdiction, demander :
 
-Les opérations informatiques de rapprochement réalisées par l'Autorité de régulation des jeux en ligne et la communication
-par cette autorité de leurs résultats aux agents ou aux représentants de l'organisateur mentionné au premier alinéa du
-présent article spécialement habilités à cette fin sont autorisées par décret en Conseil d'Etat, pris après avis motivé et
-publié de la Commission nationale de l'informatique et des libertés.
+1° A l'Autorité nationale des jeux l'accès à des informations personnelles relatives à des opérations de jeu enregistrées par
+un opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010
+relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ;
+
+2° A la société titulaire des droits exclusifs d'organiser et d'exploiter des paris sportifs en vertu des dispositions de
+l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises l'accès à
+des informations personnelles relatives à des opérations de jeu dans le cadre desquelles elle identifie les parieurs et
+vérifie leur identité.
+
+Les opérations informatiques de rapprochement réalisées par l'Autorité ou la société mentionnées au 1° et 2°, ainsi que la
+communication par celles-ci de leurs résultats à des agents ou des représentants, spécialement habilités à cette fin, de
+l'organisateur mentionné au premier alinéa sont autorisées par décret en Conseil d'Etat, pris après avis motivé et publié de
+la Commission nationale de l'informatique et des libertés.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2010-476 du 12 mai 2010 - art. 21
-  - Code du sport. - art. L331-5 (V)
-
-_Créé par_:
-
-  - Loi n°2015-1541 du 27 novembre 2015 - art. 22
+  - Loi n°2019-486 du 22 mai 2019 - art. 137 (VD)
 
 _Cité par_:
 
   - Décret n°2016-760 du 8 juin 2016 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 13
 
 
 ###### Article L333-2
@@ -32855,12 +32925,17 @@ _Cite_:
 
 ###### Article R232-70
 
-L'agrément des personnes chargées du contrôle prend effet après qu'elles ont prêté serment devant le tribunal de grande
-instance de leur résidence, en déclarant : " Je jure de procéder avec exactitude et probité à tous contrôles, enquêtes,
-recherches, constats et opérations entrant dans le cadre de ma mission. Je jure également de ne rien révéler ou utiliser de
-ce qui sera porté à ma connaissance à l'occasion de l'exercice de celle-ci ".
+L'agrément des personnes chargées du contrôle prend effet après qu'elles ont prêté serment devant le   tribunal judiciaire de
+leur résidence, en déclarant : " Je jure de procéder avec exactitude et probité à tous contrôles, enquêtes, recherches,
+constats et opérations entrant dans le cadre de ma mission. Je jure également de ne rien révéler ou utiliser de ce qui sera
+porté à ma connaissance à l'occasion de l'exercice de celle-ci ". 
 
 Il n'est procédé qu'à une seule prestation de serment.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -32871,32 +32946,41 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R232-70-1
 
 Les agents relevant du ministre chargé des sports sont habilités à rechercher et constater les infractions aux dispositions
 prévues aux articles L. 232-9, L. 232-10 et L. 232-25 à L. 232-28 du code du sport après qu'ils ont prêté serment devant le
-tribunal de grande instance de leur résidence, en déclarant : " Je jure de procéder avec exactitude et probité à tous
-contrôles, enquêtes, recherches, constats et opérations entrant dans le cadre de ma mission. Je jure également de ne rien
-révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de celle-ci. " 
+tribunal judiciaire de leur résidence, en déclarant : " Je jure de procéder avec exactitude et probité à tous contrôles,
+enquêtes, recherches, constats et opérations entrant dans le cadre de ma mission. Je jure également de ne rien révéler ou
+utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de celle-ci. " 
 
 Ils procèdent aux actes pour lesquels ils ont été habilités sur le ressort de leur service d'affectation ou, lorsqu'ils ont
-reçu mission d'y procéder sur un territoire excédant leur ressort, sur l'étendue de ce territoire.
+reçu mission d'y procéder sur un territoire excédant leur ressort, sur l'étendue de ce territoire. 
 
 L'habilitation désigne nommément l'agent. Elle est accordée par arrêté publié au Bulletin officiel relevant du ministre
 chargé des sports. L'autorité administrative qui la délivre s'assure préalablement que l'agent dispose d'une formation
-juridique et pratique suffisante.
+juridique et pratique suffisante. 
 
 L'habilitation est retirée à l'agent qui a fait l'objet d'une sanction disciplinaire. Elle peut également être retirée si le
 titulaire cesse de remplir les conditions nécessaires à son obtention.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-83 du 29 janvier 2016 - art. 21
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -34179,23 +34263,28 @@ _Cité par_:
 ###### Article R241-2
 
 L'agrément des personnes mentionnées à l'article L. 232-11 et au deuxième alinéa de l'article L. 241-4 prend effet après
-qu'elles ont prêté serment devant le tribunal de grande instance de leur résidence de remplir avec honneur, conscience et
-probité les missions qui leur sont confiées en application du code du sport.
+qu'elles ont prêté serment devant le   tribunal judiciaire de leur résidence de remplir avec honneur, conscience et probité
+les missions qui leur sont confiées en application du code du sport. 
 
-L'agrément est délivré pour une durée de cinq ans.
+L'agrément est délivré pour une durée de cinq ans. 
 
 L'Agence française de lutte contre le dopage s'assure que les personnes agréées respectent les obligations liées à leur
-mission.
+mission. 
 
-L'agrément est retiré par l'Agence française de lutte contre le dopage :
+L'agrément est retiré par l'Agence française de lutte contre le dopage : 
 
-1° A la personne agréée qui commet une faute grave dans l'accomplissement de sa mission ;
+1° A la personne agréée qui commet une faute grave dans l'accomplissement de sa mission ; 
 
 2° Au vétérinaire qui a fait l'objet d'une sanction disciplinaire infligée par l'ordre des vétérinaires ou qui commet une
-faute grave dans l'accomplissement de sa mission ;
+faute grave dans l'accomplissement de sa mission ; 
 
 3° Au fonctionnaire qui a fait l'objet d'une sanction disciplinaire postérieurement à son agrément ou qui commet une faute
 grave dans l'accomplissement de sa mission.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34206,12 +34295,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code du sport. - art. L232-11 (V)
-  - Code du sport. - art. L241-4 (V)
+  - Code du sport. - art. L232-11
+  - Code du sport. - art. L241-4
 
 
 ###### Article R241-3
