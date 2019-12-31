@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2019-08-23
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -4047,7 +4047,12 @@ _Cite_:
 ###### Article L211-6
 
 Les stages destinés à la formation des éducateurs et animateurs sportifs nécessaires à l'encadrement des activités physiques
-et sportives dans l'entreprise peuvent être organisés conformément aux dispositions du livre IX du code du travail.
+et sportives dans l'entreprise peuvent être organisés conformément aux dispositions de la sixième partie du code du travail.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4058,7 +4063,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 
 ###### Article L211-7
@@ -5263,10 +5272,15 @@ _Cite_:
 ###### Article L221-13
 
 Les fonds attribués aux sportifs de haut niveau inscrits sur une liste mentionnée à l'article L. 221-2 du présent code, en
-vue de financer leur formation professionnelle au sens du livre IX du code du travail, dans le cadre de stages agréés par
-l'Etat, dans la perspective d'une insertion ou d'une conversion professionnelle, sont assimilés à des frais professionnels à
-déduire de l'assiette des cotisations de sécurité sociale. La déduction effective est subordonnée à la production de pièces
-justificatives.
+vue de financer leur formation professionnelle au sens de la sixième partie du code du travail, dans le cadre de stages
+agréés par l'Etat, dans la perspective d'une insertion ou d'une conversion professionnelle, sont assimilés à des frais
+professionnels à déduire de l'assiette des cotisations de sécurité sociale. La déduction effective est subordonnée à la
+production de pièces justificatives.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5277,11 +5291,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. L221-2 (V)
+  - Code du sport. - art. L221-2
 
 _Cité par_:
 
@@ -5815,19 +5833,24 @@ _Anciens textes_:
 
 ###### Article L222-4
 
-Le versement prévu à l'article L. 6322-37 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu en
+Le versement prévu à l'article L. 6331-6 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu en
 application de l'article L. 222-2-3 du présent code.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions s'appliquent
+à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
+  - Ordonnance n°2019-861 du 21 août 2019 - art. 4
 
 _Cite_:
 
-  - Code du sport. - art. L222-2-3 (V)
-  - Code du travail - art. L6322-37
+  - Code du sport. - art. L222-2-3
+  - Code du travail - art. L6331-6
 
 _Anciens textes_:
 
