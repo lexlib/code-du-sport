@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -24887,11 +24887,7 @@ Le référentiel de certification est composé de l'ensemble des unités constit
 compétences professionnelles, les objectifs intermédiaires de premier rang ainsi que les épreuves certificatives de ces
 objectifs.
 
-**Nota:**
-
-Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
-n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
-populaire et du sport existantes avant son entrée en vigueur
+Une unité capitalisable correspond à un bloc de compétences mentionné au I de l'article L. 6323-6 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -24955,7 +24951,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-527 du 27 avril 2016 - art. 2
+  - Décret n°2020-25 du 13 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. L6323-6
 
 
 ###### Article D212-24
@@ -25334,6 +25334,8 @@ Le référentiel de certification est composé de l'ensemble des unités constit
 Ce référentiel fixe pour chaque unité les compétences professionnelles, l'objectif terminal d'intégration ainsi que les
 objectifs intermédiaires de premier et second rangs.
 
+Une unité capitalisable correspond à un bloc de compétences mentionné au I de l'article L. 6323-6 du code du travail.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -25345,12 +25347,20 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Art. 4 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
   - Décret n°2006-1418 du 20 novembre 2006 - art. 4 (Ab)
+  - Art. 4 du décret n°2006-1418 du 20 novembre 2006 portant règlement général du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2020-25 du 13 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. L6323-6
 
 
 ###### Article D212-39
@@ -25670,16 +25680,9 @@ Le référentiel de certification est composé de l'ensemble des unités constit
 Ce référentiel fixe pour chaque unité les compétences professionnelles, l'objectif terminal d'intégration ainsi que les
 objectifs intermédiaires de premier et second rangs.
 
+Une unité capitalisable correspond à un bloc de compétences mentionné au I de l'article L. 6323-6 du code du travail.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 4 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
-  - Décret n°2006-1419 du 20 novembre 2006 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 _Cité par_:
 
@@ -25688,6 +25691,23 @@ _Cité par_:
   - Arrêté du 7 novembre 2017 - art. 2 (VD)
   - Arrêté du 5 juillet 2018 - art. 4 (VD)
   - Code du sport. - art. A212-76 (Ab)
+
+_Anciens textes_:
+
+  - Art. 4 du décret n°2006-1419 du 20 novembre 2006 portant règlement général du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport délivré par le ministère chargé de la jeunesse et des sports
+  - Décret n°2006-1419 du 20 novembre 2006 - art. 4 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2020-25 du 13 janvier 2020 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. L6323-6
 
 
 ###### Article D212-55
