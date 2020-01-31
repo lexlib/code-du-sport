@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-01-16
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -30540,9 +30540,8 @@ Les agents de l'Agence française de lutte contre le dopage :
 2° Ne peuvent, par eux-mêmes ou par personne interposée, avoir, dans les organismes dont les activités ont un lien avec les
 missions de l'agence, aucun intérêt de nature à compromettre leur indépendance ;
 
-3° Sont soumis aux dispositions du décret n° 2017-105 du 27 janvier 2017 relatif à l'exercice d'activités privées par des
-agents publics et certains agents contractuels de droit privé ayant cessé leurs fonctions, aux cumuls d'activités et à la
-commission de déontologie de la fonction publique.
+3° Sont soumis aux dispositions du décret n° 2020-69 du 30 janvier 2020 relatif aux contrôles déontologiques dans la fonction
+publique.
 
 **Liens relatifs à cet article**
 
@@ -30561,7 +30560,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1394 du 18 décembre 2019 - art. 1
+  - Décret n°2020-69 du 30 janvier 2020 - art. 29
 
 _Cité par_:
 
