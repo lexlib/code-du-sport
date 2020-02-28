@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-02-29
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -30315,57 +30315,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article R232-21
-
-Le président du collège et le président de la commission des sanctions de l'Agence française de lutte contre le dopage
-perçoivent une indemnité de fonction fixée par arrêté des ministres chargés du budget, de la fonction publique et des sports.
-
-Les membres du collège et de la commission des sanctions autres que leurs présidents perçoivent une indemnité par séance du
-collège ou de la commission à laquelle ils participent. Une indemnité supplémentaire est attribuée aux membres de la
-commission lorsqu'ils siègent en tant que président de celle-ci ou de l'une de ses formations.
-
-Le montant de l'indemnité par séance, le plafond annuel de rémunération attribuable à ce titre et le montant de l'indemnité
-supplémentaire sont fixés par arrêté des ministres chargés du budget, de la fonction publique et des sports.
-
-Les membres du collège et de la commission des sanctions peuvent également recevoir des indemnités au titre des rapports
-qu'ils établissent. Le montant de ces indemnités est fixé, en fonction du temps nécessaire à leur préparation et leur
-complexité, par le président de l'agence pour les membres du collège et par le président de la commission des sanctions pour
-les membres de la commission.
-
-Le montant maximal de l'indemnité attribuable par rapport ainsi que le plafond annuel de rémunération attribuable à ce titre
-sont fixés par arrêté des ministres chargés du budget, de la fonction publique et des sports.
-
-Les arrêtés prévus ci-dessus sont publiés au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 26 octobre 2007 - art. 1 (Ab)
-  - Arrêté du 26 octobre 2007 - art. 2 (Ab)
-  - Arrêté du 27 mars 2012 - art. 1 (Ab)
-  - Arrêté du 27 mars 2012 - art. 2 (Ab)
-  - Arrêté du 27 mars 2012 - art. 3 (Ab)
-  - Code du sport. - art. R232-16 (VD)
-
-_Anciens textes_:
-
-  - Art. 13 du décret n°2006-1204 du 29 septembre 2006 relatif à l'organisation et au fonctionnement de l'Agence française de lutte contre le dopage
-  - Décret n°2006-1204 du 29 septembre 2006 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Modifié par_:
-
-  - Décret n°2018-868 du 8 octobre 2018 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2020-173 du 27 février 2020 - art. 22
 
 
 ###### Article R232-22
