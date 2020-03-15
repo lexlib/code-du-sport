@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-02-29
+Version Consolidée au 2020-03-16
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -17860,9 +17860,9 @@ aux conseillers techniques régionaux.
 
 Les relations fonctionnelles entre, d'une part, les agents exerçant des missions de conseillers techniques sportifs et,
 d'autre part, selon les cas, le président de la fédération, de la ligue régionale ou du comité régional intéressés sont
-précisées dans la convention-cadre prévue à l'article R. 131-23. Ces agents sont, selon les cas, notés ou évalués par le
-ministre chargé des sports, au vu d'éléments fournis notamment par la fédération dans des conditions précisées dans la
-convention-cadre.
+précisées dans la convention-cadre prévue à l'article R. 131-23.                 Lorsqu'ils sont recrutés ou détachés sur
+contrat, ces agents sont évalués, selon les cas, par le ministre chargé des sports ou par le chef du service déconcentré dont
+ils relèvent au vu d'éléments fournis notamment par la fédération dans des conditions précisées dans la convention-cadre.
 
 **Liens relatifs à cet article**
 
@@ -17873,15 +17873,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
   - Décret n°2020-258 du 13 mars 2020 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-258 du 13 mars 2020 - art. 1
+
 _Cite_:
 
-  - Code du sport. - art. R131-23 (V)
+  - Code du sport. - art. R131-23
 
 
 ###### Article R131-21
