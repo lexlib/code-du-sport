@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-03-23
+Version Consolidée au 2020-05-07
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -47404,7 +47404,7 @@ du 3° de l'article R. 212-93, susceptible d'exister entre la qualification prof
 professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat de ski-
 moniteur national de ski alpin, en tant qu'elle intègre :
 
-- les compétences techniques de sécurité ;
+- les   compétences techniques ;
 
 - les connaissances théoriques et pratiques et les compétences en matière de sécurité.
 
@@ -47412,7 +47412,7 @@ moniteur national de ski alpin, en tant qu'elle intègre :
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 3 avril 2020 - art. 2
 
 _Cite_:
 
@@ -47470,19 +47470,20 @@ _Cite_:
 
 ###### Article A212-188
 
-L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant, dans les conditions
-prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
-pratiquants en sécurité. Elle comporte deux tests : 
+L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout ou en partie le déclarant dans les conditions
+prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93 vise à vérifier la capacité du déclarant à encadrer les
+pratiquants en sécurité. Elle comporte deux épreuves :
 
-1° L'épreuve de l'eurotest prévue au titre VII et à l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue le test technique de sécurité ; 
+1° L'épreuve technique prévue au titre VII et à l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue l'épreuve de vérification des compétences
+techniques ;
 
-2° Le test eurosécurité prévu au titre X et à l'annexe VII-3 de l'arrêté du 26 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin, qui constitue le test de vérification des connaissances
-théoriques et pratiques et des compétences en matière de sécurité. 
+2° L'épreuve de sécurité prévue au titre X et à l'annexe VII-3 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue l'épreuve de vérification des connaissances
+théoriques et pratiques et des compétences en matière de sécurité.
 
-Dans le cas où le déclarant est soumis aux deux tests, l'eurotest est évalué en premier lieu. En cas d'échec, le déclarant ne
-peut pas se présenter à l'eurosécurité. 
+Dans le cas où le déclarant est soumis aux deux épreuves, l'épreuve technique est évaluée en premier lieu. En cas d'échec, le
+déclarant ne peut pas se présenter à l'épreuve de sécurité.
 
 Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-4.
 
@@ -47492,23 +47493,17 @@ Nota : Au lieu de " à l'annexe VII-3 de l'arrêté du 26 avril 2012 ", lire " �
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté du 11 avril 2012 (V)
-  - Code du sport. - art. R212-90-1
-  - Code du sport. - art. R212-93
-
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 3 avril 2020 - art. 3
 
 
 ###### Article A212-189
 
-Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
-égal ou inférieur à cent points pour les hommes et quatre-vingt-cinq points pour les femmes, sur l'échelle correspondant aux
+Sont réputés avoir la capacité de mobiliser les compétences techniques les déclarants ayant obtenu un classement égal ou
+inférieur à cent points pour les hommes et quatre-vingt-cinq points pour les femmes, sur l'échelle correspondant aux
 disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski. Ils sont
-dispensés de l'épreuve de l'eurotest.
+dispensés de      l'épreuve technique. 
 
 Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant doit avoir été acquis
 dans les cinq années précédant la déclaration.
@@ -47517,7 +47512,8 @@ dans les cinq années précédant la déclaration.
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 3 avril 2020 - art. 2
+  - Arrêté du 3 avril 2020 - art. 4
 
 
 ###### Article A212-190
@@ -47536,24 +47532,22 @@ _Modifié par_:
 
 ###### Article A212-191
 
-Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 11 avril 2012 modifié relatif à la formation
-spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
+Le jury de l'épreuve technique est le jury prévu à l'article 16 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin.
 
-Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test eurosécurité, composée de
-techniciens qualifiés titulaires d'un des diplômes définis à l'annexe IX de l'arrêté du 11 avril 2012 modifié relatif à la
-formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Elle propose au jury les résultats de son
-évaluation.
+Le jury de l'épreuve de sécurité est le jury prévu à l'article 26 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Arrêté du 11 avril 2012 - art. 16
-  - Arrêté du 11 avril 2012 - art. Annexe IX
+  - Arrêté du 11 avril 2012 - art. 26
 
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 1
+  - Arrêté du 3 avril 2020 - art. 5
 
 
 ###### Article A212-192
@@ -68837,82 +68831,32 @@ _Cité par_:
 
 ###### Article Annexe II-16-4 (art. A212-188)
 
-Epreuve d'aptitude 
+Epreuve d'aptitude
 
-I.-Test technique de sécurité : l'Eurotest. 
+I. - Epreuve technique
 
-L'eurotest, épreuve de performance qui valide l'aptitude technique, vise à vérifier la capacité du candidat à évoluer en
-sécurité à une vitesse soutenue sur une certaine distance en maîtrisant les trajectoires. 
+L'épreuve technique, épreuve de performance qui valide l'aptitude technique, vise à vérifier la capacité du candidat à
+évoluer en sécurité à une vitesse soutenue sur une certaine distance, en maîtrisant les trajectoires.
 
-L'eurotest se déroule conformément aux dispositions du II de l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la
-formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
+L'épreuve technique se déroule conformément aux dispositions du II “Organisation et évaluation” de l'annexe V “L'épreuve
+technique” de l'arrêté du 11 avril 2012 modifié relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national
+de ski alpin.
 
-II.-Test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité :
-l'Eurosécurité 
+II. - Epreuve de sécurité
 
-Ce test se déroule en période hivernale sur une durée de deux à cinq jours. Il comprend trois épreuves permettant de
-vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à partir d'une mise en situation
-professionnelle sur le terrain : 
+L'épreuve de sécurité vise à évaluer le respect, par les candidats, des exigences minimales de sécurité essentielles pour les
+moniteurs de ski travaillant dans des environnements spécifiques.
 
-1° d'effectuer une recherche de victimes en avalanche dans un temps limité ; 
-
-2° d'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
-conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes et de gérer la situation en cas
-d'accident ; 
-
-3° d'assurer la conduite d'un groupe en sécurité sur deux jours minimum, en ski hors-pistes et en randonnée à ski. 
-
-1. Première épreuve : recherche multivictimes en avalanche. 
-
-L'épreuve consiste à détecter et à sonder pour retrouver avec succès deux détecteurs de victimes en avalanche (DVA) placés
-chacun dans un sac marin avec un isolant d'environ 60 cm de large, enfouis sans superposition de signal à environ 1 m de
-profondeur, et à dégager avec succès un des deux appareils. La zone de recherche est une surface de 50 m × 50 m. La
-localisation des deux DVA et le dégagement de l'un d'entre eux doit intervenir dans un temps maximal de 8 min. 
-
-Cette épreuve est éliminatoire. 
-
-2. Deuxième épreuve : analyse et interprétation d'informations de nature à permettre de prévenir le risque, de mettre en
-œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes. 
-
-Dans le cadre d'une mise en situation professionnelle, le candidat doit être en capacité : 
-
-a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigés en français ; 
-
-b) De se situer sur un plan des pistes de la station et sur une carte topographique. 
-
-L'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en français l'analyse du
-bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les comparer avec les
-conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan des pistes de la
-station ainsi que d'une carte topographique IGN 1/25 000. 
-
-Cette capacité est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas l'une des deux situations a ou b, il
-est éliminé. 
-
-3. Troisième épreuve : conduite de groupes en ski hors-pistes et en randonnée à ski. 
-
-Dans le cadre d'une mise en situation professionnelle, le candidat doit être en capacité : 
-
-a) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes ; 
-
-b) De gérer un accident : d'éviter le sur-accident et de gérer le groupe ; 
-
-c) D'alerter les secours en émettant un message d'alerte en français. 
-
-Dans le cas où le candidat ne valide pas l'une quelconque des trois capacités a, b ou c, il est éliminé. 
-
-Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité doit être validé
-en totalité. En cas d'échec à l'une quelconque des trois épreuves qui le composent, le candidat repasse le test dans son
-intégralité.
+L'épreuve de sécurité se déroule conformément aux dispositions du 2 “Modalités d'évaluation de l'épreuve de sécurité” de
+l'annexe VII-3 “L'unité de formation approfondissement de la sécurité sur pistes, hors des pistes et milieu montagnard
+enneigé incluant l'épreuve de sécurité ” de l'arrêté du 11 avril 2012 modifié relatif à la formation spécifique du diplôme
+d'Etat de ski-moniteur national de ski alpin.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté du 11 avril 2012 - art. Annexe V
-
 _Modifié par_:
 
-  - Arrêté du 4 décembre 2017 - art. 2
+  - Arrêté du 3 avril 2020 - art. 6
 
 _Cité par_:
 
