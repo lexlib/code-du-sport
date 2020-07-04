@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-05-07
+Version Consolidée au 2020-07-05
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -3985,6 +3985,10 @@ _Cite_:
 Les fédérations agréées assurent, dans des conditions définies par leurs statuts respectifs, la formation et le
 perfectionnement des arbitres et juges de leurs disciplines.
 
+La formation des arbitres et juges intègre une sensibilisation à la lutte contre l'arrêt cardiaque et aux gestes qui sauvent.
+
+Le contenu, le champ d'application et les modalités de mise en œuvre du présent article sont définis par décret.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3999,7 +4003,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Loi n°2020-840 du 3 juillet 2020 - art. 4
 
 
 ###### Article L211-4
