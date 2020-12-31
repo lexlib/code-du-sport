@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2020-12-31
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -208,7 +208,7 @@ Version Consolidée au 2020-12-31
                 - [Sous-Paragraphe 3 : Les modalités de la formation (art. R212-10-17 à R212-10-20)](#205)
               - [Paragraphe 4 : Dispositions diverses relatives à l'outre-mer (art. R212-10-21)](#206)
             - [Sous-section 2 : Diplômes, titres à finalité professionnelle ou certificats de qualification (art. D212-11 à R212-84)](#207)
-              - [Paragraphe 1 : Brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports (art. D212-11 à D212-19)](#208)
+              - [Paragraphe 1 : Certificat professionnel de la jeunesse, de l'éducation populaire et du sport (art. D212-11 à D212-15)](#208)
               - [Paragraphe 2 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (art. D212-20 à R212-31)](#209)
               - [Paragraphe 3 : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport (art. D212-35 à D212-50)](#210)
               - [Paragraphe 4 : Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (art. D212-51 à D212-66)](#211)
@@ -24428,17 +24428,21 @@ _Créé par_:
 
 ##### Sous-section 2 : Diplômes, titres à finalité professionnelle ou certificats de qualification<a id=207></a>
 
-##### Paragraphe 1 : Brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports<a id=208></a>
+##### Paragraphe 1 : Certificat professionnel de la jeunesse, de l'éducation populaire et du sport<a id=208></a>
 
 ###### Article D212-11
 
-Le brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports est un diplôme d'Etat qui
-atteste d'une qualification professionnelle pour l'encadrement, l'animation et l'accompagnement des activités physiques et
-sportives et des activités socioculturelles.
+Le certificat professionnel de la jeunesse, de l'éducation populaire et du sport est un diplôme d'Etat enregistré dans le
+répertoire national des certifications professionnelles et classé au niveau 3 de la nomenclature des niveaux de certification
+établie en application de l'article L. 6113-1 du code du travail. Il atteste l'acquisition d'une qualification dans
+l'exercice d'une activité professionnelle en responsabilité à finalité éducative ou sociale, dans les domaines d'activités
+physiques, sportives, socio-éducatives ou culturelles
 
-Il constitue le premier des niveaux de qualification professionnelle dans les filières préparant aux métiers relevant des
-secteurs de la jeunesse et des sports. Il est pris en compte pour l'accès aux formations conduisant aux diplômes du niveau de
-qualification professionnelle immédiatement supérieur.
+**Nota:**
+
+Conformément au I de l'article 3 du décret n° 2019-144 du 26 février 2019, les dispositions de l'article D212-11 dans leur
+rédaction antérieure audit décret s'appliquent jusqu'au 31 décembre 2020 (les conditions d'application sont prévues aux II et
+III du même article 3).
 
 **Liens relatifs à cet article**
 
@@ -24449,7 +24453,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
 
 _Cité par_:
 
@@ -24458,11 +24462,32 @@ _Cité par_:
   - Code du sport. - art. A212-16 (VT)
   - Code du sport. - art. A212-2 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-144 du 26 février 2019 - art. 1
+
 
 ###### Article D212-12
 
-Le brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports comprend plusieurs options
-définies par arrêté conformément à l'article D. 212-18.
+Le certificat professionnel est délivré au titre d'une mention disciplinaire, pluridisciplinaire ou liée à un champ
+particulier.
+
+Chaque mention est créée après avis de la commission professionnelle consultative des métiers du sport et de l'animation :
+
+- soit par un arrêté du ministre chargé des sports ;
+
+- soit par un arrêté des ministres chargés de la jeunesse et des sports ;
+
+- soit dans le cas de création commune d'une mention, par un arrêté des ministres intéressés.
+
+Ces arrêtés définissent le référentiel professionnel et le référentiel de certification. Ils peuvent fixer des mesures
+d'équivalence ou de dispense.
+
+**Nota:**
+
+Conformément au I de l'article 3 du décret n° 2019-144 du 26 février 2019, les dispositions de l'article D212-12 dans leur
+rédaction antérieure audit décret s'appliquent jusqu'au 31 décembre 2020 (les conditions d'application sont prévues aux II et
+III du même article 3).
 
 **Liens relatifs à cet article**
 
@@ -24473,21 +24498,29 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-144 du 26 février 2019 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. D212-18 (V)
+  - Code du sport. - art. D212-18 (VT)
 
 
 ###### Article D212-13
 
-L'encadrement contre rémunération d'une ou de plusieurs activités physiques et sportives est limité, conformément à l'article
-L. 212-1, aux activités physiques et sportives qui servent de support technique à l'option professionnelle et dont le diplôme
-porte mention. 
+Le référentiel de certification est composé de l'ensemble des unités constitutives du diplôme. Il fixe pour chaque unité les
+compétences professionnelles, les objectifs intermédiaires de premier rang et de second rang ainsi que les épreuves
+certificatives de ces objectifs. Une unité correspond à un bloc de compétences mentionné au I de l'article L. 6323-6 du code
+du travail.
 
-Les options professionnelles de ce diplôme qui garantissent les compétences correspondant aux fonctions d'animateur de centre
-de vacances et de loisirs ouvrent l'accès à ces fonctions selon la réglementation en vigueur.
+**Nota:**
+
+Conformément au I de l'article 3 du décret n° 2019-144 du 26 février 2019, les dispositions de l'article D212-13 dans leur
+rédaction antérieure audit décret s'appliquent jusqu'au 31 décembre 2020 (les conditions d'application sont prévues aux II et
+III du même article 3).
 
 **Liens relatifs à cet article**
 
@@ -24498,17 +24531,31 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-144 du 26 février 2019 - art. 1
 
 _Cite_:
 
-  - Code du sport. - art. L212-1 (V)
+  - Code du travail - art. L6323-6
 
 
 ###### Article D212-14
 
-Le brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports est délivré après une
-formation en alternance.
+Le certificat professionnel est obtenu par capitalisation de quatre unités définies par arrêté du ministre chargé de la
+jeunesse et des sports, dont :
+
+- une est transversale quelle que soit la mention ;
+
+- trois sont spécifiques à la mention.
+
+**Nota:**
+
+Conformément au I de l'article 3 du décret n° 2019-144 du 26 février 2019, les dispositions de l'article D212-14 dans leur
+rédaction antérieure audit décret s'appliquent jusqu'au 31 décembre 2020 (les conditions d'application sont prévues aux II et
+III du même article 3).
 
 **Liens relatifs à cet article**
 
@@ -24519,7 +24566,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+  - Décret n°2007-1133 du 24 juillet 2007
+
+_Modifié par_:
+
+  - Décret n°2019-144 du 26 février 2019 - art. 1
 
 _Cité par_:
 
@@ -24528,8 +24579,17 @@ _Cité par_:
 
 ###### Article D212-15
 
-Les candidats au brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports peuvent
-percevoir une rémunération dans les conditions prévues au titre Ier du livre Ier et au livre IX du code du travail.
+Les situations d'évaluation certificative, au nombre de deux, comportent :
+
+1° Pour la première, la production d'un document écrit personnel suivi d'un entretien ;
+
+2° Pour la seconde, une mise en situation professionnelle.
+
+**Nota:**
+
+Conformément au I de l'article 3 du décret n° 2019-144 du 26 février 2019, les dispositions de l'article D212-15 dans leur
+rédaction antérieure audit décret s'appliquent jusqu'au 31 décembre 2020 (les conditions d'application sont prévues aux II et
+III du même article 3).
 
 **Liens relatifs à cet article**
 
@@ -24540,140 +24600,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code du travail (V)
-
-
-###### Article D212-16
-
-Le brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports est délivré aux candidats
-âgés de plus de dix-huit ans ayant satisfait aux épreuves instituées par l'arrêté mentionné à l'article D. 212-19. Les
-épreuves sont organisées à l'issue d'une formation modulaire donnant lieu à validation des acquis à l'entrée et en cours de
-formation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 6 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
-  - Décret n°93-53 du 12 janvier 1993 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-144 du 26 février 2019 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. D212-19
-
-
-###### Article D212-17
-
-Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  désigne les jurys, les préside ou en
-délègue la présidence, et délivre les diplômes dans les conditions prévues par arrêté conformément à l'article D. 212-19.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 7 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
-  - Décret n°93-53 du 12 janvier 1993 - art. 7 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2019-144 du 26 février 2019 - art. 2
-
-_Cite_:
-
-  - Code du sport. - art. D212-19
-
-
-###### Article D212-18
-
-Les options professionnelles sont créées par arrêté du ministre chargé des sports, après consultation du Conseil
-d'orientation des politiques de jeunesse et après avis de la Commission professionnelle consultative des métiers du sport et
-de l'animation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 8 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
-  - Décret n°93-53 du 12 janvier 1993 - art. 8 (Ab)
-
-_Codifié par_:
-
   - Décret n°2007-1133 du 24 juillet 2007
 
 _Modifié par_:
 
-  - Décret n°2016-1377 du 12 octobre 2016 - art. 16 (V)
+  - Décret n°2019-144 du 26 février 2019 - art. 1
 
-_Abrogé par_:
+_Cite_:
 
-  - Décret n°2019-144 du 26 février 2019 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. D212-12 (VD)
-
-
-###### Article D212-19
-
-Le ministre chargé des sports fixe par arrêté les modalités d'application du présent paragraphe, et notamment :
-
-1° Les prérogatives et les conditions d'exercice professionnel relatives, s'il y a lieu, aux qualifications obtenues ;
-
-2° Les domaines et niveaux de compétences requis dans chaque option ;
-
-3° Les conditions d'agrément et d'organisation des formations ;
-
-4° Les modalités de validation des acquis ;
-
-5° Les modalités d'allégement de formation liées aux procédures de reconnaissance et de validation des acquis ;
-
-6° La composition du jury, la forme et les conditions de délivrance du diplôme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Art. 9 du décret n°93-53 du 12 janvier 1993 portant création du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports
-  - Décret n°93-53 du 12 janvier 1993 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-1133 du 24 juillet 2007
-
-_Abrogé par_:
-
-  - Décret n°2019-144 du 26 février 2019 - art. 2
-
-_Cité par_:
-
-  - Code du sport. - art. D212-16 (VT)
-  - Code du sport. - art. D212-17 (VT)
+  - Code du travail
 
 
 ##### Paragraphe 2 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport<a id=209></a>
