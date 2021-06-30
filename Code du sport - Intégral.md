@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Partie législative (art. L100-1 à L425-12)](#1)
     - [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES (art. L100-1 à L142-1)](#2)
@@ -11882,8 +11882,13 @@ _Créé par_:
 ###### Article L331-1
 
 Les fédérations délégataires édictent des règlements relatifs à l'organisation de toutes les manifestations dont elles ont la
-charge dans le respect notamment des règles définies en application de l'article L. 123-2 du code de la construction et de
+charge dans le respect notamment des règles définies en application de l'article L. 143-2 du code de la construction et de
 l'habitation.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -11900,7 +11905,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+  - Ordonnance n°2006-596 du 23 mai 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
